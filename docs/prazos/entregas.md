@@ -3,15 +3,15 @@
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
+|:----:|----|---------|:-----:|:-------:|
 |0.1|01/09/2023|Transcrição do cronograma do plano de curso|[Lucas Victor](https://github.com/Lucas13032003)|[Zenilda Vieira](https://github.com/zenildavieira)|
-|0.1|01/09/2023|Realocação das datas das colunas Data e Entrega que estavam misturadas|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Victor](https://github.com/Lucas13032003)|
+|0.1|06/09/2023|Realocação das datas das colunas Data e Entrega que estavam misturadas|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Victor](https://github.com/Lucas13032003)|
 
 
 
 
 |    | Data  | Entrega | Conteúdo |
-| -- | ----- | ------- | -------- |
+|:--:| ----- | ------- | -------- |
 | 1  | 29/08 | 03/09   | Apresentação da Disciplina. Conteúdo, Normas, Calendário, Avaliações. Definição dos grupos. |
 |    |       |         | SWEBook - Introdução aos Fundamentos da Interação Humano-Computador e Design de Interação. |
 |    |       | 02/10   | Entrega da apresentação do projeto etapa 1: Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto (com data de inicio e fim de cada atividade, responsáveis e período de gravação da apresentação). |

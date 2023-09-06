@@ -1,0 +1,33 @@
+repo_url: https://github.com/Interacao-Humano-Computador/2023.2-Grupo01
+repo_name: 2023.1-Grupo01
+
+site_name: Nota Legal
+nav:
+  - Home: index.md
+  - Atas:
+    - Reunião 1: atas/Reunião 1 - 31.08.2023.md
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - primary: green
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo claro
+
+  language: pt-BR

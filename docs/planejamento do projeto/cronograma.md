@@ -27,5 +27,5 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 ## Histórico de Versão
 | Versão  | Data       | Descrição                         | Autor(es)                                                                                    | Revisor(es)                                      |
 | ------- | ---------- | --------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`   | 06/09/2023 | Criação do cronograma.            | [Zenilda Vieira](https://github.com/manuziny) e [Gabriel Rosa](https://github.com/g16c) | [Gabriel Zaranza](https://github.com/mathonaut) |
+| `1.0`   | 06/09/2023 | Criação do cronograma.            | [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |
 

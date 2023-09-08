@@ -21,7 +21,9 @@ Neste trabalho, optamos por adotar o Ciclo de Vida de Mayhew como nosso modelo d
 
 O Ciclo de Vida Simples, como o próprio nome ja diz, é um modelo de processo fundamentalmente direcionado à simplicidade. No entanto, mesmo em sua abordagem simplificada, ele não subestima a importância do design centrado no usuário, promovendo avaliações da proposta de solução por meio de versões interativas e enfatizando a iteração entre as atividades do processo de design de IHC.
 
-[imagem]
+![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodevidasimples.png)
+
+**Imagem 1:** Ciclo de Vida Simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
 Este modelo possui vantagens, como a sua simplicidade tanto na compreensão quanto na implementação, tornando-o adequado para projetos de pequena escala e para designers experientes. Porém, suas desvantagens incluem o fato de que essa simplicidade pode ser uma limitação em projetos complexos, pois não oferece uma estrutura robusta para avaliação e reavaliação entre as etapas, além de apresentar um baixo nível de detalhamento.
 
@@ -32,7 +34,7 @@ O processo de design baseado em cenários abrange diversas etapas, incluindo a a
 
 ![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/designbaseadoemcenarios.png)
 
-**Imagem 1:** Atividades do Desig Baseado em Cenários (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+**Imagem 2:** Atividades do Desig Baseado em Cenários (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
 ### Ciclo de vida de Mayhew
 Deborah Mayhew (1999) propôs um ciclo de vida para a engenharia de usabilidade, que é um processo de design holístico para criar soluções interativas de alta qualidade. O ciclo de vida é composto por três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação.
@@ -45,7 +47,7 @@ Na fase de instalação, feedback dos usuários após o uso é coletado para mel
 
 ![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodemayhew.png)
 
-**Imagem 2:** Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+**Imagem 3:** Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
 
 ## Modelo escolhido

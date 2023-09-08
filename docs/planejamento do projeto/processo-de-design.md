@@ -8,7 +8,7 @@ Após compreendermos o que é design, torna-se relevante explorar as técnicas q
 - Ciclo de Vida Simples;
 - Design Conceitual;
 - Design Baseado em Cenários;
-- Design Centrado na Comunicação
+- Design Centrado na Comunicação;
 - Ciclo de Vida em Estrela;
 - Engenharia de Usabilidade de Nielsen;
 - Engenharia de Usabilidade de Mayhew.
@@ -16,6 +16,15 @@ Após compreendermos o que é design, torna-se relevante explorar as técnicas q
 Neste trabalho, optamos por adotar o Ciclo de Vida de Mayhew como nosso modelo de design preferencial para um projeto de Interação Humano-Computador (IHC). Nas seções seguintes, exploraremos as razões fundamentais que motivaram essa escolha, detalhando como esse ciclo abrange de forma abrangente todas as fases do projeto e por que consideramos isso essencial para alcançar nossos objetivos.
 
 ## Modelos
+
+### Ciclo de Vida Simples
+
+O Ciclo de Vida Simples, como o próprio nome ja diz, é um modelo de processo fundamentalmente direcionado à simplicidade. No entanto, mesmo em sua abordagem simplificada, ele não subestima a importância do design centrado no usuário, promovendo avaliações da proposta de solução por meio de versões interativas e enfatizando a iteração entre as atividades do processo de design de IHC.
+
+[imagem]
+
+Este modelo possui vantagens, como a sua simplicidade tanto na compreensão quanto na implementação, tornando-o adequado para projetos de pequena escala e para designers experientes. Porém, suas desvantagens incluem o fato de que essa simplicidade pode ser uma limitação em projetos complexos, pois não oferece uma estrutura robusta para avaliação e reavaliação entre as etapas, além de apresentar um baixo nível de detalhamento.
+
 ### Design baseado em cenários
 O design baseado em cenários é um abordagem essencial no campo da Interação Humano-Computador (IHC) que utiliza narrativas detalhadas, conhecidas como cenários, para orientar todo o processo de design. Esses cenários, escritos em linguagem natural, descrevem as atividades dos usuários, ajudando a equipe de design a compreender como a tecnologia atual afeta essas atividades e como o sistema em desenvolvimento poderia fazê-lo de forma mais eficaz. Uma característica fundamental desse método é a sua natureza iterativa, permitindo revisões à medida que o projeto avança.
 
@@ -54,3 +63,4 @@ Considerando que nossa equipe é composta por iniciantes na área de IHC, o Cicl
 |0.2|06/09/2023|Adição dos tópicos do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |0.3|07/09/2023|Adição dos modelos Design Baseado em Cenários e Ciclo de vida de Mayhew, adição do tópico Modelo Escolhido|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza) [Lucas Ribeiro](https://github.com/lucassouzs)|
 |0.4|08/09/2023|Adição da Introdução do Processo de Design|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|0.5|08/09/2023|Adição do Ciclo de Vida Simples|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|

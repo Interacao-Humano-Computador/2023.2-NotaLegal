@@ -1,6 +1,20 @@
 # Processo de design 
 ## Introdução
 
+Para compreender integralmente o processo de design e sua importância, é fundamental começar definindo esse conceito. O design é uma disciplina caracterizada por uma abordagem sistemática que abrange a análise, a síntese e a avaliação de situações. Isso envolve a análise minuciosa e interpretação de uma situação atual, a síntese que compreende o planejamento e a execução de uma intervenção nessa situação atual e, por fim, a avaliação que verifica os efeitos da intervenção. Através dessa avaliação, é possível comparar a situação anteriormente analisada com a nova situação, alcançada após a intervenção. Esta definição básica captura a essência do design, uma disciplina que permeia muitos aspectos da nossa vida cotidiana e que desempenha um papel crítico na busca por soluções eficazes e inovadoras para uma variedade de desafios.
+
+Após compreendermos o que é design, torna-se relevante explorar as técnicas que auxiliam na estruturação do processo criativo, fornecendo diretrizes claras e etapas a serem seguidas. Essas técnicas possibilitam a melhoria contínua e desempenham um papel fundamental na orientação e estruturação desse processo. Neste contexto, destacamos algumas das principais técnicas de processo de design que serão objeto de nossa investigação, e abordaremos cada uma delas em detalhes nas seções subsequentes:
+
+- Ciclo de Vida Simples;
+- Design Conceitual;
+- Design Baseado em Cenários;
+- Design Centrado na Comunicação
+- Ciclo de Vida em Estrela;
+- Engenharia de Usabilidade de Nielsen;
+- Engenharia de Usabilidade de Mayhew.
+
+Neste trabalho, optamos por adotar o Ciclo de Vida de Mayhew como nosso modelo de design preferencial para um projeto de Interação Humano-Computador (IHC). Nas seções seguintes, exploraremos as razões fundamentais que motivaram essa escolha, detalhando como esse ciclo abrange de forma abrangente todas as fases do projeto e por que consideramos isso essencial para alcançar nossos objetivos.
+
 ## Modelos
 ### Design baseado em cenários
 O design baseado em cenários é um abordagem essencial no campo da Interação Humano-Computador (IHC) que utiliza narrativas detalhadas, conhecidas como cenários, para orientar todo o processo de design. Esses cenários, escritos em linguagem natural, descrevem as atividades dos usuários, ajudando a equipe de design a compreender como a tecnologia atual afeta essas atividades e como o sistema em desenvolvimento poderia fazê-lo de forma mais eficaz. Uma característica fundamental desse método é a sua natureza iterativa, permitindo revisões à medida que o projeto avança.
@@ -38,4 +52,5 @@ Considerando que nossa equipe é composta por iniciantes na área de IHC, o Cicl
 |:----:|----|---------|-----|:-------:|
 |0.1|06/09/2023|Criação do documento|[Lucas Ribeiro](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
 |0.2|06/09/2023|Adição dos tópicos do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
-|0.3|07/09/2023|Adição dos modelos Design Baseado em Cenários e Ciclo de vida de Mayhew, adição do tópico Modelo Escolhido|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza) e [Lucas Ribeiro](https://github.com/lucassouzs)|
+|0.3|07/09/2023|Adição dos modelos Design Baseado em Cenários e Ciclo de vida de Mayhew, adição do tópico Modelo Escolhido|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza) [Lucas Ribeiro](https://github.com/lucassouzs)|
+|0.4|08/09/2023|Adição da Introdução do Processo de Design|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|

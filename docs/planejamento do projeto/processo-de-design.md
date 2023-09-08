@@ -6,7 +6,7 @@ Para compreender integralmente o processo de design e sua importância, é funda
 Após compreendermos o que é design, torna-se relevante explorar as técnicas que auxiliam na estruturação do processo criativo, fornecendo diretrizes claras e etapas a serem seguidas. Essas técnicas possibilitam a melhoria contínua e desempenham um papel fundamental na orientação e estruturação desse processo. Neste contexto, destacamos algumas das principais técnicas de processo de design que serão objeto de nossa investigação, e abordaremos cada uma delas em detalhes nas seções subsequentes:
 
 - Ciclo de Vida Simples;
-- Design Conceitual;
+- Design Contextual;
 - Design Baseado em Cenários;
 - Design Centrado na Comunicação;
 - Ciclo de Vida em Estrela;
@@ -26,6 +26,24 @@ O Ciclo de Vida Simples, como o próprio nome ja diz, é um modelo de processo f
 **Imagem 1:** Ciclo de Vida Simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
 Este modelo possui vantagens, como a sua simplicidade tanto na compreensão quanto na implementação, tornando-o adequado para projetos de pequena escala e para designers experientes. Porém, suas desvantagens incluem o fato de que essa simplicidade pode ser uma limitação em projetos complexos, pois não oferece uma estrutura robusta para avaliação e reavaliação entre as etapas, além de apresentar um baixo nível de detalhamento.
+
+### Design Contextual
+
+O Design Contextual é um modelo processo de design que orienta o designer a compreender profundamente as necessidades dos usuários através de uma investigação minuciosa do contexto de uso. A compreensão minuciosa do que acontece em um determinado ambiente, é crucial para que o designer possa criar uma solução apropriada em Interação Humano-Computador (IHC). O design contextual envolve um conjunto de sete etapas fundamentais:
+
+- Investigação contextual: Onde o designer busca conhecer quem são os usuários, suas necessidades, seus objetivos e a forma como ele trabalha no seu dia a dia.
+  
+- Modelagem do trabalho: No design contextual, são empregados cinco tipos de modelos de trabalho, cada um focando em um aspecto específico do trabalho. Esses modelos incluem o modelo de fluxo, o modelo de sequência, o modelo de artefato, o modelo de cultura e o modelo físico, onde cada um desses modelos pode abranger conceitos detalhados e complexos, fornecendo uma visão abrangente do ambiente de trabalho e das interações do usuário.
+  
+- Consolidação: Onde a consolidação possibilita organizar e atribuir significado ao trabalho desempenhado por cada papel, perfil ou classe de usuário investigado. 
+  
+- Reprojeto do trabalho: Onde, para reprojetar a forma como os usuários trabalham, o designer utiliza storyboards para explorar ideias sobre como melhorar a prática de trabalho com o suporte oferecido pela tecnologia, projetando uma solução de interação e de interface que apoie essa nova forma de trabalhar.
+  
+- Projeto do ambiente do usuário: Desenvolvimento da interface gráfica ou interativa, levando em consideração os resultados das etapas anteriores e as necessidades do usuário.
+  
+- Prototipação: Onde protótipos em diferentes níveis de detalhes devem ser utilizados para visualizar e avaliar propostas de solução junto aos usuários;
+  
+- Teste com usuários: Valiação da solução por meio de testes práticos com usuários reais, visando identificar problemas e realizar melhorias finais.
 
 ### Design baseado em cenários
 O design baseado em cenários é um abordagem essencial no campo da Interação Humano-Computador (IHC) que utiliza narrativas detalhadas, conhecidas como cenários, para orientar todo o processo de design. Esses cenários, escritos em linguagem natural, descrevem as atividades dos usuários, ajudando a equipe de design a compreender como a tecnologia atual afeta essas atividades e como o sistema em desenvolvimento poderia fazê-lo de forma mais eficaz. Uma característica fundamental desse método é a sua natureza iterativa, permitindo revisões à medida que o projeto avança.
@@ -49,20 +67,24 @@ Na fase de instalação, feedback dos usuários após o uso é coletado para mel
 
 **Imagem 3:** Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
-
 ## Modelo escolhido
+
 Optamos pelo Ciclo de Mayhew como nosso modelo de design por diversas razões fundamentais. Em primeiro lugar, esse ciclo aborda de forma abrangente todas as fases de um projeto de Interação Humano-Computador (IHC), o que significa que nossa equipe pode garantir que a usabilidade e a experiência do usuário sejam consideradas em todos os estágios do processo. Isso é essencial para criar um produto final de alta qualidade.
 
 Além disso, o Ciclo de Mayhew é conhecido por ser iterativo e flexível. Isso nos dá a liberdade de revisar e aprimorar continuamente nosso projeto à medida que ele se desenvolve, permitindo que façamos ajustes com base em novos insights e descobertas ao longo do caminho.
 
 Considerando que nossa equipe é composta por iniciantes na área de IHC, o Ciclo de Mayhew oferece a vantagem de fornecer uma quantidade adequada de detalhes em cada etapa do processo. Isso é particularmente valioso para nós, pois nos auxilia na compreensão e na implementação das melhores práticas de design de IHC, garantindo que nosso projeto seja bem fundamentado e atenda às necessidades dos usuários de maneira eficaz.
+
 ## Referências bibliográficas
-- [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 ## Histórico de versões
+
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |0.1|06/09/2023|Criação do documento|[Lucas Ribeiro](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
 |0.2|06/09/2023|Adição dos tópicos do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |0.3|07/09/2023|Adição dos modelos Design Baseado em Cenários e Ciclo de vida de Mayhew, adição do tópico Modelo Escolhido|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza) [Lucas Ribeiro](https://github.com/lucassouzs)|
-|0.4|08/09/2023|Adição da Introdução do Processo de Design|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|0.4|08/09/2023|Adição da Introdução|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
 |0.5|08/09/2023|Adição do Ciclo de Vida Simples|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|0.6|08/09/2023|Adição do Design Contextual|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|

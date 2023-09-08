@@ -6,6 +6,7 @@ nav:
   - Home: index.md
   - Atas:
     - Reunião 1: atas/Reunião 1 - 31.08.2023.md
+    - Reunião 2: atas/Reunião 2 - 05.09.2023.md
 
 theme:
   name: material

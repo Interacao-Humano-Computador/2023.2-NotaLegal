@@ -22,7 +22,7 @@ O site da [Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br) serve
 - **Flexibilidade e Eficiência de Uso:** O site carece de flexibilidade e eficiência de uso, tornando desafiador para os usuários realizar suas tarefas rapidamente devido à profusão de botões e menus. Há uma multiplicidade de menus distintos distribuídos pelo site, todos com cores idênticas, o que intensifica a complexidade da usabilidade, especialmente para os usuários menos experientes.
 
 ### Calibre - E-book Management
-Um dos aplicativos cogitados pela equipe foi o [Calibre - E-book Management](https://calibre-ebook.com), uma ferramenta de gerenciamento de e-books que permite aos usuários organizar, converter e gerenciar sua coleção de livros digitais. A integrante do grupo responsável pela avaliação deste aplicativo foi o [Gabriel Rosa](https://github.com/gabrielrosa09), e os motivos pelos quais este foi um dos sites cogitados são:
+Um dos aplicativos cogitados pela equipe foi o [Calibre - E-book Management](https://calibre-ebook.com), uma ferramenta de gerenciamento de e-books que permite aos usuários organizar, converter e gerenciar sua coleção de livros digitais. O integrante do grupo responsável pela avaliação deste site foi o [Gabriel Rosa](https://github.com/gabrielrosa09), e os motivos pelos quais este foi um dos sites cogitados são:
 
 - **Estética e design minimalista**: A interface do Calibre não é muito minimalista e pode parecer um pouco desordenada para alguns usuários. Uma abordagem de design mais simplificada poderia melhorar a estética.
 

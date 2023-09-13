@@ -53,9 +53,9 @@
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 13/09/2023 |            Criação da página de ferramentas.            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-|  `1.2`  | 13/09/2023 |   Adição da tabela de ferramentas.   |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-| `1.3` | 13/09/2023 | Criação das Referências bibliográficas. |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-|  `1.4`  | 13/09/2023 |     Adição do Histórico de versões.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |       
+|  `1.0`  | 13/09/2023 |            Criação da página de ferramentas.            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor](https://github.com/Lucas13032003)
+|  `1.2`  | 13/09/2023 |   Adição da tabela de ferramentas.   |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor](https://github.com/Lucas13032003)
+| `1.3` | 13/09/2023 | Criação das Referências bibliográficas. |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor](https://github.com/Lucas13032003)
+|  `1.4`  | 13/09/2023 |     Adição do Histórico de versões.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |  [Lucas Víctor](https://github.com/Lucas13032003)     
 
 </center>

@@ -35,4 +35,4 @@ Portanto, a escolha do site "Nota Legal" como projeto é motivada pelo seu públ
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- `1.0` | 22/04/2023 | Criação do documento | [Lucas Víctor](https://github.com/Lucas13032003)| ...|
+ `1.0` | 13/09/2023 | Criação do documento | [Lucas Víctor](https://github.com/Lucas13032003)| ...|

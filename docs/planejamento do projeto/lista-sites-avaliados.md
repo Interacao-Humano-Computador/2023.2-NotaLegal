@@ -6,10 +6,8 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 | :---------------------------: | :---------------------------------: |
 | [Calibre - E-book Management](https://calibre-ebook.com)        |[Gabriel Rosa](https://github.com/gabrielrosa09) |
 |[Alistamento Militar](https://alistamento.eb.mil.br/)            |[Lucas Ribeiro](https://github.com/lucassouzs)|
-|                    |                                     |
-|                             |                                   |
 |[Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br)                             |[Izabella Alves](https://github.com/izabellaalves)                               |
-|                             |                                   |
+|                [Nota Legal](https://www.notalegal.df.gov.br/)         | [Lucas Víctor](https://github.com/Lucas13032003)                                    |
 |                             |                                   |
 |                             |                                   |
 
@@ -45,6 +43,23 @@ Um dos aplicativos cogitados pela equipe foi o [Calibre - E-book Management](htt
 
 - **Flexibilidade e eficiência de uso**: O Calibre oferece muitos recursos avançados para usuários experientes, mas pode ser complicado para iniciantes. Melhorias na experiência do usuário, como assistentes de configuração, poderiam tornar o software mais acessível.
 
+## Nota Legal
+
+[Nota Legal DF](https://www.notalegal.df.gov.br/) é um site que recompensa as pessoas por pagarem impostos e emitirem notas fiscais, oferecendo também a chance de ganhar prêmios. No entanto, apresenta alguns problemas relacionados à sua interface, tais como:
+
+- A usabilidade do site é confusa, dificultando a navegação dos usuários.
+
+- O desempenho do site frequentemente exibe erros, o que pode ser frustrante e causar insatisfação.
+
+- O design carece de interatividade.
+
+- A acessibilidade é um problema, uma vez que o site não oferece métodos intuitivos para torná-lo mais inclusivo para pessoas com deficiência.
+
+- Existem problemas técnicos, como bugs e erros técnicos, como links quebrados ou funções que não funcionam corretamente.
+
+Diante desses desafios, eu, [Lucas Víctor](https://github.com/Lucas13032003), decidi escolher este site governamental com o objetivo de identificar e solucionar problemas em sua interface. Tendo como propósito melhorar a experiência do usuário, tornando o site mais intuitivo e funcional.
+
+
 ## Histórico de versões
 
 |Versão|Data|Descrição|Autor|Revisor|
@@ -53,3 +68,4 @@ Um dos aplicativos cogitados pela equipe foi o [Calibre - E-book Management](htt
 |`0.2`|07/09/2023|Adicionando introdução e avaliação do PCDF|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`0.3`|10/09/2023|Adicionando introdução e avaliação do Calibre|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |`0.4`|13/09/2023|Adicionando introdução e avaliação do Alistamento Militar|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Victor](https://github.com/Lucas13032003)|
+|`0.6`|13/09/2023 | Adicionando introdução e avaliação do Nota Legal|  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |

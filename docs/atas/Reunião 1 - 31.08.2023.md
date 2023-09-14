@@ -37,7 +37,7 @@ Foi acordado que as reuniões serão em formato de sprints, com abertura nas qui
 
 ## Link da Gravação
 
-[Requisitos - Renião 1](https://youtu.be/UXNNalX0UEM)
+[IHC - Reunião 1](https://youtu.be/UXNNalX0UEM)
 
 ## Histórico de Versão
 

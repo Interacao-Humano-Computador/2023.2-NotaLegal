@@ -4,13 +4,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* Gabriel da Silva Rosa          
-* Gabriel Pessoa Zaranza         
-* Izabella Alves Pereira
-* Lucas De Oliveira Dias Marques Ferreira     
-* Lucas Ribeiro de Souza         
-* Lucas Victor Ferreira de Araújo
-* Zenilda Pedrosa Vieira         
+* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)        
+* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
+* [Izabella Alves Pereira](https://github.com/izabellaalves)
+* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
+* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)         
+* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
+* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)       
   
 ## Início e término
 
@@ -29,13 +29,13 @@ Reunião realizada no Microsoft Teams.
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Documento planejamento e cronograma detalhado das atividades do projeto|Gabriel da Silva Rosa e Zenilda Pedrosa Vieira                  |
-|Documento Processo de Design |Gabriel Pessoa Zaranza, Izabella Alves Pereira e Lucas Ribeiro de Souza               |
-|Documento equipe e heatmap de disponibilidade dos integrantes|Izabella Alves Pereira                  |
-|Documento ferramentas do projeto|Lucas De Oliveira Dias Marques Ferreira |
+|Documento planejamento e cronograma detalhado das atividades do projeto|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09) e [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                 |
+|Documento Processo de Design |[Gabriel Pessoa Zaranza](https://github.com/GZaranza), [Izabella Alves Pereira](https://github.com/izabellaalves) e [Lucas Ribeiro de Souza](https://github.com/lucassouzs)                  |
+|Documento equipe e heatmap de disponibilidade dos integrantes|[Izabella Alves Pereira](https://github.com/izabellaalves)                  |
+|Documento ferramentas do projeto|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
 |Documento lista de site avalidados|Todos                 |
-|Documento site escolhido|Lucas Victor Ferreira de Araújo         |
-|Planejamento e cronograma detalhado das atividades do projeto|Zenilda Pedrosa Vieira                  |
+|Documento site escolhido|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)         |
+|Planejamento e cronograma detalhado das atividades do projeto|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                  |
 
 
 *Tabela 1 - Atividades a serem desenvolvidas.*
@@ -47,5 +47,5 @@ Nesta reunião foi definido que o site selecionado para o projeto será o NotaLe
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|0.1|06/09/2023|Criação do docuemtno|Gabriel Zaranza|Todos|
+|:----:|----|---------|:-----:|:-------:|
+|`0.1`|06/09/2023|Criação do documento|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|Todos|

@@ -3,7 +3,7 @@
 Na fase inicial do projeto, os estudantes foram convidados a selecionar individualmente websites governamentais ou de código aberto. Essa escolha tinha como propósito apresentar sugestões para o website que seria analisado em conjunto pelo grupo durante a disciplina Interação Humano-Computador. A Tabela 1 fornece detalhes sobre os websites avaliados por cada membro da equipe.
 
 | Site avaliado               | Membro que fez a avaliação        |
-| --------------------------- | --------------------------------- |
+| :---------------------------: | :---------------------------------: |
 | [Calibre - E-book Management](https://calibre-ebook.com)        |[Gabriel Rosa](https://github.com/gabrielrosa09) |
 |[Alistamento Militar](https://alistamento.eb.mil.br/)            |[Lucas Ribeiro](https://github.com/lucassouzs)|
 |                    |                                     |

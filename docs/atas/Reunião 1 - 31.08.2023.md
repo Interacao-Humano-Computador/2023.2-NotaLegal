@@ -4,12 +4,12 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* Gabriel da Silva Rosa          
-* Gabriel Pessoa Zaranza         
-* Izabella Alves Pereira         
-* Lucas Ribeiro de Souza         
-* Lucas Victor Ferreira de Araújo
-* Zenilda Pedrosa Vieira         
+* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)        
+* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
+* [Izabella Alves Pereira](https://github.com/izabellaalves)
+* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)         
+* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
+* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)          
   
 ## Início e término
 
@@ -43,5 +43,5 @@ Foi acordado que as reuniões serão em formato de sprints, com abertura nas qui
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`0.1`|31/08/2023|Criação da ata de reunião	|[Lucas Ribeiro](https://github.com/lucassouzs)|Todos|
-|`0.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`0.1`|31/08/2023|Criação da ata de reunião	|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|Todos|
+|`0.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

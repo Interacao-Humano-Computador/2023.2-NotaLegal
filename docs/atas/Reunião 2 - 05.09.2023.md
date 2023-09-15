@@ -43,9 +43,13 @@ Reunião realizada no Microsoft Teams.
 ## Conclusão
 Nesta reunião foi definido que o site selecionado para o projeto será o NotaLegal e foram distribuidas as atividades da Entrega 1 do projeto que deverão ser entregues dia 15/09/2023. Nesse mesmo dia será gravado o vídeo da primeira apresentação do projeto.
 
+## Link da Gravação
+
+[IHC - Reunião 2](https://youtu.be/82IBXCtW7Bg)
 
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
 |`0.1`|06/09/2023|Criação do documento|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|Todos|
+|`0.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

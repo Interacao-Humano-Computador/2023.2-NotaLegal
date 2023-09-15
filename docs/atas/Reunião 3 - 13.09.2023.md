@@ -42,8 +42,13 @@ Reunião realizada no Microsoft Teams.
 
 Todos os artefatos estão sendo construídos e foram validados pelo grupo na reunião de hoje. Os artefatos devem ser entregues até a próxima quarta-feira (20/09/2023), para que sejam revisados novamente antes da gravação.
 
+## Link da Gravação
+
+[IHC - Reunião 3](https://youtu.be/Apt_5SeyBb8)
+
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
+|:----:|----|---------|:-----:|:-------:|
 |`0.1`|13/09/2023|Criação do documento|[Izabella Alves Pereira](https://github.com/izabellaalves)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
+|`0.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

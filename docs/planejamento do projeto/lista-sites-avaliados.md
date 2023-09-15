@@ -8,7 +8,7 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 |[Alistamento Militar](https://alistamento.eb.mil.br/)            |[Lucas Ribeiro](https://github.com/lucassouzs)|
 |[Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br)                             |[Izabella Alves](https://github.com/izabellaalves)                               |
 |                [Nota Legal](https://www.notalegal.df.gov.br/)         | [Lucas Víctor](https://github.com/Lucas13032003)                                    |
-|                             |                                   |
+| [Correios](https://www.correios.com.br/)| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                                  |
 |                             |                                   |
 
 **Tabela 1:** Tabela de sites avaliados (Fonte: [Izabella Alves](https://github.com/izabellaalves))
@@ -60,6 +60,18 @@ Um dos aplicativos cogitados pela equipe foi o [Calibre - E-book Management](htt
 Diante desses desafios, eu, [Lucas Víctor](https://github.com/Lucas13032003), decidi escolher este site governamental com o objetivo de identificar e solucionar problemas em sua interface. Tendo como propósito melhorar a experiência do usuário, tornando o site mais intuitivo e funcional.
 
 
+## Correios
+
+ O site [Correios](https://www.correios.com.br/) foi um dos sites analisados pelo membro da equipe [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira). Os Correios é a empresa pública responsável pelo transporte postal, expresso, de cargas e serviços de logística no país. Abaixo estão alguns dos motivos que levaram em consideração a escolha desse site:
+
+ - **Erros e suporte**: Uma das dificuldades que os usuários enfrentam ao acessar o site é são as falhas, que podem gerar frustração e descontentamento;
+   
+ - **Documentação**: O site dos Correios tem diversas funcionalidade e para facilitar o uso dos recursos avançados, o site não oferece uma documentação online detalhada. Além disso, os Correios conta com uma comunidade ativa de usuários que podem fornecer suporte técnico, sugestões de melhoria e feedback. No entanto, a documentação integrada no aplicativo poderia ser mais fácil de acessar e navegar, bem como cobrir mais aspectos do funcionamentos;
+   
+ - **Estética e design minimalista** Alguns podem achar que a sua interface é muito carregada de elementos e informações, o que pode prejudicar a experiência de uso. Uma possível solução seria adotar uma estética e um design minimalista, que priorizam o essencial e eliminam o desnecessário. Isso poderia tornar o site mais agradável aos olhos e mais fácil de navegar, sem comprometer as suas funcionalidades.
+
+
+
 ## Histórico de versões
 
 |Versão|Data|Descrição|Autor|Revisor|
@@ -69,3 +81,4 @@ Diante desses desafios, eu, [Lucas Víctor](https://github.com/Lucas13032003), d
 |`0.3`|10/09/2023|Adicionando introdução e avaliação do Calibre|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |`0.4`|13/09/2023|Adicionando introdução e avaliação do Alistamento Militar|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Victor](https://github.com/Lucas13032003)|
 |`0.5`|13/09/2023 | Adicionando introdução e avaliação do Nota Legal|  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
+|`0.6`|15/09/2023 | Adicionando introdução e avaliação do Correios|  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09) |

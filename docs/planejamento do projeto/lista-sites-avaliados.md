@@ -2,14 +2,15 @@
 ## Introdução
 Na fase inicial do projeto, os estudantes foram convidados a selecionar individualmente websites governamentais ou de código aberto. Essa escolha tinha como propósito apresentar sugestões para o website que seria analisado em conjunto pelo grupo durante a disciplina Interação Humano-Computador. A Tabela 1 fornece detalhes sobre os websites avaliados por cada membro da equipe.
 
-| Site avaliado               | Membro que fez a avaliação        |
-| :---------------------------: | :---------------------------------: |
-| [Calibre - E-book Management](https://calibre-ebook.com)        |[Gabriel Rosa](https://github.com/gabrielrosa09) |
-|[Alistamento Militar](https://alistamento.eb.mil.br/)            |[Lucas Ribeiro](https://github.com/lucassouzs)|
-|[Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br)                             |[Izabella Alves](https://github.com/izabellaalves)                               |
-|                [Nota Legal](https://www.notalegal.df.gov.br/)         | [Lucas Víctor](https://github.com/Lucas13032003)                                    |
-| [Correios](https://www.correios.com.br/)| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                                  |
-|                             |                                   |
+| Site avaliado                                                   | Membro que fez a avaliação                            |
+| :-------------------------------------------------------------: | :---------------------------------------------------: |
+| [Calibre - E-book Management](https://calibre-ebook.com)        |[Gabriel Rosa](https://github.com/gabrielrosa09)       |
+| [Alistamento Militar](https://alistamento.eb.mil.br/)           |[Lucas Ribeiro](https://github.com/lucassouzs)         |
+| [Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br) |[Izabella Alves](https://github.com/izabellaalves)     |
+| [Nota Legal](https://www.notalegal.df.gov.br/)                  | [Lucas Víctor](https://github.com/Lucas13032003)      |
+| [Correios](https://www.correios.com.br/)     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| | |
+| [Ministério Público do Distrito Federal](https://www.mpdft.mp.br/portal/) | [Zenilda Vieira](https://github.com/ZenildaVieira) |
 
 **Tabela 1:** Tabela de sites avaliados (Fonte: [Izabella Alves](https://github.com/izabellaalves))
 
@@ -70,7 +71,17 @@ Diante desses desafios, eu, [Lucas Víctor](https://github.com/Lucas13032003), d
    
  - **Estética e design minimalista** Alguns podem achar que a sua interface é muito carregada de elementos e informações, o que pode prejudicar a experiência de uso. Uma possível solução seria adotar uma estética e um design minimalista, que priorizam o essencial e eliminam o desnecessário. Isso poderia tornar o site mais agradável aos olhos e mais fácil de navegar, sem comprometer as suas funcionalidades.
 
+## MPDFT - Ministério Público do Distrito federal
 
+O site do [Ministério Público do Distrito Federal](https://www.mpdft.mp.br/portal/) foi o site avaliado pela integrante do grupo [Zenilda Vieira](https://github.com/ZenildaVieira). Esse site traz informações sobre o trabalho desse importante órgão público de acordo com a Lei de Acesso à Informação e também conta com um atendimento ao cidadão através de sua ouvidoria. É possível também obter informações sobre promotores e procuradores, publicações e relatórios e obter acesso a documentos como leis, regulamentos e decisões judiciais. Há também alguns serviços online.
+
+Esse site foi escolhido para ser avaliado pelas seguintes razões, tomando por base algumas das heurísticas de usabilidade de Nielsen (1994):
+
+ - **Compatibilidade do sistema com o mundo real**: o site traz muitos termos e siglas desconhecidos de usuários menos experientes.
+ - **Reconhecimento, em vez de memorização**: o site não traz um caminho facilitado pra o usuário buscar a informação que precisa. Assim é necessário uma extensa busca pra encontrar a informação.
+ - **Flexibilidade e eficiência de uso**: usuários menos experientes podem ter dificuldade para encontrar o que precisam. O site não tem uma navegabilidade clara. Os links apresentam todos o mesmo estilo, com mesmas cores e formatos, o que dificulta também a memorização.
+ - **Estética e design minimalista**: o design do site é simples, sem  muitas cores, um pouco "sem graça". Uma grande quantidade de links na página principal confundem o usuário. Além dessa grande quantidade, os links não apresentam nenhuma explicação que possa orientar o usuário sobre o que cada um significa e qual informação ele vai obter ao clicar em um deles.
+ - **Ajuda e documentação**: não há um link de ajuda ou de documentação para orientar usuário.
 
 ## Histórico de versões
 
@@ -82,3 +93,4 @@ Diante desses desafios, eu, [Lucas Víctor](https://github.com/Lucas13032003), d
 |`0.4`|13/09/2023|Adicionando introdução e avaliação do Alistamento Militar|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Victor](https://github.com/Lucas13032003)|
 |`0.5`|13/09/2023 | Adicionando introdução e avaliação do Nota Legal|  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
 |`0.6`|15/09/2023 | Adicionando introdução e avaliação do Correios|  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09) |
+|`0.7`|16/09/2023 | Adicionando introdução e avaliação do MPDFT|  [Zenilda Vieira](https://github.com/ZenildaVieira)  | [Gabriel Zaranza](https://github.com/GZaranza) |

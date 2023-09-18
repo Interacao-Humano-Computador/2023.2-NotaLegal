@@ -55,6 +55,14 @@ O processo de design baseado em cenários abrange diversas etapas, incluindo a a
 **Imagem 2:** Atividades do Desig Baseado em Cenários (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
 ### Ciclo de Vida em Estrela
+O Ciclo de Vida em Estrela, desenvolvido por Hix e Hartson na década de 1990, é um modelo amplamente adotado no campo da Interação Humano-Computador (IHC). Esse processo consiste em seis atividades interligadas, incluindo análise de tarefas, usuários e funções para compreender a situação atual e identificar oportunidades de melhoria. A especificação de requisitos de IHC define os problemas a serem abordados na solução de IHC. A etapa de síntese abrange projeto conceitual, prototipação e implementação da solução. A avaliação é central no modelo e ocorre em todas as etapas para garantir que os dados coletados e os requisitos atendam às necessidades dos usuários, detectando problemas de usabilidade.
+
+![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/cicloDeVidaEstrela.png)
+
+**Imagem 3:** Atividades do Ciclo de Vida em Estrela (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+
+
+O Ciclo de Vida em Estrela permite flexibilidade ao designer para escolher a ordem das atividades, dependendo das circunstâncias. Por exemplo, pode-se começar com a análise ou a implementação, dependendo do projeto. O modelo é iterativo, com a avaliação contínua dos resultados após cada atividade, garantindo uma solução satisfatória. Essencialmente, todas as atividades do Ciclo de Vida em Estrela estão conectadas pela avaliação, tornando a revisão constante uma parte integral do processo de design de IHC.
 
 ### Design Centrado na Comunicação
 
@@ -71,7 +79,7 @@ Na fase de instalação, feedback dos usuários após o uso é coletado para mel
 
 ![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodemayhew.png)
 
-**Imagem 3:** Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+**Imagem 4:** Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
 ## Modelo escolhido
 
@@ -94,3 +102,4 @@ Considerando que nossa equipe é composta por iniciantes na área de IHC, o Cicl
 |0.4|08/09/2023|Adição da Introdução|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
 |0.5|08/09/2023|Adição do Ciclo de Vida Simples|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
 |0.6|08/09/2023|Adição do Design Contextual|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|0.7|18/09/2023|Adição do Ciclo de vida em Estrela|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|

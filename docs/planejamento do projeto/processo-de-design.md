@@ -54,6 +54,12 @@ O processo de design baseado em cenários abrange diversas etapas, incluindo a a
 
 **Imagem 2:** Atividades do Desig Baseado em Cenários (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
+### Ciclo de Vida em Estrela
+
+### Design Centrado na Comunicação
+
+### Engenharia de Usabilidade de Nielsen
+
 ### Ciclo de vida de Mayhew
 Deborah Mayhew (1999) propôs um ciclo de vida para a engenharia de usabilidade, que é um processo de design holístico para criar soluções interativas de alta qualidade. O ciclo de vida é composto por três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação.
 

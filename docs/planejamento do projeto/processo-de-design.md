@@ -66,7 +66,38 @@ O Ciclo de Vida em Estrela permite flexibilidade ao designer para escolher a ord
 
 ### Design Centrado na Comunicação
 
+O design centrado na comunicação, baseado na engenharia semiótica, é uma abordagem que considera a interação humano-computador como um processo de comunicação entre o usuário e o designer, por meio da interface do sistema. A interface revela a "metacomunicação" do designer, ou seja, suas intenções de design e princípios interativos. A meta é criar sistemas interativos altamente comunicativos, permitindo que os usuários compreendam e usem o sistema de forma eficaz e produtiva.
+
+O processo orienta os designers a se posicionarem como interlocutores na conversa entre usuário e sistema. Para alcançar isso, a equipe de design deve compartilhar e manter uma visão de design consistente desde o início do projeto até a implementação e testes. Isso evita interpretações equivocadas e contribui para uma compreensão compartilhada.
+
+Ele divide o design em três atividades: análise do usuário, domínio e contexto de uso; projeto de interação e interface; e avaliação do que foi projetado. Cada uma dessas etapas é guiada pelas dúvidas típicas dos usuários, e a solução de IHC é projetada para minimizar as dúvidas e comunicar informações necessárias de maneira eficaz. O processo é altamente interativo, envolvendo análise, síntese e avaliação em ciclos contínuos até que uma solução satisfatória seja alcançada. Os métodos de inspeção semiótica e avaliação de comunicabilidade são usados para verificar se a metacomunicação foi transmitida adequadamente.
+
+
 ### Engenharia de Usabilidade de Nielsen
+Jakob Nielsen, em 1993, definiu a Engenharia de Usabilidade como um conjunto de atividades que devem ser realizadas ao longo de todo o ciclo de vida do produto, enfatizando que muitas delas ocorrem nos estágios iniciais do projeto, antes mesmo que a interface do usuário seja projetada. Ele propôs o seguinte conjunto de atividades em seu ciclo de vida de usabilidade:
+
+- Conheça seu usuário: Compreender quem serão os usuários do sistema e quais tarefas eles precisam realizar é o primeiro passo. Isso envolve a criação de personas e a análise de cenários de uso.
+
+- Análise Competitiva: Examinar produtos com funcionalidades semelhantes ou complementares para identificar o que funciona e o que não funciona no domínio do projeto.
+
+- Defina Metas de Usabilidade: Estabelecer metas claras para a usabilidade do sistema, como tempos de conclusão de tarefas, taxas de erro aceitáveis e satisfação do usuário.
+
+- Designs Paralelos: Elaborar diferentes alternativas de design, geralmente por três ou quatro designers, para explorar diferentes abordagens e soluções para o problema.
+
+- Design Participativo: Envolver ativamente os usuários representativos ao longo do projeto para obter feedback, levantar questões e garantir que as decisões de design estejam alinhadas com as necessidades dos usuários.
+
+- Design Coordenado da Interface: Garantir consistência em toda a interface do usuário, documentação e sistemas de ajuda, evitando inconsistências na interface final.
+
+- Aplicação de Diretrizes e Análise Heurística: Utilizar diretrizes de usabilidade e realizar avaliações heurísticas para verificar se a interface segue princípios de design de usabilidade.
+
+- Prototipagem: Criar protótipos de sistemas que permitem avaliações rápidas e modificações com baixo custo.
+
+- Testes Empíricos: Realizar testes com usuários reais para observar como eles interagem com os protótipos, identificar problemas de usabilidade e coletar feedback qualitativo.
+
+- Design Iterativo: Com base nos resultados dos testes, fazer melhorias no design da interface, repetindo o processo até que as metas de usabilidade sejam alcançadas.
+
+Nielsen enfatiza a importância de conhecer os usuários e suas tarefas, bem como de manter uma abordagem iterativa ao longo do ciclo de vida do projeto. Ele também destaca a necessidade de registrar as decisões de design para referência futura e coletar dados de uso após a introdução do produto para planejar futuras versões. Esse ciclo de vida da usabilidade ajuda a garantir que a usabilidade seja uma consideração central desde o início do processo de design até a entrega do produto final.
+
 
 ### Ciclo de vida de Mayhew
 Deborah Mayhew (1999) propôs um ciclo de vida para a engenharia de usabilidade, que é um processo de design holístico para criar soluções interativas de alta qualidade. O ciclo de vida é composto por três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação.
@@ -103,3 +134,4 @@ Considerando que nossa equipe é composta por iniciantes na área de IHC, o Cicl
 |0.5|08/09/2023|Adição do Ciclo de Vida Simples|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
 |0.6|08/09/2023|Adição do Design Contextual|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
 |0.7|18/09/2023|Adição do Ciclo de vida em Estrela|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|
+|0.8|18/09/2023|Adição do Design Centrado na Comunicação e Engenharia de Usabilidade de Nielsen|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|

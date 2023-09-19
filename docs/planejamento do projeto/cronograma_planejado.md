@@ -17,7 +17,18 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 | 8     | Relato dos resultados | Relato dos resultados da avaliação do protótipo de alta fidelidade | 27/11 | 28/11 |
 | 9     | Apresentação do projeto final | Apresentação do projeto final | - | 06/12 |
 
-## Entrega 1 -  Planejamento do Projeto
+## Entrega 1 - Planejamento do Projeto
+
+|Atividade|Período de desenvolvimento|Responsáveis|Revisão|Revisor(es)|
+|:----:|----|---------|-----|:-------:|
+| - | Início: <br/> Fim: | - | - | - |
+| - | Início: <br/> Fim: | - | - | - |
+| - | Início: <br/> Fim: | - | - | - |
+| - | Início: <br/> Fim: | - | - | - |
+| - | Início: <br/> Fim: | - | - | - |
+| - | Início: <br/> Fim: | - | - | - |
+| - | Início: <br/> Fim: | - | - | - |
+| - | Início: <br/> Fim: | - | - | - |
 
 
 ## Referências Bibliográficas

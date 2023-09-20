@@ -39,7 +39,7 @@ Com base nos critérios anteriores, a escolha do site "Nota Legal" para o projet
 
 Portanto, a escolha do site "Nota Legal" como projeto é motivada pelo seu público amplo e acessível, pela oportunidade de melhorar a usabilidade da interface, pela integração interdisciplinar entre disciplinas e pela complexidade adequada do site, que oferece uma base sólida para um projeto significativo e desafiador.
 
-##Termo de Uso:
+## Termo de Uso:
 
 
 ## Bibliografia

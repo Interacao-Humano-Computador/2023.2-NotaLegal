@@ -1,10 +1,9 @@
-# Reunião 2 - 05.09.2023
+# Reunião 4 - 20.09.2023
 
 Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)        
 * [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
 * [Izabella Alves Pereira](https://github.com/izabellaalves)
 * [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
@@ -60,4 +59,4 @@ A adiconar
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`0.1`|06/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |
+|`0.1`|21/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |

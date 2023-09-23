@@ -8,7 +8,6 @@ Reunião realizada no Microsoft Teams.
 * [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
 * [Izabella Alves Pereira](https://github.com/izabellaalves)
 * [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)         
 * [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
 * [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)       
   
@@ -26,7 +25,7 @@ Reunião realizada no Microsoft Teams.
 * Definir a data de apresentação de IHC.
 
 ## Apresentação de IHC
-A apresentação de IHC será na quarta-feira dia 27/09/2023.
+A gravação da apresentação de IHC - Entrega 01 - será na quarta-feira dia 27/09/2023.
 
 ## Perfil do Usuário
 Será realizado dois questionários separados para IHC e RQS. Cada um deverá trazer 10 respostas no mínimo até Segunda (25/09). O roteiro de respostas deverá ser realizado pelo [Gabriel Pessoa Zaranza](https://github.com/GZaranza).

@@ -17,7 +17,7 @@ Reunião realizada no Microsoft Teams.
 |	           | Hora de Início | Hora de Término |
 |--------------|:--------------:|:---------------:|
 |Previsto:     |    20:00       |      21:30      |
-|Realizado:    |     20:15      |             |
+|Realizado:    |     20:15      |        22:00     |
 
 ## Pauta
 

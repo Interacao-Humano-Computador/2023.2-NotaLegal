@@ -1,7 +1,7 @@
 # Personas
 
 ## Introdução
-Personas são representações fictícias e generalizadas clientes ideais. Elas são um personagem representativo do público-alvo da empresa.  Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que sejam específicas para torná-las ferramentas de design e comunicação eficientes.<a id="TEC1" href="#QT1">^1^</a>
+Personas são representações fictícias e generalizadas clientes ideais. Elas são um personagem representativo do público-alvo da empresa.  Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que sejam específicas para torná-las ferramentas de design e comunicação eficientes.<a id="TEC1" href="#QT1"></a>
 
 
 
@@ -63,7 +63,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 2. **Nome: Laura**
 
-- Idade: 8 anos
+- Idade: 12 anos
 - Sexo: Feminino
 - Escolaridade: Ensino Fundamental (séries iniciais)
 - Afinidade com tecnologia: Baixa
@@ -82,5 +82,6 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 25/09/2023 | Criação da página.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | `1.1`  | 25/09/2023 | Criação das personas.                     | [Lucas Víctor ](https://github.com/Lucas13032003) |
+| `1.2`  | 25/09/2023 | Adição da Introdução e metodologia.                     | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 
 

@@ -50,6 +50,27 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - Frequência: Utiliza computador e celular regularmente
 - Objetivo: Pedro é um engenheiro civil aposentado que adora viajar e explorar novos lugares. Ele gosta de pesquisar e planejar suas viagens com cuidado, sempre procurando as melhores opções e ofertas. O Nota Legal é uma ferramenta que ele usa para obter recomendações de hotéis, restaurantes e atrações turísticas de alta qualidade de outros viajantes experientes.
 
+### Anti-Persona (Criança):
+
+1. **Nome: João**
+
+- Idade: 25 anos
+- Sexo: Masculino
+- Escolaridade: Ensino Médio Incompleto
+- Afinidade com tecnologia: Baixa
+- Frequência: Utiliza computador e celular esporadicamente
+- Objetivo: João é um jovem que não tem interesse em tecnologia ou redes sociais. Ele prefere métodos tradicionais de comunicação e não gosta de receber recomendações online. João raramente utiliza a internet para fins pessoais e não se sente confortável com aplicativos ou serviços online. Ele não se encaixa no perfil de usuário do Nota Legal, pois não tem interesse em compartilhar ou receber recomendações online.
+
+2. **Nome: Laura**
+
+- Idade: 8 anos
+- Sexo: Feminino
+- Escolaridade: Ensino Fundamental (séries iniciais)
+- Afinidade com tecnologia: Baixa
+- Frequência: Raramente utiliza computador e celular
+- Objetivo: Laura é uma criança que está nos primeiros anos da escola e tem limitado acesso e interesse em tecnologia. Ela usa dispositivos eletrônicos principalmente para jogar jogos simples e assistir desenhos animados. Laura não possui maturidade ou habilidades online para utilizar plataformas ou aplicativos destinados a adultos e não está em busca de produtos ou serviços específicos. Portanto, não é o público-alvo do Nota Legal, pois sua presença online é limitada e supervisionada pelos pais.
+
+
 
 ## Bibliografia
 
@@ -57,5 +78,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 25/09/2023 | Criação da página.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
- 
+| `1.0`  | 25/09/2023 | Criação da página.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| `1.1`  | 25/09/2023 | Criação das personas.                     | [Lucas Víctor ](https://github.com/Lucas13032003) |
+
+

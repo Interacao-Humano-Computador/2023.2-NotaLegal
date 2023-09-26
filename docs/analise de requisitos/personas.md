@@ -14,6 +14,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 <br/>
 1. 
 <br/>
+<br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
   
 **Nome: Maria**
@@ -27,6 +28,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 <br/>
 2.
+<br/>
 <br/>
  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/luis.jpeg?raw=true" width="150px">
  
@@ -45,6 +47,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 <br/>
 1. 
 <br/>
+<br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/camila.jpeg?raw=true" width="150px">
   
 **Nome: Camila**
@@ -58,6 +61,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 <br/>
 2.
+<br/>
 <br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/pedro.jpeg?raw=true" width="150px">
  
@@ -74,6 +78,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 1. 
 <br/>
+<br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/joao.jpeg?raw=true" width="150px">
   
 **Nome: João**
@@ -87,6 +92,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 <br/>
 2. 
+<br/>
 <br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/laura.jpeg?raw=true" width="150px">
   

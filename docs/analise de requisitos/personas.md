@@ -8,3 +8,13 @@ Personas são representações fictícias e generalizadas clientes ideais. Elas 
 ## Metodologia
 
 ## Personas
+
+
+## Bibliografia
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
+| ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| `1.0`  | 25/09/2023 | Criação da página.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
+ 

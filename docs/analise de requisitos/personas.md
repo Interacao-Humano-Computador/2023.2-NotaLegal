@@ -12,9 +12,11 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ### Persona Primária:
 <br/>
+1. 
+<br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
   
-1. **Nome: Maria**
+**Nome: Maria**
 
 - Idade: 50 anos
 - Sexo: Feminino
@@ -24,10 +26,11 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - Objetivo: Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
 
 <br/>
-
+2.
+<br/>
  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/luis.jpeg?raw=true" width="150px">
  
-2. **Nome: Luiz**
+ **Nome: Luiz**
 
 - Idade: 53 anos
 - Sexo: Masculino
@@ -40,9 +43,11 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ### Persona Secundária:
 <br/>
+1. 
+<br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/camila.jpeg?raw=true" width="150px">
   
-1. **Nome: Camila**
+**Nome: Camila**
 
 - Idade: 49 anos
 - Sexo: Feminino
@@ -52,9 +57,11 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - Objetivo: Camila é uma médica que está sempre em busca das últimas pesquisas e descobertas na área médica. Ela utiliza a tecnologia para se manter atualizada e compartilhar informações relevantes com seus colegas e pacientes. O Nota Legal é uma ferramenta valiosa para ela, pois permite que recomende serviços de saúde de alta qualidade e novos tratamentos para seus pacientes e amigos.
 
 <br/>
+2.
+<br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/pedro.jpeg?raw=true" width="150px">
-  
-2. **Nome: Pedro**
+ 
+ **Nome: Pedro**
 
 - Idade: 57 anos
 - Sexo: Masculino
@@ -64,10 +71,12 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - Objetivo: Pedro é um engenheiro civil aposentado que adora viajar e explorar novos lugares. Ele gosta de pesquisar e planejar suas viagens com cuidado, sempre procurando as melhores opções e ofertas. O Nota Legal é uma ferramenta que ele usa para obter recomendações de hotéis, restaurantes e atrações turísticas de alta qualidade de outros viajantes experientes.
 
 ### Anti-Persona (Criança):
-****
+
+1. 
+<br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/joao.jpeg?raw=true" width="150px">
   
-1. **Nome: João**
+**Nome: João**
 
 - Idade: 25 anos
 - Sexo: Masculino
@@ -77,10 +86,11 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - Objetivo: João é um jovem que não tem interesse em tecnologia ou redes sociais. Ele prefere métodos tradicionais de comunicação e não gosta de receber recomendações online. João raramente utiliza a internet para fins pessoais e não se sente confortável com aplicativos ou serviços online. Ele não se encaixa no perfil de usuário do Nota Legal, pois não tem interesse em compartilhar ou receber recomendações online.
 
 <br/>
-
+2. 
+<br/>
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/laura.jpeg?raw=true" width="150px">
   
-2. **Nome: Laura**
+**Nome: Laura**
 
 - Idade: 12 anos
 - Sexo: Feminino

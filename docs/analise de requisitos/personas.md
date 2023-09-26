@@ -6,7 +6,7 @@ Personas são representações fictícias e generalizadas clientes ideais. Elas 
 
 
 ## Metodologia
-A criação de personas é um processo que envolve pesquisa, análise de dados e empatia para entender profundamente o público-alvo. A metodologia utilizada para a criação de personas nesse projeto foi a coleta de dados dos usuarios através de um questionario, ondei foi realizada algumas perguntas ao usuario como idade, sexo, renda, escolaridade 
+A criação de personas é um processo que envolve pesquisa, análise de dados e empatia para entender profundamente o público-alvo. A metodologia utilizada para a criação de personas nesse projeto foi a coleta de dados dos usuarios através de um questionario, onde foi realizada algumas perguntas ao usuario como idade, sexo, renda, escolaridade. A seguir foi feita a análise dos dados coletados, com isso foi feita as estruturações das personas e o compartilhamento das personas com a equipe, após um concenso ficou definido a criação de 2 personas primárias, 2 personas secundarias e 2 anti-personas.
 
 ## Personas
 

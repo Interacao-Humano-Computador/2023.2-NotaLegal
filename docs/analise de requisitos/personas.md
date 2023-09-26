@@ -72,7 +72,9 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 
 
-## Bibliografia
+## Referências Bibliograficas
+> <a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 
 ## Histórico de Versões
 

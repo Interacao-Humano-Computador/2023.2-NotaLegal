@@ -5,11 +5,11 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 | Site avaliado                                                   | Membro que fez a avaliação                            |
 | :-------------------------------------------------------------: | :---------------------------------------------------: |
 | [Calibre - E-book Management](https://calibre-ebook.com)        |[Gabriel Rosa](https://github.com/gabrielrosa09)       |
-| [Alistamento Militar](https://alistamento.eb.mil.br/)           |[Lucas Ribeiro](https://github.com/lucassouzs)         |
+|[Pandas](https://pandas.pydata.org/)| [Gabriel Zaranza](https://github.com/GZaranza)|
 | [Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br) |[Izabella Alves](https://github.com/izabellaalves)     |
-| [Nota Legal](https://www.notalegal.df.gov.br/)                  | [Lucas Víctor](https://github.com/Lucas13032003)      |
 | [Correios](https://www.correios.com.br/)     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-| | |
+| [Alistamento Militar](https://alistamento.eb.mil.br/)           |[Lucas Ribeiro](https://github.com/lucassouzs)         |
+| [Nota Legal](https://www.notalegal.df.gov.br/)                  | [Lucas Víctor](https://github.com/Lucas13032003)      |
 | [Ministério Público do Distrito Federal](https://www.mpdft.mp.br/portal/) | [Zenilda Vieira](https://github.com/ZenildaVieira) |
 
 **Tabela 1:** Tabela de sites avaliados (Fonte: [Izabella Alves](https://github.com/izabellaalves))
@@ -43,6 +43,15 @@ Um dos aplicativos cogitados pela equipe foi o [Calibre - E-book Management](htt
 - **Ajuda e documentação**: O Calibre oferece uma extensa documentação online, tutoriais e uma comunidade ativa de usuários que podem ajudar a resolver problemas. No entanto, a documentação integrada no aplicativo poderia ser mais acessível e abrangente.
 
 - **Flexibilidade e eficiência de uso**: O Calibre oferece muitos recursos avançados para usuários experientes, mas pode ser complicado para iniciantes. Melhorias na experiência do usuário, como assistentes de configuração, poderiam tornar o software mais acessível.
+
+## Pandas
+
+A biblioteca [Pandas](https://pandas.pydata.org/) é uma poderosa ferramenta de código aberto em Python amplamente utilizada para análise de dados e manipulação de estruturas de dados tabulares. Ela fornece estruturas de dados de alto desempenho, como DataFrames e Series, que permitem aos usuários realizar tarefas essenciais de processamento de dados, como carregar, limpar, transformar, analisar e visualizar dados de forma eficiente. Alguns problemas identificados no site da biblioteca:
+
+- Falta de acessibilidade, o site não oferece nenhuma funcionalidade de acessibilidade a usuários portadores de deficiência;
+- Poluição visual na página pricipal, dificultando a identificação de informações
+-  Falta de padrão entre as páginas do site;
+-  Algumas páginas não funcionam.
 
 ## Nota Legal
 
@@ -87,10 +96,11 @@ Esse site foi escolhido para ser avaliado pelas seguintes razões, tomando por b
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`0.1`|06/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
-|`0.2`|07/09/2023|Adicionando introdução e avaliação do PCDF|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
-|`0.3`|10/09/2023|Adicionando introdução e avaliação do Calibre|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
-|`0.4`|13/09/2023|Adicionando introdução e avaliação do Alistamento Militar|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Victor](https://github.com/Lucas13032003)|
-|`0.5`|13/09/2023 | Adicionando introdução e avaliação do Nota Legal|  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
-|`0.6`|15/09/2023 | Adicionando introdução e avaliação do Correios|  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09) |
-|`0.7`|16/09/2023 | Adicionando introdução e avaliação do MPDFT|  [Zenilda Vieira](https://github.com/ZenildaVieira)  | [Gabriel Zaranza](https://github.com/GZaranza) |
+|`1.0`|06/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.1`|07/09/2023|Adicionando introdução e avaliação do PCDF|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.2`|10/09/2023|Adicionando introdução e avaliação do Calibre|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1,3`|13/09/2023|Adicionando introdução e avaliação do Alistamento Militar|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Victor](https://github.com/Lucas13032003)|
+|`1.4`|13/09/2023 | Adicionando introdução e avaliação do Nota Legal|  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
+|`1.5`|15/09/2023 | Adicionando introdução e avaliação do Correios|  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09) |
+|`1.6`|16/09/2023 | Adicionando introdução e avaliação do MPDFT|  [Zenilda Vieira](https://github.com/ZenildaVieira)  | [Gabriel Zaranza](https://github.com/GZaranza) |
+`1.7`|27/09/2023 | Adicionando introdução e avaliação do Pandas|  [Gabriel Zaranza](https://github.com/GZaranza)   |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

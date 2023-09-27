@@ -1,4 +1,15 @@
-# Nota Legal
+# 2023.2 Nota Legal
+
+<div align="center">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/nota-legal-df-2.png?raw=true" width="300px">
+</div>
+<div align="right">
+</div>
+
+Figura 1 - Logo do Nota Legal
+  
+
+
 ## Sobre o projeto
 Esta página foi criada com o propósito de documentar todos os artefatos produzidos pelo Grupo 01 no contexto da disciplina de Interação Humano-Computador (IHC) na Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o segundo semestre de 2023.
 
@@ -22,3 +33,4 @@ Nosso projeto se concentra na avaliação da experiência de interação humana-
 |:----:|----|---------|-----|:-------:|
 |0.1|06/09/2023|Criação da gitpage|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |0.2|07/09/2023|Adicionando tópico sobre o projeto e tabela de membros da equipe|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|0.3|20/09/2023|Adição da logo|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|

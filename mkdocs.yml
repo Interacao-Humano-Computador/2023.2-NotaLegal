@@ -7,6 +7,20 @@ nav:
   - Atas:
     - Reunião 1: atas/Reunião 1 - 31.08.2023.md
     - Reunião 2: atas/Reunião 2 - 05.09.2023.md
+    - Reunião 3: atas/Reunião 3 - 13.09.2023.md
+    - Reunião 4: atas/Reunião 4 - 20.09.2023.md
+    - Reunião 5: atas/Reunião 5 - 22.09.2023.md
+  - Planejamento do Projeto:
+    - Heatmap de disponibilidade: planejamento do projeto/heatmap-disponibilidade.md
+    - Sites avaliados: planejamento do projeto/lista-sites-avaliados.md
+    - Site escolhido: planejamento do projeto/site-escolhido.md
+    - Ferramentas: planejamento do projeto/ferramentas.md
+    - Processo de Design: planejamento do projeto/processo-de-design.md
+    - Cronograma planejado: planejamento do projeto/cronograma_planejado.md
+    - Cronograma executado: planejamento do projeto/cronograma_executado.md
+  - Análise de Requisitos:
+    - Personas: analise de requisitos/personas.md
+    - Aspectos éticos: analise de requisitos/aspectos-eticos.md
 
 theme:
   name: material

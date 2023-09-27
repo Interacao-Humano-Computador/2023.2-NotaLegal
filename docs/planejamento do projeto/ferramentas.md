@@ -1,29 +1,23 @@
-# Ferramentas Utilizadas no Projeto
+# Ferramentas Utilizadas 
 
-## <a>Introdução</a>
-
-<center>Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a criação e edição deste trabalho, seja para a existência ou apresentação das tarefas realizadas pela equipe. Essas ferramentas incluem softwares e plataformas que facilitam o desenvolvimento e a comunicação do projeto. Também descrevemos brevemente como cada ferramenta contribui para os objetivos e resultados esperados neste trabalho.</center>
-<br></br>
-
-
-*Tabela 1 - Ferramentas Utilizadas*
-<center>
+## Introdução
+Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a criação e edição deste trabalho, seja para a existência ou apresentação das tarefas realizadas pela equipe. Essas ferramentas incluem softwares e plataformas que facilitam o desenvolvimento e a comunicação do projeto. Também descrevemos brevemente como cada ferramenta contribui para os objetivos e resultados esperados neste trabalho.
 
 |                                               Ferramentas                                               |                                                     Descrição                                                     |
 | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-|        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/github_logo.png" width="100" height="100"></img>        | **GitHub**: Utilizado para trabalhar com o projeto da disciplina. |
-|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/canva-logo.png" width="100" height="100"></img>        |                            **Canva**: Ferramenta utilizada para montar apresentações.                             |
-|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Google_Docs_logo.png" width="100" height="100"></img>       |   **GoogleDocs**:  Criação e edição de tabelas sobre disponibilidade dos membros do grupo    |
-|      <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/microsoft-visio_logo.jpg" width="100" height="100"></img>       |        **MicrosoftVisio**: Produção do Rich Picture.         |
-|        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/google_planilhas_Logo.jpg" width="100" height="100"></img>         |                          **Google Planilhas**:  Criação de planilhas relacionadas ao cronograma e horários.                           |     
-|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/figma-logo.png" width="100" height="100"></img>        |                      **Figma**: Ferramenta para trabalhar com protótipos de alta fidelidade.                       |
-|  <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Microsoft_Teams-logo.png" width="100" height="100"></img>   |        **Microsoft Teams**: Local de trabalho, usado principalmente para as reuniões da equipe.         |
-|      <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Whatsapp-logo.webp" width="100" height="100"></img>      |                           **Whatsapp**: Ferramenta principal de comunicação da equipe.                            |
-|      <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/YouTube-logo.png" width="100" height="100"></img>       |       **YouTube**: Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.       |
-| <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Vscode-logo.png" width="100" height="100"></img> |             **Visual Studio Code**: Ferramenta de programação e edição dos arquivos de documentação.              |
-|     <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/mkdocs-log03.png" width="100" height="100"></img>      |              **MkDocs**:   Criação e edição do GitPages do projeto.               |
+|        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/github_logo.png?raw=true" width="100" height="100"></img>        | **GitHub**: Utilizado para trabalhar com o projeto da disciplina. |
+|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/canva-logo.png?raw=true" width="100" height="100"></img>        |                            **Canva**: Ferramenta utilizada para montar apresentações.                             |
+|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/googledocs_logo.png?raw=true" width="100" height="100"></img>       |   **GoogleDocs**:  Criação e edição de tabelas sobre disponibilidade dos membros do grupo    |
+|      <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/microsoft-visio_logo.jpg?raw=true" width="100" height="100"></img>       |        **MicrosoftVisio**: Produção do Rich Picture.         |
+|        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/google_planilhas_Logo.jpg?raw=true" width="100" height="100"></img>         |                          **Google Planilhas**:  Criação de planilhas relacionadas ao cronograma e horários.                           |     
+|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/figma-logo.png?raw=true" width="100" height="100"></img>        |                      **Figma**: Ferramenta para trabalhar com protótipos de alta fidelidade.                       |
+|  <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Microsoft_Teams-logo.png?raw=true" width="100" height="100"></img>   |        **Microsoft Teams**: Local de trabalho, usado principalmente para as reuniões da equipe.         |
+|      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-ConecteSUS/main/docs/imagens/Whatsapp-logo.webp" width="100" height="100"></img>      |                           **Whatsapp**: Ferramenta principal de comunicação da equipe.                            |
+|      <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/YouTube-logo.png?raw=true" width="100" height="100"></img>       |       **YouTube**: Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.       |
+| <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Vscode-logo.png?raw=true" width="100" height="100"></img> |             **Visual Studio Code**: Ferramenta de programação e edição dos arquivos de documentação.              |
+|     <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/mkdocs-log03.png?raw=true" width="100" height="100"></img>      |              **MkDocs**:   Criação e edição do GitPages do projeto.               |
 
-
+*Tabela 1 - Ferramentas Utilizadas*
 ## Referências Bibliograficas
 
 > <a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 12 de set. de 2023.
@@ -49,13 +43,16 @@
 > <a id="FRM11" href="#anchor_11">11.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acesso em: 13 de set. de 2023.
 >
 
+
+
+
 ## Histórico de Versões
 
-| Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
-| :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 13/09/2023 |            Criação da página de ferramentas.            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor](https://github.com/Lucas13032003)
-|  `1.2`  | 13/09/2023 |   Adição da tabela de ferramentas.   |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor](https://github.com/Lucas13032003)
-| `1.3` | 13/09/2023 | Criação das Referências bibliográficas. |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor](https://github.com/Lucas13032003)
-|  `1.4`  | 13/09/2023 |     Adição do Histórico de versões.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |  [Lucas Víctor](https://github.com/Lucas13032003)     
+| Versão  |    Data    |          Descrição                      |                    Autor(es)                                             |                  Revisor(es)                       |
+| :-----: | :--------: | :-------------------------------------: | :----------------------------------------------------------------------: | :------------------------------------------------: |
+|  `1.0`  | 13/09/2023 |   Criação da página de ferramentas.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Zenilda Vieira](https://github.com/zenildavieira) |
+|  `1.1`  | 13/09/2023 |   Adição da tabela de ferramentas.      | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/izabellaalves) |
+|  `1.2`  | 13/09/2023 | Criação das Referências bibliográficas. | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+|  `1.3`  | 13/09/2023 |     Adição do Histórico de versões.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
 
 </center>

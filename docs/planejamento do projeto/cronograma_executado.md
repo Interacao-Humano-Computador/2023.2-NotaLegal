@@ -10,18 +10,18 @@ Este documento representa o registro detalhado e cronológico das ações e tare
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
 | Procurar e trazer um site para a próxima reunião com justificativas | Início: 30/ago <br> Fim: 02/set | Todos | Início: 03/set <br> Fim: 04/set | Todos |
-| Planejamento do Projeto | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Documentar a Equipe | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Incluir o heatmap de disponibilidade dos integrantes no repositório | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Incluir a lista de sites selecionados pelos integrantes do grupo com suas justificativas | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Documentar o site escolhido para a disciplina | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Incluir o Termo de Uso do site permitindo o estudo na disciplina no repositório | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Selecionar as ferramentas do projeto | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Escolher o processo de Design do projeto (apresentando justificativa da escolha) | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Definir um cronograma detalhado das atividades do projeto | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Implementar a gitpage | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
+| Planejamento do Projeto | Início: 06/set <br> Fim: 27/set | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) e [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)| Início: 20/set <br> Fim: 21/set | [Gabriel Pessoa Zaranza](https://github.com/GZaranza) |
+| Documentar a Equipe | Início: 06/set <br> Fim: 20/set | [Izabella Alves Pereira](https://github.com/izabellaalves) | Início: 20/set <br> Fim: 21/set | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) |
+| Incluir o heatmap de disponibilidade dos integrantes no repositório | Início: 06/set <br> Fim: -/set | - | Início: 20/set <br> Fim: 21/set | - |
+| Incluir a lista de sites selecionados pelos integrantes do grupo com suas justificativas | Início: 06/set <br> Fim: 16/set | Todos | Início: 20/set <br> Fim: 21/set |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
+| Documentar o site escolhido para a disciplina | Início: 06/set <br> Fim: 20/set |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) | Início: 20/set <br> Fim: 21/set | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| Incluir o Termo de Uso do site permitindo o estudo na disciplina no repositório | Início: 06/set <br> Fim: -/set | - | Início: 20/set <br> Fim: 21/set | - |
+| Selecionar as ferramentas do projeto | Início: 06/set <br> Fim: 13/set | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) | Início: 20/set <br> Fim: 21/set | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) |
+| Escolher o processo de Design do projeto (apresentando justificativa da escolha) | Início: 06/set <br> Fim: 18/set | [Izabella Alves Pereira](https://github.com/izabellaalves) <br> [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br> [Gabriel Pessoa Zaranza](https://github.com/GZaranza) | Início: 20/set <br> Fim: 21/set |[Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+| Definir um cronograma detalhado das atividades do projeto | Início: 06/set <br> Fim: 27/set | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) e [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | Início: 20/set <br> Fim: 21/set | [Gabriel Pessoa Zaranza](https://github.com/GZaranza)|
+| Implementar a gitpage | Início: 06/set <br> Fim: 19/set | [Izabella Alves Pereira](https://github.com/izabellaalves) | Início: 20/set <br> Fim: 21/set | [Lucas Ribeiro de Souza](https://github.com/lucassouzs)   |
 | Gravação 1 | 27/set | Todos | 28/set | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-| Atualização do cronograma executado para Entrega 1 | 27/set | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) | 27/set | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+| Atualização do cronograma executado para Entrega 1 | Início: 06/set <br> Fim: 27/set | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) | 27/set | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
 | Correção após a Entrega 1 | Início: 04/out <br> Fim: 07/out | Todos | Início: 08/out <br> Fim: 09/out | [Izabella Alves Pereira](https://github.com/izabellaalves) |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>

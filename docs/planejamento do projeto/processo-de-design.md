@@ -21,7 +21,7 @@ Neste trabalho, optamos por adotar o Ciclo de Vida de Mayhew como nosso modelo d
 
 O Ciclo de Vida Simples, como o próprio nome ja diz, é um modelo de processo fundamentalmente direcionado à simplicidade. No entanto, mesmo em sua abordagem simplificada, ele não subestima a importância do design centrado no usuário, promovendo avaliações da proposta de solução por meio de versões interativas e enfatizando a iteração entre as atividades do processo de design de IHC.
 
-![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodevidasimples.png)
+![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodevidasimples.png?raw=true)
 
 **Imagem 1:** Ciclo de Vida Simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
@@ -50,14 +50,14 @@ O design baseado em cenários é um abordagem essencial no campo da Interação 
 
 O processo de design baseado em cenários abrange diversas etapas, incluindo a análise do problema, o design da solução de IHC, a prototipagem e a avaliação. Na análise do problema, a equipe de design colabora com as partes interessadas para entender a situação atual e, com base nesse entendimento, cria cenários que abordam aspectos críticos dos usuários, suas tarefas e o contexto de uso. No design, são elaborados cenários de atividade, de informação e de interação, fornecendo uma estrutura para desenvolver soluções. Esses cenários também guiam a avaliação contínua, garantindo que a solução atenda às necessidades dos usuários.
 
-![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/designbaseadoemcenarios.png)
+![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/designbaseadoemcenarios.png?raw=true)
 
 **Imagem 2:** Atividades do Desig Baseado em Cenários (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
 ### Ciclo de Vida em Estrela
 O Ciclo de Vida em Estrela, desenvolvido por Hix e Hartson na década de 1990, é um modelo amplamente adotado no campo da Interação Humano-Computador (IHC). Esse processo consiste em seis atividades interligadas, incluindo análise de tarefas, usuários e funções para compreender a situação atual e identificar oportunidades de melhoria. A especificação de requisitos de IHC define os problemas a serem abordados na solução de IHC. A etapa de síntese abrange projeto conceitual, prototipação e implementação da solução. A avaliação é central no modelo e ocorre em todas as etapas para garantir que os dados coletados e os requisitos atendam às necessidades dos usuários, detectando problemas de usabilidade.
 
-![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/cicloDeVidaEstrela.png)
+![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/cicloDeVidaEstrela.png?raw=true)
 
 **Imagem 3:** Atividades do Ciclo de Vida em Estrela (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
@@ -108,7 +108,7 @@ A fase de design, avaliação e desenvolvimento concentra-se em criar uma soluç
 
 Na fase de instalação, feedback dos usuários após o uso é coletado para melhorar o sistema em versões futuras ou considerar o desenvolvimento de novos sistemas interativos. Esse ciclo de vida visa garantir que a usabilidade seja uma prioridade ao longo de todo o processo de desenvolvimento de um sistema interativo.
 
-![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodemayhew.png)
+![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodemayhew.png?raw=true)
 
 **Imagem 4:** Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 

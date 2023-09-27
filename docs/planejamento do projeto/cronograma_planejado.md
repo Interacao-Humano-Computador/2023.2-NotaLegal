@@ -26,19 +26,20 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
 | Procurar e trazer um site para a próxima reunião com justificativas | Início: 30/ago <br> Fim: 02/set | Todos | Início: 03/set <br> Fim: 04/set | Todos |
-| Planejamento do Projeto | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Documentar a Equipe | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Incluir o heatmap de disponibilidade dos integrantes no repositório | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Incluir a lista de sites selecionados pelos integrantes do grupo com suas justificativas | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Documentar o site escolhido para a disciplina | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Incluir o Termo de Uso do site permitindo o estudo na disciplina no repositório | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Selecionar as ferramentas do projeto | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Escolher o processo de Design do projeto (apresentando justificativa da escolha) | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Definir um cronograma detalhado das atividades do projeto | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
-| Implementar a gitpage | Início: 06/set <br> Fim: 19/set | | Início: 20/set <br> Fim: 21/set | |
+| Planejamento do Projeto | Início: 06/set <br> Fim: 19/set | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) e [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | Início: 20/set <br> Fim: 21/set | [Gabriel Pessoa Zaranza](https://github.com/GZaranza) |
+| Documentar a Equipe | Início: 06/set <br> Fim: 19/set | [Izabella Alves Pereira](https://github.com/izabellaalves) | Início: 20/set <br> Fim: 21/set | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) |
+| Incluir o heatmap de disponibilidade dos integrantes no repositório | Início: 06/set <br> Fim: 19/set | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) | Início: 20/set <br> Fim: 21/set | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) |
+| Incluir a lista de sites selecionados pelos integrantes do grupo com suas justificativas | Início: 06/set <br> Fim: 19/set | Todos | Início: 20/set <br> Fim: 21/set | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) |
+| Documentar o site escolhido para a disciplina | Início: 06/set <br> Fim: 19/set | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) | Início: 20/set <br> Fim: 21/set | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| Incluir o Termo de Uso do site permitindo o estudo na disciplina no repositório | Início: 06/set <br> Fim: 19/set | [Gabriel Pessoa Zaranza](https://github.com/GZaranza) | Início: 20/set <br> Fim: 21/set | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
+| Selecionar as ferramentas do projeto | Início: 06/set <br> Fim: 19/set | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) | Início: 20/set <br> Fim: 21/set | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) |
+| Escolher o processo de Design do projeto (apresentando justificativa da escolha) | Início: 06/set <br> Fim: 19/set | [Izabella Alves Pereira](https://github.com/izabellaalves) <br> [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br> [Gabriel Pessoa Zaranza](https://github.com/GZaranza) | Início: 20/set <br> Fim: 21/set | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+| Definir um cronograma detalhado das atividades do projeto | Início: 06/set <br> Fim: 19/set | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) e [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | Início: 20/set <br> Fim: 21/set | [Gabriel Pessoa Zaranza](https://github.com/GZaranza) |
+| Implementar a gitpage | Início: 06/set <br> Fim: 19/set | [Izabella Alves Pereira](https://github.com/izabellaalves) | Início: 20/set <br> Fim: 21/set | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) |
 | Gravação 1 | 27/set | Todos | 28/set | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | Atualização do cronograma executado para Entrega 1 | 27/set | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) | 27/set | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
 | Correção após a Entrega 1 | Início: 04/out <br> Fim: 07/out | Todos | Início: 08/out <br> Fim: 09/out | [Izabella Alves Pereira](https://github.com/izabellaalves) |
+
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma planejado para a etapa 1</p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
@@ -89,6 +90,18 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
+| Planejamento da Avaliação do Storyboard (definir métodos) | Início: 19/out <br> Fim: 21/out | Todos | Início: 22/out <br> Fim: 23/out | Todos |
+| Planejamento da Avaliação do Análise de tarefas (definir métodos) | Início: 19/out <br> Fim: 21/out | Todos | Início: 22/out <br> Fim: 23/out | Todos |
+| Definir cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas | Início: 19/out <br> Fim: 21/out | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) | Início: 22/out <br> Fim: 23/out | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) |
+| Definir e planejar o teste piloto e data para realização | Início: 19/out <br> Fim: 21/out | [Gabriel Pessoa Zaranza](https://github.com/GZaranza) | Início: 22/out <br> Fim: 23/out | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| Realizar o teste piloto | Início: 22/out <br> Fim: 23/out | [Izabella Alves Pereira](https://github.com/izabellaalves) | Início: 24/out <br> Fim: 25/out | [Gabriel Pessoa Zaranza](https://github.com/GZaranza) |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 22/out <br> Fim: 23/out | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) | Início: 24/out <br> Fim: 25/out | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
+| planejamento do relato dos resultados da avaliação do Análise de tarefas. | Início: 22/out <br> Fim: 23/out | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | Início: 24/out <br> Fim: 25/out | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) |
+| Definir e planejar o teste piloto e data para realização | Início: 23/out <br> Fim: 24/out | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | Início: 25/out <br> Fim: 26/out | [Izabella Alves Pereira](https://github.com/izabellaalves) |
+| Realizar o teste piloto | Início: 23/out <br> Fim: 24/out | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) | Início: 25/out <br> Fim: 26/out | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+| Gravação 4 | 25/out | Todos | 26/out | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
+| Atualização do cronograma executado para Entrega 4 | 25/out | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) | 25/out | [Izabella Alves Pereira](https://github.com/izabellaalves) |
+| Correção após a Entrega 4 | Início: 01/nov <br> Fim: 04/nov | Todos | Início: 05/nov <br> Fim: 06/nov | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) |
 
 
 

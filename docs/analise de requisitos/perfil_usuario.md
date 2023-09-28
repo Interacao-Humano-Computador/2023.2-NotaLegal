@@ -5,7 +5,7 @@ Em um mundo cada vez mais digital e interconectado, compreender o perfil de usu�
 ## Metodologia
 
 ## Questionário
-A equipe realizou nos dias 22/09/2023 a 24/09/2023 um questionário com o intuitor de conhecer o perfil de usuário do Economia DF. O questionário contava com 11 perguntas, sendo uma delas o [termo de consentimento](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elecitacao/termo_de_consentimento_perfilUsuario.md), que exploravam conhecer as características sócio demográficas dos usuários do aplicativo e interações com o sistema. O processo contou com 68 participantes, sendo 49 (72,1%) usuários do aplicativo e todos concordaram com o termo de consentimento. 
+A equipe realizou nos dias 22/09/2023 a 24/09/2023 um questionário com o intuitor de conhecer o perfil de usuário do Nota Legal. O questionário contava com 11 perguntas, sendo uma delas o [termo de consentimento](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elecitacao/termo_de_consentimento_perfilUsuario.md), que exploravam conhecer as características sócio demográficas dos usuários do aplicativo e interações com o sistema. O processo contou com 68 participantes, sendo 49 (72,1%) usuários do aplicativo e todos concordaram com o termo de consentimento. 
 
 ### Questão 1 - Você utiliza ou já utilizou o site do Nota Legal (notalegal.df.gov.br) ou o aplicativo Economia DF?
 <div align="center">
@@ -80,7 +80,7 @@ A equipe realizou nos dias 22/09/2023 a 24/09/2023 um questionário com o intuit
 ## Grupo de foco
 
 ## Definição do Usuário
-Após a análise dos resultados obtidos pelo questionário e grupo de foco, o perfil de usuário do Economia DF é:
+Após a análise dos resultados obtidos pelo questionário e grupo de foco, o perfil de usuário do Nota Legal é:
 
 <div align="center">
   
@@ -103,7 +103,4 @@ Após a análise dos resultados obtidos pelo questionário e grupo de foco, o pe
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 25/09/2023 | Criação do documento                 | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
-| `1.1`  | 28/09/2023 | Add descrição do questionarios e as imagens das perguntas               | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
-| `1.2`  | 28/09/2023 | Add definição do perfil de usuário e introdução               | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
-
+| `1.0`  | 28/09/2023 | Criação do documento                 | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |

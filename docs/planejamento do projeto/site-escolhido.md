@@ -41,6 +41,8 @@ Portanto, a escolha do site "Nota Legal" como projeto é motivada pelo seu públ
 
 ## Termo de Uso:
 
+- Site Governamental;
+
 
 ## Bibliografia
 

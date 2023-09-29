@@ -17,7 +17,7 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 |      <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/YouTube-logo.png?raw=true" width="100" height="100"></img>       |       **YouTube**: Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.       |
 | <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Vscode-logo.png?raw=true" width="100" height="100"></img> |             **Visual Studio Code**: Ferramenta de programação e edição dos arquivos de documentação.              |
 |     <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/mkdocs-log03.png?raw=true" width="100" height="100"></img>      |              **MkDocs**:   Criação e edição do GitPages do projeto.               |
-|     <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg" width="100" height="100"></img>      |              **This person does not exist**:   Criação de imagens de pessoas falsas para as Personas.               |
+|     <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg?raw=true" width="100" height="100"></img>      |              **This person does not exist**:   Criação de imagens de pessoas falsas para as Personas.               |
 
 
 **Tabela 1:** Ferramentas utilizadas e previstas. (Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira))

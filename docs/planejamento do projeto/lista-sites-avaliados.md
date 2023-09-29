@@ -91,6 +91,11 @@ Esse site foi escolhido para ser avaliado pelas seguintes razões, tomando por b
  - **Flexibilidade e eficiência de uso**: usuários menos experientes podem ter dificuldade para encontrar o que precisam. O site não tem uma navegabilidade clara. Os links apresentam todos o mesmo estilo, com mesmas cores e formatos, o que dificulta também a memorização.
  - **Estética e design minimalista**: o design do site é simples, sem  muitas cores, um pouco "sem graça". Uma grande quantidade de links na página principal confundem o usuário. Além dessa grande quantidade, os links não apresentam nenhuma explicação que possa orientar o usuário sobre o que cada um significa e qual informação ele vai obter ao clicar em um deles.
  - **Ajuda e documentação**: não há um link de ajuda ou de documentação para orientar usuário.
+## Bibliografia
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+
 
 ## Histórico de versões
 
@@ -104,3 +109,4 @@ Esse site foi escolhido para ser avaliado pelas seguintes razões, tomando por b
 |`1.5`|15/09/2023 | Adicionando introdução e avaliação do Correios|  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09) |
 |`1.6`|16/09/2023 | Adicionando introdução e avaliação do MPDFT|  [Zenilda Vieira](https://github.com/ZenildaVieira)  | [Gabriel Zaranza](https://github.com/GZaranza) |
 `1.7`|27/09/2023 | Adicionando introdução e avaliação do Pandas|  [Gabriel Zaranza](https://github.com/GZaranza)   |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+`1.8`|29/09/2023 | Adicionando bibliografia| [Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|

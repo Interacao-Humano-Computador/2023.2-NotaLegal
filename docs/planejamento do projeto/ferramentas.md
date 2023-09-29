@@ -20,7 +20,7 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 |     <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg" width="100" height="100"></img>      |              **This person does not exist**:   Criação de imagens de pessoas falsas para as Personas.               |
 
 
-*Tabela 1 - Ferramentas Utilizadas*
+**Tabela 1:** Ferramentas utilizadas e previstas. (Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira))
 ## Referências Bibliograficas
 
 > <a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 12 de set. de 2023.

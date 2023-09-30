@@ -180,7 +180,7 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 
 ### Link da Gravação
 
-[Gravação do Grupo de Foco](https://youtu.be/ZkA1xQYww2M)
+[Gravação do Grupo de Foco]()
 
 ## Definição do Usuário
 Após a análise dos resultados obtidos pelo questionário e grupo de foco, o perfil de usuário do Nota Legal é:

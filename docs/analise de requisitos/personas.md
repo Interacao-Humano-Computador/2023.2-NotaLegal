@@ -74,7 +74,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - Frequência: Utiliza computador e celular regularmente
 - Objetivo: Pedro é um engenheiro civil aposentado que adora viajar e explorar novos lugares. Ele gosta de pesquisar e planejar suas viagens com cuidado, sempre procurando as melhores opções e ofertas. O Nota Legal é uma ferramenta que ele usa para obter recomendações de hotéis, restaurantes e atrações turísticas de alta qualidade de outros viajantes experientes.
 
-### Anti-Persona (Criança):
+### Anti-Persona:
 
 1. 
 <br/>

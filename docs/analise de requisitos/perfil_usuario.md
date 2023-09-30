@@ -169,6 +169,7 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 - **Utilização:** Exclusivamente no computador.
 - **Sugestões de melhoria:** Concorda com as sugestões dos outros participantes. Além disso, sugere que seja informado o percentual retornado da nota fiscal ao cliente, para compreender melhor o tamanho do retorno.
 
+
 ### Conclusões:
 - Os participantes valorizam os descontos nos impostos proporcionados pelo programa Nota Legal, bem como a opção de recebimento via PIX.
 - Há uma necessidade de maior clareza nas informações sobre os benefícios, especialmente no que diz respeito ao ressarcimento em áreas da saúde.
@@ -176,6 +177,10 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 - A reformulação na interface do programa, visando facilitar o uso e melhorar a acessibilidade, foi sugerida por alguns participantes.
 - A inclusão de pessoas com inadimplência como participantes do programa também foi sugerida.
 - A sugestão de informar o percentual retornado da nota fiscal ao cliente pode ajudar a compreender melhor os benefícios do programa.
+
+### Link da Gravação
+
+[Gravação do Grupo de Foco](https://youtu.be/ZkA1xQYww2M)
 
 ## Definição do Usuário
 Após a análise dos resultados obtidos pelo questionário e grupo de foco, o perfil de usuário do Nota Legal é:

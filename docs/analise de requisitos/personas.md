@@ -6,7 +6,7 @@ Personas são representações fictícias e generalizadas clientes ideais. Elas 
 
 
 ## Metodologia
-A criação de personas é um processo que envolve pesquisa, análise de dados e empatia para entender profundamente o público-alvo. A metodologia utilizada para a criação de personas nesse projeto foi a coleta de dados dos usuarios através de um questionario, onde foi realizada algumas perguntas ao usuario como idade, sexo, renda, escolaridade. A seguir foi feita a análise dos dados coletados, com isso foi feita as estruturações das personas e o compartilhamento das personas com a equipe, após um concenso ficou definido a criação de 2 personas primárias, 2 personas secundarias e 2 anti-personas.
+A criação de personas é um processo que envolve pesquisa, análise de dados e empatia para entender profundamente o público-alvo. A metodologia utilizada para a criação de personas nesse projeto foi a coleta de dados dos usuarios através de um questionario, onde foi realizada algumas perguntas ao usuario como idade, sexo, renda, escolaridade. A seguir foi feita a análise dos dados coletados, com isso foi feita as estruturações das personas e o compartilhamento das personas com a equipe, após um concenso ficou definido a criação de 2 personas primárias, 2 personas secundarias e 2 anti-personas. As imagens utilizadas para representar essas personas foi criada pelo site This person does not exist, que é responsavel por criar imagens de pessoas falsas.
 
 ## Personas
 
@@ -74,7 +74,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - Frequência: Utiliza computador e celular regularmente
 - Objetivo: Pedro é um engenheiro civil aposentado que adora viajar e explorar novos lugares. Ele gosta de pesquisar e planejar suas viagens com cuidado, sempre procurando as melhores opções e ofertas. O Nota Legal é uma ferramenta que ele usa para obter recomendações de hotéis, restaurantes e atrações turísticas de alta qualidade de outros viajantes experientes.
 
-### Anti-Persona (Criança):
+### Anti-Persona:
 
 1. 
 <br/>

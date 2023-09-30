@@ -120,9 +120,10 @@ Além disso, o Ciclo de Mayhew é conhecido por ser iterativo e flexível. Isso 
 
 Considerando que nossa equipe é composta por iniciantes na área de IHC, o Ciclo de Mayhew oferece a vantagem de fornecer uma quantidade adequada de detalhes em cada etapa do processo. Isso é particularmente valioso para nós, pois nos auxilia na compreensão e na implementação das melhores práticas de design de IHC, garantindo que nosso projeto seja bem fundamentado e atenda às necessidades dos usuários de maneira eficaz.
 
-## Referências bibliográficas
+## Bibliografia
 
-> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
 ## Histórico de versões
 
 |Versão|Data|Descrição|Autor|Revisor|

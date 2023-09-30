@@ -53,10 +53,11 @@ Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidi
 
 ## Link da Gravação
 
-A adiconar
+[IHC - Reunião 4](https://youtu.be/uVTqzZWQHGg)
 
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
 |`0.1`|21/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |
+|`0.2`|29/09/2023|Adicão do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)    |[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)  |

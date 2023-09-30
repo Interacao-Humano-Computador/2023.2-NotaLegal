@@ -103,6 +103,23 @@ A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma
 
 _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 
+### Roteiro do Grupo de Foco
+
+**Requisitos Funcionais:**
+- Quais são as funcionalidades essenciais que o site "Nota Legal" deve possuir? (Ex: login de usuários, histórico de compras, busca por notas fiscais)
+
+**Requisitos Não Funcionais:**
+- Quais são os requisitos não funcionais importantes para o site? (Ex: desempenho, segurança, usabilidade, acessibilidade)
+
+**Integrações:**
+- O site "Nota Legal" precisa integrar-se a algum outro sistema ou plataforma? (Ex: integração com órgãos governamentais, sistemas de pagamento)
+
+**Segurança:**
+- Quais são as medidas de segurança e privacidade que devem ser implementadas no site "Nota Legal"?
+
+**Interface do Usuário:**
+- Como deve ser a interface do site "Nota Legal" em termos de design, usabilidade e experiência do usuário?
+
 ### Resultado do Grupo de Foco
 
 ### Participante 1: Alecsandra Ferreira Araujo Souza

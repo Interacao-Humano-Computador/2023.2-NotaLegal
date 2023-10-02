@@ -31,13 +31,16 @@ Nossa observação foi feita com um usuário do sexo feminimo, 55 anos, nível d
 **ID:** Cada requisito será identificado por um código composto da seguinte maneira: INTXX, onde "XX" representa um número sequencial único. 
 
 | ID    | Código | Descrição                   | Implementado | Nível de Dificuldade |
-| :---: |:------:| --------------------------- | ------------ |
-| INT01 | RF     | Desbloquear saldo bloqueado |   sim        |
+| :---: |:------:| --------------------------- | ------------ |--|
+| INT01 | RF     | Desbloquear saldo bloqueado |   sim        ||
 
 
 **Tabela 1:** Requisitos elicitados.  <br>
 Fonte: [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) , 2023.
 
+## Link da Gravação
+
+[IHC - Observação](https://youtu.be/FqZE06Z8-Yo)
 
 ## Bibliografia
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -47,3 +50,4 @@ Fonte: [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) , 2023.
 | Versão | Data       | Descrição            | Autor                                                      | Revisor                                     |
 | :----: | ---------- | -------------------- | :--------------------------------------------------------: | :-----------------------------------------: |
 | `1.0`  | 28/09/2023 | Criação do documento | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | [Izabella Alves Pereira](https://github.com/izabellaalves)|
+| `1.1`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |

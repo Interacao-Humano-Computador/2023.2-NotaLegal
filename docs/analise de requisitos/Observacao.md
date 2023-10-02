@@ -31,8 +31,8 @@ Nossa observação foi feita com um usuário do sexo feminimo, 55 anos, nível d
 **ID:** Cada requisito será identificado por um código composto da seguinte maneira: INTXX, onde "XX" representa um número sequencial único. 
 
 | ID    | Código | Descrição                   | Implementado | Nível de Dificuldade |
-| :---: |:------:| --------------------------- | ------------ |--|
-| INT01 | RF     | Desbloquear saldo bloqueado |   sim        ||
+| :---: |:------:| --------------------------- | :----------: |--|
+| INT01 | RF     | Desbloquear saldo bloqueado |   Sim        ||
 
 
 **Tabela 1:** Requisitos elicitados.  <br>

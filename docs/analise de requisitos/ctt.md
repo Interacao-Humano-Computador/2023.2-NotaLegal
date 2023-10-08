@@ -10,6 +10,9 @@ ver o diagrama CTT da tarefa em questão.
 **Figura 1:** Diagrama CTT da tarefa "Consultar um estabelecimento". (Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023).
 
 ## Bibliografia
+
+> SALES, André Barros. Apresentação Cap6 . Disponível em: https://aprender3.unb.br/pluginfile.php/2692526/mod_resource/content/4/Apresentacao%20cap06.pdf. Acesso em: 03 de outubro de 2023;
+> 
 ## Histórico de Versões
 
 |Versão|Data|Descrição|Autor|Revisor|

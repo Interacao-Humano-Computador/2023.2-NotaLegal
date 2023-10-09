@@ -21,9 +21,13 @@ Neste trabalho, optamos por adotar o Ciclo de Vida de Mayhew como nosso modelo d
 
 O Ciclo de Vida Simples, como o próprio nome ja diz, é um modelo de processo fundamentalmente direcionado à simplicidade. No entanto, mesmo em sua abordagem simplificada, ele não subestima a importância do design centrado no usuário, promovendo avaliações da proposta de solução por meio de versões interativas e enfatizando a iteração entre as atividades do processo de design de IHC.
 
+<div align="center">
+
 ![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodevidasimples.png?raw=true)
 
-**Imagem 1:** Ciclo de Vida Simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+**Figura 1:** Ciclo de Vida Simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+
+</div>
 
 Este modelo possui vantagens, como a sua simplicidade tanto na compreensão quanto na implementação, tornando-o adequado para projetos de pequena escala e para designers experientes. Porém, suas desvantagens incluem o fato de que essa simplicidade pode ser uma limitação em projetos complexos, pois não oferece uma estrutura robusta para avaliação e reavaliação entre as etapas, além de apresentar um baixo nível de detalhamento.
 
@@ -50,17 +54,24 @@ O design baseado em cenários é um abordagem essencial no campo da Interação 
 
 O processo de design baseado em cenários abrange diversas etapas, incluindo a análise do problema, o design da solução de IHC, a prototipagem e a avaliação. Na análise do problema, a equipe de design colabora com as partes interessadas para entender a situação atual e, com base nesse entendimento, cria cenários que abordam aspectos críticos dos usuários, suas tarefas e o contexto de uso. No design, são elaborados cenários de atividade, de informação e de interação, fornecendo uma estrutura para desenvolver soluções. Esses cenários também guiam a avaliação contínua, garantindo que a solução atenda às necessidades dos usuários.
 
+<div align="center">
+
 ![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/designbaseadoemcenarios.png?raw=true)
 
-**Imagem 2:** Atividades do Desig Baseado em Cenários (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+**Figira 2:** Atividades do Desig Baseado em Cenários (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+
+</div>
 
 ### Ciclo de Vida em Estrela
 O Ciclo de Vida em Estrela, desenvolvido por Hix e Hartson na década de 1990, é um modelo amplamente adotado no campo da Interação Humano-Computador (IHC). Esse processo consiste em seis atividades interligadas, incluindo análise de tarefas, usuários e funções para compreender a situação atual e identificar oportunidades de melhoria. A especificação de requisitos de IHC define os problemas a serem abordados na solução de IHC. A etapa de síntese abrange projeto conceitual, prototipação e implementação da solução. A avaliação é central no modelo e ocorre em todas as etapas para garantir que os dados coletados e os requisitos atendam às necessidades dos usuários, detectando problemas de usabilidade.
 
+<div align="center">
+
 ![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/cicloDeVidaEstrela.png?raw=true)
 
-**Imagem 3:** Atividades do Ciclo de Vida em Estrela (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+**Figura 3:** Atividades do Ciclo de Vida em Estrela (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
 
+</div>
 
 O Ciclo de Vida em Estrela permite flexibilidade ao designer para escolher a ordem das atividades, dependendo das circunstâncias. Por exemplo, pode-se começar com a análise ou a implementação, dependendo do projeto. O modelo é iterativo, com a avaliação contínua dos resultados após cada atividade, garantindo uma solução satisfatória. Essencialmente, todas as atividades do Ciclo de Vida em Estrela estão conectadas pela avaliação, tornando a revisão constante uma parte integral do processo de design de IHC.
 
@@ -74,7 +85,7 @@ Ele divide o design em três atividades: análise do usuário, domínio e contex
 
 
 ### Engenharia de Usabilidade de Nielsen
-Jakob Nielsen, em 1993, definiu a Engenharia de Usabilidade como um conjunto de atividades que devem ser realizadas ao longo de todo o ciclo de vida do produto, enfatizando que muitas delas ocorrem nos estágios iniciais do projeto, antes mesmo que a interface do usuário seja projetada. Ele propôs o seguinte conjunto de atividades em seu ciclo de vida de usabilidade:
+Jakob Nielsen, em 1993, definiu a Engenharia de Usabilidade como um conjunto de atividades que devem ser realizadas ao longo de todo o ciclo de vida do produto, enfatizando que muitas delas ocorrem nos estágios iniciais do projeto, antes mesmo que a interface do usuário seja projetada [1] . Ele propôs o seguinte conjunto de atividades em seu ciclo de vida de usabilidade:
 
 - Conheça seu usuário: Compreender quem serão os usuários do sistema e quais tarefas eles precisam realizar é o primeiro passo. Isso envolve a criação de personas e a análise de cenários de uso.
 
@@ -108,9 +119,13 @@ A fase de design, avaliação e desenvolvimento concentra-se em criar uma soluç
 
 Na fase de instalação, feedback dos usuários após o uso é coletado para melhorar o sistema em versões futuras ou considerar o desenvolvimento de novos sistemas interativos. Esse ciclo de vida visa garantir que a usabilidade seja uma prioridade ao longo de todo o processo de desenvolvimento de um sistema interativo.
 
+<div align="center">
+
 ![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodemayhew.png?raw=true)
 
-**Imagem 4:** Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+**Figura 4:** Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+
+</div>
 
 ## Modelo escolhido
 
@@ -123,6 +138,10 @@ Considerando que nossa equipe é composta por iniciantes na área de IHC, o Cicl
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+## Referências Bibliográficas
+
+> [1] Nielsen, J. Usability Engineering. Chestnut Hill, MA, Academic Press, 1993.
 
 ## Histórico de versões
 

@@ -53,9 +53,10 @@ Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu ap
 
 (Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023)
 
-## Bibliografia
+## Referências Bibliográficas
 > BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 23/09/2023.
 > 
+## Bibliografia
 > Aspectos Éticos Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/#referencias-bibliograficas>>. Acesso em: 23/09/2023.
 > 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

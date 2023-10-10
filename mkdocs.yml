@@ -5,11 +5,15 @@ site_name: Nota Legal
 nav:
   - Home: index.md
   - Atas:
-    - Reunião 1: atas/Reunião 1 - 31.08.2023.md
-    - Reunião 2: atas/Reunião 2 - 05.09.2023.md
-    - Reunião 3: atas/Reunião 3 - 13.09.2023.md
-    - Reunião 4: atas/Reunião 4 - 20.09.2023.md
-    - Reunião 5: atas/Reunião 5 - 22.09.2023.md
+    - Reunião 1: atas/Reuniao01-31.08.2023.md
+    - Reunião 2: atas/Reuniao02-05.09.2023.md
+    - Reunião 3: atas/Reuniao03-13.09.2023.md
+    - Reunião 4: atas/Reuniao04-20.09.2023.md
+    - Reunião 5: atas/Reuniao05-22.09.2023.md
+    - Reunião 6: atas/Reuniao06-04.10.2023.md
+    - Reunião 7: atas/Reuniao07-06.10.2023.md
+  - Apresentações:
+    - Apresentação 1: apresentacoes/Apresentação 1 - 29.09.2023.md
   - Planejamento do Projeto:
     - Heatmap de disponibilidade: planejamento do projeto/heatmap-disponibilidade.md
     - Sites avaliados: planejamento do projeto/lista-sites-avaliados.md

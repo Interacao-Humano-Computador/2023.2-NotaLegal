@@ -18,7 +18,9 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 
 ### Polícia Civil do Distrito Federal
 O site da [Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br) serve como um importante recurso online para fornecer informações e serviços relacionados à atuação da Polícia Civil na região do Distrito Federal, no Brasil. Este site foi avaliado pela integrante [Izabella Alves](https://github.com/izabellaalves) e foi um dos sites cogitados para ser utilizado como base pro projeto da equipe por falhar nos seguintes pontos da avaliação heurística:
+
 - **Design Estético e Minimalista**: O site apresenta uma sobrecarga visual significativa em sua tela inicial, devido à abundância de ícones e informações que praticamente preenchem toda a página. A presença excessiva de ícones e informações na tela inicial vai contra a heurística em questão, tornando a interface mais confusa e desorganizada do que deveria ser.
+
 - **Flexibilidade e Eficiência de Uso:** O site carece de flexibilidade e eficiência de uso, tornando desafiador para os usuários realizar suas tarefas rapidamente devido à profusão de botões e menus. Há uma multiplicidade de menus distintos distribuídos pelo site, todos com cores idênticas, o que intensifica a complexidade da usabilidade, especialmente para os usuários menos experientes.
 
 ### Alistamento Militar
@@ -93,7 +95,7 @@ Esse site foi escolhido para ser avaliado pelas seguintes razões, tomando por b
  - **Ajuda e documentação**: não há um link de ajuda ou de documentação para orientar usuário.
 ## Bibliografia
 
-> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 
 

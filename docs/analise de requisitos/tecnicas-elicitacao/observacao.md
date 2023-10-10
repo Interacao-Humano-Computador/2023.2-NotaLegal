@@ -34,7 +34,7 @@ Nossa observação foi feita com um usuário do sexo feminimo, 55 anos, nível d
 
 | ID    | Código | Descrição                   | Implementado | Nível de Dificuldade |
 | :---: |:------:| --------------------------- | :----------: |--|
-| INT01 | RF     | Desbloquear saldo bloqueado |   Sim        ||
+| OBS01 | RF     | Desbloquear saldo bloqueado |   Sim        ||
 
 
 **Tabela 1:** Requisitos elicitados. Fonte: [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) , 2023.

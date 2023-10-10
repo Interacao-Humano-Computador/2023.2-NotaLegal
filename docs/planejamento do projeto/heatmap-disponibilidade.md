@@ -6,6 +6,8 @@ O mapeamento da disponibilidade dos integrantes foi feito usando um Heatmap, que
 
 ## Heatmap
 
+<div align="center">
+
 |        | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 |--------|---------|-------|--------|--------|-------|--------|
 | 08:00  |     2    |    0   |     2   |   0     |   1    | 5       |
@@ -23,11 +25,15 @@ O mapeamento da disponibilidade dos integrantes foi feito usando um Heatmap, que
 | 20:00  |     5    |     6  |     7   |     6   |    7   |   5     |
 | 21:00  |     7    |     7  |      7  |     7   |    7   |     5   |
 
-**Tabela 1:** Heatmap de disponibilidade dos integrantes do grupo 1. (Fonte: [Izabella Alves](https://github.com/izabellaalves))
+**Tabela 1:** Heatmap de disponibilidade dos integrantes do grupo 1. Fonte: [Izabella Alves](https://github.com/izabellaalves)
+
+
 
 ![Heatmap de Disponibilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/heatmap.png?raw=true)
 
-**Figura 1:** Heatmap de disponibilidade dos integrantes do grupo 1 (Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09))
+**Figura 1:** Heatmap de disponibilidade dos integrantes do grupo 1. Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09).
+
+</div>
 
 ## Resultados
 Nos baseando nos resultados obtidos no Heatmap preenchido pela equipe, as reuniões semanais do Grupo 01 ficaram marcadas para **quarta-feira às 20h** e **sexta-feira às 20h**.

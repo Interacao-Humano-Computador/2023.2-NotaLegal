@@ -6,8 +6,15 @@
 Nessa tarefa, o usuário possui como principal objetivo consultar se determinado estabelecimento é ou não cadastrado no programa 
 Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](). Na figura 1 é possível
 ver o diagrama CTT da tarefa em questão.
-![Diagrama CTT da tarefa Consultar um estabelecimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ctt-consultar-estabelecimento.png?raw=true)
-**Figura 1:** Diagrama CTT da tarefa "Consultar um estabelecimento". (Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama CTT da tarefa "Consultar um estabelecimento.</p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ctt-consultar-estabelecimento.png?raw=true" class="usecaseElement">
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></b></p></font>
+
+</div>
 
 ## Bibliografia
 

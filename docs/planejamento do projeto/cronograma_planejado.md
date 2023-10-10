@@ -5,6 +5,8 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
 ## Cronograma geral
 
+<div align="center">
+
 | Etapa | Título | Descrição | Entrega | Apresentação |
 | :---: | :----: | :-------: | :-----: | :----------: |
 | 1     |  Planejamento do projeto e do Processo de Design | Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, listas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto (com data de inicio e fim de cada atividade, responsáveis e período de gravação da apresentação). | 02/10 | 03/10 |
@@ -17,11 +19,13 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 | 8     | Relato dos resultados | Relato dos resultados da avaliação do protótipo de alta fidelidade | 27/11 | 28/11 |
 | 9     | Apresentação do projeto final | Apresentação do projeto final | 06/12 | 07 a 19/12 |
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma Geral</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma Geral. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
 
+</div>
 
 ## Entrega 1 - Planejamento do Projeto - Data de Entrega: 02/out/2023
+
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -41,10 +45,12 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 | Correção após a Entrega 1 | Início: 04/out <br> Fim: 07/out | Todos | Início: 08/out <br> Fim: 09/out | [Izabella Alves Pereira](https://github.com/izabellaalves) |
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma planejado para a etapa 1</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma planejado para a etapa 1. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
+</div>
 
 ## Entrega 2 - Perfil do usuário - Data de Entrega: 16/out/2023
+
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -64,11 +70,13 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 | Correção após a Entrega 2 | Início: 18/out <br> Fim: 21/out | Todos | Início: 22/out <br> Fim: 23/out | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma planejado para a etapa 2</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma planejado para a etapa 2. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
+</div>
 
 
 ## Entrega 3 - Princípios Gerais de Projeto - Data de Entrega: 23/out/2023
+
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -83,10 +91,12 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma planejado para a etapa 83</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma planejado para a etapa 3. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
+</div>
 
 ## Entrega 4 - Planejamento da Avaliação do Storyboard e Análise de tarefas - Data de Entrega: 30/out/2023
+
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -104,10 +114,12 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma planejado para a etapa 4</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma planejado para a etapa 4. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
+</div>
 
 ## Entrega 5 - Relato dos resultados do Story Board e da Análise de tarefas - Data de Entrega: 08/nov/2023
+
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -121,10 +133,12 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma planejado para a etapa 5</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma planejado para a etapa 5. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
+</div>
 
 ## Entrega 6.1 - Verificação dos Artefatos I - Data de Entrega: 15/nov/2023
+
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -134,10 +148,13 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 | Correção após a Entrega 6.1 | Início: 17/nov <br> Fim: 18/nov | Todos | Início: 19/nov <br> Fim: 20/nov | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Cronograma planejado para a etapa 6.1</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Cronograma planejado para a etapa 6.1. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
+</div>
 
 ## Entrega 7 - Relato dos resultados do Protótipo de Papel - Data de Entrega: 22/nov/2023
+
+<div align="center">
+
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
 | Documentar o relato dos resultados do Protótipo de Papel | Início: 11/nov <br> Fim: 14/nov | Todos | Início: 15/nov <br> Fim: 16/nov | Todos |
@@ -148,10 +165,12 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 | Correção após a Entrega 7 | Início: 23/nov <br> Fim: 24/nov | Todos | Início: 25/nov <br> Fim: 26/nov | [Gabriel Pessoa Zaranza](https://github.com/GZaranza)  |
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Cronograma planejado para a etapa 7</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Cronograma planejado para a etapa 7. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
+</div>
 
 ## Entrega 8 -  Relato dos resultados da avaliação do protótipo de alta fidelidade - Data de Entrega: 27/nov/2023
+
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -162,10 +181,12 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Cronograma planejado para a etapa 8/p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Cronograma planejado para a etapa 8. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09)./p></font>
+</div>
 
 ## Entrega 6.2 - Verificação dos Artefatos II - Data de Entrega: 29/nov/2023
+
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -175,10 +196,12 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 | Correção após a Entrega 6.2 | Início: 30/nov <br> Fim: 30/nov | Todos | Início: 01/dez <br> Fim: 01/dez | [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Cronograma planejado para a etapa 6.2</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Cronograma planejado para a etapa 6.2. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
+</div>
 
 ## Entrega da apresentação do projeto final - Data de Entrega: 06/dez/2023
+
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -190,8 +213,8 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Cronograma planejado para a entrega do Projeto Final</p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Cronograma planejado para a entrega do Projeto Final. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
+</div>
 
 
 ## Bibliografia

@@ -1,7 +1,7 @@
 # Personas
 
 ## Introdução
-Personas são representações fictícias e generalizadas de clientes ideais. Elas são personagens representativos do público-alvo da empresa, criadas para facilitar o processo de design e comunicação. Cada persona deve possuir características que resumam bem os usuários "típicos", tornando-as ferramentas eficientes para tomada de decisões.
+Personas são representações fictícias e generalizadas de clientes ideais. Elas são personagens representativos do público-alvo da empresa, criadas para facilitar o processo de design e comunicação. Cada persona deve possuir características que resumam bem os usuários "típicos", tornando-as ferramentas eficientes para tomada de decisões [1].
 
 ## Metodologia
 A criação de personas é um processo que envolve pesquisa, análise de dados e empatia para compreender profundamente o público-alvo. Neste projeto, utilizamos a seguinte metodologia:
@@ -79,9 +79,11 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Clara é uma aposentada de 72 anos que não utiliza smartphones nem tem acesso à internet. Ela prefere fazer todas as suas transações financeiras pessoalmente no banco e não vê necessidade de usar o aplicativo de economia do DF.
 
 ## Referências Bibliograficas
-> <a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 > <br/>
-> <a id="QT2" href="#anchor_1">2.</a>This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
+
+## Bibliografia
+> This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
 
 
 ## Histórico de Versões

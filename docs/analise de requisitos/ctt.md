@@ -8,11 +8,10 @@ Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nos
 ver o diagrama CTT da tarefa em questão.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama CTT da tarefa "Consultar um estabelecimento.</p></font>
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ctt-consultar-estabelecimento.png?raw=true" class="usecaseElement">
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Figura 1:</b> Diagrama CTT da tarefa "Consultar um estabelecimento. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></b></p></font>
 
 </div>
 

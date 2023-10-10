@@ -23,47 +23,13 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 
 ###  Indicação de créditos
 
-Luiz, um economista aposentado com ampla experiência em finanças, começava todos os anos com uma rotina financeira sólida. Todo início de janeiro, ele abria seu computador e acessava o aplicativo "Nota Legal". Essa era uma prática que ele seguia há anos, e era parte crucial de sua estratégia financeira.
+[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) , um economista aposentado com ampla experiência em finanças, começava todos os anos com uma rotina financeira sólida. Todo início de janeiro, ele abria seu computador e acessava o Site [Nota Legal](notalegal.df.gov.br). Essa era uma prática que ele seguia há anos, e era parte crucial de sua estratégia financeira.
 
 Primeiro, Luiz entrava na seção do IPTU. Com sua habilidade e conhecimento, ele rapidamente indicava os créditos fiscais para ajudar a compensar parte do imposto predial. Isso era como um ritual para ele, uma maneira de otimizar suas finanças pessoais e economizar dinheiro.
 
 Em seguida, Luiz navegava até a seção do Nota Legal. Ele inseria com cuidado os recibos fiscais das compras realizadas no ano anterior. Para Luiz, cada recibo era uma oportunidade de acumular créditos que poderiam ser usados em suas futuras despesas.
 
 Ao concluir suas indicações no aplicativo, Luiz se sentia satisfeito. Ele sabia que estava tomando medidas práticas para manter suas finanças em ordem e, ao mesmo tempo, apoiar o comércio local. Era uma maneira de começar o ano com o pé direito, sabendo que estava cuidando bem de suas finanças.
-
-#### Contexto:
-Luiz Economista quer indicar créditos do Nota Legal para abatimento do IPTU.
-
-#### Actions
-(G) Goal: Indicar créditos do Nota Legal para abatimento do IPTU ou IPVA.
-
-(O) Operator: Luiz Economista.
-
-(M) Method: Abre o Site Nota Legal.
-
-(S) Selection: Clica na opção "Nota Legal".
-
-(C) Confirmation: Verifica se a opção "Indicação de crédito" está disponível.
-
-(T) Task: Seleciona a opção "Indicação de crédito".
-
-(M) Method: Escolhe entre "IPTU".
-
-(S) Selection: Insere o número do CPF.
-
-(C) Confirmation: Verifica se o número do CPF foi inserido corretamente.
-
-(S) Selection: Insere a senha de acesso.
-
-(C) Confirmation: Verifica se a senha de acesso foi inserida corretamente.
-
-(T) Task: Seleciona a opção "Indicar créditos".
-
-(M) Method: Insere o valor desejado de créditos.
-
-(C) Confirmation: Verifica se o valor de créditos foi inserido corretamente.
-
-(T) Task: Confirma a indicação de créditos.
 
 ### Consultar Estabelecimento
 Maria é formada em administração e trabalha na administração de uma empresa localizada no centro da cidade há muitos anos. Uma vez por mês, após o trabalho, Maria costuma ir até uma farmácia comprar uma caixa de seu remédio diário. Ao chegar em casa, ela verifica se a nota fiscal foi cadastrada corretamente, para que possa reunir créditos para o desconto do Nota Legal ao final do ano.

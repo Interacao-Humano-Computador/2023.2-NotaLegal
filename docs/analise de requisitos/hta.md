@@ -6,11 +6,19 @@
 Nessa tarefa, o usuário possui como principal objetivo consultar se determinado estabelecimento é ou não cadastrado no programa 
 Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](). Na figura 1 é possível
 ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 1.
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama HTA da tarefa Consultar um estabelecimento.</p></font>
 
-![HTA da tarefa Consultar um Estabelecimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/hta-consultar-estabelecimento.drawio.png?raw=true)
-**Figura 1:** Diagrama HTA da tarefa "Consultar um estabelecimento". (Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023)
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/hta-consultar-estabelecimento.drawio.png?raw=true" class="usecaseElement">
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></b>, 2023.</p></font>
+
+</div>
+
 <br>
-<br>
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela HTA da tarefa Consultar um estabelecimento.</p></font>
+
 | Objetivos/Operações       | Problemas e Recomendações                                                                                      |
 |--------------------------|-------------------------------------------------------------------------------------------------------------|
 | 0. Consultar um estabelecimento 1/2|                                                                                                             |
@@ -21,7 +29,8 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 | 2.2.1. Selecionar o estabelecimento | **input:** usuário clica no estabelecimento desejado. **feedback:** usuário redirecionado para a página do estabelecimento. |
 | 2.2.2. Confirmar se é o estabelecimento correto | **plano:** verificar se os dados do estabelecimento clicado são iguais aos dados do estabelecimento buscado. |
 
-**Tabela 1:** Tabela HTA da tarefa "Consultar um estabelecimento". (Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023)
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></b>, 2023.</p></font>
+</div>
 
 ## Bibliografia
 > Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/>. Acesso em: 08 de outubro 2023.

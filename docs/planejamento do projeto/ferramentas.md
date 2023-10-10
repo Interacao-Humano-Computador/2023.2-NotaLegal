@@ -3,6 +3,8 @@
 ## Introdução
 Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a criação e edição deste trabalho, seja para a existência ou apresentação das tarefas realizadas pela equipe. Essas ferramentas incluem softwares e plataformas que facilitam o desenvolvimento e a comunicação do projeto. Também descrevemos brevemente como cada ferramenta contribui para os objetivos e resultados esperados neste trabalho.
 
+<div align="center">
+
 |                                               Ferramentas                                               |                                                     Descrição                                                     |
 | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
 |        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/github_logo.png?raw=true" width="100" height="100"></img>        | **GitHub**: Utilizado para trabalhar com o projeto da disciplina. |
@@ -20,7 +22,10 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 |     <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg?raw=true" width="100" height="100"></img>      |              **This person does not exist**:   Criação de imagens de pessoas falsas para as Personas.               |
 
 
-**Tabela 1:** Ferramentas utilizadas e previstas. (Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira))
+**Tabela 1:** Ferramentas utilizadas e previstas. Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).
+
+</div>
+
 ## Referências Bibliograficas
 
 > <a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 12 de set. de 2023.

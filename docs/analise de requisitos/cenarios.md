@@ -5,7 +5,7 @@ Os cenários desempenham um papel fundamental na Interação Humano-Computador (
 A metodologia utilizada neste artefato é a de Cenários de Interação, tomando como base a descrição e os exemplos presentes no capítulo 07 do livro Interação Humano Computador [1]. Cada membro da equipe ficará responsável por criar um cenário, o membro e o cenário atribuído a ele podem ser vistos na tabela 1, Além disso, os cenários serão definidos através de um texto descritivo que terá: contexto, ator(es), objetivos, ações e avaliação, e o ator principal do cenário será uma das [Personas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/personas/) definidas pelo grupo.
 | Membro da Equipe | Cenário  |
 |------------------|---------------------------|
-|            |                  |
+|   [Lucas Víctor ](https://github.com/Lucas13032003)          |    Indicar créditos              |
 |             |                  |
 |    [Izabella Alves](https://github.com/izabellaalves)      |     Consultar estabelecimento            |
 |              |                 |
@@ -13,9 +13,53 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 |           |                 |
 |         |                  |
 
-**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário. (Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023).
+**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário. (Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor ](https://github.com/Lucas13032003),  2023).
 
 ## Cenários Identificados
+
+###  Indicação de créditos
+
+Luiz, um economista aposentado com ampla experiência em finanças, começava todos os anos com uma rotina financeira sólida. Todo início de janeiro, ele abria seu computador e acessava o aplicativo "Nota Legal". Essa era uma prática que ele seguia há anos, e era parte crucial de sua estratégia financeira.
+
+Primeiro, Luiz entrava na seção do IPTU. Com sua habilidade e conhecimento, ele rapidamente indicava os créditos fiscais para ajudar a compensar parte do imposto predial. Isso era como um ritual para ele, uma maneira de otimizar suas finanças pessoais e economizar dinheiro.
+
+Em seguida, Luiz navegava até a seção do Nota Legal. Ele inseria com cuidado os recibos fiscais das compras realizadas no ano anterior. Para Luiz, cada recibo era uma oportunidade de acumular créditos que poderiam ser usados em suas futuras despesas.
+
+Ao concluir suas indicações no aplicativo, Luiz se sentia satisfeito. Ele sabia que estava tomando medidas práticas para manter suas finanças em ordem e, ao mesmo tempo, apoiar o comércio local. Era uma maneira de começar o ano com o pé direito, sabendo que estava cuidando bem de suas finanças.
+
+#### Contexto:
+Luiz Economista quer indicar créditos do Nota Legal para abatimento do IPTU.
+
+#### Actions
+(G) Goal: Indicar créditos do Nota Legal para abatimento do IPTU ou IPVA.
+
+(O) Operator: Luiz Economista.
+
+(M) Method: Abre o aplicativo de economia do DF.
+
+(S) Selection: Clica na opção "Nota Legal".
+
+(C) Confirmation: Verifica se a opção "Indicação de crédito" está disponível.
+
+(T) Task: Seleciona a opção "Indicação de crédito".
+
+(M) Method: Escolhe entre "IPTU" ou "IPVA".
+
+(S) Selection: Insere o número do CPF.
+
+(C) Confirmation: Verifica se o número do CPF foi inserido corretamente.
+
+(S) Selection: Insere a senha de acesso.
+
+(C) Confirmation: Verifica se a senha de acesso foi inserida corretamente.
+
+(T) Task: Seleciona a opção "Indicar créditos".
+
+(M) Method: Insere o valor desejado de créditos.
+
+(C) Confirmation: Verifica se o valor de créditos foi inserido corretamente.
+
+(T) Task: Confirma a indicação de créditos.
 
 ### Consultar Estabelecimento
 Maria é formada em administração e trabalha na administração de uma empresa localizada no centro da cidade há muitos anos. Uma vez por mês, após o trabalho, Maria costuma ir até uma farmácia comprar uma caixa de seu remédio diário. Ao chegar em casa, ela verifica se a nota fiscal foi cadastrada corretamente, para que possa reunir créditos para o desconto do Nota Legal ao final do ano.
@@ -34,3 +78,4 @@ O resultado obtido por Maria é que das 5 empresas, 3 são cadastradas no progra
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |1.0|07/10/2023|Adição da introdução, tabela, metodologia e cenário 1|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|1.1|10/10/2023|Adição do cenário de indicação de créditos|[Lucas Víctor ](https://github.com/Lucas13032003)|[Izabella Alves](https://github.com/izabellaalves)|

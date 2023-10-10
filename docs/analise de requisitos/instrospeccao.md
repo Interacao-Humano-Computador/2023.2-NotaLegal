@@ -20,6 +20,8 @@ Na elicitação de requisitos para o site "Nota Legal", utilizaremos códigos pa
 
 **ID:** Cada requisito será identificado por um ID composto da seguinte forma: INTXX (onde XX é um número sequencial). Por exemplo, o primeiro requisito funcional seria INT01 e assim por diante.
 
+<div align="center">
+
 | ID   | Código | Descrição                                                                                      | Implementado |
 |------|--------|------------------------------------------------------------------------------------------------|--------------|
 | INT01| RF     | O site deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |   Sim        |
@@ -43,6 +45,10 @@ Na elicitação de requisitos para o site "Nota Legal", utilizaremos códigos pa
 
 
 **Tabela 1:** Requisitos elicitados. Fonte: [Izabella Alves](https://github.com/izabellaalves) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
+
+</div>
+
+
 ## Bibliografia
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 23/09/2023.
 ## Histórico de Versões

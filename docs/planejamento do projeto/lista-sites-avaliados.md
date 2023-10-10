@@ -2,6 +2,8 @@
 ## Introdução
 Na fase inicial do projeto, os estudantes foram convidados a selecionar individualmente websites governamentais ou de código aberto. Essa escolha tinha como propósito apresentar sugestões para o website que seria analisado em conjunto pelo grupo durante a disciplina Interação Humano-Computador. A Tabela 1 fornece detalhes sobre os websites avaliados por cada membro da equipe.
 
+<div align="center">
+
 | Site avaliado                                                   | Membro que fez a avaliação                            |
 | :-------------------------------------------------------------: | :---------------------------------------------------: |
 | [Calibre - E-book Management](https://calibre-ebook.com)        |[Gabriel Rosa](https://github.com/gabrielrosa09)       |
@@ -13,6 +15,8 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 | [Ministério Público do Distrito Federal](https://www.mpdft.mp.br/portal/) | [Zenilda Vieira](https://github.com/ZenildaVieira) |
 
 **Tabela 1:** Tabela de sites avaliados (Fonte: [Izabella Alves](https://github.com/izabellaalves))
+
+</div>
 
 ## Sites avaliados
 

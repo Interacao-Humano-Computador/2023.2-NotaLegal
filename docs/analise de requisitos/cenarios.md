@@ -39,7 +39,7 @@ Luiz Economista quer indicar créditos do Nota Legal para abatimento do IPTU.
 
 (O) Operator: Luiz Economista.
 
-(M) Method: Abre o aplicativo de economia do DF.
+(M) Method: Abre o Site Nota Legal.
 
 (S) Selection: Clica na opção "Nota Legal".
 
@@ -47,7 +47,7 @@ Luiz Economista quer indicar créditos do Nota Legal para abatimento do IPTU.
 
 (T) Task: Seleciona a opção "Indicação de crédito".
 
-(M) Method: Escolhe entre "IPTU" ou "IPVA".
+(M) Method: Escolhe entre "IPTU".
 
 (S) Selection: Insere o número do CPF.
 

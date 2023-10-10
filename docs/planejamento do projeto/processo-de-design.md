@@ -22,10 +22,10 @@ Neste trabalho, optamos por adotar o Ciclo de Vida de Mayhew como nosso modelo d
 O Ciclo de Vida Simples, como o próprio nome ja diz, é um modelo de processo fundamentalmente direcionado à simplicidade. No entanto, mesmo em sua abordagem simplificada, ele não subestima a importância do design centrado no usuário, promovendo avaliações da proposta de solução por meio de versões interativas e enfatizando a iteração entre as atividades do processo de design de IHC.
 
 <div align="center">
+<p><b>Figura 1:</b> Ciclo de Vida Simples</p>
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodevidasimples.png?raw=true" class="usecaseElement">
 
-![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodevidasimples.png?raw=true)
-
-**Figura 1:** Ciclo de Vida Simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+<p><b>Fonte:</b> BARBOSA, Simone; DINIZ, Bruno. 2010.</p>
 
 </div>
 
@@ -56,9 +56,10 @@ O processo de design baseado em cenários abrange diversas etapas, incluindo a a
 
 <div align="center">
 
-![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/designbaseadoemcenarios.png?raw=true)
+<p><b>Figura 2:</b> Atividades do Design Baseado em Cenários.</p>
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/designbaseadoemcenarios.png?raw=true" class="usecaseElement">
 
-**Figira 2:** Atividades do Desig Baseado em Cenários (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+<p><b>Fonte:</b> BARBOSA, Simone; DINIZ, Bruno. 2010.</p>
 
 </div>
 
@@ -67,10 +68,10 @@ O Ciclo de Vida em Estrela, desenvolvido por Hix e Hartson na década de 1990, �
 
 <div align="center">
 
-![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/cicloDeVidaEstrela.png?raw=true)
+<p><b>Figura 3:</b> Atividades do Ciclo de Vida em Estrela.</p>
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/cicloDeVidaEstrela.png?raw=true" class="usecaseElement">
 
-**Figura 3:** Atividades do Ciclo de Vida em Estrela (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
-
+<p><b>Fonte:</b> BARBOSA, Simone; DINIZ, Bruno. 2010.</p>
 </div>
 
 O Ciclo de Vida em Estrela permite flexibilidade ao designer para escolher a ordem das atividades, dependendo das circunstâncias. Por exemplo, pode-se começar com a análise ou a implementação, dependendo do projeto. O modelo é iterativo, com a avaliação contínua dos resultados após cada atividade, garantindo uma solução satisfatória. Essencialmente, todas as atividades do Ciclo de Vida em Estrela estão conectadas pela avaliação, tornando a revisão constante uma parte integral do processo de design de IHC.
@@ -121,10 +122,11 @@ Na fase de instalação, feedback dos usuários após o uso é coletado para mel
 
 <div align="center">
 
-![Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodemayhew.png?raw=true)
+<p><b>Figura 4:</b> Ciclo de vida de Mayhew</p
 
-**Figura 4:** Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ciclodemayhew.png?raw=true" class="usecaseElement">
 
+<p><b>Fonte:</b> BARBOSA, Simone; DINIZ, Bruno. 2010.</p>
 </div>
 
 ## Modelo escolhido
@@ -148,10 +150,10 @@ Considerando que nossa equipe é composta por iniciantes na área de IHC, o Cicl
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |0.1|06/09/2023|Criação do documento|[Lucas Ribeiro](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
-|0.2|06/09/2023|Adição dos tópicos do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
-|0.3|07/09/2023|Adição dos modelos Design Baseado em Cenários e Ciclo de vida de Mayhew, adição do tópico Modelo Escolhido|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza) [Lucas Ribeiro](https://github.com/lucassouzs)|
-|0.4|08/09/2023|Adição da Introdução|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
-|0.5|08/09/2023|Adição do Ciclo de Vida Simples|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
-|0.6|08/09/2023|Adição do Design Contextual|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
-|0.7|18/09/2023|Adição do Ciclo de vida em Estrela|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|
-|0.8|18/09/2023|Adição do Design Centrado na Comunicação e Engenharia de Usabilidade de Nielsen|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|
+|1.0|06/09/2023|Adição dos tópicos do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|1.1|07/09/2023|Adição dos modelos Design Baseado em Cenários e Ciclo de vida de Mayhew, adição do tópico Modelo Escolhido|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza) [Lucas Ribeiro](https://github.com/lucassouzs)|
+|1.2|08/09/2023|Adição da Introdução|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|1.3|08/09/2023|Adição do Ciclo de Vida Simples|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|1.4|08/09/2023|Adição do Design Contextual|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|1.5|18/09/2023|Adição do Ciclo de vida em Estrela|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|
+|1.6|18/09/2023|Adição do Design Centrado na Comunicação e Engenharia de Usabilidade de Nielsen|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|

@@ -46,9 +46,9 @@ Portanto, a escolha do site "Nota Legal" como projeto é motivada pelo seu públ
 
 ## Bibliografia
 
-> [1] Nota Legal. Disponível em: https://www.notalegal.df.gov.br/
+> Nota Legal. Disponível em: https://www.notalegal.df.gov.br/
 >
-> [2] Clico CRM. Disponível em: https://www.ciclocrm.com.br/portal-nota-legal-df-como-funciona/
+> Clico CRM. Disponível em: https://www.ciclocrm.com.br/portal-nota-legal-df-como-funciona/
 
 
 ## Histórico de Versões

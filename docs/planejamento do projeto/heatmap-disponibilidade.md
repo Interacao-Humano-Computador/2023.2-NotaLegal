@@ -2,7 +2,7 @@
 ## Introdução
 Com o propósito de facilitar o processo de agendamento de reuniões e garantir que todos os membros do grupo possam contribuir efetivamente, este documento tem como objetivo mapear os dias e horários mais viáveis para os membros da equipe. A coleta dessas informações permitirá a criação de um calendário de reuniões que leve em consideração as restrições de tempo de todos os envolvidos, garantindo a participação ativa de cada membro.
 
-O mapeamento da disponibilidade dos integrantes foi feito usando um Heatmap, portanto, os valores nas cédulas das tabelas podem variar de 0 até 7, onde 0 significa que nenhum membro está disponível no dia e horário em questão, e 7 significa que todos os membros estão disponíveis no dia e horário em questão.
+O mapeamento da disponibilidade dos integrantes foi feito usando um Heatmap, que pode ser visto na figura 1 e na tabela 1. Os valores nas cédulas das tabelas podem variar de 0 até 7, onde 0 significa que nenhum membro está disponível no dia e horário em questão, e 7 significa que todos os membros estão disponíveis no dia e horário em questão.
 
 ## Heatmap
 
@@ -23,11 +23,11 @@ O mapeamento da disponibilidade dos integrantes foi feito usando um Heatmap, por
 | 20:00  |     5    |     6  |     7   |     6   |    7   |   5     |
 | 21:00  |     7    |     7  |      7  |     7   |    7   |     5   |
 
-**Tabela 1:** Heatmap de disponibilidade dos integrantes do grupo 1 (Fonte: [Izabella Alves](https://github.com/izabellaalves))
+**Tabela 1:** Heatmap de disponibilidade dos integrantes do grupo 1. (Fonte: [Izabella Alves](https://github.com/izabellaalves))
 
-![Heatmap de Disponibilidade](/docs/imagens/heatmap.png)
+![Heatmap de Disponibilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/heatmap.png?raw=true)
 
-**Imagem 1:** Heatmap de disponibilidade dos integrantes do grupo 1 (Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09))
+**Figura 1:** Heatmap de disponibilidade dos integrantes do grupo 1 (Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09))
 
 ## Resultados
 Nos baseando nos resultados obtidos no Heatmap preenchido pela equipe, as reuniões semanais do Grupo 01 ficaram marcadas para **quarta-feira às 20h** e **sexta-feira às 20h**.

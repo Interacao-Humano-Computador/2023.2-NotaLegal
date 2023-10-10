@@ -2,7 +2,7 @@
 ## Introdução
 A ética é um pilar fundamental em diversas profissões, regulando e norteando o exercício responsável e consciente das atividades que influenciam diretamente a vida e os direitos das pessoas. Este documento apresenta o Termo de Consentimento Livre e Esclarecido do Grupo 1 da disciplina de Interação Humano-Computador de 2023.2 e explora os quatro princípios essenciais da ética em pesquisas envolvendo pessoas.
 
-No Brasil, a Resolução nº 466/2012 do Conselho Nacional de Saúde rege as pesquisas científicas envolvendo pessoas, estabelecendo princípios essenciais que devem ser seguidos. Esses princípios incluem o respeito à autonomia dos indivíduos, a busca pelo benefício máximo com o mínimo de danos, a prevenção de danos previsíveis e a promoção da justiça e equidade. Essas diretrizes são especialmente relevantes em pesquisas que envolvem seres humanos, onde é imperativo respeitar a dignidade e a autonomia dos participantes, considerando os aspectos éticos ao longo de todo o processo de pesquisa.
+No Brasil, a Resolução nº 466/2012 do Conselho Nacional de Saúde rege as pesquisas científicas envolvendo pessoas, estabelecendo princípios essenciais que devem ser seguidos. Esses princípios incluem o respeito à autonomia dos indivíduos, a busca pelo benefício máximo com o mínimo de danos, a prevenção de danos previsíveis e a promoção da justiça e equidade. Essas diretrizes são especialmente relevantes em pesquisas que envolvem seres humanos, onde é imperativo respeitar a dignidade e a autonomia dos participantes, considerando os aspectos éticos ao longo de todo o processo de pesquisa [1].
 ## Princípios Éticos Fundamentais
 - Princípio da Autonomia: Refere-se ao consentimento livre e esclarecido dos indivíduos e à proteção dos grupos vulneráveis e legalmente incapazes, como menores de idade, alunos ou subordinados. Este princípio demanda que a pesquisa trate os participantes com dignidade, respeite sua autonomia e os defenda em sua vulnerabilidade.
 
@@ -18,6 +18,7 @@ O TCLE que está sendo utilizado pelo Grupo 1 durante o desenvolvimento do proje
 
 ### TCLE - GRUPO 1
 
+ 
 **TERMO DE CONSENTIMENTO PARA PARTICIPAÇÃO EM PESQUISA**
 
 **Título da Pesquisa:** Avaliação do [objetivo da avaliação] do Site "Nota Legal"
@@ -51,10 +52,15 @@ Se você concorda em participar desta pesquisa, clique no botão "Concordo" abai
  
 Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu apoio é fundamental para o sucesso deste estudo.
 
-(Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023)
+<div align="center">
+
+Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023
+
+</div>
+
 
 ## Referências Bibliográficas
-> BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 23/09/2023.
+> [1] BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 23/09/2023.
 > 
 ## Bibliografia
 > Aspectos Éticos Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/#referencias-bibliograficas>>. Acesso em: 23/09/2023.

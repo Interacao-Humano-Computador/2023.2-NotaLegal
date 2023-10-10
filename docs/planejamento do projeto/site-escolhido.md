@@ -7,8 +7,8 @@ Com a apresentação da disciplina, foi proposta uma ementa que descrevia o proj
 
 <div align="center">
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/nota-legal-df-2.png?raw=true" width="300px">
-</div>
-<div align="right">
+
+
 Figura 1 - Logo do Nota Legal
 </div>
 <br/>

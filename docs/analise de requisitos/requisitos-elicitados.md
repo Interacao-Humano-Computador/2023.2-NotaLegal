@@ -6,11 +6,9 @@ O site "Nota Legal" é um sistema que visa oferecer aos cidadãos uma plataforma
 ## Metodologia
 A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em uma tabela estruturada. Nesta tabela, cada requisito é identificado por um ID exclusivo, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como a [Introspecção](#), [Brainstorming](#) e [Observação](#).
 
-Essa abordagem de registro em tabela oferece uma visão organizada e estruturada dos requisitos do projeto, permitindo uma fácil referência e acompanhamento ao longo do ciclo de desenvolvimento. Ela promove a rastreabilidade, o que significa que é possível rastrear a origem de cada requisito, garantindo que todas as necessidades dos stakeholders sejam devidamente consideradas e atendidas no projeto.
+Essa abordagem de registro em tabela oferece uma visão organizada e estruturada dos requisitos do projeto, permitindo uma fácil referência e acompanhamento ao longo do ciclo de desenvolvimento. Ela promove a rastreabilidade, o que significa que é possível rastrear a origem de cada requisito, garantindo que todas as necessidades dos stakeholders sejam devidamente consideradas e atendidas no projeto. A legenda para cada sigla esta disponível na tabela 1.
 
-A legenda para cada sigla esta disponível na tabela 1.
-
-<div align=center><p><b>Tabela 1:</b> Legenda para a tabela 2 de requisitos do Nota Legal.</p></div>
+<div align=center>
 
 | Tipo | Descrição                           |
 |------|-------------------------------------|
@@ -20,13 +18,15 @@ A legenda para cada sigla esta disponível na tabela 1.
 | BS   | Requisito elicitado pelo Brainstorming |
 | O   | Requisito elicitado pelo Observação |
 
-<div align=center><p><b>Fonte:</b><a href="https://github.com/gabrielrosa09"> Gabriel Rosa</a>, 2023.</p></div>
+<div align=center><p><b>Tabela 1:</b> Legenda para a tabela 2 de requisitos do Nota Legal .Fonte:</b><a href="https://github.com/gabrielrosa09"> Gabriel Rosa</a>, 2023.</p></div>
+
+</div>
+
+
+<div align=center>
 
 <br>
 
-<div align=center><p><b>Tabela 2:</b> Requisitos elicitados do site Nota Legal.</p></div>
-
-## Tabela de requisitos elicitados
 
 | ID   | Código | Descrição                                                                                      | Implementado | Rastreabilidade |
 |------|--------|------------------------------------------------------------------------------------------------|--------------| ------ |
@@ -61,7 +61,10 @@ A legenda para cada sigla esta disponível na tabela 1.
 |INT29| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel | Sim | BS, O |
 |INT30| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa | Sim | BS, O  |
 
-<div align=center><p><b>Fonte:</b><a href="https://github.com/gabrielrosa09"> Gabriel Rosa</a> e <a href="https://github.com/izabellaalves"> Izabella Alves</a>, 2023.</p></div>
+<div align=center><p><b>Tabela 2:</b> Requisitos elicitados do site Nota Legal .Fonte:</b><a href="https://github.com/gabrielrosa09"> Gabriel Rosa</a> e <a href="https://github.com/izabellaalves"> Izabella Alves</a>, 2023.</p></div>
+
+</div>
+
 
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|

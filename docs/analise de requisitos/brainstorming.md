@@ -60,6 +60,8 @@ Na elicitação de requisitos para o site "Nota Legal", utilizaremos códigos pa
 
 **ID:** Cada requisito será identificado por um ID composto da seguinte forma: INTXX (onde XX é um número sequencial). Por exemplo, o primeiro requisito funcional seria INT01 e assim por diante.
 
+<div align="center">
+
 | ID   | Código | Descrição                                                                                      | Implementado |
 |------|--------|------------------------------------------------------------------------------------------------|--------------|
 | BS01| RF     | O site deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |   Sim        |
@@ -80,6 +82,9 @@ Na elicitação de requisitos para o site "Nota Legal", utilizaremos códigos pa
 | BS16|    RNF  | O site deve possuir ferramentas de acessibilidade (Alto contraste, libras, aumentar a fonte) |     Não      |
 
 **Tabela 1:** Requisitos elicitados. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+
+</div>
+
 
 ## Link da Gravação
 

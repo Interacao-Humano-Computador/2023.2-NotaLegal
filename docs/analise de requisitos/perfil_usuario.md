@@ -9,7 +9,7 @@ A definição do perfil de usuário do aplicativo Economia DF foi cuidadosamente
 
 
 ## Definição do Usuário
-Após a análise dos resultados obtidos pelo [questionario](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elecitacao/questionario.md) e [grupo de foco](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elecitacao/grupo_de_foco.md) a equipe definiu o perfil de usuário do aplicativo Economia DF, que pode ser encontrado na Tabela 1:
+Após a análise dos resultados obtidos pelo [questionario](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-perfil-usuario/questionario.md) e [grupo de foco](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-perfil-usuario/grupo_de_foco.md) a equipe definiu o perfil de usuário do site Nota Legal, que pode ser encontrado na Tabela 1:
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Após a análise dos resultados obtidos pelo [questionario](https://github.com/R
 | Atitudes | Tecnófilos       |
 | Tarefa primária |    Realizar indicação de recebimento   |
 
-**Tabela 1:** Tabela do perfil de usuário do aplicativo Economia DF (Fonte: [Gabriel Zaranza](https://github.com/GZaranza))
+**Tabela 1:** Tabela do perfil de usuário do aplicativo Economia DF. Fonte: [Gabriel Zaranza](https://github.com/GZaranza)
 
 </div>
 

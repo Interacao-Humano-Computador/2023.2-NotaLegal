@@ -5,7 +5,7 @@ Este documento representa o registro detalhado e cronológico das ações e tare
 
 ## Entrega 1 - Planejamento do Projeto - Data de Entrega: 02/out/2023
 
-<font size="3"><p style="text-align: left"><b>Tabela 1</b> - Cronograma executado da etapa de Planejamento do Projeto</p></font>
+<div align="center">
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --------- | --------- | ------- | ------- | ------- |
@@ -26,9 +26,9 @@ Este documento representa o registro detalhado e cronológico das ações e tare
 
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma executado da etapa de Planejamento do Projeto. Fonte:</b> [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).</p></font>
 
-
+</div>
 
 ## Bibliografia
 

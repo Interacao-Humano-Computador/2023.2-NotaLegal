@@ -33,12 +33,12 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 
 ### Registrar uma reclamação
 Nessa tarefa, o usuário possui como principal objetivo realizar uma reclamação no ambiente do
-Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](/docs/analise%20de%20requisitos/cenarios.md). Na figura 1 é possível ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 1.
+Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](/docs/analise%20de%20requisitos/cenarios.md). Na figura 2 é possível ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 2.
 
 <center>
 
 ![Figura 2 - HTA Reclamação](/docs/imagens/HTA%20-%20Registrar%20Reclamação.jpg)
-**Figura 1**: Diagrama HTA da tarefa Consultar um estabelecimento. Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023
+**Figura 2**: Diagrama HTA da tarefa Consultar um estabelecimento. Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023
 
 </center>
 

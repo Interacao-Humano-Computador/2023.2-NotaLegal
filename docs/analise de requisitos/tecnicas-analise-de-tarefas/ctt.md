@@ -16,7 +16,7 @@ ver o diagrama CTT da tarefa em questão.
 </div>
 
 ### Consultar extrato
-Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Legal" para acompanhar e registrar suas interações financeiras com os estabelecimentos cadastrados no programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato). Na figura 1 é possível ver o diagrama CTT da tarefa em questão.
+Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Legal" para acompanhar e registrar suas interações financeiras com os estabelecimentos cadastrados no programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato). Na figura 2 é possível ver o diagrama CTT da tarefa em questão.
 
 ## Bibliografia
 
@@ -27,3 +27,4 @@ Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Lega
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |1.0|08/10/2023|Criação do documento e adição do ctt de consultar estabelecimentos|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|1.1|11/10/2023|Adição do ctt de consultar extrato|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|

@@ -62,6 +62,14 @@ Depois de preencher todos os campos necessários, Luiz clicou no botão “Regis
 
 Luiz ficou satisfeito por ter conseguido registrar sua reclamação e esperava que a situação fosse resolvida em breve. Ele continuou a monitorar sua conta no Nota Legal para verificar se as notas fiscais estavam sendo registradas corretamente.
 
+### Consultar extrato
+
+Maria era uma moradora dedicada da cidade de Brasília. Ela sempre foi uma cidadã exemplar que valorizava a transparência e a responsabilidade financeira. Todos os meses, após suas compras e interações com diversos estabelecimentos locais, Maria fazia questão de guardar todos os recibos e comprovantes fiscais. Ela sabia que esses documentos eram valiosos, não apenas para garantir que suas despesas fossem contabilizadas, mas também para contribuir com o programa "Nota Legal".
+
+Com o início do mês, Maria estava ansiosa para conferir seu extrato no site "Nota Legal". Ela sabia que este extrato era uma forma de rastrear todas as suas interações financeiras com os estabelecimentos cadastrados no programa. Maria acreditava que a transparência e o controle financeiro eram essenciais, e o "Nota Legal" era uma ferramenta fundamental para isso.
+
+Maria pegou seu computador e, acessou o site. Ela navegou até aba de "Extrato" e esperou que as informações fossem carregadas na tela, logo depois colocou o periodo de consulta de extrato. Quando seu extrato apareceu, Maria viu todos os créditos que havia acumulado a partir de suas compras e transações do mês anterior. Era gratificante ver o quanto ela estava contribuindo para o programa, ao mesmo tempo em que se beneficiava com os créditos acumulados.
+
 ## Referências Bibliográficas
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 

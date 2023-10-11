@@ -87,7 +87,7 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 | 2.1 Preencher formulário de solicitação       | **input:** formulário de solicitação de demanda com tipo de pessoa, assunto, tipo de atendimento, nome, tipo de documento do usuário, e-mail, telefone e descrição da solicitação. <br> **feedback:** nova solicitação é enviada para a SEFAZ-DF.  |
 
 
-<font size="2"><p style="text-align: center"><b>Tabela 3:</b> Tabela HTA da tarefa Consultar um estabelecimento. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b>, 2023.</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 3:</b> Tabela HTA da tarefa Desbloquear saldo. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b>, 2023.</p></font>
 </div>
 
 ## Bibliografia

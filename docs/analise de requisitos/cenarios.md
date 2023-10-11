@@ -82,7 +82,7 @@ Com o início do mês, Maria estava ansiosa para conferir seu extrato no site [N
 
 Maria pegou seu computador e, acessou o site. Ela navegou até aba de "Extrato" e esperou que as informações fossem carregadas na tela, logo depois colocou o periodo de consulta de extrato. Quando seu extrato apareceu, Maria viu todos os créditos que havia acumulado a partir de suas compras e transações do mês anterior. Era gratificante ver o quanto ela estava contribuindo para o programa, ao mesmo tempo em que se beneficiava com os créditos acumulados.
 
-## Visualizar Recibo Fiscal
+### Visualizar Recibo Fiscal
 
 [Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) é um economista aposentado de 52 anos com uma paixão por tecnologia e finanças. Ele passou a maior parte de sua vida trabalhando com números, analisando tendências econômicas e ajudando as pessoas a fazer escolhas financeiras inteligentes. Agora que está aposentado, ele tem mais tempo para explorar suas paixões e hobbies. Um desses hobbies é ficar atualizado com as últimas tendências tecnológicas, especialmente aquelas relacionadas às finanças.
 
@@ -108,4 +108,5 @@ Agora, Luiz está pronto para visualizar seu recibo fiscal no site Nota Legal. E
 |1.4|10/10/2023|Revisão do cenário consultar saldo, adição da introdução, tabela e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |1.5|11/10/2023|Adição do cenário consultar reclamação|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |1.6|11/10/2023|Adição do cenário consultar extrator |[Lucas Víctor ](https://github.com/Lucas13032003)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)
-|1.7|11/10/2023|Visualizar Recibo Fiscal |[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
+|1.7|11/10/2023|Adição do cenário visualizar Recibo Fiscal |[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
+|1.8|11/10/2023|Revisão do cenário Visualizar Recibo Fiscal |[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Víctor](https://github.com/Lucas13032003)|

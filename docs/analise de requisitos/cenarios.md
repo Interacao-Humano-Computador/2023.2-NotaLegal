@@ -13,7 +13,7 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 |              |                 |
 |          |                  |
 |     [Lucas Víctor ](https://github.com/Lucas13032003)        |       Indicar créditos               |
-|         |                  |
+|      [Lucas Víctor ](https://github.com/Lucas13032003)    |            Consultar extrato      |
 
 **Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário. Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor ](https://github.com/Lucas13032003),  2023.
 

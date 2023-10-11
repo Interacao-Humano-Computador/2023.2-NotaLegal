@@ -73,4 +73,4 @@ Luiz ficou satisfeito por ter conseguido registrar sua reclamação e esperava q
 |1.1|10/10/2023|Adição do cenário de indicação de créditos|[Lucas Víctor ](https://github.com/Lucas13032003)|[Izabella Alves](https://github.com/izabellaalves)|
 |1.2|10/10/2023|Adição do cenário consultar saldo|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |1.3|10/10/2023|Adição do cenário de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
-|1.4|10/10/2023|Revisão do cenário consultar saldo|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|1.4|10/10/2023|Revisão do cenário consultar saldo, adição da introdução, tabela e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Rosa](https://github.com/gabrielrosa09)|

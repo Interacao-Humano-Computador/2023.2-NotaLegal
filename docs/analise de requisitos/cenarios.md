@@ -62,6 +62,18 @@ Depois de preencher todos os campos necessários, Luiz clicou no botão “Regis
 
 Luiz ficou satisfeito por ter conseguido registrar sua reclamação e esperava que a situação fosse resolvida em breve. Ele continuou a monitorar sua conta no Nota Legal para verificar se as notas fiscais estavam sendo registradas corretamente.
 
+### Consultar Reclamação
+
+[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) é um cliente frequente de um restaurante localizado nas proximidades de seu local de trabalho. Diariamente, ele faz suas refeições no estabelecimento e sempre solicita a emissão da nota fiscal, visando acumular créditos no programa Nota Legal.
+
+Após vivenciar diversas situações desconfortáveis dentro do restaurante, Luiz decidiu rever as queixas que havia registrado durante esses incidentes.
+
+Ao entrar no site do Nota Legal e fazer Login em sua conta, Luiz navegou até a seção 'Consulta de Reclamações'. Nesse espaço, deparou-se com seis campos de pesquisa distintos, cada um destinado a um aspecto específico de suas queixas. 
+
+Após preencher os campos necessários, clicou no botão 'Consultar'. Em resposta, o sistema exibiu uma lista contendo todas as reclamações que ele havia registrado, com base nas características previamente informadas nos campos de pesquisa.
+
+Ao ver suas reclamações de forma clara, Luiz percebeu que seus problemas eram reais. Ele se sentiu confiante ao confrontar o restaurante com evidências sólidas, decidindo agir. Levou suas preocupações às autoridades e ao estabelecimento, esperando por refeições melhores no futuro.
+
 ### Consultar extrato
 
 Maria era uma moradora dedicada da cidade de Brasília. Ela sempre foi uma cidadã exemplar que valorizava a transparência e a responsabilidade financeira. Todos os meses, após suas compras e interações com diversos estabelecimentos locais, Maria fazia questão de guardar todos os recibos e comprovantes fiscais. Ela sabia que esses documentos eram valiosos, não apenas para garantir que suas despesas fossem contabilizadas, mas também para contribuir com o programa "Nota Legal".
@@ -82,3 +94,4 @@ Maria pegou seu computador e, acessou o site. Ela navegou até aba de "Extrato" 
 |1.2|10/10/2023|Adição do cenário consultar saldo|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |1.3|10/10/2023|Adição do cenário de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |1.4|10/10/2023|Revisão do cenário consultar saldo, adição da introdução, tabela e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|1.5|11/10/2023|Adição do cenário consultar reclamação|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|

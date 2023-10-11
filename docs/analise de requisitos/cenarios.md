@@ -7,7 +7,7 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 
 | Membro da Equipe | Cenário  |
 |------------------|---------------------------|
-|           |                |
+|      [Gabriel Rosa](https://github.com/gabrielrosa09)     |       Registrar nova reclamação         |
 |        [Gabriel Zaranza](https://github.com/GZaranza)    |      Desbloquear saldo            |
 |    [Izabella Alves](https://github.com/izabellaalves)      |     Consultar estabelecimento            |
 |              |                 |
@@ -49,6 +49,18 @@ Luiz decide por visualizar os documentos e percebe que os documentos bloqueados 
 
 O economista é redirecionado para o Portal de Serviços da Receita da Secretaria de Fazenda do Distrito Federal e consegue fazer o desbloqueio desse saldo utilizando o canal de atendimento do site.
 
+### Registrar nova reclamação
+[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) é um consumidor frequente de um restaurante localizado perto de seu trabalho. Ele costuma almoçar lá todos os dias e sempre pede a nota fiscal para acumular créditos no programa Nota Legal.
+
+No entanto, Luiz percebeu que, nos últimos meses, as notas fiscais de suas refeições não estavam sendo registradas corretamente no programa. Preocupado com a situação, Luiz decidiu fazer uma reclamação no site do Nota Legal.
+
+Primeiro, Luiz acessou o site do Nota Legal e fez login em sua conta. Em seguida, ele navegou até a seção de “Reclamações” localizada no menu principal. Lá, ele encontrou um botão para “Registrar nova reclamação”.
+
+Ao clicar no botão, Luiz foi direcionado para uma página onde poderia detalhar sua reclamação. Ele anexou o documento fiscal e selecionou o tipo da nota. Em seguida, ele inseriu a chave de acesso, CNPJ, data de emissão, número da nota e o valor, pois todos esses campos eram obrigatórios.
+
+Depois de preencher todos os campos necessários, Luiz clicou no botão “Registrar reclamação”. Uma mensagem de confirmação apareceu na tela, informando que sua reclamação havia sido registrada com sucesso e que o Nota Legal entraria em contato com ele em breve.
+
+Luiz ficou satisfeito por ter conseguido registrar sua reclamação e esperava que a situação fosse resolvida em breve. Ele continuou a monitorar sua conta no Nota Legal para verificar se as notas fiscais estavam sendo registradas corretamente.
 
 ## Referências Bibliográficas
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -59,4 +71,6 @@ O economista é redirecionado para o Portal de Serviços da Receita da Secretari
 |:----:|----|---------|-----|:-------:|
 |1.0|07/10/2023|Adição da introdução, tabela, metodologia e cenário 1|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |1.1|10/10/2023|Adição do cenário de indicação de créditos|[Lucas Víctor ](https://github.com/Lucas13032003)|[Izabella Alves](https://github.com/izabellaalves)|
-|1.2|10/10/2023|Adição do cenário Consultar saldo|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|1.2|10/10/2023|Adição do cenário consultar saldo|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|1.3|10/10/2023|Adição do cenário de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
+|1.4|10/10/2023|Revisão do cenário consultar saldo|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Rosa](https://github.com/gabrielrosa09)|

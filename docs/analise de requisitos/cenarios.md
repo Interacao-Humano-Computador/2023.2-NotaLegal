@@ -32,7 +32,7 @@ Em seguida, Luiz navegava até a seção do Nota Legal. Ele inseria com cuidado 
 Ao concluir suas indicações no aplicativo, Luiz se sentia satisfeito. Ele sabia que estava tomando medidas práticas para manter suas finanças em ordem e, ao mesmo tempo, apoiar o comércio local. Era uma maneira de começar o ano com o pé direito, sabendo que estava cuidando bem de suas finanças.
 
 ### Consultar Estabelecimento
-Maria é formada em administração e trabalha na administração de uma empresa localizada no centro da cidade há muitos anos. Uma vez por mês, após o trabalho, Maria costuma ir até uma farmácia comprar uma caixa de seu remédio diário. Ao chegar em casa, ela verifica se a nota fiscal foi cadastrada corretamente, para que possa reunir créditos para o desconto do Nota Legal ao final do ano.
+[Maria](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-prim%C3%A1ria-2-maria-administradora) é formada em administração e trabalha na administração de uma empresa localizada no centro da cidade há muitos anos. Uma vez por mês, após o trabalho, Maria costuma ir até uma farmácia comprar uma caixa de seu remédio diário. Ao chegar em casa, ela verifica se a nota fiscal foi cadastrada corretamente, para que possa reunir créditos para o desconto do Nota Legal ao final do ano.
 
 Porém, a farmácia que Maria frequentava fechou. Maria deseja continuar com o costume de comprar mensalmente seu remédio após o trabalho. Então ela decidiu verificar quais farmácias localizadas nos arredores de seu trabalho também são cadastradas no programa Nota Legal, para que ela possa continuar ganhando o desconto.
 

@@ -76,9 +76,9 @@ Ao ver suas reclamações de forma clara, Luiz percebeu que seus problemas eram 
 
 ### Consultar extrato
 
-Maria era uma moradora dedicada da cidade de Brasília. Ela sempre foi uma cidadã exemplar que valorizava a transparência e a responsabilidade financeira. Todos os meses, após suas compras e interações com diversos estabelecimentos locais, Maria fazia questão de guardar todos os recibos e comprovantes fiscais. Ela sabia que esses documentos eram valiosos, não apenas para garantir que suas despesas fossem contabilizadas, mas também para contribuir com o programa "Nota Legal".
+[Maria](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-prim%C3%A1ria-2-maria-administradora) é uma profissional experiente formada em adimistração, moradora dedicada da cidade de Brasília. Ela sempre foi uma cidadã exemplar que valorizava a transparência e a responsabilidade financeira. Todos os meses, após suas compras e interações com diversos estabelecimentos locais, Maria fazia questão de guardar todos os recibos e comprovantes fiscais. Ela sabia que esses documentos eram valiosos, não apenas para garantir que suas despesas fossem contabilizadas, mas também para contribuir com o programa "Nota Legal".
 
-Com o início do mês, Maria estava ansiosa para conferir seu extrato no site "Nota Legal". Ela sabia que este extrato era uma forma de rastrear todas as suas interações financeiras com os estabelecimentos cadastrados no programa. Maria acreditava que a transparência e o controle financeiro eram essenciais, e o "Nota Legal" era uma ferramenta fundamental para isso.
+Com o início do mês, Maria estava ansiosa para conferir seu extrato no site [Nota Legal](notalegal.df.gov.br). Ela sabia que este extrato era uma forma de rastrear todas as suas interações financeiras com os estabelecimentos cadastrados no programa. Maria acreditava que a transparência e o controle financeiro eram essenciais, e o [Nota Legal](notalegal.df.gov.br) era uma ferramenta fundamental para isso.
 
 Maria pegou seu computador e, acessou o site. Ela navegou até aba de "Extrato" e esperou que as informações fossem carregadas na tela, logo depois colocou o periodo de consulta de extrato. Quando seu extrato apareceu, Maria viu todos os créditos que havia acumulado a partir de suas compras e transações do mês anterior. Era gratificante ver o quanto ela estava contribuindo para o programa, ao mesmo tempo em que se beneficiava com os créditos acumulados.
 
@@ -95,3 +95,4 @@ Maria pegou seu computador e, acessou o site. Ela navegou até aba de "Extrato" 
 |1.3|10/10/2023|Adição do cenário de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |1.4|10/10/2023|Revisão do cenário consultar saldo, adição da introdução, tabela e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |1.5|11/10/2023|Adição do cenário consultar reclamação|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|1.6|11/10/2023|Adição do cenário consultar extrator |[Lucas Víctor ](https://github.com/Lucas13032003)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|

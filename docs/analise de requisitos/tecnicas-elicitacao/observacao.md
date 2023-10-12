@@ -40,7 +40,7 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 | ID    | Código | Descrição                                                    | Implementado | Nível de Dificuldade                |
 | :---: | :----: | ------------------------------------------------------------ | :----------: | ----------------------------------- |
 | O01   | RF     | Recuperação da senha                                         | Sim | médio - consegue realizar com dificuldade    |
-| O02   | RF     | Visulaização de créditos acumulados                          | Sim | fácil - consegue realizar                    |
+| O02   | RF     | Visualização de créditos acumulados                          | Sim | fácil - consegue realizar                    |
 | O03   | RF     | Visualização de saldo bloqueado                              | Sim | fácil - consegue realizar                    |
 | O04   | RF     | Desbloquear saldo bloqueado                                  | Sim | difícil - não consegue realizar              |
 | O05   | RF     | Indicação de concessão de créditos                           | Sim | não foi possível realizar (fora do prazo)    |

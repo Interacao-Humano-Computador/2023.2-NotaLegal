@@ -31,6 +31,18 @@ ver o diagrama CTT da tarefa em questão.
 
 </div>
 
+### Consultar Reclamação
+
+Nesta tarefa, os usuários buscam consultar reclamações no site "Nota Legal", essencial para acompanhar interações com estabelecimentos do programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato) A Figura 2 do diagrama CTT revela um processo eficiente e transparente, destacando a importância da transparência nas relações consumidor-estabelecimento.
+
+<div align="center">
+
+<img src="" class="usecaseElement">
+
+<font size="2"><p style="text-align: center"><b>Figura 4:</b> Diagrama CTT da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+
+</div>
+
 ## Bibliografia
 
 > SALES, André Barros. Apresentação Cap6 . Disponível em: https://aprender3.unb.br/pluginfile.php/2692526/mod_resource/content/4/Apresentacao%20cap06.pdf. Acesso em: 03 de outubro de 2023;

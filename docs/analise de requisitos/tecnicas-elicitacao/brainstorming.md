@@ -4,7 +4,7 @@
 O brainstorming é uma técnica amplamente utilizada na elicitação de requisitos no processo de desenvolvimento de software. Essa abordagem colaborativa e criativa envolve a reunião de diversas partes interessadas, como clientes, usuários e membros da equipe de desenvolvimento, em uma sessão de brainstorming. Durante essa reunião, os participantes são encorajados a gerar ideias livremente, sem críticas ou julgamentos, com o objetivo de identificar requisitos, funcionalidades e objetivos do projeto. O brainstorming promove a criatividade, a geração de soluções inovadoras e a participação ativa de todos os envolvidos, o que ajuda a garantir que os requisitos do projeto sejam abrangentes e bem compreendidos desde o início do processo de desenvolvimento.
 
 ## Metodologia
-O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de todos os integrantes da equipe, a princinpio o moderador [Lucas Victor](https://github.com/Lucas13032003) fez uma breve introdução sobre o programa Nota Legal e explicou como seria realizada a sessão. Foi preparado um quadro de post-it's, na plataforma [Canva](canva.com) [1], para cada uma das seis perguntas que guiariam o brainstorming. O mediador então fazia a introdução da pergunta e pedia para os participantes colarem post-it's com ideias sobre aquele assunto e ao final a equipe falava um pouco sobre as ideias levantadas.
+O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de todos os integrantes da equipe, a princípio, o moderador [Lucas Victor](https://github.com/Lucas13032003) fez uma breve introdução sobre o programa Nota Legal e explicou como seria realizada a sessão. Foi preparado um quadro de post-it's, na plataforma [Canva](canva.com) [1], para cada uma das seis perguntas que guiariam o brainstorming. O mediador então fazia a introdução da pergunta e pedia para os participantes colarem post-it's com ideias sobre aquele assunto e ao final a equipe falava um pouco sobre as ideias levantadas.
 
 ## Desenvolvimento
 
@@ -52,7 +52,7 @@ O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de
 > - Se adaptar a linguagem do usuário
 > - Seguir um padrão
 
-Na elicitação de requisitos para o site "Nota Legal", utilizaremos códigos para classificar e organizar os requisitos de maneira clara e estruturada. Dois desses códigos frequentemente usados são RF (Requisitos Funcionais) e RNF (Requisitos Não Funcionais). Além disso, cada requisito elicitado terá um ID.
+Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na tabela 1, utilizamos códigos para classificar e organizar os requisitos de maneira clara e estruturada. Dois desses códigos frequentemente usados são RF (Requisitos Funcionais) e RNF (Requisitos Não Funcionais). Além disso, cada requisito elicitado terá um ID.
 
 **RF (Requisitos Funcionais):** Representam funcionalidades específicas que o aplicativo deve oferecer, descrevendo as ações que o sistema deve executar em resposta a entradas.
 

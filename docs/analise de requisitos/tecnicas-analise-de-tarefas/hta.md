@@ -91,12 +91,12 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 </div>
 
 ### Consultar Reclamação
-Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações registradas contra um estabelecimento específico. O processo envolve verificar se há reclamações cadastradas para o estabelecimento desejado no sistema de reclamações do Nota Legal. Na Figura 4, você pode visualizar o diagrama HTA desta tarefa. Além disso, o mesmo diagrama HTA está disponível em formato de tabela, apresentado na Tabela 4X.
+Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações registradas contra um estabelecimento específico. O processo envolve verificar se há reclamações cadastradas para o estabelecimento desejado no sistema de reclamações do Nota Legal. Na Figura 4, você pode visualizar o diagrama HTA desta tarefa. Além disso, o mesmo diagrama HTA está disponível em formato de tabela, apresentado na Tabela 4.
 <div align="center">
 
-<img src="" class="usecaseElement">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/HTA%20-%20Consultar%20Reclama%C3%A7%C3%A3o.drawio.png" class="usecaseElement">
 
-<font size="2"><p style="text-align: center"><b>Figura 4:</b> Diagrama HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b>, 2023.</p></font>
+<font size="2"><p style="text-align: center"><b>Figura 4:</b> Diagrama HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b>, 2023.</p></font>
 
 <br>
 <div align="center">
@@ -116,7 +116,7 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 |4. Clicar no botão ‘Consultar’|feedback: exibir uma lista com as reclamações de acordo com as informações indicadas nos campos|
 |5. Analisar Reclamações Registradas|plano: verificar se as reclamações exibidas estão de acordo com as informalções inficadas nos campos|
 
-<font size="2"><p style="text-align: center"><b>Tabela 4:</b> Tabela HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></b>, 2023.</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 4:</b> Tabela HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b>, 2023.</p></font>
 </div>
 
 ## Bibliografia
@@ -125,6 +125,7 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|1.0|08/10/2023|Criação do documento e adição do hta de consultar estabelecimentos|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|1.1|10/10/2023|Adição do hta de registro de reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
-|1.2|11/10/2023|Adição do hta de desbloqueio de saldo|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|´1.0´|08/10/2023|Criação do documento e adição do hta de consultar estabelecimentos|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|´1.1´|10/10/2023|Adição do hta de registro de reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
+|´1.2´|11/10/2023|Adição do hta de desbloqueio de saldo|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|´1.3´|12/10/2023|Adição do hta de consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|

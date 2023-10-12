@@ -90,6 +90,35 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 <font size="2"><p style="text-align: center"><b>Tabela 3:</b> Tabela HTA da tarefa Desbloquear saldo. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b>, 2023.</p></font>
 </div>
 
+### Consultar Reclamação
+Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações registradas contra um estabelecimento específico. O processo envolve verificar se há reclamações cadastradas para o estabelecimento desejado no sistema de reclamações do Nota Legal. Na Figura 4, você pode visualizar o diagrama HTA desta tarefa. Além disso, o mesmo diagrama HTA está disponível em formato de tabela, apresentado na Tabela 4X.
+<div align="center">
+
+<img src="" class="usecaseElement">
+
+<font size="2"><p style="text-align: center"><b>Figura 4:</b> Diagrama HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b>, 2023.</p></font>
+
+<br>
+<div align="center">
+
+| Objetivos/Operações       | Problemas e Recomendações                                                                                      |
+|---------------------------|----------------------------------------------------------------------------------------------------------------|
+|0. Consultar reclamação|-|
+|1. Acessar o site ‘Nota Legal’|feedback: ser redirecionado para o site ‘Nota Legal’|
+|2. Navegar até a página ‘Consulta de Reclamações’|feedback: ser redirecionado para a página de consulta de reclamações|
+|3. Inserir informações de Consulta|-|
+|3.1. Informar CNPJ|input: o usuário deve inserir o CNPJ da Empresa em que foi registrada a reclamação|
+|3.2. Informar Período Inicial|input: o usuário deve inserir a data do período inicial em que foi registrada a reclamação|
+|3.3. Informar Período Final|input: o usuário deve inserir a data do período final em que foi registrada a reclamação|
+|3.4. Informar Número da Reclamação|input: o usuário deve inserir o número da reclamação|
+|3.5. Informar Valor da Nota R$|input: o usuário deve inserir o valor total da nota fiscal da compra registrada|
+|3.6. Informar Situação|input: o usuário deve informar a situação em que a reclamação se encontra|
+|4. Clicar no botão ‘Consultar’|feedback: exibir uma lista com as reclamações de acordo com as informações indicadas nos campos|
+|5. Analisar Reclamações Registradas|plano: verificar se as reclamações exibidas estão de acordo com as informalções inficadas nos campos|
+
+<font size="2"><p style="text-align: center"><b>Tabela 4:</b> Tabela HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></b>, 2023.</p></font>
+</div>
+
 ## Bibliografia
 > Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/>. Acesso em: 08 de outubro 2023.
 ## Histórico de Versões

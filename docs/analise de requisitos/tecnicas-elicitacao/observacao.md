@@ -20,7 +20,7 @@ Os estudos de campo podem ser utilizados em qualquer etapa do desenvolvimento, m
 
 A forma mais simples de realizar o estudo de campo é através da observação dos usuários utilizando o sistema. Ela pode ser de forma pura, sem a intervenção do observador ou pode ser uma observação guiada por tópicos de interesse.
 
-Neste documento, apresentaremos o resultado da observação guiada de um usuário do site "Nota Legal", com a intenção de elicitar requisitos para o programa  "Nota Legal", tanto para o site, para a disciplina de Interação Humano-Computador, como para o aplicativo "Economia DF", para a disciplina de Requisitos de Software.
+Neste documento, apresentaremos o resultado da observação guiada de um usuário do site "Nota Legal", com a intenção de elicitar requisitos para o programa  "Nota Legal", tanto para o site, para a disciplina de Interação Humano-Computador, como para o aplicativo "Economia DF", para a disciplina de Requisitos de Software. O resultado da elicitação de requisitos feita através desta técnica pode ser vista abaixo na tabela 1.
 
 ## Metodologia
 
@@ -34,8 +34,6 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 **ID:** Cada requisito será identificado por um código composto da seguinte maneira: OXX, onde "XX" representa um número sequencial único.
 
 <div align="center">
-
-**Tabela 1:** Requisitos elicitados.
 
 | ID    | Código | Descrição                                                    | Implementado | Nível de Dificuldade                |
 | :---: | :----: | ------------------------------------------------------------ | :----------: | ----------------------------------- |
@@ -52,9 +50,9 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 | O11   | RF     | Forma de contato com a Secretaria de Estado de Economia no caso de algum problema específico do usuário | Não | - |
 | O12   | RNF    | Garantir que ao fechar o aplicativo o usuário seja deslogado | Não | -                                            |
 
-</div>
+**Tabela 1:** Requisitos elicitados. (Fonte: [Zenilda Pedrosa Vieira](https://github.com/zenildavieira), 2023).
 
-Fonte: [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) , 2023.
+</div>
 
 ## Link da Gravação
 
@@ -70,3 +68,4 @@ Fonte: [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) , 2023.
 | :----: | ---------- | ---------------------------------- | :--------------------------------------------------------: | :-------------------------------------------------------: |
 | `1.0`  | 28/09/2023 | Criação do documento               | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | [Izabella Alves Pereira](https://github.com/izabellaalves)|
 | `1.1`  | 10/10/2023 | Inclusão dos requisitos elicitados | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | [Izabella Alves Pereira](https://github.com/izabellaalves)|
+| `1.2`  | 12/10/2023 | Revisão |  [Izabella Alves Pereira](https://github.com/izabellaalves)| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |

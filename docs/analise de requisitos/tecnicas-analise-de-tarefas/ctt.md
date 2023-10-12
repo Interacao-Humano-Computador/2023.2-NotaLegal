@@ -39,7 +39,7 @@ Nesta tarefa, os usuários buscam consultar reclamações no site "Nota Legal", 
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/CTT%20-%20Consultar%20Reclama%C3%A7%C3%A3o.drawio.png" class="usecaseElement">
 
-<font size="2"><p style="text-align: center"><b>Figura 4:</b> Diagrama CTT da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Figura 4:</b> Diagrama CTT da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
 
 </div>
 

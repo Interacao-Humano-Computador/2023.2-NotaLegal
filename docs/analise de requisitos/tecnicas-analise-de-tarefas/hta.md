@@ -119,8 +119,11 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 <font size="2"><p style="text-align: center"><b>Tabela 4:</b> Tabela HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b>, 2023.</p></font>
 </div>
 
+<div align="left">
 ## Bibliografia
 > Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/>. Acesso em: 08 de outubro 2023.
+</div>
+
 ## Histórico de Versões
 
 |Versão|Data|Descrição|Autor|Revisor|

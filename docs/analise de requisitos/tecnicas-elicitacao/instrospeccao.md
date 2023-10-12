@@ -12,7 +12,7 @@ que o site seja um sucesso e atenda as necessidades da tarefa. Sendo assim, a si
 Eu sou uma cidadã que deseja acessar os serviços do programa Nota Legal, como verificar créditos acumulados e histórico de notas fiscais, resolvo fazer isso através de meu computador, e para isso, acesso o site "Nota Legal".
 
 ## Desenvolvimento
-Na elicitação de requisitos para o site "Nota Legal", utilizaremos códigos para classificar e organizar os requisitos de maneira clara e estruturada. Dois desses códigos frequentemente usados são RF (Requisitos Funcionais) e RNF (Requisitos Não Funcionais). Além disso, cada requisito elicitado terá um ID.
+Na elicitação de requisitos para o site "Nota Legal", que pode ser vista na tabela 1, utilizamos códigos para classificar e organizar os requisitos de maneira clara e estruturada. Dois desses códigos frequentemente usados são RF (Requisitos Funcionais) e RNF (Requisitos Não Funcionais). Além disso, cada requisito elicitado terá um ID.
 
 **RF (Requisitos Funcionais):** Representam funcionalidades específicas que o aplicativo deve oferecer, descrevendo as ações que o sistema deve executar em resposta a entradas.
 

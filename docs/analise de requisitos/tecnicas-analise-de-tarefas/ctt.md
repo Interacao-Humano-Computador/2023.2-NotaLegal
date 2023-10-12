@@ -33,11 +33,11 @@ ver o diagrama CTT da tarefa em questão.
 
 ### Consultar Reclamação
 
-Nesta tarefa, os usuários buscam consultar reclamações no site "Nota Legal", essencial para acompanhar interações com estabelecimentos do programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato) A Figura 2 do diagrama CTT revela um processo eficiente e transparente, destacando a importância da transparência nas relações consumidor-estabelecimento.
+Nesta tarefa, os usuários buscam consultar reclamações no site "Nota Legal", essencial para acompanhar interações com estabelecimentos do programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato). A Figura 4 do diagrama CTT revela um processo eficiente e transparente, destacando a importância da transparência nas relações consumidor-estabelecimento.
 
 <div align="center">
 
-<img src="" class="usecaseElement">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/CTT%20-%20Consultar%20Reclama%C3%A7%C3%A3o.drawio.png" class="usecaseElement">
 
 <font size="2"><p style="text-align: center"><b>Figura 4:</b> Diagrama CTT da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
 
@@ -53,4 +53,5 @@ Nesta tarefa, os usuários buscam consultar reclamações no site "Nota Legal", 
 |:----:|----|---------|-----|:-------:|
 |1.0|08/10/2023|Criação do documento e adição do ctt de consultar estabelecimentos|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |1.1|11/10/2023|Adição do ctt de consultar extrato|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|1.2|11/10/2023|Adição do ctt de desbloquear saldo|[Gabriel Zaranza]()|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|1.2|11/10/2023|Adição do ctt de desbloquear saldo|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|1.3|12/10/2023|Adição do ctt de consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Víctor](https://github.com/Lucas13032003)|

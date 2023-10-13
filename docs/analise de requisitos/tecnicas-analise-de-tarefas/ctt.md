@@ -56,9 +56,9 @@ Nessa tarefa, o usuário possui como principal objetivo consultar se determinado
 
 </div>
 
-### Visualizar recibo fiscal
+### Visualizar recibo de indicação
 
-...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#visualizar-recibo-fiscal)
+Nesta tarefa os usuários visualizam a lista de recibos de indicação no site "Nota Legal". È possível verificar um cenário que se baseia nessa tarefa na nossa pagina de:[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#visualizar-recibo-fiscal)
 
 ... referenciar Figura 4
 

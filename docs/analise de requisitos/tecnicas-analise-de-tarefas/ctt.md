@@ -94,6 +94,7 @@ Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Lega
 ## Bibliografia
 
 > SALES, André Barros. Apresentação Cap6 . Disponível em: https://aprender3.unb.br/pluginfile.php/2692526/mod_resource/content/4/Apresentacao%20cap06.pdf. Acesso em: 03 de outubro de 2023;
+> 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versões

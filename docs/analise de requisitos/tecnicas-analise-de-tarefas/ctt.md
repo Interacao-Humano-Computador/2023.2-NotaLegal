@@ -105,3 +105,4 @@ Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Lega
 |`1.2`|11/10/2023|Adição do ctt de desbloquear saldo|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.3`|12/10/2023|Adição do ctt de consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Víctor](https://github.com/Lucas13032003)|
 |`1.4`|12/10/2023|Adição do ctt de consultar resultado de sorteio|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.5`|12/10/2023|Adição do ctt de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Zenilda Vieira](https://github.com/zenildavieira)|

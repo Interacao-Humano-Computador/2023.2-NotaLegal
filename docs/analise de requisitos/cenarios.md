@@ -28,36 +28,6 @@ Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](http
 
 ## Cenários Identificados
 
-### Indicação de créditos
-
-[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) , um economista aposentado com ampla experiência em finanças, começava todos os anos com uma rotina financeira sólida. Todo início de janeiro, ele abria seu computador e acessava o Site [Nota Legal](https://www.notalegal.df.gov.br/). Essa era uma prática que ele seguia há anos, e era parte crucial de sua estratégia financeira.
-
-Primeiro, Luiz entrava na seção do IPTU. Com sua habilidade e conhecimento, ele rapidamente indicava os créditos fiscais para ajudar a compensar parte do imposto predial. Isso era como um ritual para ele, uma maneira de otimizar suas finanças pessoais e economizar dinheiro.
-
-Em seguida, Luiz navegava até a seção do Nota Legal. Ele inseria com cuidado os recibos fiscais das compras realizadas no ano anterior. Para Luiz, cada recibo era uma oportunidade de acumular créditos que poderiam ser usados em suas futuras despesas.
-
-Ao concluir suas indicações no aplicativo, Luiz se sentia satisfeito. Ele sabia que estava tomando medidas práticas para manter suas finanças em ordem e, ao mesmo tempo, apoiar o comércio local. Era uma maneira de começar o ano com o pé direito, sabendo que estava cuidando bem de suas finanças.
-
-### Consultar Estabelecimento
-
-[Maria](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-prim%C3%A1ria-2-maria-administradora) é formada em administração e trabalha na administração de uma empresa localizada no centro da cidade há muitos anos. Uma vez por mês, após o trabalho, Maria costuma ir até uma farmácia comprar uma caixa de seu remédio diário. Ao chegar em casa, ela verifica se a nota fiscal foi cadastrada corretamente, para que possa reunir créditos para o desconto do Nota Legal ao final do ano.
-
-Porém, a farmácia que Maria frequentava fechou. Maria deseja continuar com o costume de comprar mensalmente seu remédio após o trabalho. Então ela decidiu verificar quais farmácias localizadas nos arredores de seu trabalho também são cadastradas no programa Nota Legal, para que ela possa continuar ganhando o desconto.
-
-Maria pesquisa no Google e vê que há 5 possíveis farmácias. Então, ela acessa o site do [Nota Legal](https://www.notalegal.df.gov.br/) e navega pelo site até chegar no rodapé e clicar no botão de consultar estabelecimentos. Depois disso, ela vê os vários filtros que podem ser utilizados e resolve utilizar o filtro de razão social, onde ela coloca o nome de cada uma das 5 farmácias. Em seguida, utiliza o filtro de ramo comercial, onde ela define o ramo de medicamentos e saúde. A partir daí, clica no botão e verifica se cada uma das farmácias está ou não cadastrada.
-
-O resultado obtido por Maria é que das 5 empresas, 3 são cadastradas no programa Nota Legal. Ela ficou feliz por ter conseguido encontrar novas farmácias cadastradas e decidiu ir comprar o remédio na farmácia que era cadastrada e mais próxima de seu trabalho.
-
-### Desbloquear saldo
-
-[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) é um economista aposentado e gosta de participar de programas de vantagens, como o Nota Legal. Todo lugar em que faz uma compra, Luiz pede o CPF na nota fiscal para arrecadar saldo no Nota Legal e assim conseguir desconto no IPVA do seu carro. Próximo do período de encerramento da indicação do saldo Nota Legal, Luiz decide entrar no site do [Nota Legal](https://www.notalegal.df.gov.br/) para realizar sua indicação e percebe que uma parte do seu saldo está bloqueada para uso.
-
-Para não perder esse saldo, Luiz seleciona a opção "desbloquear", localizada abaixo do saldo, e lhe aparece uma mensagem informando que algumas notas fiscais que ele solicitou o Nota Legal foram bloqueadas e que era possível visualiza-las clicando em "Visualizar documento bloqueados" ou então pedir o desbloqueio desses documentos no Portal de Serviços da Receita da Secretaria de Fazenda do Distrito Federal, atravez do hiperlink "clique aqui". 
-
-Luiz decide por visualizar os documentos e percebe que os documentos bloqueados são de compras que ele realizou no mês anterior. Por se tratar de um valor considerável de saldo, ele decide desbloquear e seleciona o hiperlink "Desblqueio de créditos, localizado ao final da lista de documentos bloqueado.
-
-O economista é redirecionado para o Portal de Serviços da Receita da Secretaria de Fazenda do Distrito Federal e consegue fazer o desbloqueio desse saldo utilizando o canal de atendimento do site.
-
 ### Registrar nova reclamação
 
 [Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) é um consumidor frequente de um restaurante localizado perto de seu trabalho. Ele costuma almoçar lá todos os dias e sempre pede a nota fiscal para acumular créditos no programa Nota Legal.
@@ -72,25 +42,25 @@ Depois de preencher todos os campos necessários, Luiz clicou no botão “Regis
 
 Luiz ficou satisfeito por ter conseguido registrar sua reclamação e esperava que a situação fosse resolvida em breve. Ele continuou a monitorar sua conta no Nota Legal para verificar se as notas fiscais estavam sendo registradas corretamente.
 
-### Consultar Reclamação
+### Desbloquear saldo
 
-[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) é um cliente frequente de um restaurante localizado nas proximidades de seu local de trabalho. Diariamente, ele faz suas refeições no estabelecimento e sempre solicita a emissão da nota fiscal, visando acumular créditos no programa Nota Legal.
+[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) é um economista aposentado e gosta de participar de programas de vantagens, como o Nota Legal. Todo lugar em que faz uma compra, Luiz pede o CPF na nota fiscal para arrecadar saldo no Nota Legal e assim conseguir desconto no IPVA do seu carro. Próximo do período de encerramento da indicação do saldo Nota Legal, Luiz decide entrar no site do [Nota Legal](https://www.notalegal.df.gov.br/) para realizar sua indicação e percebe que uma parte do seu saldo está bloqueada para uso.
 
-Após vivenciar diversas situações desconfortáveis dentro do restaurante, Luiz decidiu rever as queixas que havia registrado durante esses incidentes.
+Para não perder esse saldo, Luiz seleciona a opção "desbloquear", localizada abaixo do saldo, e lhe aparece uma mensagem informando que algumas notas fiscais que ele solicitou o Nota Legal foram bloqueadas e que era possível visualiza-las clicando em "Visualizar documento bloqueados" ou então pedir o desbloqueio desses documentos no Portal de Serviços da Receita da Secretaria de Fazenda do Distrito Federal, atravez do hiperlink "clique aqui". 
 
-Ao entrar no site do [Nota Legal](https://www.notalegal.df.gov.br/) e fazer Login em sua conta, Luiz navegou até a seção 'Consulta de Reclamações'. Nesse espaço, deparou-se com seis campos de pesquisa distintos, cada um destinado a um aspecto específico de suas queixas. 
+Luiz decide por visualizar os documentos e percebe que os documentos bloqueados são de compras que ele realizou no mês anterior. Por se tratar de um valor considerável de saldo, ele decide desbloquear e seleciona o hiperlink "Desblqueio de créditos, localizado ao final da lista de documentos bloqueado.
 
-Após preencher os campos necessários, clicou no botão 'Consultar'. Em resposta, o sistema exibiu uma lista contendo todas as reclamações que ele havia registrado, com base nas características previamente informadas nos campos de pesquisa.
+O economista é redirecionado para o Portal de Serviços da Receita da Secretaria de Fazenda do Distrito Federal e consegue fazer o desbloqueio desse saldo utilizando o canal de atendimento do site.
 
-Ao ver suas reclamações de forma clara, Luiz percebeu que seus problemas eram reais. Ele se sentiu confiante ao confrontar o restaurante com evidências sólidas, decidindo agir. Levou suas preocupações às autoridades e ao estabelecimento, esperando por refeições melhores no futuro.
+### Consultar Estabelecimento
 
-### Consultar extrato
+[Maria](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-prim%C3%A1ria-2-maria-administradora) é formada em administração e trabalha na administração de uma empresa localizada no centro da cidade há muitos anos. Uma vez por mês, após o trabalho, Maria costuma ir até uma farmácia comprar uma caixa de seu remédio diário. Ao chegar em casa, ela verifica se a nota fiscal foi cadastrada corretamente, para que possa reunir créditos para o desconto do Nota Legal ao final do ano.
 
-[Maria](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-prim%C3%A1ria-2-maria-administradora) é uma profissional experiente formada em adimistração, moradora dedicada da cidade de Brasília. Ela sempre foi uma cidadã exemplar que valorizava a transparência e a responsabilidade financeira. Todos os meses, após suas compras e interações com diversos estabelecimentos locais, Maria fazia questão de guardar todos os recibos e comprovantes fiscais. Ela sabia que esses documentos eram valiosos, não apenas para garantir que suas despesas fossem contabilizadas, mas também para contribuir com o programa "Nota Legal".
+Porém, a farmácia que Maria frequentava fechou. Maria deseja continuar com o costume de comprar mensalmente seu remédio após o trabalho. Então ela decidiu verificar quais farmácias localizadas nos arredores de seu trabalho também são cadastradas no programa Nota Legal, para que ela possa continuar ganhando o desconto.
 
-Com o início do mês, Maria estava ansiosa para conferir seu extrato no site [Nota Legal](https://www.notalegal.df.gov.br/). Ela sabia que este extrato era uma forma de rastrear todas as suas interações financeiras com os estabelecimentos cadastrados no programa. Maria acreditava que a transparência e o controle financeiro eram essenciais, e o Nota Legal era uma ferramenta fundamental para isso.
+Maria pesquisa no Google e vê que há 5 possíveis farmácias. Então, ela acessa o site do [Nota Legal](https://www.notalegal.df.gov.br/) e navega pelo site até chegar no rodapé e clicar no botão de consultar estabelecimentos. Depois disso, ela vê os vários filtros que podem ser utilizados e resolve utilizar o filtro de razão social, onde ela coloca o nome de cada uma das 5 farmácias. Em seguida, utiliza o filtro de ramo comercial, onde ela define o ramo de medicamentos e saúde. A partir daí, clica no botão e verifica se cada uma das farmácias está ou não cadastrada.
 
-Maria pegou seu computador e, acessou o site. Ela navegou até aba de "Extrato" e esperou que as informações fossem carregadas na tela, logo depois colocou o periodo de consulta de extrato. Quando seu extrato apareceu, Maria viu todos os créditos que havia acumulado a partir de suas compras e transações do mês anterior. Era gratificante ver o quanto ela estava contribuindo para o programa, ao mesmo tempo em que se beneficiava com os créditos acumulados.
+O resultado obtido por Maria é que das 5 empresas, 3 são cadastradas no programa Nota Legal. Ela ficou feliz por ter conseguido encontrar novas farmácias cadastradas e decidiu ir comprar o remédio na farmácia que era cadastrada e mais próxima de seu trabalho.
 
 ### Visualizar Recibo Fiscal
 
@@ -104,12 +74,42 @@ Como um especialista em economia e um entusiasta da tecnologia, Luiz está sempr
 
 Agora, Luiz está pronto para visualizar seu recibo fiscal no site Nota Legal. Ele sabe que este é apenas mais um passo em sua jornada contínua para se manter atualizado com as últimas tendências financeiras e tecnológicas.
 
+### Consultar Reclamação
+
+[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) é um cliente frequente de um restaurante localizado nas proximidades de seu local de trabalho. Diariamente, ele faz suas refeições no estabelecimento e sempre solicita a emissão da nota fiscal, visando acumular créditos no programa Nota Legal.
+
+Após vivenciar diversas situações desconfortáveis dentro do restaurante, Luiz decidiu rever as queixas que havia registrado durante esses incidentes.
+
+Ao entrar no site do [Nota Legal](https://www.notalegal.df.gov.br/) e fazer Login em sua conta, Luiz navegou até a seção 'Consulta de Reclamações'. Nesse espaço, deparou-se com seis campos de pesquisa distintos, cada um destinado a um aspecto específico de suas queixas. 
+
+Após preencher os campos necessários, clicou no botão 'Consultar'. Em resposta, o sistema exibiu uma lista contendo todas as reclamações que ele havia registrado, com base nas características previamente informadas nos campos de pesquisa.
+
+Ao ver suas reclamações de forma clara, Luiz percebeu que seus problemas eram reais. Ele se sentiu confiante ao confrontar o restaurante com evidências sólidas, decidindo agir. Levou suas preocupações às autoridades e ao estabelecimento, esperando por refeições melhores no futuro.
+
+### Indicação de créditos
+
+[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) , um economista aposentado com ampla experiência em finanças, começava todos os anos com uma rotina financeira sólida. Todo início de janeiro, ele abria seu computador e acessava o Site [Nota Legal](https://www.notalegal.df.gov.br/). Essa era uma prática que ele seguia há anos, e era parte crucial de sua estratégia financeira.
+
+Primeiro, Luiz entrava na seção do IPTU. Com sua habilidade e conhecimento, ele rapidamente indicava os créditos fiscais para ajudar a compensar parte do imposto predial. Isso era como um ritual para ele, uma maneira de otimizar suas finanças pessoais e economizar dinheiro.
+
+Em seguida, Luiz navegava até a seção do Nota Legal. Ele inseria com cuidado os recibos fiscais das compras realizadas no ano anterior. Para Luiz, cada recibo era uma oportunidade de acumular créditos que poderiam ser usados em suas futuras despesas.
+
+Ao concluir suas indicações no aplicativo, Luiz se sentia satisfeito. Ele sabia que estava tomando medidas práticas para manter suas finanças em ordem e, ao mesmo tempo, apoiar o comércio local. Era uma maneira de começar o ano com o pé direito, sabendo que estava cuidando bem de suas finanças.
+
+### Consultar extrato
+
+[Maria](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-prim%C3%A1ria-2-maria-administradora) é uma profissional experiente formada em adimistração, moradora dedicada da cidade de Brasília. Ela sempre foi uma cidadã exemplar que valorizava a transparência e a responsabilidade financeira. Todos os meses, após suas compras e interações com diversos estabelecimentos locais, Maria fazia questão de guardar todos os recibos e comprovantes fiscais. Ela sabia que esses documentos eram valiosos, não apenas para garantir que suas despesas fossem contabilizadas, mas também para contribuir com o programa "Nota Legal".
+
+Com o início do mês, Maria estava ansiosa para conferir seu extrato no site [Nota Legal](https://www.notalegal.df.gov.br/). Ela sabia que este extrato era uma forma de rastrear todas as suas interações financeiras com os estabelecimentos cadastrados no programa. Maria acreditava que a transparência e o controle financeiro eram essenciais, e o Nota Legal era uma ferramenta fundamental para isso.
+
+Maria pegou seu computador e, acessou o site. Ela navegou até aba de "Extrato" e esperou que as informações fossem carregadas na tela, logo depois colocou o periodo de consulta de extrato. Quando seu extrato apareceu, Maria viu todos os créditos que havia acumulado a partir de suas compras e transações do mês anterior. Era gratificante ver o quanto ela estava contribuindo para o programa, ao mesmo tempo em que se beneficiava com os créditos acumulados.
+
+
 ### Consultar resultado de sorteio
 
 [Ana](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-secund%C3%A1ria-2-ana-professora)
 
 [Nota Legal](https://www.notalegal.df.gov.br/)
-
 
 ## Referências Bibliográficas
 

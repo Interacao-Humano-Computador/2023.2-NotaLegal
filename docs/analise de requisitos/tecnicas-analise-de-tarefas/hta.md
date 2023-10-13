@@ -25,7 +25,7 @@ Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](http
 ### Registrar uma reclamação
 
 Nessa tarefa, o usuário possui como principal objetivo realizar uma reclamação no ambiente do
-Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](/docs/analise%20de%20requisitos/cenarios.md). Na figura 2 é possível ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 2.
+Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#registrar-nova-reclama%C3%A7%C3%A3o). Na figura 2 é possível ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 2.
 
 
 <div align="center">
@@ -63,7 +63,7 @@ Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nos
 
 ### Desbloquear saldo
 
-Nessa tarefa, o usuário possui como principal objetivo desbloquear o saldo de documentos fiscais que a Secretaria de Fazenda do Distrito Federal (SEFAZ-DF) bloqueou no Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](/docs/analise%20de%20requisitos/cenarios.md). Na figura 3 é possível
+Nessa tarefa, o usuário possui como principal objetivo desbloquear o saldo de documentos fiscais que a Secretaria de Fazenda do Distrito Federal (SEFAZ-DF) bloqueou no Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#desbloquear-saldo). Na figura 3 é possível
 ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 3.
 <div align="center">
 
@@ -92,9 +92,7 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 
 ### Consultar um estabelecimento
 
-Nessa tarefa, o usuário possui como principal objetivo consultar se determinado estabelecimento é ou não cadastrado no programa 
-Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](). Na figura 1 é possível
-ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 1.
+Nessa tarefa, o usuário possui como principal objetivo consultar se determinado estabelecimento é ou não cadastrado no programa Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-estabelecimento). Na figura 1 é possível ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 1.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/4c0f0ffbff650f37967292a4c4f0437e77db093c/docs/imagens/hta-consultar-estabelecimento.drawio%20(1).png" class="usecaseElement">
@@ -123,9 +121,11 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 
 ### Visualizar Recibo Fiscal
 
+...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#visualizar-recibo-fiscal)
+
 ### Consultar Reclamação
 
-Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações registradas contra um estabelecimento específico. O processo envolve verificar se há reclamações cadastradas para o estabelecimento desejado no sistema de reclamações do Nota Legal. Na Figura 4, você pode visualizar o diagrama HTA desta tarefa. Além disso, o mesmo diagrama HTA está disponível em formato de tabela, apresentado na Tabela 4.
+Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações registradas contra um estabelecimento específico ([Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-reclama%C3%A7%C3%A3o)). O processo envolve verificar se há reclamações cadastradas para o estabelecimento desejado no sistema de reclamações do Nota Legal. Na Figura 4, você pode visualizar o diagrama HTA desta tarefa. Além disso, o mesmo diagrama HTA está disponível em formato de tabela, apresentado na Tabela 4.
 <div align="center">
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/HTA%20-%20Consultar%20Reclama%C3%A7%C3%A3o.drawio.png" class="usecaseElement">
@@ -157,10 +157,15 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 
 ### Indicar créditos
 
+...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#indica%C3%A7%C3%A3o-de-cr%C3%A9ditos)
+
 ### Consultar extrato
+
+...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato)
 
 ### Consultar resultado de sorteio
 
+...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-resultado-de-sorteio)
 
 ## Bibliografia
 

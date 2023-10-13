@@ -1,4 +1,4 @@
-# Reunião 3 - 13.09.2023
+# Reunião 03 - 13.09.2023
 
 Reunião realizada no Microsoft Teams.
 
@@ -44,7 +44,7 @@ Todos os artefatos estão sendo construídos e foram validados pelo grupo na reu
 
 ## Link da Gravação
 
-[IHC - Reunião 3](https://youtu.be/Apt_5SeyBb8)
+[IHC - Reunião 03](https://youtu.be/Apt_5SeyBb8)
 
 ## Histórico de Versão
 

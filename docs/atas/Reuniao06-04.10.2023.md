@@ -74,4 +74,4 @@ Foram distribuídas as atividades da entrega 2 de IHC e as atividades da entrega
 |:----:|----|---------|-----|:-------:|
 |`1.0`|04/10/2023|Criação do documento|[Gabriel Zaranza](https://github.com/GZaranza)|[Zenilda Vieira](https://github.com/ZenildaVieira)|
 |`1.1`|08/10/2023| Padronização | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | [Gabriel Zaranza](https://github.com/GZaranza) |
-|`1.2`|13/10/2023| Adição do link da gravaçao | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Zaranza](https://github.com/GZaranza) |
+|`1.2`|13/10/2023| Adição do link da gravação | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Zaranza](https://github.com/GZaranza) |

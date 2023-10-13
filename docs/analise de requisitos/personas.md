@@ -24,7 +24,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Experiência:** Especialista em economia
 - **Atitudes:** Tecnófilo, interessado em novas tecnologias financeiras
 - **Tarefa Primária:** Realizar indicações de recebimento e investimentos inteligentes no aplicativo de economia do DF.
-- **Descrição:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
+- **Descrição:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o site para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do Nota Legal.
 
 ### Persona Primária 2: Maria Administradora
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
@@ -46,7 +46,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Experiência:** Iniciante em finanças
 - **Atitudes:** Interessado em aprender sobre economia e finanças
 - **Tarefa Primária:** Aprender sobre indicadores econômicos usando o aplicativo de economia do DF.
-- **Descrição:** Pedro é um estudante universitário que está começando a se interessar por economia e finanças. Ele usa o aplicativo para aprender sobre indicadores econômicos e entender melhor como funcionam os mercados financeiros.
+- **Descrição:** Pedro é um estudante universitário que está começando a se interessar por economia e finanças. Ele usa o Nota Legal para aprender sobre indicadores econômicos e entender melhor como funcionam os mercados financeiros.
 
 ### Persona Secundária 2: Ana Professora
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%204.jfif?raw=true" width="150px">
@@ -56,7 +56,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Experiência:** Intermediária em finanças
 - **Atitudes:** Gosta de ferramentas simples e educacionais
 - **Tarefa Primária:** Ensinar seus alunos sobre economia usando o aplicativo de economia do DF.
-- **Descrição:** Ana é uma professora de economia em uma escola local. Ela usa o aplicativo como uma ferramenta educacional para ensinar seus alunos sobre conceitos econômicos e financeiros. Ela procura recursos simples e educativos para ajudar em suas aulas.
+- **Descrição:** Ana é uma professora de economia em uma escola local. Ela usa o Site como uma ferramenta educacional para ensinar seus alunos sobre conceitos econômicos e financeiros. Ela procura recursos simples e educativos para ajudar em suas aulas.
 
 ## Anti-Personas
 
@@ -67,7 +67,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Gênero:** Masculino
 - **Experiência:** Iniciante em finanças
 - **Atitudes:** Desinteressado em economia e tecnologia
-- **Descrição:** João é um adolescente de 16 anos que não tem interesse em economia e finanças. Ele usa seu tempo livre para jogar videogames e não tem nenhuma fonte de renda. João não se interessa pelo aplicativo de economia do DF, pois não vê valor nele para sua situação.
+- **Descrição:** João é um adolescente de 16 anos que não tem interesse em economia e finanças. Ele usa seu tempo livre para jogar videogames e não tem nenhuma fonte de renda. João não se interessa pelo programa Nota Legal, pois não vê valor nele para sua situação.
 
 ### Anti-Persona 2: Clara Aposentada
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%206.jfif?raw=true" width="150px"> 
@@ -75,8 +75,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Idade:** 72 anos
 - **Gênero:** Feminino
 - **Experiência:** Iniciante em finanças
-- **Atitudes:** Não utiliza smartphones e não gosta de tecnologia
-- **Descrição:** Clara é uma aposentada de 72 anos que não utiliza smartphones nem tem acesso à internet. Ela prefere fazer todas as suas transações financeiras pessoalmente no banco e não vê necessidade de usar o aplicativo de economia do DF.
+- **Atitudes:** Não utiliza smartphones ou Nota Legal e não gosta de tecnologia
+- **Descrição:** Clara é uma aposentada de 72 anos que não utiliza smartphones nem tem acesso à internet. Ela prefere fazer todas as suas transações financeiras pessoalmente no banco e não vê necessidade de usar o site Nota Legal.
 
 ## Referências Bibliograficas
 > [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -95,4 +95,4 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 | `1.2`  | 25/09/2023 | Adição da Introdução e metodologia.       | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)
 | `1.3`  | 25/09/2023 | Adição das fotos das personas.            | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) 
 | `1.4`  | 09/10/2023 | Atualização de personas                   | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) 
-
+| `1.5`  | 13/10/2023 |Correções                  | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) 

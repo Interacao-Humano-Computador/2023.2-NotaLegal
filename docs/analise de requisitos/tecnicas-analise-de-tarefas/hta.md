@@ -1,8 +1,29 @@
 ## Análise Hierárquica de Tarefas
+
 ## Introdução
 
 ## Análise de Tarefas
+
+<div align="center">
+
+| Membro da Equipe | Cenário  |
+| ------------------------------------------------------------------------ | ---------------------------------- |
+| [Gabriel Rosa](https://github.com/gabrielrosa09)                         | [Registrar nova reclamação]()      |
+| [Gabriel Zaranza](https://github.com/GZaranza)                           | [Desbloquear saldo]()              |
+| [Izabella Alves](https://github.com/izabellaalves)                       | [Consultar estabelecimento]()      |
+| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Visualizar recibo fiscal]()       |
+| [Lucas Ribeiro](https://github.com/lucassouzs)                           | [Consultar reclamação]()           |
+| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Indicar créditos]()               |
+| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato]()              |
+| [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio]() |
+
+**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário.
+Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](https://github.com/Lucas13032003),  2023.
+
+</div>
+
 ### Consultar um estabelecimento
+
 Nessa tarefa, o usuário possui como principal objetivo consultar se determinado estabelecimento é ou não cadastrado no programa 
 Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](). Na figura 1 é possível
 ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 1.
@@ -32,6 +53,7 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 </div>
 
 ### Registrar uma reclamação
+
 Nessa tarefa, o usuário possui como principal objetivo realizar uma reclamação no ambiente do
 Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](/docs/analise%20de%20requisitos/cenarios.md). Na figura 2 é possível ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 2.
 
@@ -63,6 +85,7 @@ Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nos
 </center>
 
 ### Desbloquear saldo
+
 Nessa tarefa, o usuário possui como principal objetivo desbloquear o saldo de documentos fiscais que a Secretaria de Fazenda do Distrito Federal (SEFAZ-DF) bloqueou no Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](/docs/analise%20de%20requisitos/cenarios.md). Na figura 3 é possível
 ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 3.
 <div align="center">
@@ -91,6 +114,7 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 </div>
 
 ### Consultar Reclamação
+
 Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações registradas contra um estabelecimento específico. O processo envolve verificar se há reclamações cadastradas para o estabelecimento desejado no sistema de reclamações do Nota Legal. Na Figura 4, você pode visualizar o diagrama HTA desta tarefa. Além disso, o mesmo diagrama HTA está disponível em formato de tabela, apresentado na Tabela 4.
 <div align="center">
 
@@ -122,7 +146,9 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 <div align="left">
 
 ## Bibliografia
+
 > Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/>. Acesso em: 08 de outubro 2023.
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 </div>
 
@@ -130,7 +156,8 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|´1.0´|08/10/2023|Criação do documento e adição do hta de consultar estabelecimentos|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|´1.1´|10/10/2023|Adição do hta de registro de reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
-|´1.2´|11/10/2023|Adição do hta de desbloqueio de saldo|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|´1.3´|12/10/2023|Adição do hta de consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.0`|08/10/2023|Criação do documento e adição do hta de consultar estabelecimentos|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.1`|10/10/2023|Adição do hta de registro de reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.2`|11/10/2023|Adição do hta de desbloqueio de saldo|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.3`|12/10/2023|Adição do hta de consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.4`|12/10/2023|Adição do hta de consultar resultado de sorteio|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

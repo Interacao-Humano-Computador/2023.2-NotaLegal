@@ -1,27 +1,30 @@
 # Sites avaliados
+
 ## Introdução
+
 Na fase inicial do projeto, os estudantes foram convidados a selecionar individualmente websites governamentais ou de código aberto. Essa escolha tinha como propósito apresentar sugestões para o website que seria analisado em conjunto pelo grupo durante a disciplina Interação Humano-Computador. A Tabela 1 fornece detalhes sobre os websites avaliados por cada membro da equipe.
 
 <div align="center">
 
-| Site avaliado                                                   | Membro que fez a avaliação                            |
-| :-------------------------------------------------------------: | :---------------------------------------------------: |
-| [Calibre - E-book Management](https://calibre-ebook.com)        |[Gabriel Rosa](https://github.com/gabrielrosa09)       |
-|[Pandas](https://pandas.pydata.org/)| [Gabriel Zaranza](https://github.com/GZaranza)|
-| [Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br) |[Izabella Alves](https://github.com/izabellaalves)     |
-| [Correios](https://www.correios.com.br/)     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-| [Alistamento Militar](https://alistamento.eb.mil.br/)           |[Lucas Ribeiro](https://github.com/lucassouzs)         |
-| [Nota Legal](https://www.notalegal.df.gov.br/)                  | [Lucas Víctor](https://github.com/Lucas13032003)      |
-| [Ministério Público do Distrito Federal](https://www.mpdft.mp.br/portal/) | [Zenilda Vieira](https://github.com/ZenildaVieira) |
+| Site avaliado                                                             | Membro que fez a avaliação                            |
+| :-----------------------------------------------------------------------: | :---------------------------------------------------: |
+| [Calibre - E-book Management](https://calibre-ebook.com)                  |[Gabriel Rosa](https://github.com/gabrielrosa09)       |
+| [Pandas](https://pandas.pydata.org/)                                      | [Gabriel Zaranza](https://github.com/GZaranza)        |
+| [Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br)           |[Izabella Alves](https://github.com/izabellaalves)     |
+| [Correios](https://www.correios.com.br/)     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)           |
+| [Alistamento Militar](https://alistamento.eb.mil.br/)                     |[Lucas Ribeiro](https://github.com/lucassouzs)         |
+| [Nota Legal](https://www.notalegal.df.gov.br/)                            | [Lucas Víctor](https://github.com/Lucas13032003)      |
+| [Ministério Público do Distrito Federal](https://www.mpdft.mp.br/portal/) | [Zenilda Vieira](https://github.com/ZenildaVieira)    |
 
 **Tabela 1:** Tabela de sites avaliados (Fonte: [Izabella Alves](https://github.com/izabellaalves))
 
 </div>
 
-## Sites avaliados
+## Sites avaliados por cada membro do grupo
 
 ### Polícia Civil do Distrito Federal
-O site da [Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br) serve como um importante recurso online para fornecer informações e serviços relacionados à atuação da Polícia Civil na região do Distrito Federal, no Brasil. Este site foi avaliado pela integrante [Izabella Alves](https://github.com/izabellaalves) e foi um dos sites cogitados para ser utilizado como base pro projeto da equipe por falhar nos seguintes pontos da avaliação heurística:
+
+O site da [Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br) serve como um importante recurso online para fornecer informações e serviços relacionados à atuação da Polícia Civil na região do Distrito Federal, no Brasil. Este site foi avaliado pela integrante [Izabella Alves](https://github.com/izabellaalves) e foi um dos sites cogitados para ser utilizado como base pro projeto da equipe por falhar nos seguintes pontos da avaliação heurística [1]:
 
 - **Design Estético e Minimalista**: O site apresenta uma sobrecarga visual significativa em sua tela inicial, devido à abundância de ícones e informações que praticamente preenchem toda a página. A presença excessiva de ícones e informações na tela inicial vai contra a heurística em questão, tornando a interface mais confusa e desorganizada do que deveria ser.
 
@@ -42,6 +45,7 @@ O site do [Alistamento Militar](https://alistamento.eb.mil.br/) foi uma das opç
 - **Suporte**: Suporte insuficiente e resolução lenta de problemas.
 
 ### Calibre - E-book Management
+
 Um dos aplicativos cogitados pela equipe foi o [Calibre - E-book Management](https://calibre-ebook.com), uma ferramenta de gerenciamento de e-books que permite aos usuários organizar, converter e gerenciar sua coleção de livros digitais. O integrante do grupo responsável pela avaliação deste site foi o [Gabriel Rosa](https://github.com/gabrielrosa09), e os motivos pelos quais este foi um dos sites cogitados são:
 
 - **Estética e design minimalista**: A interface do Calibre não é muito minimalista e pode parecer um pouco desordenada para alguns usuários. Uma abordagem de design mais simplificada poderia melhorar a estética.
@@ -56,8 +60,8 @@ A biblioteca [Pandas](https://pandas.pydata.org/) é uma poderosa ferramenta de 
 
 - Falta de acessibilidade, o site não oferece nenhuma funcionalidade de acessibilidade a usuários portadores de deficiência;
 - Poluição visual na página pricipal, dificultando a identificação de informações
--  Falta de padrão entre as páginas do site;
--  Algumas páginas não funcionam.
+- Falta de padrão entre as páginas do site;
+- Algumas páginas não funcionam.
 
 ## Nota Legal
 
@@ -75,33 +79,37 @@ A biblioteca [Pandas](https://pandas.pydata.org/) é uma poderosa ferramenta de 
 
 Diante desses desafios, eu, [Lucas Víctor](https://github.com/Lucas13032003), decidi escolher este site governamental com o objetivo de identificar e solucionar problemas em sua interface. Tendo como propósito melhorar a experiência do usuário, tornando o site mais intuitivo e funcional.
 
-
 ## Correios
 
  O site [Correios](https://www.correios.com.br/) foi um dos sites analisados pelo membro da equipe [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira). Os Correios é a empresa pública responsável pelo transporte postal, expresso, de cargas e serviços de logística no país. Abaixo estão alguns dos motivos que levaram em consideração a escolha desse site:
 
- - **Erros e suporte**: Uma das dificuldades que os usuários enfrentam ao acessar o site é são as falhas, que podem gerar frustração e descontentamento;
-   
- - **Documentação**: O site dos Correios tem diversas funcionalidade e para facilitar o uso dos recursos avançados, o site não oferece uma documentação online detalhada. Além disso, os Correios conta com uma comunidade ativa de usuários que podem fornecer suporte técnico, sugestões de melhoria e feedback. No entanto, a documentação integrada no aplicativo poderia ser mais fácil de acessar e navegar, bem como cobrir mais aspectos do funcionamentos;
-   
- - **Estética e design minimalista** Alguns podem achar que a sua interface é muito carregada de elementos e informações, o que pode prejudicar a experiência de uso. Uma possível solução seria adotar uma estética e um design minimalista, que priorizam o essencial e eliminam o desnecessário. Isso poderia tornar o site mais agradável aos olhos e mais fácil de navegar, sem comprometer as suas funcionalidades.
+- **Erros e suporte**: Uma das dificuldades que os usuários enfrentam ao acessar o site é são as falhas, que podem gerar frustração e descontentamento;
+
+- **Documentação**: O site dos Correios tem diversas funcionalidade e para facilitar o uso dos recursos avançados, o site não oferece uma documentação online detalhada. Além disso, os Correios conta com uma comunidade ativa de usuários que podem fornecer suporte técnico, sugestões de melhoria e feedback. No entanto, a documentação integrada no aplicativo poderia ser mais fácil de acessar e navegar, bem como cobrir mais aspectos do funcionamentos;
+
+- **Estética e design minimalista** Alguns podem achar que a sua interface é muito carregada de elementos e informações, o que pode prejudicar a experiência de uso. Uma possível solução seria adotar uma estética e um design minimalista, que priorizam o essencial e eliminam o desnecessário. Isso poderia tornar o site mais agradável aos olhos e mais fácil de navegar, sem comprometer as suas funcionalidades.
 
 ## MPDFT - Ministério Público do Distrito federal
 
 O site do [Ministério Público do Distrito Federal](https://www.mpdft.mp.br/portal/) foi o site avaliado pela integrante do grupo [Zenilda Vieira](https://github.com/ZenildaVieira). Esse site traz informações sobre o trabalho desse importante órgão público de acordo com a Lei de Acesso à Informação e também conta com um atendimento ao cidadão através de sua ouvidoria. É possível também obter informações sobre promotores e procuradores, publicações e relatórios e obter acesso a documentos como leis, regulamentos e decisões judiciais. Há também alguns serviços online.
 
-Esse site foi escolhido para ser avaliado pelas seguintes razões, tomando por base algumas das heurísticas de usabilidade de Nielsen (1994):
+Esse site foi escolhido para ser avaliado pelas seguintes razões, tomando por base algumas das heurísticas de usabilidade de Nielsen (1994) [1]:
 
- - **Compatibilidade do sistema com o mundo real**: o site traz muitos termos e siglas desconhecidos de usuários menos experientes.
- - **Reconhecimento, em vez de memorização**: o site não traz um caminho facilitado pra o usuário buscar a informação que precisa. Assim é necessário uma extensa busca pra encontrar a informação.
- - **Flexibilidade e eficiência de uso**: usuários menos experientes podem ter dificuldade para encontrar o que precisam. O site não tem uma navegabilidade clara. Os links apresentam todos o mesmo estilo, com mesmas cores e formatos, o que dificulta também a memorização.
- - **Estética e design minimalista**: o design do site é simples, sem  muitas cores, um pouco "sem graça". Uma grande quantidade de links na página principal confundem o usuário. Além dessa grande quantidade, os links não apresentam nenhuma explicação que possa orientar o usuário sobre o que cada um significa e qual informação ele vai obter ao clicar em um deles.
- - **Ajuda e documentação**: não há um link de ajuda ou de documentação para orientar usuário.
-## Bibliografia
+- **Compatibilidade do sistema com o mundo real**: o site traz muitos termos e siglas desconhecidos de usuários menos experientes.
 
-> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+- **Reconhecimento, em vez de memorização**: o site não traz um caminho facilitado pra o usuário buscar a informação que precisa. Assim é necessário uma extensa busca pra encontrar a informação.
 
+- **Flexibilidade e eficiência de uso**: usuários menos experientes podem ter dificuldade para encontrar o que precisam. O site não tem uma navegabilidade clara. Os links apresentam todos o mesmo estilo, com mesmas cores e formatos, o que dificulta também a memorização.
 
+- **Estética e design minimalista**: o design do site é simples, sem  muitas cores, um pouco "sem graça". Uma grande quantidade de links na página principal confundem o usuário. Além dessa grande quantidade, os links não apresentam nenhuma explicação que possa orientar o usuário sobre o que cada um significa e qual informação ele vai obter ao clicar em um deles.
+
+- **Ajuda e documentação**: não há um link de ajuda ou de documentação para orientar usuário.
+
+O site também foi avaliado utilizando o _framework_ DECIDE: [Planejamento](/framework-DECIDE/Planejamento-Avaliacao-MPDFT-ZenildaVieira.pdf) e [Execução](/framework-DECIDE/Execucao-Avaliacao-MPDFT-ZenildaVieira.pdf).
+
+## Referências Bibliográficas
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de versões
 
@@ -110,9 +118,11 @@ Esse site foi escolhido para ser avaliado pelas seguintes razões, tomando por b
 |`1.0`|06/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.1`|07/09/2023|Adicionando introdução e avaliação do PCDF|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.2`|10/09/2023|Adicionando introdução e avaliação do Calibre|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
-|`1,3`|13/09/2023|Adicionando introdução e avaliação do Alistamento Militar|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Victor](https://github.com/Lucas13032003)|
+|`1.3`|13/09/2023|Adicionando introdução e avaliação do Alistamento Militar|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Victor](https://github.com/Lucas13032003)|
 |`1.4`|13/09/2023 | Adicionando introdução e avaliação do Nota Legal|  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
 |`1.5`|15/09/2023 | Adicionando introdução e avaliação do Correios|  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09) |
 |`1.6`|16/09/2023 | Adicionando introdução e avaliação do MPDFT|  [Zenilda Vieira](https://github.com/ZenildaVieira)  | [Gabriel Zaranza](https://github.com/GZaranza) |
-`1.7`|27/09/2023 | Adicionando introdução e avaliação do Pandas|  [Gabriel Zaranza](https://github.com/GZaranza)   |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-`1.8`|29/09/2023 | Adicionando bibliografia| [Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.7`|27/09/2023 | Adicionando introdução e avaliação do Pandas|  [Gabriel Zaranza](https://github.com/GZaranza)   |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.8`|29/09/2023 | Adicionando bibliografia| [Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.9`|11/10/2023 | Adicionando _framework_ DECIDE do site MPDFT| [Zenilda Vieira](https://github.com/zenildavieira)| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+|`1.10`|11/10/2023 | Correção de referência bibliográfica| [Zenilda Vieira](https://github.com/zenildavieira)| [Izabella Alves](https://github.com/izabellaalves) |

@@ -85,7 +85,18 @@ Nesta tarefa, os usuários buscam consultar reclamações no site "Nota Legal", 
 
 ### Consultar extrato
 
-Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Legal" para acompanhar e registrar suas interações financeiras com os estabelecimentos cadastrados no programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/ad5200e9034c6795c53d8fa9a2f2c6bd0ef86b58/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato). Na figura 2 é possível ver o diagrama CTT da tarefa em questão.
+Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Legal" para acompanhar e registrar suas interações financeiras com os estabelecimentos cadastrados no programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/ad5200e9034c6795c53d8fa9a2f2c6bd0ef86b58/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato). Na figura 5 é possível ver o diagrama CTT da tarefa em questão.
+
+<div align="center">
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Consultar_Extrato.png?raw=true">
+
+<font size="2"><p style="text-align: center"><b>Figura 5:</b> Diagrama CTT para Consultar extrato. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+
+</div>
+
+
+
 
 ### Consultar resultado de sorteio
 
@@ -106,3 +117,4 @@ Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Lega
 |`1.3`|12/10/2023|Adição do ctt de consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas Víctor](https://github.com/Lucas13032003)|
 |`1.4`|12/10/2023|Adição do ctt de consultar resultado de sorteio|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.5`|12/10/2023|Adição do ctt de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.6`|12/10/2023|Adição do diagrama ctt de consultar extrato|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|

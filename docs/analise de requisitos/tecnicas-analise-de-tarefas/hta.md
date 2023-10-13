@@ -133,7 +133,13 @@ Nessa tarefa, o usuário possui como principal objetivo consultar se determinado
 
 | Objetivos/Operações      | Problemas e Recomendações                                |
 |--------------------------|----------------------------------------------------------|
-|                          |                                                          |
+|0. Visualizar recibo de Indicação                 |         -
+|1. Acessar o site ‘Nota Legal’|**feedback**: ser redirecionado para o site ‘Nota Legal’|
+|1.2. Fazer login no site com suas credenciais.|**feedback**: ser redirecionado para a sua conta pessoal do Nota Legal|
+|1.3. Navegar até a seção de recibo de indicação que deseja visualizar|-|
+|1.4. Selecionar o recibo de indicação que deseja visualizar|**input**: o usuário deve selecionar o tipo de lançamento de indicação que deseja visualizar|
+|1.5. clicar no botão "Visualizar" ou "Abrir" para abrir o recibo|**plano**: Visualizar o recibo de indicação escolhido|
+
 
 **Tabela 5**: Tabela HTA da tarefa Visualizar Recibo Fiscal. Fonte: [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
 

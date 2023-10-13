@@ -53,7 +53,7 @@ A partir dessa reunião definimos as últimas issues e ajustes necssários pra s
 
 ## Link da Gravação
 
-[IHC - Reunião 09](https://youtu.be/lFs9BQYdoIM)
+[IHC - Reunião 08](https://youtu.be/lFs9BQYdoIM)
 
 ## Histórico de Versão
 

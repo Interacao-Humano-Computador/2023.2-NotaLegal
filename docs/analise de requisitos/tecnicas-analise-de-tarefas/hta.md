@@ -165,6 +165,26 @@ Nesta tarefa, o usuário tem como principal objetivo consultar o extrato no sist
 <font size="2"><p style="text-align: center"><b>Figura 5:</b> Diagrama HTA da tarefa Consultar Extrato. Fonte: Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
 </div>
+
+<div align="center">
+
+| Objetivos/Operações       | Problemas e Recomendações                                                                                      |
+|---------------------------|----------------------------------------------------------------------------------------------------------------|
+|0. Consultar Extrato no Site Nota Legal 0>1                   | - Input: Necessidade de consultar extrato.                                                      |
+|1. Acessar o Site Nota Legal 1>2                               |- Input: Ter acesso à página principal do Nota Legal.                                       |
+|2. Navegar até a Aba "Extrato" 2>3                            | - Input: Encontrar a aba "Extrato" no site.                                                  |
+|3. Aguardar o Carregamento das Informações do Extrato 3>4      | - Input: Tempo para o carregamento das informações. <br/> - Feedback:  Página de consulta de extrato                       |
+|4. Especificar o Período de Consulta de Extrato 1+2            | - Input: Definir o período desejado (mês/ano).             |
+|4.1 Localizar a opção de período na interface              | - Input: Encontrar a opção de período no site.                                               |
+|4.2 Inserir o período desejado (mês/ano)                    | - Input: Inserir as datas desejadas.                                                       |
+|5. Analisar as Transações e Créditos Acumulados no Extrato 1+ | Input: Informações do extrato. <br/> - Feedback: Todos os saldos creditados, durante o periodo selecionado|
+|5.1 Ler as informações exibidas no extrato                 | - Recomendação: Melhorar a legibilidade e usabilidade das informações no extrato.  |
+
+<font size="2"><p style="text-align: center"><b>Tabela 5:</b> Tabela HTA da tarefa  Consultar Extrato. Fonte: Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+
+</div>
+
+
 ### Consultar resultado de sorteio
 
 ...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-resultado-de-sorteio)

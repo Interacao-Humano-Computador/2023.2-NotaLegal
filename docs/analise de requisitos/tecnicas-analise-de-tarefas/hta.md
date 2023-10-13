@@ -8,48 +8,18 @@
 
 | Membro da Equipe | Cenário  |
 | ------------------------------------------------------------------------ | ---------------------------------- |
-| [Gabriel Rosa](https://github.com/gabrielrosa09)                         | [Registrar nova reclamação]()      |
-| [Gabriel Zaranza](https://github.com/GZaranza)                           | [Desbloquear saldo]()              |
-| [Izabella Alves](https://github.com/izabellaalves)                       | [Consultar estabelecimento]()      |
+| [Gabriel Rosa](https://github.com/gabrielrosa09)                         | [Registrar nova reclamação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#registrar-uma-reclama%C3%A7%C3%A3o)      |
+| [Gabriel Zaranza](https://github.com/GZaranza)                           | [Desbloquear saldo](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#desbloquear-saldo)              |
+| [Izabella Alves](https://github.com/izabellaalves)                       | [Consultar estabelecimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-um-estabelecimento)      |
 | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Visualizar recibo fiscal]()       |
-| [Lucas Ribeiro](https://github.com/lucassouzs)                           | [Consultar reclamação]()           |
-| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Indicar créditos]()               |
-| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato]()              |
-| [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio]() |
+| [Lucas Ribeiro](https://github.com/lucassouzs)                           | [Consultar reclamação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-reclama%C3%A7%C3%A3o)           |
+| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Indicar créditos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#indicar-cr%C3%A9ditos)               |
+| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-extrato)              |
+| [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-resultado-de-sorteio) |
 
 **Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário.
 Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](https://github.com/Lucas13032003),  2023.
 
-</div>
-
-### Consultar um estabelecimento
-
-Nessa tarefa, o usuário possui como principal objetivo consultar se determinado estabelecimento é ou não cadastrado no programa 
-Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](). Na figura 1 é possível
-ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 1.
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/4c0f0ffbff650f37967292a4c4f0437e77db093c/docs/imagens/hta-consultar-estabelecimento.drawio%20(1).png" class="usecaseElement">
-
-<font size="2"><p style="text-align: center"><b>Figura 1:</b> Diagrama HTA da tarefa Consultar um estabelecimento. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></b>, 2023.</p></font>
-
-</div>
-
-<br>
-<div align="center">
-
-
-| Objetivos/Operações       | Problemas e Recomendações                                                                                      |
-|--------------------------|-------------------------------------------------------------------------------------------------------------|
-| 0. Consultar um estabelecimento 1>2|                                                                                                             |
-| 1. Pesquisar dados do estabelecimentos | **input:** tipo de estabelecimento e localidade. **feedback:** uma lista com todos os estabelecimentos do tipo digitado localizados em determinado local.   **plano:** usar os dados dos estabelecimentos no site Nota Legal.                        |
-| 2. Acessar área de consultar estabelecimentos  1>2    | **feedback:** usuário é redirecionado para a página de consultar estabelecimento.                                   |
-| 2.1 Informar dados do estabelecimento        | **input:** dados do estabelecimento. **plano:** ver os estabelecimentos. |
-| 2.2 Verificar se o estabelecimento está na lista 1>2| **feedback:** usuário recebe uma lista tod estabelecimentos cadastrados que possuem dados parecidos. |
-| 2.2.1. Selecionar o estabelecimento | **input:** usuário clica no estabelecimento desejado. **feedback:** usuário redirecionado para a página do estabelecimento. |
-| 2.2.2. Confirmar se é o estabelecimento correto | **plano:** verificar se os dados do estabelecimento clicado são iguais aos dados do estabelecimento buscado. |
-
-<font size="2"><p style="text-align: center"><b>Tabela 1:</b> Tabela HTA da tarefa Consultar um estabelecimento. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></b>, 2023.</p></font>
 </div>
 
 ### Registrar uma reclamação
@@ -57,12 +27,18 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 Nessa tarefa, o usuário possui como principal objetivo realizar uma reclamação no ambiente do
 Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](/docs/analise%20de%20requisitos/cenarios.md). Na figura 2 é possível ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 2.
 
-<center>
+
+<div align="center">
+
 
 ![Figura 2 - HTA Reclamação](/docs/imagens/HTA%20-%20Registrar%20Reclamação.jpg)
 **Figura 2**: Diagrama HTA da tarefa Consultar um estabelecimento. Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023
 
-</center>
+</div>
+
+<br>
+
+<div align="center">
 
 | **Objetivos/Operações**                                     | **Problemas e Recomendações**                       |
 | --------------------------------------------- | --------------------------------------------------- |
@@ -82,7 +58,8 @@ Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nos
 
 **Tabela 2**: Tabela HTA da tarefa registro de reclamação. Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023
 
-</center>
+</div>
+
 
 ### Desbloquear saldo
 
@@ -113,6 +90,39 @@ ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visíve
 <font size="2"><p style="text-align: center"><b>Tabela 3:</b> Tabela HTA da tarefa Desbloquear saldo. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b>, 2023.</p></font>
 </div>
 
+### Consultar um estabelecimento
+
+Nessa tarefa, o usuário possui como principal objetivo consultar se determinado estabelecimento é ou não cadastrado no programa 
+Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](). Na figura 1 é possível
+ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 1.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/4c0f0ffbff650f37967292a4c4f0437e77db093c/docs/imagens/hta-consultar-estabelecimento.drawio%20(1).png" class="usecaseElement">
+
+<font size="2"><p style="text-align: center"><b>Figura 1:</b> Diagrama HTA da tarefa Consultar um estabelecimento. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></b>, 2023.</p></font>
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+| Objetivos/Operações       | Problemas e Recomendações                                                                                      |
+|--------------------------|-------------------------------------------------------------------------------------------------------------|
+| 0. Consultar um estabelecimento 1>2|                                                                                                             |
+| 1. Pesquisar dados do estabelecimentos | **input:** tipo de estabelecimento e localidade. **feedback:** uma lista com todos os estabelecimentos do tipo digitado localizados em determinado local.   **plano:** usar os dados dos estabelecimentos no site Nota Legal.                        |
+| 2. Acessar área de consultar estabelecimentos  1>2    | **feedback:** usuário é redirecionado para a página de consultar estabelecimento.                                   |
+| 2.1 Informar dados do estabelecimento        | **input:** dados do estabelecimento. **plano:** ver os estabelecimentos. |
+| 2.2 Verificar se o estabelecimento está na lista 1>2| **feedback:** usuário recebe uma lista tod estabelecimentos cadastrados que possuem dados parecidos. |
+| 2.2.1. Selecionar o estabelecimento | **input:** usuário clica no estabelecimento desejado. **feedback:** usuário redirecionado para a página do estabelecimento. |
+| 2.2.2. Confirmar se é o estabelecimento correto | **plano:** verificar se os dados do estabelecimento clicado são iguais aos dados do estabelecimento buscado. |
+
+<font size="2"><p style="text-align: center"><b>Tabela 1:</b> Tabela HTA da tarefa Consultar um estabelecimento. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></b>, 2023.</p></font>
+</div>
+
+### Visualizar Recibo Fiscal
+
 ### Consultar Reclamação
 
 Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações registradas contra um estabelecimento específico. O processo envolve verificar se há reclamações cadastradas para o estabelecimento desejado no sistema de reclamações do Nota Legal. Na Figura 4, você pode visualizar o diagrama HTA desta tarefa. Além disso, o mesmo diagrama HTA está disponível em formato de tabela, apresentado na Tabela 4.
@@ -142,6 +152,12 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 
 <font size="2"><p style="text-align: center"><b>Tabela 4:</b> Tabela HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b>, 2023.</p></font>
 </div>
+
+### Indicar créditos
+
+### Consultar extrato
+
+### Consultar resultado de sorteio
 
 <div align="left">
 

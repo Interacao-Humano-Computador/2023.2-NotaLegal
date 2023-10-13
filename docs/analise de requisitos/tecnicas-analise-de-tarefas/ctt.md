@@ -8,14 +8,14 @@
 
 | Membro da Equipe | Cenário  |
 | ------------------------------------------------------------------------ | ---------------------------    |
-| [Gabriel Rosa](https://github.com/gabrielrosa09)                         | [Registrar nova reclamação]()      |
-| [Gabriel Zaranza](https://github.com/GZaranza)                           | [Desbloquear saldo]()              |
-| [Izabella Alves](https://github.com/izabellaalves)                       | [Consultar estabelecimento]()      |
-| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Visualizar recibo fiscal]()       |
-| [Lucas Ribeiro](https://github.com/lucassouzs)                           | [Consultar reclamação]()           |
-| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Indicar créditos]()               |
-| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato]()              |
-| [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio]() |
+| [Gabriel Rosa](https://github.com/gabrielrosa09)                         | [Registrar nova reclamação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt.md#registrar-nova-reclama%C3%A7%C3%A3o)      |
+| [Gabriel Zaranza](https://github.com/GZaranza)                           | [Desbloquear saldo](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt.md#desbloquear-saldo)              |
+| [Izabella Alves](https://github.com/izabellaalves)                       | [Consultar estabelecimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt.md#consultar-um-estabelecimento)      |
+| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Visualizar recibo fiscal](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt.md#visualizar-recibo-fiscal)       |
+| [Lucas Ribeiro](https://github.com/lucassouzs)                           | [Consultar reclamação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt.md#consultar-reclama%C3%A7%C3%A3o)           |
+| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Indicar créditos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt.md#indicar-cr%C3%A9ditos)               |
+| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt.md#consultar-extrato)              |
+| [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt.md#consultar-resultado-de-sorteio) |
 
 **Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário.
 Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](https://github.com/Lucas13032003),  2023.
@@ -77,7 +77,7 @@ Nesta tarefa, os usuários buscam consultar reclamações no site "Nota Legal", 
 
 ### Consultar extrato
 
-Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Legal" para acompanhar e registrar suas interações financeiras com os estabelecimentos cadastrados no programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato). Na figura 2 é possível ver o diagrama CTT da tarefa em questão.
+Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Legal" para acompanhar e registrar suas interações financeiras com os estabelecimentos cadastrados no programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/ad5200e9034c6795c53d8fa9a2f2c6bd0ef86b58/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato). Na figura 2 é possível ver o diagrama CTT da tarefa em questão.
 
 ### Consultar resultado de sorteio
 

@@ -78,11 +78,6 @@ Nesta tarefa, os usuários buscam consultar reclamações no site "Nota Legal", 
 
 </div>
 
-
-### Indicar créditos
-
-...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/ad5200e9034c6795c53d8fa9a2f2c6bd0ef86b58/docs/analise%20de%20requisitos/cenarios.md#indica%C3%A7%C3%A3o-de-cr%C3%A9ditos)
-
 ### Consultar extrato
 
 Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Legal" para acompanhar e registrar suas interações financeiras com os estabelecimentos cadastrados no programa. É possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/ad5200e9034c6795c53d8fa9a2f2c6bd0ef86b58/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato). Na figura 5 é possível ver o diagrama CTT da tarefa em questão.
@@ -94,9 +89,6 @@ Nesta tarefa, o objetivo visualizar o extrato de transações no site "Nota Lega
 <font size="2"><p style="text-align: center"><b>Figura 5:</b> Diagrama CTT para Consultar extrato. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
 </div>
-
-
-
 
 ### Consultar resultado de sorteio
 

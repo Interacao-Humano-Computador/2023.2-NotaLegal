@@ -107,9 +107,11 @@ Maria pegou seu computador e, acessou o site. Ela navegou até aba de "Extrato" 
 ### Consultar resultado de sorteio
 
 Cenário de análise: *Consulta de resultado de sorteio do programa Nota Legal*
+
 Atores: Ana, professora, e Joana, sua aluna de economia.
 
 [Ana](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-secund%C3%A1ria-2-ana-professora) tem 57 anos e é professora de economia em uma escola local. Ela dá aulas sobre educação financeira. Ana ensina a seus alunos a importância de saber gastar bem e de exigir a nota fiscal em todas as compras, exercendo sua cidadania. Os alunos de Ana aprenderam a participar do Programa Nota Legal do Distrito Federal e sempre que fazem compras em estabelecimentos participantes do programa, pedem nota fiscal  e informam seu CPF. Além de colaborarem com o aumento da arrecadação fiscal, o que pode ser transformado em melhorias na cidade para todos, os alunos sabem que além da concessão de créditos anual, eles podem participar também de sorteios com prêmios em dinheiro.
+
 Em uma determinada aula, Ana estava ensinando aos alunos como verificar no site do [Nota Legal](https://www.notalegal.df.gov.br/) se eles estavam participando dos sorteios semestrais e se algum deles já tinha sido sorteado. Joana, uma de suas alunas, estava participando dessa aula. Joana tem 45 anos, durante o dia trabalha como caixa de supermercado e à noite estuda economia. Ela valoriza muito essas aulas e tudo que aprende repassa a seu filho Rafael de 12 anos. Na aula, Joana fez login no site com seu CPF e senha e em seguida clicou no ícone “Sorteio”. Desde antes da professora Ana ensinar sobre o assunto, Joana já pedia sempre nota fiscal com CPF e acessava o portal periodicamente, com esperanças de ser sorteada um dia. Em seguida, Joana acessou o último sorteio realizado, o sorteio do segundo semestre de 2023. Após alguns segundos de espera e ansiedade (o site sempre demora um pouco para responder!), a tela de informações apareceu e no campo “Premiado” estava a palavra “Sim”. Joana ficou sem fala, mal podia acreditar! Com algum esforço conseguiu chamar a professora Ana. Juntas elas clicaram em “consultar bilhetes premiados” e descobriram que Joana tinha ganhado 500 mil reais!!! Ana orientou Joana a clicar em “indicar dados bancários para crédito do prêmio”  para que ela pudesse receber o dinheiro. Joana já começou a fazer planos de como iria gastar uma parte desse valor e investir o restante, como a professora Ana sempre ensina.
 
 ## Referências Bibliográficas
@@ -124,9 +126,9 @@ Em uma determinada aula, Ana estava ensinando aos alunos como verificar no site 
 |`1.1`|10/10/2023|Adição do cenário de indicação de créditos|[Lucas Víctor](https://github.com/Lucas13032003)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.2`|10/10/2023|Adição do cenário consultar saldo|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.3`|10/10/2023|Adição do cenário de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
-|`1.4`|10/10/2023|Revisão do cenário consultar saldo, adição da introdução, tabela e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.4`|10/10/2023|Revisão do cenário consultar saldo, adição da introdução, tabela e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|-|
 |`1.5`|11/10/2023|Adição do cenário consultar reclamação|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`1.6`|11/10/2023|Adição do cenário consultar extrator |[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)
+|`1.6`|11/10/2023|Adição do cenário consultar extrator |[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs) |
 |`1.7`|11/10/2023|Adição do cenário visualizar Recibo Fiscal |[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
-|`1.8`|11/10/2023|Revisão do cenário Visualizar Recibo Fiscal |[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Víctor](https://github.com/Lucas13032003)|
+|`1.8`|11/10/2023|Revisão do cenário Visualizar Recibo Fiscal |[Lucas Víctor](https://github.com/Lucas13032003)|-|
 |`1.9`|12/10/2023|Adição do cenário consultar resultado de sorteio |[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|

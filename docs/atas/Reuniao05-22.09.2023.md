@@ -37,7 +37,7 @@ Deverá ser realizado um documento com persona primária, secundária, terciári
 
 ## Link da Gravação
 
-[Requisitos - Reunião 5](https://youtu.be/4LBz7hHEZL8)
+[IHC - Reunião 5](https://youtu.be/4LBz7hHEZL8)
 
 ## Histórico de Versão
 

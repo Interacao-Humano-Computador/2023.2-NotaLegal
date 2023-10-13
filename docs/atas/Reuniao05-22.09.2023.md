@@ -1,4 +1,4 @@
-# Reunião 5 - 22.09.2023
+# Reunião 05 - 22.09.2023
 
 Reunião realizada no Microsoft Teams.
 
@@ -37,7 +37,7 @@ Deverá ser realizado um documento com persona primária, secundária, terciári
 
 ## Link da Gravação
 
-[IHC - Reunião 5](https://youtu.be/4LBz7hHEZL8)
+[IHC - Reunião 05](https://youtu.be/4LBz7hHEZL8)
 
 ## Histórico de Versão
 

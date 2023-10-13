@@ -104,7 +104,7 @@ O objetivo principal da tarefa a seguir é consultar o resultado dos sorteios qu
 
 <div align="center">
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ctt_consultar_resultado_sorteio.png?raw=true">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/ctt_consultar_resultado_sorteio.png?raw=true" style="width: 75%; height: auto;">
 
 **Figura 7**: Diagrama CTT para Consultar resultado de sorteio. Fonte: [Zenilda Vieira](https://github.com/zenildavieira), 2023.
 

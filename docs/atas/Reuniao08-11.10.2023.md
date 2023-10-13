@@ -18,15 +18,14 @@ Reunião realizada no Microsoft Teams.
 
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
-<div align="center">
-
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      20:45        |
 | Realizado     |      19:00       |      20:30        |
 
+<div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Izabella Alves](https://github.com/izabellaalves).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
 
 </div>
 
@@ -38,12 +37,13 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 ## Atividades
 Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
-<div align="center">
 
 ![Atividades da reunião 8](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/b02e9cc1a7d89e4576c89c0fb2b2e01bb06df516/docs/imagens/atividadesreuniao9.jpeg)
 
+<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas.</b></p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Zenilda Vieira](https://github.com/zenildavieira).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></p></font>
 
 </div>
 

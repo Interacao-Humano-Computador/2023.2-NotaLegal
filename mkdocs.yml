@@ -12,8 +12,10 @@ nav:
     - Reunião 5: atas/Reuniao05-22.09.2023.md
     - Reunião 6: atas/Reuniao06-04.10.2023.md
     - Reunião 7: atas/Reuniao07-06.10.2023.md
+    - Reunião 8: atas/Reuniao08-11.10.2023.md
   - Apresentações:
     - Apresentação 1: apresentacoes/Apresentação 1 - 29.09.2023.md
+    - Apresentação 2: apresentacoes/Apresentação 2 - 13.10.2023.md
   - Planejamento do Projeto:
     - Heatmap de disponibilidade: planejamento do projeto/heatmap-disponibilidade.md
     - Sites avaliados: planejamento do projeto/lista-sites-avaliados.md
@@ -24,13 +26,21 @@ nav:
     - Cronograma executado: planejamento do projeto/cronograma_executado.md
   - Análise de Requisitos:
     - Aspectos éticos: analise de requisitos/aspectos-eticos.md
-    - Termo de Consetimento Livre e Esclarecido: analise de requisitos/termo_de_consentimento_perfilUsuario.md
-    - Perfil do usuário: analise de requisitos/perfil_usuario.md
+    - Perfil do usuário: 
+      - Termo de Consentimento Livre e Esclarecido: analise de requisitos/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario.md
+      - Grupo de foco: analise de requisitos/tecnicas-perfil-usuario/grupo_de_foco.md
+      - Questionário: analise de requisitos/tecnicas-perfil-usuario/questionario.md
+      - Perfil do Usuário: analise de requisitos/perfil_usuario.md
     - Personas: analise de requisitos/personas.md
     - Cenários: analise de requisitos/cenarios.md
     - Análise de Tarefas:
-      - Análise Hierárquica de Tarefas (HTA): analise de requisitos/hta.md
-      - Árvore de Tarefas Concorrentes (CTT): analise de requisitos/ctt.md
+      - Análise Hierárquica de Tarefas (HTA): analise de requisitos/tecnicas-analise-de-tarefas/hta.md
+      - Árvore de Tarefas Concorrentes (CTT): analise de requisitos/tecnicas-analise-de-tarefas/ctt.md
+    - Requisitos do Usuário:
+      - Brainstorming: analise de requisitos/tecnicas-elicitacao/brainstorming.md
+      - Instrospecção: analise de requisitos/tecnicas-elicitacao/introspeccao.md
+      - Observação: analise de requisitos/tecnicas-elicitacao/observacao.md
+      - Requisitos elicitados: analise de requisitos/requisitos_elicitados.md
     
 theme:
   name: material

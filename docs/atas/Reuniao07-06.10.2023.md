@@ -18,14 +18,13 @@ Mesma reunião para IHC e RQS.
 
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
-<div align="center">
-
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      21:30        |
 | Realizado     |      xx:xx       |      xx:xx        |
 
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários. Fonte:</b> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira).</b></p></font>
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários. Fonte:<a href="https://github.com/zenildavieira"> Zenilda Vieira</a></b></p></font>
 
 </div>
 
@@ -38,22 +37,19 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma delas para a entrega 2 de IHC.
 
+![Figura 1 - Atividades](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/issues-IHC2-06-10-2023.png?raw=true)
 <div align="center">
-
-![Figura 1 - Atividades](/docs/imagens/atas/issues-IHC2-06-10-2023.png)
-
-<font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas. Fonte:</b> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira).</b></p></font>
-
+<font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas. Fonte:<a href="https://github.com/zenildavieira"> Zenilda Vieira</a></b></p></font>
 
 </div>
 
 Na figura 2 encontram-se as atividades definidas e os responsáveis por cada uma delas para a entrega 3 de RQS.
 
+
+
+![Figura 2 - Atividades](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/issues_RQS3-06-10-2023.png?raw=true)
 <div align="center">
-
-![Figura 2 - Atividades](/docs/imagens/atas/issues_RQS3-06-10-2023.png)
-
-<font size="3"><p style="text-align: center"><b>Figura 2 - Atividades a serem desenvolvidas. Fonte:</b> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira).</b></p></font>
+<font size="3"><p style="text-align: center"><b>Figura 2 - Atividades a serem desenvolvidas. Fonte:<a href="https://github.com/zenildavieira"> Zenilda Vieira</a></b></p></font>
 
 </div>
 

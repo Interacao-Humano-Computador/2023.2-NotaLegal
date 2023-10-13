@@ -15,7 +15,6 @@
 | [Izabella Alves](https://github.com/izabellaalves)                       | [Consultar estabelecimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-um-estabelecimento)      |
 | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Visualizar recibo fiscal](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#visualizar-recibo-fiscal)       |
 | [Lucas Ribeiro](https://github.com/lucassouzs)                           | [Consultar reclamação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-reclama%C3%A7%C3%A3o)           |
-| [Lucas Víctor](https://github.com/Lucas13032003)                         | [Indicar créditos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#indicar-cr%C3%A9ditos)               |
 | [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-extrato)              |
 | [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-resultado-de-sorteio) |
 
@@ -198,7 +197,7 @@ Fonte: [Lucas Ribeiro](https://github.com/lucassouzs), 2023.
 
 ### Consultar extrato
 
-Nesta tarefa, o usuário tem como principal objetivo consultar o extrato no sistema Nota Legal  é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#desbloquear-saldo). A Figura 6 ilustra o diagrama HTA desta tarefa, detalhando as etapas envolvidas. Além disso, o mesmo diagrama HTA é disponibilizado em formato de tabela na Tabela 5 para facilitar a compreensão.
+Nesta tarefa, o usuário tem como principal objetivo consultar o extrato no sistema Nota Legal  é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato). A Figura 6 ilustra o diagrama HTA desta tarefa, detalhando as etapas envolvidas. Além disso, o mesmo diagrama HTA é disponibilizado em formato de tabela na Tabela 5 para facilitar a compreensão.
 
 <div align="center">
 

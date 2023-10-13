@@ -155,13 +155,35 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 <font size="2"><p style="text-align: center"><b>Tabela 4:</b> Tabela HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b>, 2023.</p></font>
 </div>
 
-### Indicar créditos
-
-...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#indica%C3%A7%C3%A3o-de-cr%C3%A9ditos)
-
 ### Consultar extrato
+Nesta tarefa, o usuário tem como principal objetivo consultar o extrato no sistema Nota Legal  é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#desbloquear-saldo). A Figura 5 ilustra o diagrama HTA desta tarefa, detalhando as etapas envolvidas. Além disso, o mesmo diagrama HTA é disponibilizado em formato de tabela na Tabela 5 para facilitar a compreensão.
 
-...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato)
+<div align="center">
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/htt_consultar_extrato.png?raw=true">
+
+<font size="2"><p style="text-align: center"><b>Figura 5:</b> Diagrama HTA da tarefa Consultar Extrato. Fonte: Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+
+</div>
+
+<div align="center">
+
+| Objetivos/Operações       | Problemas e Recomendações                                                                                      |
+|---------------------------|----------------------------------------------------------------------------------------------------------------|
+|0. Consultar Extrato no Site Nota Legal 0>1                   | - Input: Necessidade de consultar extrato.                                                      |
+|1. Acessar o Site Nota Legal 1>2                               |- Input: Ter acesso à página principal do Nota Legal.                                       |
+|2. Navegar até a Aba "Extrato" 2>3                            | - Input: Encontrar a aba "Extrato" no site.                                                  |
+|3. Aguardar o Carregamento das Informações do Extrato 3>4      | - Input: Tempo para o carregamento das informações. <br/> - Feedback:  Página de consulta de extrato                       |
+|4. Especificar o Período de Consulta de Extrato 1+2            | - Input: Definir o período desejado (mês/ano).             |
+|4.1 Localizar a opção de período na interface              | - Input: Encontrar a opção de período no site.                                               |
+|4.2 Inserir o período desejado (mês/ano)                    | - Input: Inserir as datas desejadas.                                                       |
+|5. Analisar as Transações e Créditos Acumulados no Extrato 1+ | Input: Informações do extrato. <br/> - Feedback: Todos os saldos creditados, durante o periodo selecionado|
+|5.1 Ler as informações exibidas no extrato                 | - Recomendação: Melhorar a legibilidade e usabilidade das informações no extrato.  |
+
+<font size="2"><p style="text-align: center"><b>Tabela 5:</b> Tabela HTA da tarefa  Consultar Extrato. Fonte: Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+
+</div>
+
 
 ### Consultar resultado de sorteio
 
@@ -184,3 +206,4 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 |`1.2`|11/10/2023|Adição do hta de desbloqueio de saldo|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.3`|12/10/2023|Adição do hta de consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.4`|12/10/2023|Adição do hta de consultar resultado de sorteio|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.5`|12/10/2023|Adição do hta de consultar extrato|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

@@ -25,7 +25,7 @@ Neste documento, apresentaremos o resultado da observação guiada de um usuári
 ## Metodologia
 
 Nossa observação foi feita com uma usuária do sexo feminimo, 55 anos, nível de escolaridade Superior Completo, de média para baixa afinidade com tecnologia, baixa frequência de uso do sistema Nota Legal, acesso pelo computador e que tem como principal objetivo realizar indicações de concessão de créditos. Durante a observação foram anotadas as funcionalidades utilizadas (como requisitos implementados), o nível de dificuldade que a usuária apresentou em cada uma delas e funcionalidades que a usuária sentiu falta (requisitos não implementados).
-Não foi possível utilizar a função de indicação de concessão de créditos pois ela não estava disponível no momento da gravação (fica disponível somente no início de cada ano). Outro detalhe importante é que o vídeo gravado mostra o usuário já logado e termina antes dele deslogar. Portanto, as observações feitas sobre login e desconexão de login não constam na gravação.
+Não foi possível utilizar a função de indicação de concessão de créditos pois ela não estava disponível no momento da gravação (fica disponível somente no início de cada ano). Outro detalhe importante é que o vídeo gravado mostra o usuário já logado e termina antes dele deslogar. Portanto, as observações feitas sobre login e desconexão de login não constam na gravação. Os requisitos elicitados podem ser encontrados na tabela 1.
 
 **RF (Requisitos Funcionais):** são funcionalidades específicas que o sistema deve oferecer em resposta a entradas do usuário.
 
@@ -50,7 +50,7 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 | O11   | RF     | Forma de contato com a Secretaria de Estado de Economia no caso de algum problema específico do usuário | Não | - |
 | O12   | RNF    | Garantir que ao fechar o aplicativo o usuário seja deslogado | Não | -                                            |
 
-**Tabela 1:** Requisitos elicitados. (Fonte: [Zenilda Pedrosa Vieira](https://github.com/zenildavieira), 2023).
+**Tabela 1:** Requisitos elicitados. Fonte: [Zenilda Pedrosa Vieira](https://github.com/zenildavieira), 2023.
 
 </div>
 
@@ -70,3 +70,4 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 | `1.1`  | 10/10/2023 | Inclusão dos requisitos elicitados | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | [Izabella Alves Pereira](https://github.com/izabellaalves)|
 | `1.2`  | 12/10/2023 | Revisão |  [Izabella Alves Pereira](https://github.com/izabellaalves)| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
 | `1.3`  | 13/10/2023 | Adição do vídeo da observação |  [Lucas Ribeiro](https://github.com/lucassouzs)| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) 
+| `1.4`  | 13/10/2023 | Padronizando a legenda da tabela 1 e fazendo citação no texto |  [Gabriel Zaranza](https://github.com/GZaranza)| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) 

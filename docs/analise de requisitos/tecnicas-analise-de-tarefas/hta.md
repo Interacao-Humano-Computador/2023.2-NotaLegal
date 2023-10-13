@@ -155,14 +155,16 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 <font size="2"><p style="text-align: center"><b>Tabela 4:</b> Tabela HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b>, 2023.</p></font>
 </div>
 
-### Indicar créditos
-
-...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#indica%C3%A7%C3%A3o-de-cr%C3%A9ditos)
-
 ### Consultar extrato
+Nesta tarefa, o usuário tem como principal objetivo consultar o extrato no sistema Nota Legal  é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#desbloquear-saldo). A Figura 5 ilustra o diagrama HTA desta tarefa, detalhando as etapas envolvidas. Além disso, o mesmo diagrama HTA é disponibilizado em formato de tabela na Tabela 5 para facilitar a compreensão.
 
-...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato)
+<div align="center">
 
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/htt_consultar_extrato.png?raw=true">
+
+<font size="2"><p style="text-align: center"><b>Figura 5:</b> Diagrama HTA da tarefa Consultar Extrato. Fonte: Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+
+</div>
 ### Consultar resultado de sorteio
 
 ...[Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-resultado-de-sorteio)
@@ -183,3 +185,4 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 |`1.2`|11/10/2023|Adição do hta de desbloqueio de saldo|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.3`|12/10/2023|Adição do hta de consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.4`|12/10/2023|Adição do hta de consultar resultado de sorteio|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.5`|12/10/2023|Adição do hta de consultar extrato|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

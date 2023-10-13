@@ -11,7 +11,7 @@
 | [Gabriel Rosa](https://github.com/gabrielrosa09)                         | [Registrar nova reclamação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#registrar-uma-reclama%C3%A7%C3%A3o)      |
 | [Gabriel Zaranza](https://github.com/GZaranza)                           | [Desbloquear saldo](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#desbloquear-saldo)              |
 | [Izabella Alves](https://github.com/izabellaalves)                       | [Consultar estabelecimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-um-estabelecimento)      |
-| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Visualizar recibo fiscal]()       |
+| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Visualizar recibo fiscal](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#visualizar-recibo-fiscal)       |
 | [Lucas Ribeiro](https://github.com/lucassouzs)                           | [Consultar reclamação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-reclama%C3%A7%C3%A3o)           |
 | [Lucas Víctor](https://github.com/Lucas13032003)                         | [Indicar créditos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#indicar-cr%C3%A9ditos)               |
 | [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-extrato)              |
@@ -131,8 +131,10 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/HTA%20-%20Consultar%20Reclama%C3%A7%C3%A3o.drawio.png" class="usecaseElement">
 
 <font size="2"><p style="text-align: center"><b>Figura 4:</b> Diagrama HTA da tarefa Consultar Reclamação. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b>, 2023.</p></font>
+</div>
 
 <br>
+
 <div align="center">
 
 | Objetivos/Operações       | Problemas e Recomendações                                                                                      |
@@ -159,14 +161,13 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 
 ### Consultar resultado de sorteio
 
-<div align="left">
 
 ## Bibliografia
 
 > Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/>. Acesso em: 08 de outubro 2023.
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
-</div>
+
 
 ## Histórico de Versões
 

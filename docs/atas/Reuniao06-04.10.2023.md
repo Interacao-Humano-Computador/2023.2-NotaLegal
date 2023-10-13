@@ -66,7 +66,7 @@ Foram distribuídas as atividades da entrega 2 de IHC e as atividades da entrega
 
 ## Link da Gravação
 
-[Requisitos - Reunião 06](https://youtu.be/8ORX3IlTzzY)
+[IHC - Reunião 06](https://youtu.be/8ORX3IlTzzY)
 
 ## Histórico de Versão
 

@@ -1,4 +1,4 @@
-# Reunião 2 - 05.09.2023
+# Reunião 02 - 05.09.2023
 
 Reunião realizada no Microsoft Teams.
 
@@ -45,7 +45,7 @@ Nesta reunião foi definido que o site selecionado para o projeto será o NotaLe
 
 ## Link da Gravação
 
-[IHC - Reunião 2](https://youtu.be/82IBXCtW7Bg)
+[IHC - Reunião 02](https://youtu.be/82IBXCtW7Bg)
 
 ## Histórico de Versão
 

@@ -1,4 +1,4 @@
-# Reunião 7 - 06.10.2023
+# Reunião 07 - 06.10.2023
 
 ## Local
 
@@ -63,7 +63,7 @@ Foram distribuídas as issues da entrega 3 de Requisitos e da entrega 2 de IHC, 
 
 ## Link da Gravação
 
-[IHC - Reunião 7](https://youtu.be/VJnmLucABOY)
+[IHC - Reunião 07](https://youtu.be/VJnmLucABOY)
 
 ## Histórico de Versão
 

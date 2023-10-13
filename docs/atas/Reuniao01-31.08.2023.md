@@ -1,4 +1,4 @@
-# Reunião 1 - 31.08.2023
+# Reunião 01 - 31.08.2023
 
 Reunião realizada no Microsoft Teams.
 
@@ -37,7 +37,7 @@ Foi acordado que as reuniões serão em formato de sprints, com abertura nas qui
 
 ## Link da Gravação
 
-[IHC - Reunião 1](https://youtu.be/UXNNalX0UEM)
+[IHC - Reunião 01](https://youtu.be/UXNNalX0UEM)
 
 ## Histórico de Versão
 

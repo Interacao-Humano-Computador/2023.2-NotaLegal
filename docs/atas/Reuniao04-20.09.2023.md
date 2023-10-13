@@ -1,4 +1,4 @@
-# Reunião 4 - 20.09.2023
+# Reunião 04 - 20.09.2023
 
 Reunião realizada no Microsoft Teams.
 
@@ -53,7 +53,7 @@ Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidi
 
 ## Link da Gravação
 
-[IHC - Reunião 4](https://youtu.be/uVTqzZWQHGg)
+[IHC - Reunião 04](https://youtu.be/uVTqzZWQHGg)
 
 ## Histórico de Versão
 

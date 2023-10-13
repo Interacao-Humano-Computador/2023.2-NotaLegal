@@ -1,4 +1,4 @@
-# Reunião 08 - 11.10.2023
+# Reunião 9 - 11.10.2023
 
 ## Local
 
@@ -53,10 +53,11 @@ A partir dessa reunião definimos as últimas issues e ajustes necssários pra s
 
 ## Link da Gravação
 
-[Interação Humano Computador - Reunião 09](xxxx)
+[IHC - Reunião 09]([xxxx](https://youtu.be/lFs9BQYdoIM))
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |11/10/2023| Criação da ata de reunião | [Izabella Alves](https://github.com/izabellaalves) |[Zenilda Vieira](https://github.com/zenildavieira)  |
+|`1.1`|13/10/2023| Adição do link da gravação | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Zaranza](https://github.com/GZaranza) |

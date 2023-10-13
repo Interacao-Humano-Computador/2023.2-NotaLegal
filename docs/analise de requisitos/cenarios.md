@@ -21,7 +21,7 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 | [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato)                                     |
 | [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-resultado-de-sorteio)                  |
 
-**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário. Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](https://github.com/Lucas13032003),  2023.
+**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário. Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
 
 </div>
 
@@ -87,7 +87,7 @@ Ao ver suas reclamações de forma clara, Luiz percebeu que seus problemas eram 
 
 ### Indicação de créditos
 
-[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) , um economista aposentado com ampla experiência em finanças, começava todos os anos com uma rotina financeira sólida. Todo início de janeiro, ele abria seu computador e acessava o Site [Nota Legal](https://www.notalegal.df.gov.br/). Essa era uma prática que ele seguia há anos, e era parte crucial de sua estratégia financeira.
+[Luiz](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista), um economista aposentado com ampla experiência em finanças, começava todos os anos com uma rotina financeira sólida. Todo início de janeiro, ele abria seu computador e acessava o site [Nota Legal](https://www.notalegal.df.gov.br/). Essa era uma prática que ele seguia há anos, e era parte crucial de sua estratégia financeira.
 
 Primeiro, Luiz entrava na seção do IPTU. Com sua habilidade e conhecimento, ele rapidamente indicava os créditos fiscais para ajudar a compensar parte do imposto predial. Isso era como um ritual para ele, uma maneira de otimizar suas finanças pessoais e economizar dinheiro.
 
@@ -131,3 +131,4 @@ Em uma determinada aula, Ana estava ensinando aos alunos como verificar no site 
 |`1.7`|11/10/2023|Adição do cenário visualizar Recibo Fiscal |[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
 |`1.8`|11/10/2023|Revisão do cenário Visualizar Recibo Fiscal |[Lucas Víctor](https://github.com/Lucas13032003)|-|
 |`1.9`|12/10/2023|Adição do cenário consultar resultado de sorteio |[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.10`|13/10/2023|Revisão do cenário de indicação de créditos |[Izabella Alves](https://github.com/izabellaalves)|-|

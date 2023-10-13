@@ -27,12 +27,13 @@ Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](http
 
 Nessa tarefa, o usuário tem como objetivo registrar uma reclamação no site do Nota Legal, é possível verificar o cenário que se baseia nessa tarefa nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/ad5200e9034c6795c53d8fa9a2f2c6bd0ef86b58/docs/analise%20de%20requisitos/cenarios.md#registrar-nova-reclama%C3%A7%C3%A3o). Na figura 1 é possível ver o digrama CTT da tarefa registrar reclamação.
 
-<center>
+<div align="center">
 
-![Figura 1 - CTT Registrar Reclamação](/docs/imagens/Diagrama%20CTT%20Registrar%20Reclamação.jpg)
-**Figura 1** - Diagrama CTT para registrar uma reclamação. Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09) 
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Diagrama%20CTT%20Registrar%20Reclama%C3%A7%C3%A3o.jpg?raw=true" class="usecaseElement">
 
-</center>
+<font size="2"><p style="text-align: center"><b>Figura 1:</b> Diagrama CTT para registrar uma reclamação. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+
+</div>
 
 ### Desbloquear saldo
 

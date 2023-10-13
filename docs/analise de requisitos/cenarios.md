@@ -10,8 +10,6 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 
 <div align="center">
 
-**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário.
-
 | Membro da Equipe | Cenário  |
 | ------------------------------------------------------------------------ | ---------------------------    |
 | [Gabriel Rosa](https://github.com/gabrielrosa09)                         | [Registrar nova reclamação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#registrar-nova-reclama%C3%A7%C3%A3o)       |
@@ -23,7 +21,7 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 | [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato)                                     |
 | [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-resultado-de-sorteio)                  |
 
-Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](https://github.com/Lucas13032003),  2023.
+**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário. Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](https://github.com/Lucas13032003),  2023.
 
 </div>
 

@@ -6,8 +6,6 @@
 
 <div align="center">
 
-**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário.
-
 | Membro da Equipe | Cenário  |
 | ------------------------------------------------------------------------ | ---------------------------------- |
 | [Gabriel Rosa](https://github.com/gabrielrosa09)                         | [Registrar nova reclamação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#registrar-uma-reclama%C3%A7%C3%A3o)      |
@@ -18,7 +16,7 @@
 | [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-extrato)              |
 | [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-resultado-de-sorteio) |
 
-Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](https://github.com/Lucas13032003),  2023.
+**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário. Fonte: [Izabella Alves](https://github.com/izabellaalves),  [Lucas Víctor](https://github.com/Lucas13032003),  2023.
 
 </div>
 
@@ -28,19 +26,15 @@ Nessa tarefa, o usuário possui como principal objetivo realizar uma reclamaçã
 
 <div align="center">
 
-**Figura 1:** Diagrama HTA da tarefa Consultar um estabelecimento.
-
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/HTA%20-%20Registrar%20Reclamação.jpg?raw=true" class="usecaseElement">
 
-Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023.
+**Figura 1:** Diagrama HTA da tarefa Consultar um estabelecimento. Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023.
 
 </div>
 
 <br>
 
 <div align="center">
-
-**Tabela 2**: Tabela HTA da tarefa registro de reclamação. 
 
 | **Objetivos/Operações**                                     | **Problemas e Recomendações**                       |
 | --------------------------------------------- | --------------------------------------------------- |
@@ -58,7 +52,7 @@ Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023.
 | Tarefa 4: Clicar no botão "Registrar reclamação" |**feedback**: ser redirecionado para a página de registro de reclamação confirmado com sucesso.      |
 | Tarefa 5: Confirmar que a mensagem de confirmação apareceu na tela | **feedback**: mensagem de confirmação da reclamação.      |
 
-Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023
+**Tabela 2**: Tabela HTA da tarefa registro de reclamação. Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023
 
 </div>
 
@@ -68,19 +62,16 @@ Nessa tarefa, o usuário possui como principal objetivo desbloquear o saldo de d
 
 <div align="center">
 
-**Figura 2**: Diagrama HTA da tarefa Desbloquear Saldo.
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/HTA%20-%20Desbloquear%20saldo.drawio.png?raw=true" class="usecaseElement">
 
-Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+**Figura 2**: Diagrama HTA da tarefa Desbloquear Saldo. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 
 </div>
 
 <br>
 
 <div align="center">
-
-**Tabela 3**: Tabela HTA da tarefa Desbloquear saldo.
 
 | Objetivos/Operações       | Problemas e Recomendações                                                                                      |
 |--------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -91,7 +82,7 @@ Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 | 2. Registrar demanda no Portal da SEFAZ-DF.    | **plano:** redirecionar o usuário para o portal de demandas da SEFAZ-DF.                                   |
 | 2.1 Preencher formulário de solicitação       | **input:** formulário de solicitação de demanda com tipo de pessoa, assunto, tipo de atendimento, nome, tipo de documento do usuário, e-mail, telefone e descrição da solicitação. <br> **feedback:** nova solicitação é enviada para a SEFAZ-DF.  |
 
-Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+**Tabela 3**: Tabela HTA da tarefa Desbloquear saldo. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 
 </div>
 
@@ -100,19 +91,15 @@ Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 Nessa tarefa, o usuário possui como principal objetivo consultar se determinado estabelecimento é ou não cadastrado no programa Nota Legal, é possível verificar um cenário que se baseia nessa tarefa na nossa página de [Cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-estabelecimento). Na figura 3 é possível ver o diagrama HTA desta tarefa, e o mesmo HTA, só que em tabela, está visível na tabela 1.
 <div align="center">
 
-**Figura 3**: Diagrama HTA da tarefa Consultar um estabelecimento.
-
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/4c0f0ffbff650f37967292a4c4f0437e77db093c/docs/imagens/hta-consultar-estabelecimento.drawio%20(1).png?raw=true" class="usecaseElement">
 
-Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
+**Figura 3**: Diagrama HTA da tarefa Consultar um estabelecimento. Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
 
 </div>
 
 <br>
 
 <div align="center">
-
-**Tabela 4**: Tabela HTA da tarefa Consultar um estabelecimento.
 
 | Objetivos/Operações       | Problemas e Recomendações                                                                                      |
 |--------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -124,7 +111,7 @@ Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
 | 2.2.1. Selecionar o estabelecimento | **input:** usuário clica no estabelecimento desejado. <br> **feedback:** usuário redirecionado para a página do estabelecimento. |
 | 2.2.2. Confirmar se é o estabelecimento correto | **plano:** verificar se os dados do estabelecimento clicado são iguais aos dados do estabelecimento buscado. |
 
-Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
+**Tabela 4**: Tabela HTA da tarefa Consultar um estabelecimento. Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
 
 </div>
 
@@ -134,11 +121,9 @@ Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
 
 <div align="center">
 
-**Figura 4**: Diagrama HTA da tarefa Consultar um estabelecimento.
-
 <img src="" class="usecaseElement">
 
-Fonte: [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
+**Figura 4**: Diagrama HTA da tarefa Consultar um estabelecimento. Fonte: [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
 
 </div>
 
@@ -146,13 +131,11 @@ Fonte: [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 20
 
 <div align="center">
 
-**Tabela 5**: Tabela HTA da tarefa Visualizar Recibo Fiscal.
-
 | Objetivos/Operações      | Problemas e Recomendações                                |
 |--------------------------|----------------------------------------------------------|
 |                          |                                                          |
 
-Fonte: [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
+**Tabela 5**: Tabela HTA da tarefa Visualizar Recibo Fiscal. Fonte: [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
 
 </div>
 
@@ -162,19 +145,15 @@ Nesta tarefa, o usuário tem como principal objetivo consultar as reclamações 
 
 <div align="center">
 
-**Figura 5**: Diagrama HTA da tarefa Consultar Reclamação.
-
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/HTA%20-%20Consultar%20Reclama%C3%A7%C3%A3o.drawio.png?raw=true" class="usecaseElement">
 
-Fonte: [Lucas Ribeiro](https://github.com/lucassouzs), 2023.
+**Figura 5**: Diagrama HTA da tarefa Consultar Reclamação. Fonte: [Lucas Ribeiro](https://github.com/lucassouzs), 2023.
 
 </div>
 
 <br>
 
 <div align="center">
-
-**Tabela 6**: Tabela HTA da tarefa Consultar Reclamação.
 
 | Objetivos/Operações       | Problemas e Recomendações                                                                                      |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|
@@ -191,7 +170,7 @@ Fonte: [Lucas Ribeiro](https://github.com/lucassouzs), 2023.
 |4. Clicar no botão ‘Consultar’|**feedback**: exibir uma lista com as reclamações de acordo com as informações indicadas nos campos|
 |5. Analisar Reclamações Registradas|**plano**: verificar se as reclamações exibidas estão de acordo com as informalções inficadas nos campos|
 
-Fonte: [Lucas Ribeiro](https://github.com/lucassouzs), 2023.
+**Tabela 6**: Tabela HTA da tarefa Consultar Reclamação. Fonte: [Lucas Ribeiro](https://github.com/lucassouzs), 2023.
 
 </div>
 
@@ -201,17 +180,13 @@ Nesta tarefa, o usuário tem como principal objetivo consultar o extrato no sist
 
 <div align="center">
 
-**Figura 6**: Diagrama HTA da tarefa Consultar Extrato.
-
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/htt_consultar_extrato.png?raw=true">
 
-Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+**Figura 6**: Diagrama HTA da tarefa Consultar Extrato. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
 </div>
 
 <div align="center">
-
-**Tabela 7**: Tabela HTA da tarefa  Consultar Extrato.
 
 | Objetivos/Operações       | Problemas e Recomendações                                                                                     |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -225,7 +200,7 @@ Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 |5. Analisar as Transações e Créditos Acumulados no Extrato 1+ | - **Input**: Informações do extrato. <br/> - **Feedback**: Todos os saldos creditados, durante o periodo selecionado|
 |5.1 Ler as informações exibidas no extrato    | - **Recomendação**: Melhorar a legibilidade e usabilidade das informações no extrato.          |
 
-Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+**Tabela 7**: Tabela HTA da tarefa  Consultar Extrato. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
 </div>
 
@@ -235,17 +210,13 @@ O objetivo principal da tarefa a seguir é consultar o resultado dos sorteios qu
 
 <div align="center">
 
-**Figura 7**: Diagrama HTA da tarefa Consultar Resultado de Sorteio.
-
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/hta_consultar_resultado_sorteio.png?raw=true">
 
-Fonte: [Zenilda Vieira](https://github.com/zenildavieira), 2023.
+**Figura 7**: Diagrama HTA da tarefa Consultar Resultado de Sorteio. Fonte: [Zenilda Vieira](https://github.com/zenildavieira), 2023.
 
 </div>
 
 <div align="center">
-
-**Tabela 8**: Tabela HTA da tarefa Consultar Resultado de Sorteio.
 
 | Objetivos/Operações                | Problemas e Recomendações                                       |
 | -----------------------------------| --------------------------------------------------------------- |
@@ -257,7 +228,7 @@ Fonte: [Zenilda Vieira](https://github.com/zenildavieira), 2023.
 | 2.2.1. Selecionar sorteio          | **input**: selecionar o sorteio que foi premiado                  |
 | 2.2.2. Preencher dados bancários   | **input**: preencher os dados bancários                           |
 
-Fonte: [Zenilda Vieira](https://github.com/zenildavieira), 2023.
+**Tabela 8**: Tabela HTA da tarefa Consultar Resultado de Sorteio. Fonte: [Zenilda Vieira](https://github.com/zenildavieira), 2023.
 
 </div>
 

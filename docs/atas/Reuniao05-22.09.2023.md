@@ -44,4 +44,4 @@ Deverá ser realizado um documento com persona primária, secundária, terciári
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
 |`0.1`|21/09/2023|Criação do documento|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
-|`0.2`|29/09/2023|Adção do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
+|`0.2`|29/09/2023|Adição do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|

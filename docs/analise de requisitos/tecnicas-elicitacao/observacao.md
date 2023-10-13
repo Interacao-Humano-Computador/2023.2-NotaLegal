@@ -56,7 +56,7 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 
 ## Link da Gravação
 
-[]()
+[IHC - Observação](https://youtu.be/FJ0vc5UsAz8)
 
 ## Bibliografia
 
@@ -69,3 +69,4 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 | `1.0`  | 28/09/2023 | Criação do documento               | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | [Izabella Alves Pereira](https://github.com/izabellaalves)|
 | `1.1`  | 10/10/2023 | Inclusão dos requisitos elicitados | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | [Izabella Alves Pereira](https://github.com/izabellaalves)|
 | `1.2`  | 12/10/2023 | Revisão |  [Izabella Alves Pereira](https://github.com/izabellaalves)| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+| `1.3`  | 13/10/2023 | Adição do vídeo da observação |  [Lucas Ribeiro](https://github.com/lucassouzs)| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) 

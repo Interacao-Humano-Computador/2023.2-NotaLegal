@@ -5,7 +5,7 @@ Em um mundo cada vez mais digital e interconectado, compreender o perfil de usu�
 
 ## Metodologia
 
-A definição do perfil de usuário do aplicativo Economia DF foi cuidadosamente elaborada através de um processo que envolveu a aplicação de questionários e a realização de grupos de foco. Essa abordagem permitiu uma compreensão profunda das necessidades e preferências dos potenciais usuários da plataforma. Os questionários forneceram dados quantitativos valiosos, enquanto os grupos de foco permitiram explorar aspectos qualitativos e nuances que não poderiam ser capturados apenas por meio de respostas padronizadas. Essa abordagem combinada resultou em um perfil de usuário rico em detalhes, considerando características demográficas, comportamentais e psicográficas, essenciais para a personalização e otimização do aplicativo, garantindo assim uma experiência mais eficaz e relevante para os cidadãos do Distrito Federal em busca de soluções econômicas e financeiras.
+A definição do perfil de usuário do site Nota Legal foi cuidadosamente elaborada através de um processo que envolveu a aplicação de questionários e a realização de grupos de foco. Essa abordagem permitiu uma compreensão profunda das necessidades e preferências dos potenciais usuários da plataforma. Os questionários forneceram dados quantitativos valiosos, enquanto os grupos de foco permitiram explorar aspectos qualitativos e nuances que não poderiam ser capturados apenas por meio de respostas padronizadas. Essa abordagem combinada resultou em um perfil de usuário rico em detalhes, considerando características demográficas, comportamentais e psicográficas, essenciais para a personalização e otimização do site, garantindo assim uma experiência mais eficaz e relevante para os cidadãos do Distrito Federal em busca de soluções econômicas e financeiras.
 
 
 ## Definição do Usuário
@@ -23,7 +23,7 @@ Após a análise dos resultados obtidos pelo [questionario](https://github.com/I
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Tabela do perfil de usuário do aplicativo Economia DF. Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza.</a></b></p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Tabela do perfil de usuário do site Nota Legal. Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza.</a></b></p></font>
 
 </div>
 

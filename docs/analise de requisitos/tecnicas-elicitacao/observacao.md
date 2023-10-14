@@ -33,7 +33,6 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 
 **ID:** Cada requisito será identificado por um código composto da seguinte maneira: OXX, onde "XX" representa um número sequencial único.
 
-<div align="center">
 
 | ID    | Código | Descrição                                                    | Implementado | Nível de Dificuldade                |
 | :---: | :----: | ------------------------------------------------------------ | :----------: | ----------------------------------- |
@@ -49,8 +48,9 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 | O10   | RF     | Consulta de estabelecimentos comerciais parceiros do programa Nota Legal. | Não | -                               |
 | O11   | RF     | Forma de contato com a Secretaria de Estado de Economia no caso de algum problema específico do usuário | Não | - |
 | O12   | RNF    | Garantir que ao fechar o aplicativo o usuário seja deslogado | Não | -                                            |
+<div align="center">
 
-**Tabela 1:** Requisitos elicitados. Fonte: [Zenilda Pedrosa Vieira](https://github.com/zenildavieira), 2023.
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Requisitos elicitados. Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>, 2023.</b></p></font>
 
 </div>
 

@@ -20,7 +20,6 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser vista na ta
 
 **ID:** Cada requisito será identificado por um ID composto da seguinte forma: INTXX (onde XX é um número sequencial). Por exemplo, o primeiro requisito funcional seria INT01 e assim por diante.
 
-<div align="center">
 
 | ID   | Código | Descrição                                                                                      | Implementado |
 |------|--------|------------------------------------------------------------------------------------------------|--------------|
@@ -43,8 +42,9 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser vista na ta
 | INT17| RNF    | O site deve funcionar tanto no ambiente Windows, quanto no Linux e no IOS. |      Sim     |
 | INT18| RNF    | O site deve funcionar no Chrome, no Safari, no Edge e no Mozilla.                   |     Sim      |
 
+<div align="center">
 
-**Tabela 1:** Requisitos elicitados. Fonte: [Izabella Alves](https://github.com/izabellaalves) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Requisitos elicitados. Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</b> e </b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></p></font>
 
 </div>
 

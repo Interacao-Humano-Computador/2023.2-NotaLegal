@@ -2,11 +2,11 @@
 
 <div align="center">
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/nota-legal-df-2.png?raw=true" width="300px">
-</div>
-<div align="right">
+
+<p><b>Figura 1 - Logo do Nota Legal</b></p>
 </div>
 
-Figura 1 - Logo do Nota Legal
+
   
 
 

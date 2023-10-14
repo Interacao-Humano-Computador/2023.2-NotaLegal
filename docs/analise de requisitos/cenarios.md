@@ -8,7 +8,6 @@ Os cenários desempenham um papel fundamental na Interação Humano-Computador (
 
 A metodologia utilizada neste artefato é a de Cenários de Interação, tomando como base a descrição e os exemplos presentes no capítulo 07 do livro Interação Humano Computador [1]. Cada membro da equipe ficará responsável por criar um cenário, o membro e o cenário atribuído a ele podem ser vistos na tabela 1, Além disso, os cenários serão definidos através de um texto descritivo que terá: contexto, ator(es), objetivos, ações e avaliação, e o ator principal do cenário será uma das [Personas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/ad5200e9034c6795c53d8fa9a2f2c6bd0ef86b58/docs/analise%20de%20requisitos/personas.md) definidas pelo grupo.
 
-<div align="center">
 
 | Membro da Equipe | Cenário  |
 | ------------------------------------------------------------------------ | ---------------------------    |
@@ -21,8 +20,8 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 | [Lucas Víctor](https://github.com/Lucas13032003)                         | [Consultar extrato](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-extrato)                                     |
 | [Zenilda Vieira](https://github.com/zenildavieira)                       | [Consultar resultado de sorteio](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md#consultar-resultado-de-sorteio)                  |
 
-**Tabela 1:** Definição de membro da equipe que trabalhou em determinado cenário. Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
-
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Definição de membro da equipe que trabalhou em determinado cenário. Fonte:</b> <a href="">Izabella Alves</a></b></p></font>
 </div>
 
 ## Cenários Identificados

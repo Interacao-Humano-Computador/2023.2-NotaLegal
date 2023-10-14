@@ -60,7 +60,6 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na ta
 
 **ID:** Cada requisito será identificado por um ID composto da seguinte forma: INTXX (onde XX é um número sequencial). Por exemplo, o primeiro requisito funcional seria INT01 e assim por diante.
 
-<div align="center">
 
 | ID   | Código | Descrição                                                                                      | Implementado |
 |------|--------|------------------------------------------------------------------------------------------------|--------------|
@@ -81,7 +80,9 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na ta
 | BS15|    RF  | O usuário deve conseguir alterar a senha da sua conta |     Não      |
 | BS16|    RNF  | O site deve possuir ferramentas de acessibilidade (Alto contraste, libras, aumentar a fonte) |     Não      |
 
-**Tabela 1:** Requisitos elicitados. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Requisitos elicitados. Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</b></p></font>
 
 </div>
 

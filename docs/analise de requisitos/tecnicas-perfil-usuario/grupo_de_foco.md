@@ -4,11 +4,9 @@
 A metodologia do grupo de foco é uma técnica de pesquisa qualitativa que reúne participantes para discutir e expressar opiniões sobre produtos ou serviços. É amplamente utilizada no marketing e pode ser aplicada em diversas estratégias, incluindo o desenvolvimento de novos produtos, rebranding e táticas de Marketing Digital. No contexto do Nota Legal e do Economia DF, tivemos o intuito de conhecer melhor o usuário do site para elaborar um perfil genérico que é chamado de perfil do usuário.
 
 ## Aplicando a Metodologia do Grupo de Foco
-A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma reunião foi agendada via Teams na quarta-feira, 27/09/2023, das 20:00 às 21:30. [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) recrutaram os usuários, enquanto [Lucas Ribeiro de Souza](https://github.com/lucassouzs) preparou o roteiro da entrevista. [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) também atuou como moderador da reunião. A documentação foi realizada por [Gabriel Pessoa Zaranza](https://github.com/GZaranza), e o documento final do grupo de foco foi elaborado por [Gabriel da Silva Rosa](https://github.com/gabrielrosa09). Os usuários do grupo de foco incluíram [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003), [Zenilda Pedrosa Vieira](https://github.com/zenildavieira), Alecsandra Ferreira Araújo Souza e Ana Cristina Ferreira de Araújo. Tudo isso está contido na [Tabela 1 - Participantes do Grupo de Foco](#GrupoDeFoco).
+A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma reunião foi agendada via Teams na quarta-feira, 27/09/2023, das 20:00 às 21:30. 
 
-<div align="center">
-
-[//]: #(GrupoDeFoco)
+[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) recrutaram os usuários, enquanto [Lucas Ribeiro de Souza](https://github.com/lucassouzs) preparou o roteiro da entrevista. [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) também atuou como moderador da reunião. A documentação foi realizada por [Gabriel Pessoa Zaranza](https://github.com/GZaranza), e o documento final do grupo de foco foi elaborado por [Gabriel da Silva Rosa](https://github.com/gabrielrosa09). Os usuários do grupo de foco incluíram [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003), [Zenilda Pedrosa Vieira](https://github.com/zenildavieira), Alecsandra Ferreira Araújo Souza e Ana Cristina Ferreira de Araújo. Tudo isso está contido na [Tabela 1 - Participantes do Grupo de Foco](#GrupoDeFoco).
 
 
 
@@ -24,7 +22,8 @@ A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma
 | Alecsandra Ferreira Araújo Souza | Entrevistado |
 | Ana Cristina Ferreira de Araújo | Entrevistado |
 
-**Tabela 1** - Participantes do Grupo de Foco. _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Participantes do Grupo de Foco. Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa.</a></b></p></font>
 
 </div>
 

@@ -55,7 +55,6 @@ Na figura 2 encontram-se as atividades definidas para corrigir os artefatos da e
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2 - Correções a serem feitas. Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza.</a></b></p></font>
-
 </div>
 
 ## Conclusão

@@ -53,11 +53,9 @@ Se você concorda em participar desta pesquisa, clique no botão "Concordo" abai
 Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu apoio é fundamental para o sucesso deste estudo.
 
 <div align="center">
-
-Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023
+<font size="3"><p style="text-align: center"><b>Figura 2 - Correções a serem feitas. Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza.</a></b></p></font>
 
 </div>
-
 
 ## Referências Bibliográficas
 > [1] BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 23/09/2023.

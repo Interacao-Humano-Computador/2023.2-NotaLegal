@@ -12,7 +12,7 @@
         <link rel="prev" href="../../tecnicas-analise-de-tarefas/ctt/">
       
       
-        <link rel="next" href="../observacao/">
+        <link rel="next" href="../instrospeccao/">
       
       <link rel="icon" href="../../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.1.21">
@@ -1092,7 +1092,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../analise de requisitos/tecnicas-elicitacao/introspeccao.md" class="md-nav__link">
+      <a href="../instrospeccao/" class="md-nav__link">
         Instrospecção
       </a>
     </li>
@@ -1120,7 +1120,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../analise de requisitos/requisitos_elicitados.md" class="md-nav__link">
+      <a href="../../requisitos-elicitados/" class="md-nav__link">
         Requisitos elicitados
       </a>
     </li>
@@ -1353,28 +1353,117 @@
 <p><strong>RF (Requisitos Funcionais):</strong> Representam funcionalidades específicas que o aplicativo deve oferecer, descrevendo as ações que o sistema deve executar em resposta a entradas.</p>
 <p><strong>RNF (Requisitos Não Funcionais):</strong> Englobam aspectos que não estão diretamente relacionados às funcionalidades específicas do aplicativo, mas afetam sua eficiência, usabilidade, segurança e outros atributos.</p>
 <p><strong>ID:</strong> Cada requisito será identificado por um ID composto da seguinte forma: INTXX (onde XX é um número sequencial). Por exemplo, o primeiro requisito funcional seria INT01 e assim por diante.</p>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Código</th>
+<th>Descrição</th>
+<th>Implementado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>BS01</td>
+<td>RF</td>
+<td>O site deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha.</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS02</td>
+<td>RF</td>
+<td>O usuário deve ser capaz de logar com as credências do gov.br</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS03</td>
+<td>RF</td>
+<td>O usuário deve conseguir visualizar o saldo que possui no Nota Legal</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS04</td>
+<td>RF</td>
+<td>O usuário deve conseguir consultar extrato das notas fiscais</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS05</td>
+<td>RF</td>
+<td>O usuário deve conseguir indicar onde quer utilizar o seu saldo (IPTU,IPVA ou PIX)</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS06</td>
+<td>RF</td>
+<td>O usuário deve conseguir se inscrever nos sorteios do Nota Legal</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS07</td>
+<td>RF</td>
+<td>O usupario deve conseguir vizualizar os sorteios</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS08</td>
+<td>RF</td>
+<td>O usuário deve conseguir se logar no site</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS09</td>
+<td>RF</td>
+<td>O login deve possuir autenticação em dois fatores</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>BS10</td>
+<td>RNF</td>
+<td>O site deve buscar informações na base da receita federal</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS11</td>
+<td>RNF</td>
+<td>O login deve ser feito em menos de 10 segundos</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS12</td>
+<td>RNF</td>
+<td>O site deve funcionar no Chrome, no Safari, no Edge e no Mozilla.</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>BS13</td>
+<td>RNF</td>
+<td>O aplicativos deve exigir que a senha do usuário possua obrigatoriamente letras, números e caracteres especiais</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>BS14</td>
+<td>RNF</td>
+<td>O site deve deslogar a conta do usuário quando for fechado</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>BS15</td>
+<td>RF</td>
+<td>O usuário deve conseguir alterar a senha da sua conta</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>BS16</td>
+<td>RNF</td>
+<td>O site deve possuir ferramentas de acessibilidade (Alto contraste, libras, aumentar a fonte)</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
 <div align="center">
 
-| ID   | Código | Descrição                                                                                      | Implementado |
-|------|--------|------------------------------------------------------------------------------------------------|--------------|
-| BS01| RF     | O site deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |   Sim        |
-| BS02|    RF  | O usuário deve ser capaz de logar com as credências do gov.br |   Sim        |
-| BS03|    RF| O usuário deve conseguir visualizar o saldo que possui no Nota Legal | Sim          |
-| BS04|    RF| O usuário deve conseguir consultar extrato das notas fiscais |     Sim     |
-| BS05|    RF  | O usuário deve conseguir indicar onde quer utilizar o seu saldo (IPTU,IPVA ou PIX)  |       Sim   |
-| BS06|      RF| O usuário deve conseguir se inscrever nos sorteios do Nota Legal |  Sim         |
-| BS07|      RF| O usupario deve conseguir vizualizar os sorteios |     Sim      |
-| BS08|   RF   | O usuário deve conseguir se logar no site |  Sim         |
-| BS09|   RF   | O login deve possuir autenticação em dois fatores |  Não         |
-| BS10|    RNF  | O site deve buscar informações na base da receita federal |    Sim       |
-| BS11|  RNF    | O login deve ser feito em menos de 10 segundos |       Sim    |
-| BS12|   RNF   | O site deve funcionar no Chrome, no Safari, no Edge e no Mozilla.  |   Sim        |
-| BS13|   RNF   | O aplicativos deve exigir que a senha do usuário possua obrigatoriamente letras, números e caracteres especiais |   Não        |
-| BS14|    RNF  | O site deve deslogar a conta do usuário quando for fechado |     Não      |
-| BS15|    RF  | O usuário deve conseguir alterar a senha da sua conta |     Não      |
-| BS16|    RNF  | O site deve possuir ferramentas de acessibilidade (Alto contraste, libras, aumentar a fonte) |     Não      |
-
-**Tabela 1:** Requisitos elicitados. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Requisitos elicitados. Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</b></p></font>
 
 </div>
 
@@ -1472,13 +1561,13 @@
         
         
           
-          <a href="../observacao/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Observação" rel="next">
+          <a href="../instrospeccao/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Instrospecção" rel="next">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Próximo
               </span>
               <div class="md-ellipsis">
-                Observação
+                Instrospecção
               </div>
             </div>
             <div class="md-footer__button md-icon">

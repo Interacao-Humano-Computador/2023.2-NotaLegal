@@ -38,9 +38,9 @@ nav:
       - Árvore de Tarefas Concorrentes (CTT): analise de requisitos/tecnicas-analise-de-tarefas/ctt.md
     - Requisitos do Usuário:
       - Brainstorming: analise de requisitos/tecnicas-elicitacao/brainstorming.md
-      - Instrospecção: analise de requisitos/tecnicas-elicitacao/introspeccao.md
+      - Instrospecção: analise de requisitos/tecnicas-elicitacao/instrospeccao.md
       - Observação: analise de requisitos/tecnicas-elicitacao/observacao.md
-      - Requisitos elicitados: analise de requisitos/requisitos_elicitados.md
+      - Requisitos elicitados: analise de requisitos/requisitos-elicitados.md
     
 theme:
   name: material

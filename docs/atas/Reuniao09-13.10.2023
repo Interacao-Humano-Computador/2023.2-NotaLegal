@@ -1,5 +1,4 @@
-
-# Reunião 09 - 13.10.2023
+# Reunião xx - xx.xx.xxxx
 
 ## Local
 
@@ -19,46 +18,63 @@ Reunião realizada no Microsoft Teams.
 
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
+<div align="center">
+
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
-| Previsto      |      20:00       |      20:45        |
-| Realizado     |      20:30      |      21:30        |
+| Previsto      |      20:45       |      21:30        |
+| Realizado     |      xx:xx       |      xx:xx        |
 
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários. Fonte:</b> [xxxx](https://github.com/xxxx)</b></p></font>
+
 
 </div>
+
 
 ## Pauta
 
-* Revisar as issues da sprint anterior e tirar dúvidas;
-* Definir novas issues;
+* xxxx;
+* xxxx;
+* xxxx.
 
 ## Atividades
-Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
-
-![Atividades da reunião 8](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/b02e9cc1a7d89e4576c89c0fb2b2e01bb06df516/docs/imagens/atividadesreuniao9.jpeg)
+Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas.</b></p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></p></font>
+| Atividades       | Responsável   |
+| ---------------- | ------------- |
+| xxxx             | xxxx          |
+
+<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividade a ser desenvolvida. Fonte:</b> [xxxx](https://github.com/xxxx).</b></p></font>
 
 </div>
 
+_**OU**_
+
+Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma delas.
+
+<div align="center">
+
+![xxxx](xxxx)
+
+<font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas. Fonte:</b> [xxxx](https://github.com/xxxx).</b></p></font>
+
+
+</div>
+
+
 ## Conclusão
 
-A partir dessa reunião definimos as últimas issues e ajustes necessários pra terceira entrega de IHC, que será gravada na sexta-feira (/10).
+xxxx
 
 ## Link da Gravação
 
-
+[Requisitos - Reunião xx](xxxx)
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |13/10/2023| Criação da ata de reunião | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |[Zenilda Vieira](https://github.com/zenildavieira)  |
-
+| `1.0`  |xx/xx/xxxx| Criação da ata de reunião | [xxxx](xxxx) |[xxxx](xxxx)  |

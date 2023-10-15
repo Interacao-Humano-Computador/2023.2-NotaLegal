@@ -49,7 +49,7 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 
 ## Conclusão
 
-A partir dessa reunião definimos as últimas issues e ajustes necessários para a terceira entrega de IHC, que será gravada na segunda-feira (23/10).
+A partir dessa reunião definimos as últimas issues e ajustes necessários para a terceira entrega de IHC, que será gravada na sexta-feira (20/10).
 
 ## Link da Gravação
 

@@ -25,7 +25,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></p></font>
 
 </div>
 
@@ -49,7 +49,7 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 
 ## Conclusão
 
-A partir dessa reunião definimos as últimas issues e ajustes necessários para a terceira entrega de IHC, que será gravada na sexta-feira (20/10).
+A partir dessa reunião definimos as últimas issues e ajustes necessários para a terceira entrega de IHC, que será gravada na segunda-feira (23/10).
 
 ## Link da Gravação
 

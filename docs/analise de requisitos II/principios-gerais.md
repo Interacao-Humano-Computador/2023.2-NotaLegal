@@ -46,8 +46,25 @@ O sistema deve prever que qualquer erro potencial será cometido e trazer caminh
 ## Análise
 
 ### Correspondência com as Expectativas dos Usuários
+
+
 ### Simplicidade nas Estruturas das Tarefas
+A diretriz de Simplicidade nas Estruturas das Tarefas no geral está sendo bem seguida no site "Nota Legal", as tarefas que podem ser realizadas no site possuem uma complexidade aceitável e não hà nada complexo demais. Na figura X, é possível visualizar a tela de lançamentos de indicação do "Nota Legal", onde o usuário pode visualizar suas indicações ao informar o tipo de lançamento e o exercício. Esta tarefa tem uma boa complexidade e uma baixa quantidade de planejamento para que seja executada, portanto, em nosso projeto vamos manter este modelo de estrutura das tarefas.
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/e129fbf160ec8541e7ee312cd5a371f05bc36625/docs/imagens/principios-gerais/simplicidade-tarefas.png" style="width: 75%;height=auto;">
+<p>Figura X - Tela de visualização e lançamentos de indicação do site Nota Legal. Fonte: Izabella Alves, 2023.</p>
+</div>
+
 ### Equilíbrio entre Controle e Liberdade do Usuário
+A diretriz de Equilíbrio entre Controle e Liberdade do Usuário é violada no site "Nota Legal", um exemplo de violação pode ser visto na figura X, onde o usuário é obrigado a continuar na tela de carregamento, pois o site não possui nenhum mecanismo para que o usuário cancele, desfaça ou refaça suas ações. De acordo com o Equilíbrio entre Controle e Liberdade do Usuário, os usuários não devem ﬁcar presos num caminho de interação único para realizar uma atividade [1], por isso, esta diretriz será aplicada e corrigida no nosso projeto.
+<br>
+<div align="center">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/liberdade-usuario.png?raw=true" style="width: 75%;height=auto;">
+<p>Figura X - Tela de carregamento do site Nota Legal. Fonte: Izabella Alves, 2023.</p>
+</div>
+
+
 ### Consistência e Padronização
 ### Promovendo a Eﬁciência do Usuário
 ### Antecipação
@@ -64,3 +81,4 @@ O sistema deve prever que qualquer erro potencial será cometido e trazer caminh
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|14/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|`1.1`|16/10/2023|Adição de analise|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|

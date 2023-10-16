@@ -6,11 +6,14 @@ O propósito desta página é hospedar a apresentação da Seguna Entrega em for
 
 ## Vídeo da Apresentação
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/45tm8SxxnbQ" target="blanket">Interacao Humano-Computador - Apresentação 1</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/45tm8SxxnbQ" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45tm8SxxnbQ" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Fonte: Autores.
+
+<p>Fonte: Autores.</p>
+</div>
 
 ## Histórico de Versão
 

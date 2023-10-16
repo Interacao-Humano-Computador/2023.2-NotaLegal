@@ -46,7 +46,12 @@ O sistema deve prever que qualquer erro potencial será cometido e trazer caminh
 ## Análise
 
 ### Correspondência com as Expectativas dos Usuários
-
+A diretriz de Correspondência com as Expectativas dos Usuários não é seguida no site "Nota Legal", um exemplo disso pode ser visto na imagem X, onde o título do footer do site diz "Fale conosco", porém, o footer contém inúmeras coisas, e não somente formas de contato. Além disso, as formas de contato estão do outro lado do footer. Isso quebra a expectativa do usuário, que ao ler "Fale conosco", espera informações de contato, e não um menu. A ordem não é natural. Por causa das violações, esta diretriz será aplicada e corrigida em nosso projeto.
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/0ae026e487f939a3286124807410c4989c318df4/docs/imagens/principios-gerais/expectativa-usuario.png" style="width: 75%;height=auto;">
+<p>Figura X - Footer do site Nota Legal. Fonte: Izabella Alves, 2023.</p>
+</div>
 
 ### Simplicidade nas Estruturas das Tarefas
 A diretriz de Simplicidade nas Estruturas das Tarefas no geral está sendo bem seguida no site "Nota Legal", as tarefas que podem ser realizadas no site possuem uma complexidade aceitável e não hà nada complexo demais. Na figura X, é possível visualizar a tela de lançamentos de indicação do "Nota Legal", onde o usuário pode visualizar suas indicações ao informar o tipo de lançamento e o exercício. Esta tarefa tem uma boa complexidade e uma baixa quantidade de planejamento para que seja executada, portanto, em nosso projeto vamos manter este modelo de estrutura das tarefas.

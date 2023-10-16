@@ -19,10 +19,13 @@ A segurança no uso diz respeito ao nível de proteção que um sistema oferece 
 Durante o processo de aprendizagem e de exploração de um sistema, o usuário tem que se sentir seguro em cometer erros e não ser prejudicado. Portanto, é altamente vantajoso que sistemas interativos proporcionem uma sensação de segurança aos usuários durante o uso, a fim de incentivá-los a aprender a utilizar o software ao explorar suas diversas funcionalidades.
 
 ## Facilidade de aprendizado (Learnability)
+  A facilidade de aprendizado se refere ao tempo e esforço necessários para que o usuário aprenda a utilizar o sistema com determinado nível de competência e desempenho. As pessoas esperam que o apoio computacional oferecido por um sistema interativo seja tão simples, fácil e rápido de aprender quanto possível. Afinal, empregar tecnologias de informação e comunicação no nosso cotidiano se justifica para facilitar a realização das nossas atividades, e não torná-las mais difíceis e complexas [1].
 
 ## Facilidade de recordação (Memorability)
+A facilidade de recordação diz respeito ao esforço cognitivo do usuário necessário para lembrar como interagir com a interface do sistema interativo. Um sistema de fácil recordação auxilia o usuário a se lembrar de como utilizá-lo, evitando que ele cometa erros ao utilizar partes do sistema que já tenha utilizado anteriormente [1].
 
 ## Satisfação do usuário (Satisfaction)
+A satisfação do usuário é o fator de usabilidade relacionado com uma avaliação subjetiva que expressa o efeito do uso do sistema sobre as emoções e os sentimentos do usuário. Até pouco tempo, sistemas interativos eram utilizados principalmente em atividades relacionadas ao trabalho. Por isso a satisfação do usuário costumava receber menor atenção do que outros critérios mais relevantes a essas atividades, como a eficiência, por exemplo [1].
 
 
 
@@ -39,3 +42,5 @@ Durante o processo de aprendizagem e de exploração de um sistema, o usuário t
 |:----:|----|---------|-----|:-------:|
 |`1.0`|15/10/2023|Criação do documento|[Gabriel Zaranza](https://github.com/gzaranza)|[Lucas de OLiveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 |`1.1`|16/10/2023|Adicionando eficiência e segurança no uso|[Gabriel Zaranza](https://github.com/gzaranza)|[Lucas de OLiveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.2`|16/10/2023|Adicionando facilidade do usuário, facilidade de recordação e satisfação do usuário|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Gabriel Zaranza](https://github.com/gzaranza)|
+

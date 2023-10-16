@@ -53,11 +53,11 @@ A partir dessa reunião definimos as últimas issues e ajustes necessários para
 
 ## Link da Gravação
 
-[IHC - Reunião 09]
+[IHC - Reunião 09](https://youtu.be/qlFxGbVE5II)
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |11/10/2023| Criação da ata de reunião | [Lucas de OLiveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |[Zenilda Vieira](https://github.com/zenildavieira)  |
-
+| `1.0`  |13/10/2023| Criação da ata de reunião | [Lucas de OLiveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |[Zenilda Vieira](https://github.com/zenildavieira)  |
+| `1.1`  |16/10/2023| Adição do link da reunião | [Lucas Ribeiro](https://github.com/lucassouzs) |[Zenilda Vieira](https://github.com/zenildavieira)  |

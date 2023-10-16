@@ -23,7 +23,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Gênero:** Masculino
 - **Experiência:** Especialista em economia
 - **Atitudes:** Tecnófilo, interessado em novas tecnologias financeiras
-- **Tarefa Primária:** Realizar indicações de recebimento e investimentos inteligentes no aplicativo de economia do DF.
+- **Tarefa Primária:** Realizar indicações de recebimento e investimentos inteligentes do site Nota Legal.
 - **Descrição:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o site para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do Nota Legal.
 
 ### Persona Primária 2: Maria Administradora
@@ -36,6 +36,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - Escolaridade: Graduada em Administração
 - Afinidade com tecnologia: Média
 - Frequência: Utiliza computador e celular diariamente
+- Atitudes: Interessada em compartilhar descobertas e experiências
+- Tarefa Primária: Realizar indicações de produtos e serviços de qualidade para sua rede de contatos através do Nota Legal.
 - Objetivo: Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
 
 ### Persona Secundária 1: Pedro Estudante
@@ -45,7 +47,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Gênero:** Masculino
 - **Experiência:** Iniciante em finanças
 - **Atitudes:** Interessado em aprender sobre economia e finanças
-- **Tarefa Primária:** Aprender sobre indicadores econômicos usando o aplicativo de economia do DF.
+- **Tarefa Primária:** Aprender sobre indicadores econômicos usando o site Nota Legal..
 - **Descrição:** Pedro é um estudante universitário que está começando a se interessar por economia e finanças. Ele usa o Nota Legal para aprender sobre indicadores econômicos e entender melhor como funcionam os mercados financeiros.
 
 ### Persona Secundária 2: Ana Professora
@@ -55,7 +57,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Gênero:** Feminino
 - **Experiência:** Intermediária em finanças
 - **Atitudes:** Gosta de ferramentas simples e educacionais
-- **Tarefa Primária:** Ensinar seus alunos sobre economia usando o aplicativo de economia do DF.
+- **Tarefa Primária:** Ensinar seus alunos sobre economia usando o site Nota Legal.
 - **Descrição:** Ana é uma professora de economia em uma escola local. Ela usa o Site como uma ferramenta educacional para ensinar seus alunos sobre conceitos econômicos e financeiros. Ela procura recursos simples e educativos para ajudar em suas aulas.
 
 ## Anti-Personas

@@ -5,11 +5,21 @@ A Análise Hierárquica de Tarefas (AHT) é uma técnica fundamental na Engenhar
 
 ## Metodologia 
 
-Este documento apresenta a metodologia da Análise Hierárquica de Tarefas (AHT) aplicada ao sistema "Nota Legal". A AHT é uma técnica essencial na área de Interação Humano-Computador (IHC) que desmembra tarefas em subtarefas para análise detalhada, aprimorando a usabilidade do sistema.
+Este documento apresenta a metodologia da Análise Hierárquica de Tarefas (HTA) aplicada ao sistema "Nota Legal". A HTA é uma técnica essencial na área de Interação Humano-Computador (IHC) que desmembra tarefas em subtarefas para análise detalhada, aprimorando a usabilidade do sistema.
 
 A equipe de análise de requisitos realizou a análise de diferentes cenários. Um exemplo é "Registrar uma reclamação". A equipe identificou operações, problemas e recomendações específicas para essa tarefa, como anexar documentos fiscais, selecionar o tipo de nota e inserir informações, o responsável por cada cenário pode ser visto na tabela 1.
 
-Essa metodologia visa melhorar a interação do usuário com o sistema, identificando problemas de usabilidade e orientando o desenvolvimento de interfaces mais amigáveis e eficientes.
+Essa metodologia visa melhorar a interação do usuário com o sistema, identificando problemas de usabilidade e orientando o desenvolvimento de interfaces mais amigáveis e eficientes. A metodologia HTA usa alguns símbolos para representar a estrutura hierárquica das tarefas. Veja o que eles significam:
+
+Para criarmos o diagrama HTA, utilizaremos os seguintes símbolos contidos na legenda a seguir:
+<div align="center">
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Captura%20de%20tela%202023-10-16%20190405.png">
+
+<font size="3"><p style="text-align: center"><b>Figura Legenda - Legenda Diagrama HTA . Fonte:</b> [Agência Virtual Neoenergia](https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/analise_de_requisitos/analise_de_tarefas/analise_hierarquica/) , 2023.</b></p></font>
+</div>
+
+
 ## Análise de Tarefas
 
 | Membro da Equipe | Cenário  |
@@ -142,9 +152,10 @@ Nessa tarefa, o usuário possui como principal objetivo Visualizar seu Recibo Fi
 |0. Visualizar recibo de Indicação                 |         -
 |1. Acessar o site ‘Nota Legal’|**feedback**: ser redirecionado para o site ‘Nota Legal’|
 |1.2. Fazer login no site com suas credenciais.|**feedback**: ser redirecionado para a sua conta pessoal do Nota Legal|
-|1.3. Navegar até a seção de recibo de indicação que deseja visualizar|-|
-|1.4. Selecionar o recibo de indicação que deseja visualizar|**input**: o usuário deve selecionar o tipo de lançamento de indicação que deseja visualizar|
-|1.5. clicar no botão "Visualizar" ou "Abrir" para abrir o recibo|**plano**: Visualizar o recibo de indicação escolhido|
+|2. Navegar até a seção de recibo de indicação que deseja visualizar|-|
+|3. Selecionar o recibo de indicação que deseja visualizar|**input**: o usuário deve selecionar o tipo de lançamento de indicação que deseja visualizar|
+|4. clicar no botão "Visualizar" ou "Abrir" para abrir o recibo|**input**: o usuário deve apertar no botão para poder abrir o recibo|
+|5. Analisar recibos exibidos|**plano**: Visualizar o recibo de indicação escolhido|
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5 - Tabela HTA da tarefa Visualizar Recibo Fiscal. Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a>, 2023.</b></p></font>
@@ -262,3 +273,5 @@ O objetivo principal da tarefa a seguir é consultar o resultado dos sorteios qu
 |`1.3`|12/10/2023|Adição do hta de consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.4`|12/10/2023|Adição do hta de consultar resultado de sorteio|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 |`1.5`|12/10/2023|Adição do hta de consultar extrato|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.6`|12/10/2023|Adição do hta de visualizar recibo fiscal|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
+

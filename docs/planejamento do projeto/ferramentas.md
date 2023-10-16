@@ -1,7 +1,7 @@
 # Ferramentas Utilizadas 
 
 ## Introdução
-Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a criação e edição deste trabalho, seja para a existência ou apresentação das tarefas realizadas pela equipe. Essas ferramentas incluem softwares e plataformas que facilitam o desenvolvimento e a comunicação do projeto. Também descrevemos brevemente como cada ferramenta contribui para os objetivos e resultados esperados neste trabalho.
+Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a criação e edição deste trabalho, seja para a existência ou apresentação das tarefas realizadas pela equipe. Essas ferramentas incluem softwares e plataformas que facilitam o desenvolvimento e a comunicação do projeto. Para realizar esse planejamento nós nos inspiramos no trabalho da [Bilheteria digital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital) realizado no semestre passado. Também descrevemos brevemente como cada ferramenta contribui para os objetivos e resultados esperados neste trabalho.
 
 |                                               Ferramentas                                               |                                                     Descrição                                                     |
 | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |

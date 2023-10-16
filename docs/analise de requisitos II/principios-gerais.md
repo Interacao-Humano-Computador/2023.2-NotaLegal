@@ -74,7 +74,11 @@ A diretriz de Equilíbrio entre Controle e Liberdade do Usuário é violada no s
 ### Promovendo a Eﬁciência do Usuário
 ### Antecipação
 ### Visibilidade e Reconhecimento
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/giphy.gif?raw=true" width="533" height="300">
+
 ### Conteúdo Relevante e Expressão Adequada
+
 ### Projeto para Erros
 
 ## Referências Bibliográficas

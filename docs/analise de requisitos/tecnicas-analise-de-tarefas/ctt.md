@@ -5,9 +5,17 @@ O CTT (Árvore de Tarefas Concorrentes) é uma técnica de análise de tarefas q
 
 ## Metodologia
 
-O primeiro passo na metodologia do CTT é identificar as tarefas que os usuários precisam realizar. Isso pode ser feito através de entrevistas com os usuários, observação direta, ou análise de documentos e manuais existentes. Uma vez que as tarefas são identificadas, elas são organizadas em uma árvore hierárquica. A árvore começa com a tarefa principal no topo, e então se ramifica para subtarefas mais específicas. Cada nó na árvore representa uma tarefa, e as arestas representam as relações entre as tarefas. Depois que a árvore de tarefas é desenvolvida, cada tarefa é analisada em detalhes. Isso inclui a identificação das condições necessárias para a tarefa, os passos envolvidos na realização da tarefa, e os critérios para determinar se a tarefa foi concluída com sucesso. As tarefas e suas relações são então representadas graficamente usando a notação do CTT. Isso inclui símbolos para representar diferentes tipos de tarefas (por exemplo, tarefas de usuário, tarefas de sistema), e operadores para representar as relações entre as tarefas (por exemplo, sequência, concorrência). Finalmente, a árvore de tarefas é usada para avaliar a usabilidade do sistema. Isso pode incluir a identificação de possíveis problemas de usabilidade, a avaliação da eficiência das tarefas, e a sugestão de melhorias no design do sistema.
+O primeiro passo na metodologia do CTT é identificar as tarefas que os usuários precisam realizar. Isso pode ser feito através de entrevistas com os usuários, observação direta, ou análise de documentos e manuais existentes. Uma vez que as tarefas são identificadas, elas são organizadas em uma árvore hierárquica. A árvore começa com a tarefa principal no topo, e então se ramifica para subtarefas mais específicas. Cada nó na árvore representa uma tarefa, e as arestas representam as relações entre as tarefas. Depois que a árvore de tarefas é desenvolvida, cada tarefa é analisada em detalhes. Isso inclui a identificação das condições necessárias para a tarefa, os passos envolvidos na realização da tarefa, e os critérios para determinar se a tarefa foi concluída com sucesso. As tarefas e suas relações são então representadas graficamente usando a notação do CTT. Isso inclui símbolos para representar diferentes tipos de tarefas (por exemplo, tarefas de usuário, tarefas de sistema), e operadores para representar as relações entre as tarefas (por exemplo, sequência, concorrência). Finalmente, a árvore de tarefas é usada para avaliar a usabilidade do sistema. Isso pode incluir a identificação de possíveis problemas de usabilidade, a avaliação da eficiência das tarefas, e a sugestão de melhorias no design do sistema. Visando 
 
 As tarefas analisadas neste documento foram baseadas nos [cenários](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/cenarios.md) feitos pela equipe, e o responsável por cada análise foi definido na tabela 1.
+
+Para criarmos o diagrama CTT, utilizaremos os seguintes símbolos contidos na tabela a seguir:
+<div align="center">
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Legenda.png?raw=true">
+
+<font size="3"><p style="text-align: center"><b>Figura Legenda - Legenda Diagrama CTT . Fonte:</b> [Lucas Víctor](https://github.com/Lucas13032003) , 2023.</b></p></font>
+</div>
 
 ## CTT
 
@@ -131,3 +139,4 @@ O objetivo principal da tarefa a seguir é consultar o resultado dos sorteios qu
 |`1.5`|12/10/2023|Adição do ctt de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.6`|12/10/2023|Adição do diagrama ctt de consultar extrato|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.7`|13/10/2023|Revisão do ctt de registrar nova reclamação|[Zenilda Vieira](https://github.com/zenildavieira)| - |
+|`1.8`|16/10/2023|Adição da legenda do diagrama ctt |[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|

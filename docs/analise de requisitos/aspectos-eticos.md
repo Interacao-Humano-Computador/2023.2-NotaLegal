@@ -53,7 +53,7 @@ Se você concorda em participar desta pesquisa, clique no botão "Concordo" abai
 Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu apoio é fundamental para o sucesso deste estudo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 2 - Correções a serem feitas. Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza.</a></b></p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza.</a></b></p></font>
 
 </div>
 

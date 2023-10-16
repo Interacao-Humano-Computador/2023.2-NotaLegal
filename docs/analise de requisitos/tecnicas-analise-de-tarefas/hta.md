@@ -11,9 +11,15 @@ A equipe de análise de requisitos realizou a análise de diferentes cenários. 
 
 Essa metodologia visa melhorar a interação do usuário com o sistema, identificando problemas de usabilidade e orientando o desenvolvimento de interfaces mais amigáveis e eficientes. A metodologia HTA usa alguns símbolos para representar a estrutura hierárquica das tarefas. Veja o que eles significam:
 
-- **As setas** (->, >, +) indicam a relação entre as tarefas e as sub-tarefas. Por exemplo, 0>1 significa que a tarefa 0 é composta pela sub-tarefa 1. Já 1+2 significa que a tarefa 1 pode ser seguida pela tarefa 2;
-- **Os balões** indicam os planos ou as ações que devem ser realizados para completar uma tarefa. Por exemplo, plano: usar os dados dos estabelecimentos no site Nota Legal significa que esse é o plano para realizar a tarefa 1 de consultar um estabelecimento;
-- **Os traços** indicam os problemas e as recomendações que foram identificados na análise das tarefas. Por exemplo, recomendação: melhorar a legibilidade e usabilidade das informações no extrato significa que essa é uma sugestão de melhoria para a sub-tarefa 5.1 de consultar extrato.
+Para criarmos o diagrama HTA, utilizaremos os seguintes símbolos contidos na legenda a seguir:
+<div align="center">
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Captura%20de%20tela%202023-10-16%20190405.png">
+
+<font size="3"><p style="text-align: center"><b>Figura Legenda - Legenda Diagrama HTA . Fonte:</b> [Agência Virtual Neoenergia](https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/analise_de_requisitos/analise_de_tarefas/analise_hierarquica/) , 2023.</b></p></font>
+</div>
+
+
 ## Análise de Tarefas
 
 | Membro da Equipe | Cenário  |

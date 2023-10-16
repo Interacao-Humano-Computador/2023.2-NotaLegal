@@ -1,8 +1,10 @@
 # Metas de Usabilidade
 
 ## Introdução
+A definição das metas de usabilidade implica em estabelecer os aspectos de qualidade de uso que devem receber prioridade no projeto, especificar como esses aspectos serão avaliados durante o processo de design e determinar quais faixas de valores são consideradas inaceitáveis, aceitáveis e ideais para cada métrica de interesse. Frequentemente, essa priorização é fundamentada nos indicadores de desempenho dos usuários ao interagirem com o sistema [1].
 
 ## Metodologia
+
 
 ## Eficiência (Efficiency)
 

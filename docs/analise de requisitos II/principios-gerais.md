@@ -119,10 +119,28 @@ Outro ponto que está de acordo com a diretriz em questão, é a clareza e legib
 
 ### Projeto para Erros
 
+O site Nota Legal possui mecanismos de ajudar o usuário durante um erro, como por exemplo, mensagens informando que um erro aconteceu (Figura X). Porém, não seguem critérios levantandos por Nielsen(1993), como ajudar o usuário a reconhecer, diagnosticar e recuperar de erros ao longo do site [3]. Nessa situação de Figura X, o usuário apenas é informado sobre o erro e o diagnóstico, não havendo a opção de contornar esse problema.
+
+<div align="center">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/servico_indisponivel.png?raw=true" style="width: 75%;height=auto;">
+<p>Figura X - Mensagem de erro no site Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+</div>
+
+Outro ponto que fere a diretriz de projeto para erros são a localização dos botões de limpar informações próximas a botões de registrar ou consultar em algumas páginas, como é exemplificado na Figura X. De acordo com Cooper (1999), não é recomendado colocar controles de funções, como é o caso do botão de registrar reclamação, próximo a botões de controles perigosos, como é o caso do botão de limpar as informações [4]. O usuário pode se distrair e realizar uma ação crítica ou que atrapalhe a realização da sua tarefa.
+
+<div align="center">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/bot%C3%A3o_limpar_registrar.png?raw=true" style="width: 75%;height=auto;">
+<p>Figura X - Próximidade do botão "limpar" e "registrar reclamação" no site Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+</div>
+
 ## Referências Bibliográficas
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >
 > [2] TOGNAZZINI, B. First principles of interaction design. 2003.
+>
+> [3] Nielsen, J. Usability Engineering. New York, NY: Academic Press, 1993.
+>
+> [4] Cooper, A. Th e Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity. Sams Publishing, 1999.
 
 
 ## Bibliografia
@@ -134,3 +152,5 @@ Outro ponto que está de acordo com a diretriz em questão, é a clareza e legib
 |`1.1`|16/10/2023|Adição de analise|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.2`|16/10/2023|Adição de analise Visibilidade e Reconhecimento|[Gabriel Zaranza](https://github.com/gzaranza)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.2`|16/10/2023|Adição de analise Conteúdo Relevante e Expressão Adequada|[Gabriel Zaranza](https://github.com/gzaranza)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.3`|17/10/2023|Adição de analise Projeto para erros|[Gabriel Zaranza](https://github.com/gzaranza)|[Izabella Alves](https://github.com/izabellaalves)|
+

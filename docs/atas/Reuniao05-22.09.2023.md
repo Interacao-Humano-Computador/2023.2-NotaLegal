@@ -35,7 +35,7 @@ Será realizado dois questionários separados para IHC e RQS. Cada um deverá tr
 ## Personas
 Deverá ser realizado um documento com persona primária, secundária, terciária e anti-persona. Este documento deverá ser realizado por [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003).
 
-![Atribuições de IHC e Requisitos](/docs/imagens/atas/atribuicoes_ihc_req.png)
+![Atribuições de IHC e Requisitos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/atribuicoes_ihc_req.png?raw=true)
 
 ## Link da Gravação
 

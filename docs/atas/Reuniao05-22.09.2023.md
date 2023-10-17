@@ -1,5 +1,7 @@
 # Reunião 05 - 22.09.2023
 
+## Local
+
 Reunião realizada no Microsoft Teams.
 
 ## Participantes
@@ -43,5 +45,5 @@ Deverá ser realizado um documento com persona primária, secundária, terciári
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`0.1`|21/09/2023|Criação do documento|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
-|`0.2`|29/09/2023|Adição do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
+|`1.0`|21/09/2023|Criação do documento|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
+|`1.1`|29/09/2023|Adição do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|

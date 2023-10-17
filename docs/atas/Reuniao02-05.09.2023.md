@@ -1,5 +1,7 @@
 # Reunião 02 - 05.09.2023
 
+## Local
+
 Reunião realizada no Microsoft Teams.
 
 ## Participantes
@@ -51,5 +53,5 @@ Nesta reunião foi definido que o site selecionado para o projeto será o NotaLe
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`0.1`|06/09/2023|Criação do documento|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|Todos|
-|`0.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|06/09/2023|Criação do documento|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|
+|`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

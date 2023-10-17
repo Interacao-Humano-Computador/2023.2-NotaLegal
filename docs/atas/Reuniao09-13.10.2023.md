@@ -3,6 +3,7 @@
 ## Local
 
 Reunião realizada no Microsoft Teams.
+Mesma reunião para IHC e RQS.
 
 ## Participantes
 

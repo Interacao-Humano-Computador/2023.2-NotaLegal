@@ -1,5 +1,7 @@
 # Reunião 04 - 20.09.2023
 
+## Local
+
 Reunião realizada no Microsoft Teams.
 
 ## Participantes
@@ -49,7 +51,7 @@ Reunião realizada no Microsoft Teams.
 *Tabela 1 - Atividades a serem desenvolvidas.*
 
 ## Conclusão
-Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidido os método de elicitação. Além da definição do dia da gravção da entrega 1 que será realizada dia 22/09/2023.
+Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidido os métodos de elicitação. Além da definição do dia da gravção da entrega 1 que será realizada dia 22/09/2023.
 
 ## Link da Gravação
 
@@ -59,5 +61,5 @@ Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidi
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`0.1`|21/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |
-|`0.2`|29/09/2023|Adicão do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)    |[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)  |
+|`1.0`|21/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |
+|`1.1`|29/09/2023|Adicão do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)    |[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)  |

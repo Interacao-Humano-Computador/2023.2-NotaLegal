@@ -6,12 +6,13 @@ O propósito desta página é hospedar a apresentação da Primeira Entrega em f
 
 ## Vídeo da Apresentação
 
-<p style="text-align: center"><a href="https://youtu.be/bVGzhaekyWQ?si=7_Im8INTAc_x5dTE" target="blanket">Interacao Humano-Computador - Apresentação 1</a></p>
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/bVGzhaekyWQ?si=7_Im8INTAc_x5dTE" target="blanket">Interacao Humano-Computador - Apresentação 2</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVGzhaekyWQ" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-Fonte: Autores.
+<p>Fonte: Autores.</p>
+</div>
 
 ## Histórico de Versão
 

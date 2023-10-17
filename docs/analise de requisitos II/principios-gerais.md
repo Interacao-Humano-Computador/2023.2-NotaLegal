@@ -98,6 +98,25 @@ Outros pontos relacionados à Visibilidade e Reconhecimento são informar ao usu
 
 ### Conteúdo Relevante e Expressão Adequada
 
+O site do Nota Legal aprensenta um design minimalista e com poucos elementos ao longo de suas páginas, principalemte quando se fala da página do usuário. Um dos quesitos dessa diretriz é o principio estético e minimalista definido por Nilsen (1993), em que deve-se mostrar para o usuário apenas informação relevantes e comumente usadas no contexto das tarefas [1]. Na figura X, pode-se observar que o menu principal da página do usuário contém apenas as opções de funcionalidades do sistema e o saldo do Nota Legal. Esse padrão de mostrar apenas as opções de funcionalidades sem textos ou elementos extras é replicado ao longo de todo o site, como por exemplo na página de indicação mostrada na figura X.
+
+<div align="center">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/menu_nota_legal.png?raw=true" style="width: 75%;height=auto;">
+<p>Figura X - Página principal da conta de usuário do Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+</div>
+
+<div align="center">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/pag_estornar_indicacao.png" style="width: 75%;height=auto;">
+<p>Figura X - Página onde realiza a indicação do saldo do Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+</div>
+
+Outro ponto que está de acordo com a diretriz em questão, é a clareza e legibilidade dos textos presentes nos botões e rótulos do site, como é observado nas Figuras X e X. Pode-se resaltar a presença de contraste dos textos em relação ao fundo, além da funcionalidade de alto contraste presente em todo site (Figura X). Porém, não existem as funcionalidades de aumentar o tamanho da fonte dos textos e modo daltônico que são recomendadas por Tognazzini (2003).
+
+<div align="center">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/alto_contraste.png?raw=true" style="width: 75%;height=auto;">
+<p>Figura X - Funcionalidade de alto contraste ativada no site Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+</div>
+
 ### Projeto para Erros
 
 ## Referências Bibliográficas
@@ -114,3 +133,4 @@ Outros pontos relacionados à Visibilidade e Reconhecimento são informar ao usu
 |`1.0`|14/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.1`|16/10/2023|Adição de analise|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.2`|16/10/2023|Adição de analise Visibilidade e Reconhecimento|[Gabriel Zaranza](https://github.com/gzaranza)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.2`|16/10/2023|Adição de analise Conteúdo Relevante e Expressão Adequada|[Gabriel Zaranza](https://github.com/gzaranza)|[Izabella Alves](https://github.com/izabellaalves)|

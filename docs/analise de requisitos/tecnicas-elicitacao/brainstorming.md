@@ -58,7 +58,7 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na ta
 
 **RNF (Requisitos Não Funcionais):** Englobam aspectos que não estão diretamente relacionados às funcionalidades específicas do aplicativo, mas afetam sua eficiência, usabilidade, segurança e outros atributos.
 
-**ID:** Cada requisito será identificado por um ID composto da seguinte forma: INTXX (onde XX é um número sequencial). Por exemplo, o primeiro requisito funcional seria INT01 e assim por diante.
+**ID:** Cada requisito será identificado por um ID composto da seguinte forma: BSXX (onde XX é um número sequencial). Por exemplo, o primeiro requisito funcional seria BS01 e assim por diante.
 
 
 | ID   | Código | Descrição                                                                                      | Implementado |
@@ -89,7 +89,7 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na ta
 
 ## Link da Gravação
 
-[Requisitos - Brainstoming](https://youtu.be/wPMoeSRbOjA)
+[Interação Humano Computador - Brainstoming](https://youtu.be/wPMoeSRbOjA)
 
 ## Referências Bibliográficas
 

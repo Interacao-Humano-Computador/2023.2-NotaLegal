@@ -94,7 +94,9 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na ta
 ## Referências Bibliográficas
 
 > [1] Canva. Disponível em: <https://www.canva.com/>. Acesso em: 28/09/2023.
+
 ## Bibliografia
+
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 30/09/2023.
 
 

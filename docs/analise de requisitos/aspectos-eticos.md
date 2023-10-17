@@ -69,4 +69,4 @@ Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu ap
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|1.0|23/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.0`|23/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/GZaranza)|

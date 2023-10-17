@@ -150,11 +150,11 @@ Considerando que nossa equipe é composta por iniciantes na área de IHC, o Cicl
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|0.1|06/09/2023|Criação do documento|[Lucas Ribeiro](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
-|1.0|06/09/2023|Adição dos tópicos do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
-|1.1|07/09/2023|Adição dos modelos Design Baseado em Cenários e Ciclo de vida de Mayhew, adição do tópico Modelo Escolhido|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza) [Lucas Ribeiro](https://github.com/lucassouzs)|
-|1.2|08/09/2023|Adição da Introdução|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
-|1.3|08/09/2023|Adição do Ciclo de Vida Simples|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
-|1.4|08/09/2023|Adição do Design Contextual|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
-|1.5|18/09/2023|Adição do Ciclo de vida em Estrela|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|
-|1.6|18/09/2023|Adição do Design Centrado na Comunicação e Engenharia de Usabilidade de Nielsen|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.0`|06/09/2023|Criação do documento|[Lucas Ribeiro](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.1`|06/09/2023|Adição dos tópicos do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|`1.2`|07/09/2023|Adição dos modelos Design Baseado em Cenários e Ciclo de vida de Mayhew, adição do tópico Modelo Escolhido|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza) [Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.3`|08/09/2023|Adição da Introdução|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|`1.4`|08/09/2023|Adição do Ciclo de Vida Simples|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|`1.5`|08/09/2023|Adição do Design Contextual|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/gzaranza) [Izabella Alves](https://github.com/izabellaalves)|
+|`1.6`|18/09/2023|Adição do Ciclo de vida em Estrela|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.7`|18/09/2023|Adição do Design Centrado na Comunicação e Engenharia de Usabilidade de Nielsen|[Gabriel Zaranza](https://github.com/gzaranza)| [Izabella Alves](https://github.com/izabellaalves) [Lucas Ribeiro](https://github.com/lucassouzs)|

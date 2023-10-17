@@ -68,7 +68,7 @@ Essa abordagem de registro em tabela oferece uma visão organizada e estruturada
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|1.0|29/09/2023|Criação do documento e adição de tabela|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
-|1.1|29/09/2023|Adição da introdução, metodologia e inserindo rastreabilidade da tabela|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
-|2.0|10/10/2023|Adaptação do documento pro site Nota Legal|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|`1.0`|29/09/2023|Criação do documento e adição de tabela|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|`1.1`|29/09/2023|Adição da introdução, metodologia e inserindo rastreabilidade da tabela|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
+|`2.0`|10/10/2023|Adaptação do documento pro site Nota Legal|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 

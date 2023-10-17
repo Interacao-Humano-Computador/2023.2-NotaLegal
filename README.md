@@ -31,6 +31,6 @@ Nosso projeto se concentra na avaliação da experiência de interação humana-
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|0.1|06/09/2023|Criação da gitpage|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|0.2|07/09/2023|Adicionando tópico sobre o projeto e tabela de membros da equipe|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|0.3|20/09/2023|Adição da logo|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.0`|06/09/2023|Criação da gitpage|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.1`|07/09/2023|Adicionando tópico sobre o projeto e tabela de membros da equipe|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.2`|20/09/2023|Adição da logo|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|

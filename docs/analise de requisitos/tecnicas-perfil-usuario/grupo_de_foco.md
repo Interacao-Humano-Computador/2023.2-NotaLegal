@@ -105,9 +105,10 @@ A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma
 
 [Requisitos - Grupo de foco](https://youtu.be/QeswgmgDiPc)
 
-## Referências bibliográficas 
-> Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/perfil-usuario.md>. Acesso em 30 de setembro de 2023.
+## Bibliografia 
 
+> Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/perfil-usuario.md>. Acesso em 30 de setembro de 2023.
+> 
 > **CuboUP.** "Grupo Focal: O que é, importância, como fazer e exemplos de perguntas". Disponível em: <https://cuboup.com/conteudo/grupo-focal/>. Acesso em 30 de setembro de 2023.
 
 ## Histórico de versões

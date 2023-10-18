@@ -59,4 +59,4 @@ xxxx
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |xx/xx/xxxx| Criação da ata de reunião | [xxxx](xxxx) |[xxxx](xxxx)  |
+| `1.0`  |18/10/2023| Criação da ata de reunião | [Lucas Ribeiro](https://github.com/lucassouzs) | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |

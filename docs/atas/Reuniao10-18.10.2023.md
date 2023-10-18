@@ -31,7 +31,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 ## Pauta
 
 * Analisar as observações feitas pelo monitor sobre a Entrega 2;
-* Distribuir as issues sobre as observações feitas pelo monitor.
+* Distribuir as issues criadas com base nas observações feitas pelo monitor.
 
 ## Atividades
 

@@ -53,7 +53,7 @@ xxxx
 
 ## Link da Gravação
 
-[Requisitos - Reunião xx](xxxx)
+[Requisitos - Reunião 10](xxxx)
 
 ## Histórico de Versão
 

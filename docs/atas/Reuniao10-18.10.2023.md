@@ -7,8 +7,6 @@ Reunião realizada no Microsoft Teams.
 ## Participantes
 
 * [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
 * [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)
 * [Lucas Ribeiro de Souza](https://github.com/lucassouzs)
 * [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
@@ -22,20 +20,18 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
-| Previsto      |      20:45       |      21:30        |
-| Realizado     |      xx:xx       |      xx:xx        |
+| Previsto      |      20:00       |      20:45        |
+| Realizado     |      20:13       |      20:xx        |
 
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários. Fonte:</b> [xxxx](https://github.com/xxxx)</b></p></font>
-
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários. Fonte:</b> [Lucas Ribeiro](https://github.com/lucassouzs)</b></p></font>
 
 </div>
 
 
 ## Pauta
 
-* xxxx;
-* xxxx;
-* xxxx.
+* Analisar as observações feitas pelo monitor sobre a Entrega 2;
+* Distribuir as issues sobre as observações feitas pelo monitor.
 
 ## Atividades
 
@@ -47,23 +43,9 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 | ---------------- | ------------- |
 | xxxx             | xxxx          |
 
-<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividade a ser desenvolvida. Fonte:</b> [xxxx](https://github.com/xxxx).</b></p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividade a ser desenvolvida. Fonte:</b> [Lucas Ribeiro](https://github.com/lucassouzs).</b></p></font>
 
 </div>
-
-_**OU**_
-
-Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma delas.
-
-<div align="center">
-
-![xxxx](xxxx)
-
-<font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas. Fonte:</b> [xxxx](https://github.com/xxxx).</b></p></font>
-
-
-</div>
-
 
 ## Conclusão
 

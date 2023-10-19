@@ -4,7 +4,7 @@
 A definição das metas de usabilidade implica em estabelecer os aspectos de qualidade de uso que devem receber prioridade no projeto, especificar como esses aspectos serão avaliados durante o processo de design e determinar quais faixas de valores são consideradas inaceitáveis, aceitáveis e ideais para cada métrica de interesse. Frequentemente, essa priorização é fundamentada nos indicadores de desempenho dos usuários ao interagirem com o sistema [1].
 
 ## Metodologia
-
+De acordo com Barbosa (2010), as metas de usabilidade são os fatores de uso que devem ser priorizados no desenvolvimento do sistema. Para a definição dessas metas, será utilizado os critérios de usabilidade descritos por Nilsen (1993), que estão relacionados com a facilidade e esforços necessário para interagir com o sistema [2]. As metas de usabilidade em questão serão a Eficiência, Segurança de Uso, Facilidade de Aprendizado, Facilidade de Recordação e Satisfação do Usuário em que cada será analisado dentro do site Nota Legal
 
 ## Eficiência (Efficiency)
 A eficiência de um sistema interativo está relacionada ao tempo necessário que um usuário precisa para realizar uma tarefa [1]. O tempo de realização de uma tarefa é diretamente ligado ao grau de apoio que o sistema fornece durante a realização das atividades, interferindo na produtividade do usuário.
@@ -43,4 +43,3 @@ A satisfação do usuário é o fator de usabilidade relacionado com uma avalia�
 |`1.0`|15/10/2023|Criação do documento|[Gabriel Zaranza](https://github.com/gzaranza)|[Lucas de OLiveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 |`1.1`|16/10/2023|Adicionando eficiência e segurança no uso|[Gabriel Zaranza](https://github.com/gzaranza)|[Lucas de OLiveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 |`1.2`|16/10/2023|Adicionando facilidade do usuário, facilidade de recordação e satisfação do usuário|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Gabriel Zaranza](https://github.com/gzaranza)|
-

@@ -291,7 +291,7 @@ Outro ponto que fere a diretriz de projeto para erros são a localização dos b
 |`1.3`|16/10/2023|Adição de analise Conteúdo Relevante e Expressão Adequada|[Gabriel Zaranza](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.4`|17/10/2023|Adição de analise Projeto para erros|[Gabriel Zaranza](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.5`|20/10/2023|Corrigindo as legendas|[Gabriel Zaranza](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`1.6`|20/10/2023|Adição de analise Consistência e Padronização |[Zenilda Vieira](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`1.7`|20/10/2023|Adição de analise Promovendo a Eﬁciência do Usuário |[Zenilda Vieira](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`1.8`|20/10/2023|Adição de analise Antecipação |[Zenilda Vieira](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`1.9`|20/10/2023|Padronizando localização dos nomes das figuras e das fontes nas legendas|[Zenilda Vieira](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.6`|20/10/2023|Adição de analise Consistência e Padronização |[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.7`|20/10/2023|Adição de analise Promovendo a Eﬁciência do Usuário |[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.8`|20/10/2023|Adição de analise Antecipação |[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.9`|20/10/2023|Padronizando localização dos nomes das figuras e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|

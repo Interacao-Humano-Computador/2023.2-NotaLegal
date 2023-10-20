@@ -95,7 +95,7 @@ A diretriz de Equilíbrio entre Controle e Liberdade do Usuário é violada no s
 
 <font size="3"><p style="text-align: center">Figura 3 - Tela de carregamento do site Nota Legal.</font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/liberdade-usuario.png?raw=true" style="width: 75%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/liberdade-usuario.png?raw=true" style="width: 75%;height=auto;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</font>
 
@@ -110,7 +110,7 @@ Para manter a consistência e padronização deve-se padronizar as ações, os r
 
 <font size="3"><p style="text-align: center">Figura 4 - Telas de mesma funcionalidade não padronizadas.</font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/mensagem-botao-fechar.png?raw=true" style="width: 75%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/mensagem-botao-fechar.png?raw=true" style="width: 75%;height=auto;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</font>
 
@@ -125,7 +125,7 @@ Para Tognazzini, o usuário deve ser mantido ocupado para não haver perda de pr
 
 <font size="3"><p style="text-align: center">Figura 5 - Tela de espera de carregamento apresentada após o login.</font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/aguardando-login.png?raw=true" style="width: 75%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/aguardando-login.png?raw=true" style="width: 75%;height=auto;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</font>
 
@@ -138,7 +138,7 @@ Outra forma de promover a eficiência do usuário é desativar links que não es
 
 <font size="3"><p style="text-align: center">Figura 6 - Tela de indicação de dados bancários.</font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/selecione-sorteio-em-branco.png?raw=true" style="width: 75%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/selecione-sorteio-em-branco.png?raw=true" style="width: 75%;height=auto;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</font>
 
@@ -153,7 +153,7 @@ Antecipação é a capacidade do sistema de prever o que o usuário quer e preci
 
 <font size="3"><p style="text-align: center">Figura 7 - Tela de saldos bloqueados.</font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/desbloquear-saldo-site-externo.png?raw=true" style="width: 75%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/desbloquear-saldo-site-externo.png?raw=true" style="width: 75%;height=auto;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</font>
 
@@ -166,7 +166,7 @@ Ao clicar nesse link, o usuário é encaminhado para uma página fora do site no
 
 <font size="3"><p style="text-align: center">Figura 8 - Tela de solicitação de desbloqueio de créditos.</font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/desbloquear-saldo-site-externo.png?raw=true" style="width: 75%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/desbloquear-saldo-site-externo.png?raw=true" style="width: 75%;height=auto;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</font>
 
@@ -188,11 +188,11 @@ Em geral, o site Nota legal mantém o usuário atualizado do status atual do sis
 
 Porém, esse carregamento de página pode passar dos 30 segundos (Vídeo 1) e de acordo com Tognazzini (2003), quando uma ação ultrapassa 2 segundos de execução, o sistema deverá informar a demora estimada junto a uma barra de progresso, fornecer opções de cancelar a ação ao usuário e para casos de ultrapassar 10 segundos o sistema deve emitir um aviso sonoro e visual indicando o final da ação [2]. Nesse quesito o site Nota Legal viola a diretriz de Visibilidade e Reconhecimento.
 
-<div align="center">
-
 <font size="3"><p style="text-align: center">Vídeo 1 - Tela de carregamento violando a diretriz de Visibilidade e Reconhecimento.</a> , 2023.</font>
 
 <iframe width="560" height="315" src="https://youtu.be/fC5Dodn3MZQ" title="Tela de carregamento do Login do site Nota Legal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div align="center">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a> , 2023.</font>
 

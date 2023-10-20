@@ -32,6 +32,7 @@ abrangendo tanto a fase de produção quanto a fase de manutenção. As diretriz
 É importante que o Guia de Estilo esteja sempre atualizado, de acordo com as decisões tomadas pela equipe de design, que modificarão o projeto. Essa constância garante a padronização no projeto, assegurando que todas as alterações estejam alinhadas com os princípios estabelecidos. Manter o Guia de Estilo atualizado não apenas preserva a coesão visual e funcional, mas também assegura uma experiência de usuário consistente e de alta qualidade em todas as interações, fortalecendo assim a identidade do projeto e a confiança dos usuários.
 
 ## Resultados da Análise
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/file/e0jy4MMu1eMkm416vFHsBJ/Untitled?type=design&node-id=0%3A1&mode=design&t=M2tg91Tx9D7hadCq-1" allowfullscreen></iframe>
 
 ### Descrição do Ambiente de Trabalho do Usuário
 
@@ -89,5 +90,5 @@ abrangendo tanto a fase de produção quanto a fase de manutenção. As diretriz
 | ------- | ---------- | --------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- |
 | `1.0`   | 20/10/2023 | Criação da página guia de estilo.                                     | [Lucas Víctor](#)                             | [Izabela Alves](#)   |
 | `1.1`   | 20/10/2023 | Adição introdução, objetivos, público-alvo, como utilizar, como manter.            | [Lucas Víctor](#) e [Lucas Ribeiro](#)                             | [Izabela Alves](#)   |
-| `1.1`   
+| `1.2`    |20/10/2023 | Adição do figma.            | [Lucas Víctor](#)                            | [Izabela Alves](#)   |   
 

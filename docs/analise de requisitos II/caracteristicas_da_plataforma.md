@@ -1,4 +1,4 @@
-# Características Gerais do Site "Nota Legal"
+# Características da Plataforma "Nota Legal"
 
 ## Introdução
 O site "Nota Legal" é um portal online que busca atender às necessidades dos usuários de forma eficaz, proporcionando uma experiência de aprendizagem natural e rápida. A fim de alcançar esse objetivo, o site é projetado com base em princípios gerais de Interação Humano-Computador (IHC) e metas de usabilidade. Neste documento, destacaremos as principais características gerais do site "Nota Legal", com base nos princípios e diretrizes de IHC e nas metas de usabilidade.

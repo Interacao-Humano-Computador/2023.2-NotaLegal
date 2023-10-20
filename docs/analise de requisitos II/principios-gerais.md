@@ -229,7 +229,7 @@ O site do Nota Legal aprensenta um design minimalista e com poucos elementos ao 
 
 <font size="3"><p style="text-align: center">Figura 12 - Página onde realiza a indicação do saldo do Nota Legal.</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/pag_estornar_indicacao.png" style="width: 75%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/pag_estornar_indicacao.png?raw=true" style="width: 75%;height=auto;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a>, 2023.</p></font>
 

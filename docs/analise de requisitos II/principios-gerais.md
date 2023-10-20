@@ -50,7 +50,9 @@ A diretriz de Correspondência com as Expectativas dos Usuários não é seguida
 <br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/0ae026e487f939a3286124807410c4989c318df4/docs/imagens/principios-gerais/expectativa-usuario.png" style="width: 75%;height=auto;">
-<p>Figura X - Footer do site Nota Legal. Fonte: Izabella Alves, 2023.</p>
+
+
+  <font size="3"><p style="text-align: center">Figura X - Footer do site Nota Legal. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</font>
 </div>
 
 ### Simplicidade nas Estruturas das Tarefas
@@ -58,7 +60,9 @@ A diretriz de Simplicidade nas Estruturas das Tarefas no geral está sendo bem s
 <br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/e129fbf160ec8541e7ee312cd5a371f05bc36625/docs/imagens/principios-gerais/simplicidade-tarefas.png" style="width: 75%;height=auto;">
-<p>Figura X - Tela de visualização e lançamentos de indicação do site Nota Legal. Fonte: Izabella Alves, 2023.</p>
+
+
+  <font size="3"><p style="text-align: center">Figura X -  Tela de visualização e lançamentos de indicação do site Nota Legal. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</font>
 </div>
 
 ### Equilíbrio entre Controle e Liberdade do Usuário
@@ -66,7 +70,9 @@ A diretriz de Equilíbrio entre Controle e Liberdade do Usuário é violada no s
 <br>
 <div align="center">
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/liberdade-usuario.png?raw=true" style="width: 75%;height=auto;">
-<p>Figura X - Tela de carregamento do site Nota Legal. Fonte: Izabella Alves, 2023.</p>
+
+<font size="3"><p style="text-align: center">Figura X - Tela de carregamento do site Nota Legal. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</font>
+
 </div>
 
 
@@ -79,21 +85,29 @@ Em geral, o site Nota legal mantém o usuário atualizado do status atual do sis
 
 <div align="center">
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/nota_legal.gif" width="533" height="300">
-<p>Figura X - Status de carregamento do site Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+
+<font size="3"><p style="text-align: center">Figura X - Status de carregamento do site Nota Legal.Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a>, 2023.</font>
+  
 </div>
 
 Porém, esse carregamento de página pode passar dos 30 segundos (Vídeo 1) e de acordo com Tognazzini (2003), quando uma ação ultrapassa 2 segundos de execução, o sistema deverá informar a demora estimada junto a uma barra de progresso, fornecer opções de cancelar a ação ao usuário e para casos de ultrapassar 10 segundos o sistema deve emitir um aviso sonoro e visual indicando o final da ação [2]. Nesse quesito o site Nota Legal viola a diretriz de Visibilidade e Reconhecimento.
 
 <iframe width="560" height="315" src="https://youtu.be/fC5Dodn3MZQ" title="Tela de carregamento do Login do site Nota Legal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div align="center">
-<p>Vídeo X - Tela de carregamento violando a diretriz de Visibilidade e Reconhecimento. Fonte: Gabriel Zaranza, 2023.</p>
+
+<font size="3"><p style="text-align: center">Vídeo X - Tela de carregamento violando a diretriz de Visibilidade e Reconhecimento. Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a> , 2023.</font>
+
+  
 </div>
 
 Outros pontos relacionados à Visibilidade e Reconhecimento são informar ao usuário o caminho que ele percorreu no sistema e os objetos, ações e as opções devem ser atualizadas e facilmente perceptíveis (Tognazzini, 2003). Na figura X, pode-se observar que o site Nota Legal mostra ao usuário o caminho que ele seguiu até determinada página e atualiza as opções e ações que ele pode executar nessa nova página. Importante ressaltar que essas informações são fornecidas no centro da página e destacadas do background do site, fazendo com que o usuário as encontre de maneira rápida.
 
 <div align="center">
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/Visibilidade%20e%20reconhecimento.png?raw=true" style="width: 75%;height=auto;">
-<p>Figura X - Exemplo de caminho que o usário percorreu dentro do site Nota legal e as opções de ações da página "Documentos Fiscais". Fonte: Gabriel Zaranza, 2023.</p>
+
+
+<font size="3"><p style="text-align: center">Figura X - Exemplo de caminho que o usário percorreu dentro do site Nota legal. Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a> , 2023.</font>
+
 </div>
 
 ### Conteúdo Relevante e Expressão Adequada
@@ -102,19 +116,28 @@ O site do Nota Legal aprensenta um design minimalista e com poucos elementos ao 
 
 <div align="center">
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/menu_nota_legal.png?raw=true" style="width: 75%;height=auto;">
-<p>Figura X - Página principal da conta de usuário do Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+
+
+<font size="3"><p style="text-align: center">Figura X - Página principal da conta de usuário do Nota Legal. Fonte:  <a href="https://github.com/gzaranza">Gabriel Zaranza</a> , 2023.</p></font>
+  
 </div>
 
 <div align="center">
+  
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/pag_estornar_indicacao.png" style="width: 75%;height=auto;">
-<p>Figura X - Página onde realiza a indicação do saldo do Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+
+<font size="3"><p style="text-align: center">Figura X - Página onde realiza a indicação do saldo do Nota Legal. Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a>, 2023.</p></font>
+
+
 </div>
 
 Outro ponto que está de acordo com a diretriz em questão, é a clareza e legibilidade dos textos presentes nos botões e rótulos do site, como é observado nas Figuras X e X. Pode-se resaltar a presença de contraste dos textos em relação ao fundo, além da funcionalidade de alto contraste presente em todo site (Figura X). Porém, não existem as funcionalidades de aumentar o tamanho da fonte dos textos e modo daltônico que são recomendadas por Tognazzini (2003).
 
 <div align="center">
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/alto_contraste.png?raw=true" style="width: 75%;height=auto;">
-<p>Figura X - Funcionalidade de alto contraste ativada no site Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+
+<font size="3"><p style="text-align: center">Figura X - Funcionalidade de alto contraste ativada no site Nota Legal. Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a>, 2023.</p></font>
+  
 </div>
 
 ### Projeto para Erros
@@ -123,14 +146,18 @@ O site Nota Legal possui mecanismos de ajudar o usuário durante um erro, como p
 
 <div align="center">
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/servico_indisponivel.png?raw=true" style="width: 75%;height=auto;">
-<p>Figura X - Mensagem de erro no site Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+
+<font size="3"><p style="text-align: center">Figura X - Mensagem de erro no site Nota Legal. Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a>, 2023.</p></font>
+
 </div>
 
 Outro ponto que fere a diretriz de projeto para erros são a localização dos botões de limpar informações próximas a botões de registrar ou consultar em algumas páginas, como é exemplificado na Figura X. De acordo com Cooper (1999), não é recomendado colocar controles de funções, como é o caso do botão de registrar reclamação, próximo a botões de controles perigosos, como é o caso do botão de limpar as informações [4]. O usuário pode se distrair e realizar uma ação crítica ou que atrapalhe a realização da sua tarefa.
 
 <div align="center">
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/bot%C3%A3o_limpar_registrar.png?raw=true" style="width: 75%;height=auto;">
-<p>Figura X - Próximidade do botão "limpar" e "registrar reclamação" no site Nota Legal. Fonte: Gabriel Zaranza, 2023.</p>
+  
+<font size="3"><p style="text-align: center">Figura X - Próximidade do botão "limpar" e "registrar reclamação" no site Nota Legal. Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a>, 2023.</p></font>
+
 </div>
 
 ## Referências Bibliográficas
@@ -153,4 +180,4 @@ Outro ponto que fere a diretriz de projeto para erros são a localização dos b
 |`1.2`|16/10/2023|Adição de analise Visibilidade e Reconhecimento|[Gabriel Zaranza](https://github.com/gzaranza)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.2`|16/10/2023|Adição de analise Conteúdo Relevante e Expressão Adequada|[Gabriel Zaranza](https://github.com/gzaranza)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.3`|17/10/2023|Adição de analise Projeto para erros|[Gabriel Zaranza](https://github.com/gzaranza)|[Izabella Alves](https://github.com/izabellaalves)|
-
+|`1.4`|20/10/2023|Corrigindo as legendas|[Gabriel Zaranza](https://github.com/gzaranza)|[Izabella Alves](https://github.com/izabellaalves)|

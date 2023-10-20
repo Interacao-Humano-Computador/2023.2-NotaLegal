@@ -44,9 +44,9 @@ nav:
       - Observação: analise de requisitos/tecnicas-elicitacao/observacao.md
       - Requisitos elicitados: analise de requisitos/requisitos-elicitados.md
   - Análise de Requisitos II:
-    - Características Gerais da Plataforma: analise de requisitos II/caracteristicas_da_plataforma.md
     - Princípios Gerais: analise de requisitos II/principios-gerais.md
     - Metas de Usabilidade: analise de requisitos II/metas_de_usabilidade.md
+    - Características Gerais da Plataforma: analise de requisitos II/caracteristicas_da_plataforma.md
     - Guia de Estilo: analise de requisitos II/guia_de_estilo.md
     
 theme:
@@ -71,5 +71,7 @@ theme:
       toggle:
         icon: material/circle-half-full
         name: Mudar para o modo claro
+  favicon: imagens/logo_nota_legal.png
+  logo: imagens/logo_nota_legal.png
 
   language: pt-BR

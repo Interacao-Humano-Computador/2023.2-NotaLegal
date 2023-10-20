@@ -32,14 +32,24 @@ abrangendo tanto a fase de produção quanto a fase de manutenção. As diretriz
 É importante que o Guia de Estilo esteja sempre atualizado, de acordo com as decisões tomadas pela equipe de design, que modificarão o projeto. Essa constância garante a padronização no projeto, assegurando que todas as alterações estejam alinhadas com os princípios estabelecidos. Manter o Guia de Estilo atualizado não apenas preserva a coesão visual e funcional, mas também assegura uma experiência de usuário consistente e de alta qualidade em todas as interações, fortalecendo assim a identidade do projeto e a confiança dos usuários.
 
 ## Resultados da Análise
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/file/e0jy4MMu1eMkm416vFHsBJ/Untitled?type=design&node-id=0%3A1&mode=design&t=M2tg91Tx9D7hadCq-1" allowfullscreen></iframe>
+
+O site Nota Legal é acessado tanto por computadores (desktops ou notebooks) quanto por smartphones. Portanto, é crucial garantir que a interface seja adaptada para diferentes tamanhos de tela e que as funcionalidades sejam fáceis de usar em ambos os tipos de dispositivos. Veja os detalhes na figura 1.
+
+
+<div align="center">
+  
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Captura%20de%20tela%20de%202023-10-20%2017-43-27.png?raw=true" style="width: 75%;height=auto;">
+
+<font size="3"><p style="text-align: center">Figura 1 - . Fonte: <a href="#">Lucas Víctor</a>, 2023.</p></font>
+
+</div>
 
 ### Descrição do Ambiente de Trabalho do Usuário
 
 ## Elementos de Interface
 
 ## Elementos de Interação
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/file/e0jy4MMu1eMkm416vFHsBJ/Untitled?type=design&node-id=0%3A1&mode=design&t=M2tg91Tx9D7hadCq-1" allowfullscreen></iframe>
 ### Estilo de Interação
 
 

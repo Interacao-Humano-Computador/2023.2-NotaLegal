@@ -17,8 +17,6 @@ O Guia de Estilo para o site do "Nota Legal" será feito de acordo com os elemen
 
 ### Público-alvo do Guia de Estilo
 
-Certamente, aqui está o parágrafo reformulado com base na sua nova diretriz:
-
 "Este guia de estilo foi meticulosamente desenvolvido para abranger as necessidades tanto dos estudantes matriculados na disciplina de Interação Humano Computador quanto da equipe de design e desenvolvedores do Nota Leggal, cso em algum momento demonstrem interesse no artefato. Através deste guia, os envolvidos terão à disposição uma base sólida para a tomada de decisões de design embasadas em diretrizes e melhores práticas, conforme mencionadas nas Metas de Usabilidade e nos Princípios Gerais."
 
 ### Como utilizar o Guia
@@ -33,6 +31,8 @@ abrangendo tanto a fase de produção quanto a fase de manutenção. As diretriz
 
 ## Resultados da Análise
 
+### Descrição do Ambiente de Trabalho do Usuário
+
 O site Nota Legal é acessado tanto por computadores (desktops ou notebooks) quanto por smartphones. Portanto, é crucial garantir que a interface seja adaptada para diferentes tamanhos de tela e que as funcionalidades sejam fáceis de usar em ambos os tipos de dispositivos. Veja os detalhes na figura 1.
 
 <font size="3"><p style="text-align: center">Figura 1 - Página Home </font>
@@ -45,65 +45,40 @@ O site Nota Legal é acessado tanto por computadores (desktops ou notebooks) qua
 
 </div>
 
-### Descrição do Ambiente de Trabalho do Usuário
-
-No site do "Nota Legal", entendemos que a acessibilidade é fundamental. Reconhecemos que muitos de seus usuários preferem acessar a plataforma através de seus computadores, seja em desktops ou notebooks. Portanto, nossa equipe dedicou-se a aprimorar a interface do sistema, garantindo uma experiência de usuário satisfatória e eficaz para aqueles que escolhem utilizar esses dispositivos. Isso implica ajustar nossa interface para se adequar a uma variedade de tamanhos de tela, escolher elementos visuais adequados e implementar funcionalidades intuitivas e facilmente acessíveis. Basicamente, é necessário que todos os usuários tenham uma boa experiência, não importa de onde acessam. 
-
-## Elementos de Interface
-
-## Elementos de Interação
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fe0jy4MMu1eMkm416vFHsBJ%2FGuia-de-Estilo---Nota-Legal%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DfPV6twxSZONjR758-1" allowfullscreen></iframe><figcaption></figcaption></figure>
 
 
-### Estilo de Interação
+## Elementos de Interface, Interação e Ação 
 
+Os elementos de interface, interação e ação estão disponíveis no projeto, o qual pode ser acessado através do site Figma, no link abaixo:
 
-### Seleção de Estilos
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fe0jy4MMu1eMkm416vFHsBJ%2FGuia-de-Estilo---Nota-Legal%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DfPV6twxSZONjR758-1" allowfullscreen></iframe>
 
-
-### Aceleradores (Teclas de Atalho)
-
-
-## Elementos de Ação
-
-### Preenchimento de Campos
-
-
-### Seleção
-
-### Ativação
 
 
 ## Vocabulários e padrões
 
 ### Terminologia
 
+Durante a criação dos protótipos, é fundamental utilizar uma linguagem simples e compreensível para os usuários, evitando o uso de termos técnicos. Se for necessário utilizar termos técnicos, eles devem ser explicados de maneira clara para que até mesmo os usuários iniciantes possam entender e usar a aplicação facilmente.
 
-### Tipos de Tela
+Em relação às telas comuns, elas devem seguir os padrões de layout especificados nos Elementos de Interface, garantindo que as informações sejam apresentadas de forma consistente.
 
+No que diz respeito às caixas de diálogo, elas devem seguir um padrão definido, com os botões de confirmação e cancelamento posicionados de maneira uniforme em todas as caixas de diálogo, para proporcionar uma experiência de usuário consistente e intuitiva em toda a aplicação.
 
-### Sequência de Diálogos
-
-
-## Propostas de Intervenção
-
-
-### Metas de Usabilidade
-
-
-### Princípios Gerais
-
-
-### Proposta no figma
-
+## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+> <a id="REF1" href="#anchor_1">2.</a> Repositório do Grupo 2 do desenvolvimento do projeto Lichess, disponível em: <https://github.com/Interacao-Humano-Computador/2022.2-Lichess>
+
+> <a id="REF1" href="#anchor_1">3.</a>  Repositório do Grupo 1 do desenvolvimento do projeto Bilheteria Digital, disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital>
 ## Histórico de Versões
 
 | Versão  | Data       | Descrição                                           | Autor(es)                                   | Revisor(es)             |
 | ------- | ---------- | --------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- |
 | `1.0`   | 20/10/2023 | Criação da página guia de estilo.                                     | [Lucas Víctor](#)                             | [Izabela Alves](#)   |
-| `1.1`   | 20/10/2023 | Adição introdução, objetivos, público-alvo, como utilizar, como manter.            | [Lucas Víctor](#) e [Lucas Ribeiro](#)                             | [Izabela Alves](#)   |
+| `1.1`   | 20/10/2023 | Adição introdução, objetivos, público-alvo, como utilizar, como manter.            | [Lucas Víctor](#) e [Lucas Ribeiro](#)               | [Izabela Alves](#)   |
 | `1.2`    |20/10/2023 | Adição do figma.            | [Lucas Víctor](#)                            | [Izabela Alves](#)   |   
-
+| `1.3`    |20/10/2023 | Adição do Descrição do Ambiente de Trabalho do Usuário           | [Lucas Víctor](#)                            | [Izabela Alves](#)   |   
+| `1.4`    |20/10/2023 | Adição da Termologia           | [Lucas Víctor](#)                            | [Izabela Alves](#)   |  
+| `1.5`    |20/10/2023 | Adição da link do figma           | [Lucas Víctor](#) e [Lucas Ribeiro](#)                            | [Izabela Alves](#)   |  

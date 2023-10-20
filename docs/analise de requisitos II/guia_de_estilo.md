@@ -9,10 +9,11 @@ Com o intuito de alcançar esses objetivos, é preciso contar com um guia de est
 
 ### Objetivo do Guia de Estilo
 
-O objetivo do Guia de Estilo é fornecer diretrizes e recomendações claras para orientar o processo de design e desenvolvimento de interfaces de usuário de forma a garantir que atendam às necessidades e expectativas dos usuários finais. Este guia tem como propósito principal preservar as decisões de design ao longo do ciclo de vida do projeto, proporcionando uma base sólida para a consistência visual e de interação em todo o sistema. Além disso, o Guia de Estilo serve como uma ferramenta de comunicação essencial para a equipe de projeto e outras partes interessadas, facilitando a consulta e discussão das decisões de design para futuras projeções e atualizações do sistema.
+O Objetivo do Guia de Estilo é fornecer diretrizes e recomendações claras para orientar o processo de design e desenvolvimento de interfaces de usuário de forma a garantir que atendam às necessidades e expectativas dos usuários finais. Este guia tem como propósito principal preservar as decisões de design ao longo do ciclo de vida do projeto, proporcionando uma base sólida para a consistência visual e de interação em todo o sistema. Além disso, o Guia de Estilo serve como uma ferramenta de comunicação essencial para a equipe de projeto e outras partes interessadas, facilitando a consulta e discussão das decisões de design para futuras projeções e atualizações do sistema.
 
 ### Organização e Conteúdo do Guia de Estilo
 
+O Guia de Estilo para o site do "Nota Legal" será feito de acordo com os elementos analisados, e com o seu Objetivo, citado anteriormente.
 
 ### Público-alvo do Guia de Estilo
 

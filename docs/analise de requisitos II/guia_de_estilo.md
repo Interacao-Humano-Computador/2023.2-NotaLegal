@@ -1,6 +1,6 @@
 ## Introdução
 
-Com base na sua solicitação, aqui está uma revisão da nota legal:
+Com base na sua solicitação, aqui está uma revisão do site "Nota Legal":
 
 **Nota Legal:**
 

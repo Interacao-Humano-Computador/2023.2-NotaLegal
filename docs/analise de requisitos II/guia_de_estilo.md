@@ -69,9 +69,11 @@ No que diz respeito às caixas de diálogo, elas devem seguir um padrão definid
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-> <a id="REF1" href="#anchor_1">2.</a> Repositório do Grupo 2 do desenvolvimento do projeto Lichess, disponível em: <https://github.com/Interacao-Humano-Computador/2022.2-Lichess>
+## Bibliográfia
 
-> <a id="REF1" href="#anchor_1">3.</a>  Repositório do Grupo 1 do desenvolvimento do projeto Bilheteria Digital, disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital>
+> <a id="REF1" href="#anchor_1">1.</a> Repositório do Grupo 2 do desenvolvimento do projeto Lichess, disponível em: <https://github.com/Interacao-Humano-Computador/2022.2-Lichess>
+
+> <a id="REF1" href="#anchor_1">2.</a>  Repositório do Grupo 1 do desenvolvimento do projeto Bilheteria Digital, disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital>
 ## Histórico de Versões
 
 | Versão  | Data       | Descrição                                           | Autor(es)                                   | Revisor(es)             |

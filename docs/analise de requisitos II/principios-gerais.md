@@ -180,7 +180,7 @@ Em geral, o site Nota legal mantém o usuário atualizado do status atual do sis
 
 <font size="3"><p style="text-align: center">Figura 9 - Status de carregamento do site Nota Legal.</font>
   
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/nota_legal.gif" width="533" height="300">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/nota_legal.gif?raw=true" width="533" height="300">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gzaranza">Gabriel Zaranza</a>, 2023.</font>
   
@@ -190,7 +190,8 @@ Porém, esse carregamento de página pode passar dos 30 segundos (Vídeo 1) e de
 
 <font size="3"><p style="text-align: center">Vídeo 1 - Tela de carregamento violando a diretriz de Visibilidade e Reconhecimento.</a> , 2023.</font>
 
-<iframe width="560" height="315" src="https://youtu.be/fC5Dodn3MZQ" title="Tela de carregamento do Login do site Nota Legal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fC5Dodn3MZQ" title="Tela de carregamento do Login do site Nota Legal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <div align="center">
 

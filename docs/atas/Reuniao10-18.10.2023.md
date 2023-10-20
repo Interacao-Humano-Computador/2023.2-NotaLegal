@@ -22,7 +22,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      20:45        |
-| Realizado     |      20:13       |      20:58        |
+| Realizado     |      20:13       |      21:06        |
 
 <font size="3">Fonte:</b> [Lucas Ribeiro](https://github.com/lucassouzs)</b></p></font>
 

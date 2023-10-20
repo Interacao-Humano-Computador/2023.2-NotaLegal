@@ -153,7 +153,7 @@ Antecipação é a capacidade do sistema de prever o que o usuário quer e preci
 
 <font size="3"><p style="text-align: center">Figura 7 - Tela de saldos bloqueados.</font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/desbloquear-saldo-site-externo.png?raw=true" style="width: 75%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/principios-gerais/desbloquear-saldo.png?raw=true" style="width: 75%;height=auto;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</font>
 

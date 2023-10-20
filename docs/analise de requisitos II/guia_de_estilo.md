@@ -17,7 +17,7 @@ O Guia de Estilo para o site do "Nota Legal" será feito de acordo com os elemen
 
 ### Público-alvo do Guia de Estilo
 
-"Este guia de estilo foi meticulosamente desenvolvido para abranger as necessidades tanto dos estudantes matriculados na disciplina de Interação Humano Computador quanto da equipe de design e desenvolvedores do Nota Leggal, cso em algum momento demonstrem interesse no artefato. Através deste guia, os envolvidos terão à disposição uma base sólida para a tomada de decisões de design embasadas em diretrizes e melhores práticas, conforme mencionadas nas Metas de Usabilidade e nos Princípios Gerais."
+Este guia de estilo foi meticulosamente desenvolvido para abranger as necessidades tanto dos estudantes matriculados na disciplina de Interação Humano Computador quanto da equipe de design e desenvolvedores do Nota Leggal, cso em algum momento demonstrem interesse no artefato. Através deste guia, os envolvidos terão à disposição uma base sólida para a tomada de decisões de design embasadas em diretrizes e melhores práticas, conforme mencionadas nas Metas de Usabilidade e nos Princípios Gerais.
 
 ### Como utilizar o Guia
 

@@ -35,16 +35,19 @@ abrangendo tanto a fase de produção quanto a fase de manutenção. As diretriz
 
 O site Nota Legal é acessado tanto por computadores (desktops ou notebooks) quanto por smartphones. Portanto, é crucial garantir que a interface seja adaptada para diferentes tamanhos de tela e que as funcionalidades sejam fáceis de usar em ambos os tipos de dispositivos. Veja os detalhes na figura 1.
 
-
 <div align="center">
-  
+
+
+<font size="3"><p style="text-align: center">Figura 1 - dwadawdwa </font>
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Captura%20de%20tela%20de%202023-10-20%2017-43-27.png?raw=true" style="width: 75%;height=auto;">
 
-<font size="3"><p style="text-align: center">Figura 1 - . Fonte: <a href="#">Lucas Víctor</a>, 2023.</p></font>
+<font size="3">Fonte: <a href="#">Lucas Víctor</a>, 2023.</p></font>
 
 </div>
 
 ### Descrição do Ambiente de Trabalho do Usuário
+
+No site do "Nota Legal", entendemos que a acessibilidade é fundamental. Reconhecemos que muitos de seus usuários preferem acessar a plataforma através de seus computadores, seja em desktops ou notebooks. Portanto, nossa equipe dedicou-se a aprimorar a interface do sistema, garantindo uma experiência de usuário satisfatória e eficaz para aqueles que escolhem utilizar esses dispositivos. Isso implica ajustar nossa interface para se adequar a uma variedade de tamanhos de tela, escolher elementos visuais adequados e implementar funcionalidades intuitivas e facilmente acessíveis. Basicamente, é necessário que todos os usuários tenham uma boa experiência, não importa de onde acessam. 
 
 ## Elementos de Interface
 

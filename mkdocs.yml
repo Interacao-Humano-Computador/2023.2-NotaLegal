@@ -44,8 +44,8 @@ nav:
       - Observação: analise de requisitos/tecnicas-elicitacao/observacao.md
       - Requisitos elicitados: analise de requisitos/requisitos-elicitados.md
   - Análise de Requisitos II:
+    - Características Gerais da Plataforma: analise de requisitos II/caracteristicas_gerais.md
     - Princípios Gerais: analise de requisitos II/principios-gerais.md
-    - Características Gerais: analise de requisitos II/caracteristicas_gerais.md
     - Metas de Usabilidade: analise de requisitos II/metas_de_usabilidade.md
     - Guia de Estilo: analise de requisitos II/guia_de_estilo.md
     

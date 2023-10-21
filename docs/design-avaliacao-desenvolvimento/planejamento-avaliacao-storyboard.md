@@ -81,5 +81,16 @@ Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu ap
 
 ### Estrutura do Relatório da Avaliação (E)
 ## Referências Bibliográficas
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+>
+> [2] BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 21/10/2023.
+>
 ## Bibliografia
+> Planejamento da Avaliação do Storyboard. Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliavao-sb/>>. Acesso em: 21/10/2023.
+> 
+> Planejamento da Avaliação do Storyboard. Banco Central do Brasil. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_avaliacao>>. Acesso em: 21/10/2023.
+> 
 ## Histórico de Versões
+|Versão|Data|Descrição|Autor|Revisor|
+|:----:|----|---------|-----|:-------:|
+|`1.0`|21/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|

@@ -23,13 +23,19 @@ No livro Interação Humano Computador [1], temos uma boa descrição de cada um
   - Lide com aspectos práticos, como o recrutamento de participantes, a preparação de equipamentos, prazos, orçamento e a equipe necessária para conduzir a avaliação.
 - Aspectos Éticos (D)
   - Certifique-se de tratar as questões éticas relacionadas aos participantes da avaliação, garantindo que sejam respeitados e não prejudicados durante o processo e após a divulgação dos resultados.
-- Estrutura do Relatório da Avaliação (E)
+- Avaliação e Apresentação dos Dados: (E)
   - Analise os dados coletados e interprete-os antes de tirar conclusões e apresentar os resultados. Considere a confiabilidade, a validade interna, a validade externa e a validade ecológica dos estudos para garantir a qualidade da avaliação.
 
 ## Planejamento da Avaliação
 ### Objetivos Gerais (D)
 ### Roteiro de Entrevista (E)
 ### Métodos de Avaliação (C)
+Muitos métodos são utilizados para realizar avaliações no ramo da Interação Humano Computador, cada um deles tem seus objetivos específicos e as orientações que norteiam o método. Em IHC, estes métodos são divididos entre: métodos de investigação, de observação de uso e de inspeção.
+
+Nesta avaliação, usaremos o método de investigação, ele pode envolver questionários, entrevistas, grupos de foco e estudos de campo, permitindo ao avaliador entender as opiniões, expectativas e comportamentos dos usuários em relação ao que está sendo avaliado, neste caso, os [storyboards](#).
+
+A técnica de investigação que usaremos será a entrevista. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópi-
+cos, na qual um entrevistador busca obter informação de um entrevistado [1]. Além disso, as perguntas realizadas durante a entrevista serão perguntas fechadas, visto que este tipo de perguntas pode ser analisado mais rapidamente e o entrevistado em questão provavelmente já conhece as prováveis respostas.
 ### Aspectos Práticos da Avaliação (I)
 ### Aspectos Éticos (D)
 ### Estrutura do Relatório da Avaliação (E)

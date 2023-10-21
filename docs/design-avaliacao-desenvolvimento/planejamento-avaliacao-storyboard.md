@@ -70,7 +70,7 @@ A técnica de investigação que usaremos será a entrevista. Trata-se de uma co
 O recrutamento dos usuários para a avaliação será realizado por todos os integrantes da equipe, em que cada um deverá recrutar um usuário, de acordo com o [Perfil de Usuário](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/perfil_usuario.md#definição-do-usuário), para a avaliação do próprio Storyboard.
 
 #### Preparação:
-Cada integrante da equipe é responsável por preparar e alocar os recursos necessários para a própria avaliação, como o local (presencial ou remoto), horário da entrevista, materiais/equipamentos (perguntas a serem respondidas na entrevista, câmera, gravador de voz etc.) e o termo de consentimento.
+Cada integrante da equipe é responsável por preparar e alocar os recursos necessários para a própria avaliação, como o local (presencial ou remoto), horário da entrevista, materiais/equipamentos (perguntas a serem respondidas na entrevista, câmera, gravador de voz etc.) e o [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/edit/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-éticos-d) .
 		
 #### Prazos:
 O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá o nome do entrevistador (membro da equipe), entrevistado, horário de início e fim da entrevista, data e local onde ocorreu a entrevista.

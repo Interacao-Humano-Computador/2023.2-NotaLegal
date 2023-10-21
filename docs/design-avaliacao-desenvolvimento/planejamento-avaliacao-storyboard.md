@@ -5,7 +5,7 @@ Storyboard é uma técnica fundamental na área de Interação Humano-Computador
 A importância de realizar a avaliação dos storyboards de um sistema reside no fato de que eles servem como um guia inicial para a criação de interfaces eficazes e amigáveis, contribuindo para a identificação de problemas de usabilidade e design antes que eles se tornem caros de serem corrigidos no estágio de implementação. 
 
 ## Metodologia
-A metodologia empregada para o planejamento da avaliação dos [storyboards](#) criados pelo grupo do site "Nota Legal" será fundamentada no Framework DECIDE. Este framework proporcionará direcionamento e estrutura para o processo de planejamento, execução e análise da avaliação. As atividades dentro do framework estão interconectadas e são executadas de forma iterativa, à medida que o avaliador alinha os objetivos da avaliação com os dados disponíveis e os recursos à sua disposição.
+A metodologia empregada para o planejamento da avaliação dos [storyboards](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/storyboards.md) criados pelo grupo do site "Nota Legal" será fundamentada no Framework DECIDE. Este framework proporcionará direcionamento e estrutura para o processo de planejamento, execução e análise da avaliação. As atividades dentro do framework estão interconectadas e são executadas de forma iterativa, à medida que o avaliador alinha os objetivos da avaliação com os dados disponíveis e os recursos à sua disposição.
 
 Dentro desse framework, a interdependência das atividades é essencial. Quando o avaliador identifica a necessidade de modificar a direção da avaliação por qualquer motivo, isso terá ramificações nas demais etapas do processo. A flexibilidade do framework DECIDE permite que os avaliadores façam ajustes e adaptações conforme necessário para garantir que a avaliação seja eficaz e atenda aos objetivos definidos, mantendo sempre em mente a relação dinâmica entre as etapas. 
 
@@ -28,16 +28,48 @@ No livro Interação Humano Computador [1], temos uma boa descrição de cada um
 
 ## Planejamento da Avaliação
 ### Objetivos Gerais (D)
+Os objetivos gerais que irão guiar a avaliação do Storyboard são:
+- Avaliar se os Storyboards estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal;
+- Avaliar se as motivações e satisfações do usuário estão representadas nos storyboards;
+- Encontrar erros ou pontos de mudança nos Storyboards
+
 ### Roteiro de Entrevista (E)
 ### Métodos de Avaliação (C)
 Muitos métodos são utilizados para realizar avaliações no ramo da Interação Humano Computador, cada um deles tem seus objetivos específicos e as orientações que norteiam o método. Em IHC, estes métodos são divididos entre: métodos de investigação, de observação de uso e de inspeção.
 
-Nesta avaliação, usaremos o método de investigação, ele pode envolver questionários, entrevistas, grupos de foco e estudos de campo, permitindo ao avaliador entender as opiniões, expectativas e comportamentos dos usuários em relação ao que está sendo avaliado, neste caso, os [storyboards](#).
+Nesta avaliação, usaremos o método de investigação, ele pode envolver questionários, entrevistas, grupos de foco e estudos de campo, permitindo ao avaliador entender as opiniões, expectativas e comportamentos dos usuários em relação ao que está sendo avaliado, neste caso, os [storyboards](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/storyboards.md).
 
 A técnica de investigação que usaremos será a entrevista. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópi-
 cos, na qual um entrevistador busca obter informação de um entrevistado [1]. Além disso, as perguntas realizadas durante a entrevista serão perguntas fechadas, visto que este tipo de perguntas pode ser analisado mais rapidamente e o entrevistado em questão provavelmente já conhece as prováveis respostas.
 
 ### Aspectos Práticos da Avaliação (I)
+#### Recrutamento:
+O recrutamento dos usuários para a avaliação será realizado por todos os integrantes da equipe, em que cada um deverá recrutar um usuário, de acordo com o [Perfil de Usuário](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/perfil_usuario.md#definição-do-usuário), para a avaliação do próprio Storyboard.
+
+#### Preparação:
+Cada integrante da equipe é responsável por preparar e alocar os recursos necessários para a própria avaliação, como o local (presencial ou remoto), horário da entrevista, materiais/equipamentos (perguntas a serem respondidas na entrevista, câmera, gravador de voz etc.) e o termo de consentimento.
+		
+#### Prazos:
+O cronograma da avaliação é descrito na tabela X, onde cada avaliação terá o nome do entrevistador (membro da equipe), entrevistado, horário de início e fim da entrevista, data e local onde ocorreu a entrevista.
+
+<div align="center">
+<p>Tabela X - Cronograma das avaliações dos storyboards. </p>
+</div>
+
+|Storyboard|Entrevistador(a)|Entrevistado(a)|Horário de início|Horário de fim|Data|Local|
+|:----:|----|---------|-----|:-------:|---------|-------|
+| |Gabriel Rosa| | | | | |
+| |Gabriel Zaranza| | | | | |
+| |Izabella Alves| | | | | |
+| |Lucas de Oliveira| | | | | |
+| |Lucas Ribeiro| | | | | |
+| |Lucas Victor| | | | | |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza, 2023.</a></b></p></font>
+</div>
+
+
 ### Aspectos Éticos (D)
 Nesta pesquisa, seguiremos os príncipios éticos de pesquisas científicas envolvendo pessoas estebelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde [2], Esses princípios incluem o respeito à autonomia dos indivíduos, a busca pelo benefício máximo com o mínimo de danos, a prevenção de danos previsíveis e a promoção da justiça e equidade. Essas diretrizes são especialmente relevantes em pesquisas que envolvem seres humanos, onde é imperativo respeitar a dignidade e a autonomia dos participantes, considerando os aspectos éticos ao longo de todo o processo de pesquisa [2].
 
@@ -99,3 +131,4 @@ O relato detalhado de como todos os resultados serão apresentados está descrit
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|21/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.1`|21/10/2023|Adicionanando "D" e "I"|[Gabriel Zaranza](https://github.com/gzaranza)|[Zenilda Vieira](https://github.com/zenildavieira)|

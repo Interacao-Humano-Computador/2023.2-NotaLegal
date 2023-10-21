@@ -34,13 +34,36 @@ Os objetivos gerais que irão guiar a avaliação do Storyboard são:
 - Encontrar erros ou pontos de mudança nos Storyboards
 
 ### Roteiro de Entrevista (E)
+
+Afim de alcançar dados que verifiquem nossos objetivos, optamos por realizar uma entrevista principalmente com perguntas fechadas. As perguntas em questão terão uma linguagem simplificada, para facilitar a compreensão do participante. 
+
+As perguntas selecionadas estão descritas na tabela 1, bem como as possíveis respostas.
+
+<div align="center">
+<p>Tabela 1 - Roteiro de perguntas. </p>
+</div>
+
+| ID | Pergunta                       | Resposta |
+|----|--------------------------------|----------|
+| 1  | A história contada pelo storyboard representa a realidade?    | Sim, não ou não sei responder    |
+| 2  | As ações realizadas pelo ator principal condizem com as ações realizadas na prática?     | Sim, não ou não sei responder       |
+| 3  | Você se identifica com a motivação do ator principal para realizar a tarefa?   | Sim, não ou não sei responder      |
+| 4  | Você consegue entender o storyboard e as ações desenvolvidas nele?      | Sim, não ou não sei responder        |
+| 5  | Você acha que o storyboard resolve o problema em questão?     | Sim, não ou não sei responder        |
+| 6  | Você acha que a satisfação do ator principal condiz com a realidade?       | Sim, não ou não sei responder        |
+| 7  | As ações realizadas no storyboard seguem uma ordem sequencial, fluida e lógica?      | Sim, não ou não sei responder        |
+| 8  | Houve algum elemento que você não compreendeu no storyboard?      | Questão aberta        |
+
+<div align="center">
+<p>Fonte: Izabella Alves e Gabriel Zaranza, 2023.</p>
+</div>
+
 ### Métodos de Avaliação (C)
 Muitos métodos são utilizados para realizar avaliações no ramo da Interação Humano Computador, cada um deles tem seus objetivos específicos e as orientações que norteiam o método. Em IHC, estes métodos são divididos entre: métodos de investigação, de observação de uso e de inspeção.
 
 Nesta avaliação, usaremos o método de investigação, ele pode envolver questionários, entrevistas, grupos de foco e estudos de campo, permitindo ao avaliador entender as opiniões, expectativas e comportamentos dos usuários em relação ao que está sendo avaliado, neste caso, os [storyboards](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/storyboards.md).
 
-A técnica de investigação que usaremos será a entrevista. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópi-
-cos, na qual um entrevistador busca obter informação de um entrevistado [1]. Além disso, as perguntas realizadas durante a entrevista serão perguntas fechadas, visto que este tipo de perguntas pode ser analisado mais rapidamente e o entrevistado em questão provavelmente já conhece as prováveis respostas.
+A técnica de investigação que usaremos será a entrevista. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado [1]. Além disso, as perguntas realizadas durante a entrevista serão principalmente perguntas fechadas, visto que este tipo de perguntas pode ser analisado mais rapidamente e o entrevistado em questão provavelmente já conhece as prováveis respostas.
 
 ### Aspectos Práticos da Avaliação (I)
 #### Recrutamento:
@@ -50,10 +73,10 @@ O recrutamento dos usuários para a avaliação será realizado por todos os int
 Cada integrante da equipe é responsável por preparar e alocar os recursos necessários para a própria avaliação, como o local (presencial ou remoto), horário da entrevista, materiais/equipamentos (perguntas a serem respondidas na entrevista, câmera, gravador de voz etc.) e o termo de consentimento.
 		
 #### Prazos:
-O cronograma da avaliação é descrito na tabela X, onde cada avaliação terá o nome do entrevistador (membro da equipe), entrevistado, horário de início e fim da entrevista, data e local onde ocorreu a entrevista.
+O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá o nome do entrevistador (membro da equipe), entrevistado, horário de início e fim da entrevista, data e local onde ocorreu a entrevista.
 
 <div align="center">
-<p>Tabela X - Cronograma das avaliações dos storyboards. </p>
+<p>Tabela 2 - Cronograma das avaliações dos storyboards. </p>
 </div>
 
 |Storyboard|Entrevistador(a)|Entrevistado(a)|Horário de início|Horário de fim|Data|Local|

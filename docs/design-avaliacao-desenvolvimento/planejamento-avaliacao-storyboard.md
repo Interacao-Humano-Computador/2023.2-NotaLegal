@@ -23,7 +23,7 @@ No livro Interação Humano Computador [1], temos uma boa descrição de cada um
   - Lide com aspectos práticos, como o recrutamento de participantes, a preparação de equipamentos, prazos, orçamento e a equipe necessária para conduzir a avaliação.
 - Aspectos Éticos (D)
   - Certifique-se de tratar as questões éticas relacionadas aos participantes da avaliação, garantindo que sejam respeitados e não prejudicados durante o processo e após a divulgação dos resultados.
-- Avaliação e Apresentação dos Dados: (E)
+- Avaliação e Apresentação dos Dados (E)
   - Analise os dados coletados e interprete-os antes de tirar conclusões e apresentar os resultados. Considere a confiabilidade, a validade interna, a validade externa e a validade ecológica dos estudos para garantir a qualidade da avaliação.
 
 ## Planejamento da Avaliação
@@ -79,7 +79,12 @@ Se você concorda em participar desta pesquisa, clique no botão "Concordo" abai
  
 Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu apoio é fundamental para o sucesso deste estudo.
 
-### Estrutura do Relatório da Avaliação (E)
+### Avaliação e Apresentação dos Dados (E)
+
+Após a realização da avaliação, feita de acordo com as informações da tabela X, os dados coletados serão devidamente documentados em um relatório abrangente. Esse relatório destacará principalmente se os objetivos estabelecidos pelo grupo foram atendidos, e caso não, como será possível melhorar.
+
+O relato detalhado de como todos os resultados serão apresentados está descrito no documento de [Planejamento de Relato dos Resultados](#).
+
 ## Referências Bibliográficas
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >

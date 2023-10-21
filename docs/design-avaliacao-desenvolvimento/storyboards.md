@@ -24,7 +24,7 @@ Na tabela 1 é possível verificar o membro responsável por cada storyboard.
 | [Zenilda Vieira](https://github.com/zenildavieira)                       | Consultar resultado de sorteio   |
 
 <div align="center">
-<p>Fonte: Izabella Alves, 2023.</p>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</font>
 </div>
 
 ## Storyboards

@@ -35,25 +35,29 @@ abrangendo tanto a fase de produção quanto a fase de manutenção. As diretriz
 
 O site Nota Legal é acessado tanto por computadores (desktops ou notebooks) quanto por smartphones. Portanto, é crucial garantir que a interface seja adaptada para diferentes tamanhos de tela e que as funcionalidades sejam fáceis de usar em ambos os tipos de dispositivos. Veja os detalhes na figura 1.
 
-<font size="3"><p style="text-align: center">Figura 1 - Página Home </font>
-
 <div align="center">
+  
+<font size="3"><p style="text-align: center">Figura 1 - Página Home </font>
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Captura%20de%20tela%20de%202023-10-20%2017-43-27.png?raw=true" style="width: 75%;height=auto;">
 <br>
-<font size="3">Fonte: <a href="#">Lucas Víctor</a>, 2023.</p></font>
+<font size="3">Fonte: <a href="https://github.com/Lucas13032003">Lucas Victor</a>, 2023.</p></font>
 
 </div>
 
-
+<div align="center">
 
 ## Elementos de Interface, Interação e Ação 
 
-Os elementos de interface, interação e ação estão disponíveis no projeto, o qual pode ser acessado através do site Figma, no link abaixo:
+Os elementos de interface, interação e ação estão disponíveis no projeto, o qual pode ser acessado através do site Figma, conforme a figura 2 abaixo:
+
+<font size="3"><p style="text-align: center">Figura 2 - Figma do Guia de Estilo</font>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fe0jy4MMu1eMkm416vFHsBJ%2FGuia-de-Estilo---Nota-Legal%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DfPV6twxSZONjR758-1" allowfullscreen></iframe>
 
+<font size="3">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/Lucas13032003">Lucas Victor</a>, 2023.</p></font>
 
+</div>
 
 ## Vocabulários e padrões
 
@@ -78,9 +82,9 @@ No que diz respeito às caixas de diálogo, elas devem seguir um padrão definid
 
 | Versão  | Data       | Descrição                                           | Autor(es)                                   | Revisor(es)             |
 | ------- | ---------- | --------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- |
-| `1.0`   | 20/10/2023 | Criação da página guia de estilo.                                     | [Lucas Víctor](#)                             | [Izabela Alves](#)   |
-| `1.1`   | 20/10/2023 | Adição introdução, objetivos, público-alvo, como utilizar, como manter.            | [Lucas Víctor](#) e [Lucas Ribeiro](#)               | [Izabela Alves](#)   |
-| `1.2`    |20/10/2023 | Adição do figma.            | [Lucas Víctor](#)                            | [Izabela Alves](#)   |   
-| `1.3`    |20/10/2023 | Adição do Descrição do Ambiente de Trabalho do Usuário           | [Lucas Víctor](#)                            | [Izabela Alves](#)   |   
-| `1.4`    |20/10/2023 | Adição da Termologia           | [Lucas Víctor](#)                            | [Izabela Alves](#)   |  
-| `1.5`    |20/10/2023 | Adição da link do figma           | [Lucas Víctor](#) e [Lucas Ribeiro](#)                            | [Izabela Alves](#)   |  
+| `1.0`   | 20/10/2023 | Criação da página guia de estilo.|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)| [Izabella Alves Pereira](https://github.com/izabellaalves)   |
+| `1.1`   | 20/10/2023 | Adição introdução, objetivos, público-alvo, como utilizar, como manter.            | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) e [Lucas Ribeiro de Souza](https://github.com/lucassouzs)                  | [Izabella Alves Pereira](https://github.com/izabellaalves)   |
+| `1.2`    |20/10/2023 | Adição do figma.            | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)                            | [Izabella Alves Pereira](https://github.com/izabellaalves)   |   
+| `1.3`    |20/10/2023 | Adição do Descrição do Ambiente de Trabalho do Usuário           | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)                            | [Izabella Alves Pereira](https://github.com/izabellaalves)  |   
+| `1.4`    |20/10/2023 | Adição da Termologia           | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|[Izabella Alves Pereira](https://github.com/izabellaalves)   |  
+| `1.5`    |20/10/2023 | Adição da link do figma           | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) e [Lucas Ribeiro de Souza](https://github.com/lucassouzs)                               | [Izabella Alves Pereira](https://github.com/izabellaalves)   |  

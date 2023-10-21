@@ -36,8 +36,49 @@ Nesta avaliação, usaremos o método de investigação, ele pode envolver quest
 
 A técnica de investigação que usaremos será a entrevista. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópi-
 cos, na qual um entrevistador busca obter informação de um entrevistado [1]. Além disso, as perguntas realizadas durante a entrevista serão perguntas fechadas, visto que este tipo de perguntas pode ser analisado mais rapidamente e o entrevistado em questão provavelmente já conhece as prováveis respostas.
+
 ### Aspectos Práticos da Avaliação (I)
 ### Aspectos Éticos (D)
+Nesta pesquisa, seguiremos os príncipios éticos de pesquisas científicas envolvendo pessoas estebelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde [2], Esses princípios incluem o respeito à autonomia dos indivíduos, a busca pelo benefício máximo com o mínimo de danos, a prevenção de danos previsíveis e a promoção da justiça e equidade. Essas diretrizes são especialmente relevantes em pesquisas que envolvem seres humanos, onde é imperativo respeitar a dignidade e a autonomia dos participantes, considerando os aspectos éticos ao longo de todo o processo de pesquisa [2].
+
+Além disso, todos os participantes deverão assinar o nosso Termo de Consetimento Livre e Esclarecido, descrito no nosso documento de [aspectos éticos](#), que modificado exatamente para a avaliação em questão e está descrito abaixo. O objetivo é obter a permissão dos participantes para realizar as atividades necessárias na criação desse artefato, garantindo o respeito por parte dos participantes durante e após a atividade.
+
+<br>
+ 
+<div align="center"><p><strong>TERMO DE CONSENTIMENTO PARA PARTICIPAÇÃO EM PESQUISA</strong></p></div>
+
+
+**Título da Pesquisa:** Avaliação dos Storyboards do Site "Nota Legal"
+
+**Instituição:** Faculdade do Gama - Universidade de Brasília (FGA/UNB)
+
+**Disciplina:** Interação Humano-Computador
+
+Prezado(a) participante,
+
+Você está sendo convidado(a) a participar de uma pesquisa acadêmica conduzida por estudantes da Faculdade do Gama - Universidade de Brasília (FGA/UNB), como parte da disciplina de Interação Humano-Computador. O objetivo desta pesquisa é avaliar os Storyboards do site "Nota Legal".
+
+**Duração:** A pesquisa deve levar em média 10 minutos para ser concluída.
+
+**Riscos e Benefícios:** Não são esperados riscos significativos ao participar desta pesquisa. Os benefícios incluem contribuir para a validação e melhora dos storyboards do site "Nota Legal" e ajudar a melhorar sua usabilidade.
+
+**Confidencialidade:** Suas respostas serão mantidas em estrita confidencialidade. Os dados coletados serão usados apenas para fins acadêmicos e não serão compartilhados com terceiros não autorizados. Seus dados pessoais não serão divulgados em nenhum momento.
+
+**Participação Voluntária:** Sua participação nesta pesquisa é totalmente voluntária. Você tem o direito de recusar-se a participar ou de interromper sua participação a qualquer momento, sem penalizações.
+
+**Contato:**
+Se tiver alguma dúvida ou preocupação sobre esta pesquisa, entre em contato com [integrante da equipe responsável pelo storyboard], responsável pela entrevista, pelo e-mail [email do integrante da equipe].
+
+**Consentimento:** Ao prosseguir com a pesquisa, você está indicando que leu este termo de consentimento, entendeu seus direitos e concorda em participar voluntariamente. Você pode retirar seu consentimento a qualquer momento, sem consequências negativas.
+
+Se você concorda em participar desta pesquisa, clique no botão "Concordo" abaixo.
+
+- [ ] Concordo em participar da pesquisa.
+
+- [ ] Não concordo em participar da pesquisa.
+ 
+Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu apoio é fundamental para o sucesso deste estudo.
+
 ### Estrutura do Relatório da Avaliação (E)
 ## Referências Bibliográficas
 ## Bibliografia

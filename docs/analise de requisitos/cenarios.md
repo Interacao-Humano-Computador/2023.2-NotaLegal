@@ -137,7 +137,7 @@ Maria pegou seu computador e, acessou o site. Ela navegou até aba de "Extrato" 
 
 ### Consultar resultado de sorteio
 
-_Descrição do cenário:_
+_Descrição do cenário:_ <br>
 _Atores: Ana, professora, e Joana, sua aluna de economia._ <br>
 _Ambiente ou contexto: aula de economia sobre o uso do site Nota Legal._ <br>
 _Objetivos: A professora Ana quer ensinar a seus alunos como consultar se eles foram sorteados pelo programa Nota Legal._ <br>

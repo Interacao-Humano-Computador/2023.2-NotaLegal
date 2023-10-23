@@ -30,6 +30,17 @@ Na tabela 1 é possível verificar o membro responsável por cada storyboard.
 ## Storyboards
 
 ### Registrar nova reclamação
+
+A história desse StoryBoard se passa na rotina de Luiz (uma de nossas personas), um consumidor de um restaurante localizado perto de seu local de trabalho, que é o seu escritório _(ambiente)_. Ele é o protagonista desta história (pessoa envolvida). A motivação para o uso da aplicação _(motivação de usar a aplicação/sistema)_ se baseia em resolver um problema que Luiz identificou que suas notas não estavm sendo registradas _(tarefa)_, ou seja, suas notas fiscais de refeições não estavam sendo registradas corretamente no programa Nota Legal, então ele precisou anexar o documento fiscal e colocar algumas informações _(o que é preciso fazer para completar a tarefa)_. Ao final ele consegue registrar a sua reclamação e espera o retorno _(satisfação da pessoa ao completar a tarefa)_.
+
+<div align="center">
+<p>Figura X - Storyboard da tarefa - Registrar Nova Reclamação </p>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard_gabriel_rosa.jpg" style="width: 65%;">
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</font>
+</div>
+
 ### Desbloquear saldo
 ### Consultar estabelecimento
 Na figura X, é possível ver o storyboard da tarefa "Consultar estabelecimento".

@@ -82,3 +82,4 @@ Na Figura X a seguir é apresentado o StoryBoard da tarefa “consultar resultad
 |:----:|----|---------|-----|:-------:|
 |`1.0`|21/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.1`|21/10/2023|Inclusão do storyboard "consultar resultado de sorteio"|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.2`|23/10/2023|Inclusão do storyboard "registrar reclamação"|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Zenilda Vieira](https://github.com/zenildavieira)|

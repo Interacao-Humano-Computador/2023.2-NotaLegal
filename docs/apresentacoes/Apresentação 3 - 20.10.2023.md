@@ -7,9 +7,9 @@ O propósito desta página é hospedar a apresentação da Seguna Entrega em for
 ## Vídeo da Apresentação
 
 <div align="center">
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=dbccyoTxdmU](https://youtu.be/YYIZo0he24s)" target="blanket">Interacao Humano-Computador - Apresentação 3</a></p>
+<p style="text-align: center"><a href="https://youtu.be/YYIZo0he24s" target="blanket">Interacao Humano-Computador - Apresentação 3</a></p>
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/dbccyoTxdmU](https://youtu.be/YYIZo0he24s)" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/YYIZo0he24s" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b> Fonte:</b> Autores, 2023</b></p></font>
 </div>

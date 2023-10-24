@@ -1,13 +1,13 @@
 # 2023.2 Nota Legal
 
 <div align="center">
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/nota-legal-df-2.png" width="300px">
-</div>
-<div align="right">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Logo do Nota Legal.</p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/nota-legal-df-2.png" width="300px">
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://www.notalegal.df.gov.br/">Nota Legal</a>, 2023.</p></font>
 </div>
 
-Figura 1 - Logo do Nota Legal
-  
 
 
 ## Sobre o projeto

@@ -103,7 +103,7 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na ta
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`1.0`|29/09/2023|Criação do documento|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
-|`1.1`|01/10/2023|Adição de metodologia e perguntas|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
-|`1.2`| 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
-|`2.0`| 10/10/2023 | Alterações nos requisitos e na metodologia | [Izabella Alves](https://github.com/izabellaalves) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
+|`1.0`|29/09/2023|Criação do documento|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Victor](https://github.com/Lucas13032003)|
+|`1.1`|01/10/2023|Adição de metodologia e perguntas|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Victor](https://github.com/Lucas13032003)|
+|`1.2`| 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Rosa](https://github.com/gabrielrosa09) |
+|`2.0`| 10/10/2023 | Alterações nos requisitos e na metodologia | [Izabella Alves](https://github.com/izabellaalves) | [Gabriel Rosa](https://github.com/gabrielrosa09) |

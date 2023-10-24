@@ -24,7 +24,7 @@ Neste documento, apresentaremos o resultado da observação guiada de um usuári
 
 ## Metodologia
 
-Nossa observação foi feita com uma usuária do sexo feminimo, 55 anos, nível de escolaridade Superior Completo, de média para baixa afinidade com tecnologia, baixa frequência de uso do sistema Nota Legal, acesso pelo computador e que tem como principal objetivo realizar indicações de concessão de créditos. Durante a observação foram anotadas as funcionalidades utilizadas (como requisitos implementados), o nível de dificuldade que a usuária apresentou em cada uma delas e funcionalidades que a usuária sentiu falta (requisitos não implementados).
+Nossa observação foi feita com uma usuária do sexo feminimo, 55 anos, nível de escolaridade Superior Completo, de média para baixa afinidade com tecnologia, baixa frequência de uso do sistema Nota Legal, acesso pelo computador e que tem como principal objetivo realizar indicações de concessão de créditos. No início da gravação, foi solicitada a permissão de gravação da usuária utilizando o site e durante a observação foram anotadas as funcionalidades utilizadas (como requisitos implementados), o nível de dificuldade que a usuária apresentou em cada uma delas e funcionalidades que a usuária sentiu falta (requisitos não implementados).
 Não foi possível utilizar a função de indicação de concessão de créditos pois ela não estava disponível no momento da gravação (fica disponível somente no início de cada ano). Outro detalhe importante é que o vídeo gravado mostra o usuário já logado e termina antes dele deslogar. Portanto, as observações feitas sobre login e desconexão de login não constam na gravação. Os requisitos elicitados podem ser encontrados na tabela 1.
 
 **RF (Requisitos Funcionais):** são funcionalidades específicas que o sistema deve oferecer em resposta a entradas do usuário.
@@ -50,7 +50,7 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 | O12   | RNF    | Garantir que ao fechar o aplicativo o usuário seja deslogado | Não | -                                            |
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Requisitos elicitados. Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>, 2023.</b></p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Requisitos elicitados. Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</b></p></font>
 
 </div>
 
@@ -66,8 +66,8 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 
 | Versão | Data       | Descrição                          | Autor                                                      | Revisor                                                   |
 | :----: | ---------- | ---------------------------------- | :--------------------------------------------------------: | :-------------------------------------------------------: |
-| `1.0`  | 28/09/2023 | Criação do documento               | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | [Izabella Alves Pereira](https://github.com/izabellaalves)|
-| `1.1`  | 10/10/2023 | Inclusão dos requisitos elicitados | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | [Izabella Alves Pereira](https://github.com/izabellaalves)|
-| `1.2`  | 12/10/2023 | Revisão |  [Izabella Alves Pereira](https://github.com/izabellaalves)| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
-| `1.3`  | 13/10/2023 | Adição do vídeo da observação |  [Lucas Ribeiro](https://github.com/lucassouzs)| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) 
-| `1.4`  | 13/10/2023 | Padronizando a legenda da tabela 1 e fazendo citação no texto |  [Gabriel Zaranza](https://github.com/GZaranza)| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) 
+| `1.0`  | 28/09/2023 | Criação do documento               | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves)|
+| `1.1`  | 10/10/2023 | Inclusão dos requisitos elicitados | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves)|
+| `1.2`  | 12/10/2023 | Revisão |  [Izabella Alves](https://github.com/izabellaalves)| [Zenilda Vieira](https://github.com/zenildavieira) |
+| `1.3`  | 13/10/2023 | Adição do vídeo da observação |  [Lucas Ribeiro](https://github.com/lucassouzs)| [Zenilda Vieira](https://github.com/zenildavieira) 
+| `1.4`  | 13/10/2023 | Padronizando a legenda da tabela 1 e fazendo citação no texto |  [Gabriel Zaranza](https://github.com/GZaranza)| [Zenilda Vieira](https://github.com/zenildavieira) 

@@ -18,4 +18,4 @@ O propósito desta página é hospedar a apresentação da Primeira Entrega em f
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|02/10/2023|Criação do documento|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|02/10/2023|Criação do documento|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

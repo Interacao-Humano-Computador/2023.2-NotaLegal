@@ -24,7 +24,7 @@ Sua participação nesta pesquisa é totalmente voluntária. Você tem o direito
 
 Contato:
 
-Se tiver alguma dúvida ou preocupação sobre esta pesquisa, entre em contato com Gabriel Pessoa Zaranza, responsável pelo questionário, pelo e-mail 190107243@aluno.unb.br .
+Se tiver alguma dúvida ou preocupação sobre esta pesquisa, entre em contato com Gabriel Zaranza, responsável pelo questionário, pelo e-mail 190107243@aluno.unb.br .
 
 Consentimento:
 
@@ -42,6 +42,6 @@ Se você concorda em participar desta pesquisa, clique no botão "Concordo" abai
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 25/09/2023 | Criação do documento                 | [Gabriel Zaranza](https://github.com/GZaranza)  | Todos   |
+| `1.0`  | 25/09/2023 | Criação do documento                 | [Gabriel Zaranza](https://github.com/GZaranza)  | <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>   |
 
 

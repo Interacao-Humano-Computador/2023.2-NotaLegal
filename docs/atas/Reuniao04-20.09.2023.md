@@ -6,12 +6,12 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
-* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)         
-* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
-* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)       
+* [Gabriel Zaranza](https://github.com/GZaranza)         
+* [Izabella Alves](https://github.com/izabellaalves)
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
+* [Lucas Ribeiro](https://github.com/lucassouzs)         
+* [Lucas Victor](https://github.com/Lucas13032003)
+* [Zenilda Vieira](https://github.com/zenildavieira)       
   
 ## Início e término
 
@@ -30,22 +30,22 @@ Reunião realizada no Microsoft Teams.
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Recrutadores |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  e [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|Roteiro|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)                  |
-|Moderador |[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|Documentador |[Gabriel Pessoa Zaranza](https://github.com/GZaranza)      |
+|Recrutadores |[Lucas Victor](https://github.com/Lucas13032003)  e [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|Roteiro|[Lucas Ribeiro](https://github.com/lucassouzs)                  |
+|Moderador |[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|Documentador |[Gabriel Zaranza](https://github.com/GZaranza)      |
 |Cinegrafista |A Definir               |
-|Documento final md |[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  |
+|Documento final md |[Gabriel Rosa](https://github.com/gabrielrosa09)  |
 
 ## Tarefas relacionadas ao Brainstorm - 8 a 12 pessoas
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Recrutadores |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  e [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|            |
-|Moderador |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) |
-|Documentador |[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)         |
+|Recrutadores |[Lucas Victor](https://github.com/Lucas13032003)  e [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|            |
+|Moderador |[Lucas Victor](https://github.com/Lucas13032003) |
+|Documentador |[Zenilda Vieira](https://github.com/zenildavieira)         |
 |Cinegrafista |A Definir               |
-|Documento final md |[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  |
+|Documento final md |[Gabriel Rosa](https://github.com/gabrielrosa09)  |
 
 
 *Tabela 1 - Atividades a serem desenvolvidas.*
@@ -61,5 +61,5 @@ Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidi
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`1.0`|21/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |
-|`1.1`|29/09/2023|Adicão do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)    |[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)  |
+|`1.0`|21/09/2023|Criação do documento|[Lucas Victor](https://github.com/Lucas13032003)    |[Izabella Alves](https://github.com/izabellaalves)  |
+|`1.1`|29/09/2023|Adicão do link da reunião|[Lucas Ribeiro](https://github.com/lucassouzs)    |[Zenilda Vieira](https://github.com/zenildavieira)  |

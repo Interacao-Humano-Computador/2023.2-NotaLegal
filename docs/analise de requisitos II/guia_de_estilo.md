@@ -82,9 +82,9 @@ No que diz respeito às caixas de diálogo, elas devem seguir um padrão definid
 
 | Versão  | Data       | Descrição                                           | Autor(es)                                   | Revisor(es)             |
 | ------- | ---------- | --------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- |
-| `1.0`   | 20/10/2023 | Criação da página guia de estilo.|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)| [Izabella Alves Pereira](https://github.com/izabellaalves)   |
-| `1.1`   | 20/10/2023 | Adição introdução, objetivos, público-alvo, como utilizar, como manter.            | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) e [Lucas Ribeiro de Souza](https://github.com/lucassouzs)                  | [Izabella Alves Pereira](https://github.com/izabellaalves)   |
-| `1.2`    |20/10/2023 | Adição do figma.            | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)                            | [Izabella Alves Pereira](https://github.com/izabellaalves)   |   
-| `1.3`    |20/10/2023 | Adição do Descrição do Ambiente de Trabalho do Usuário           | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)                            | [Izabella Alves Pereira](https://github.com/izabellaalves)  |   
-| `1.4`    |20/10/2023 | Adição da Termologia           | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|[Izabella Alves Pereira](https://github.com/izabellaalves)   |  
-| `1.5`    |20/10/2023 | Adição da link do figma           | [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) e [Lucas Ribeiro de Souza](https://github.com/lucassouzs)                               | [Izabella Alves Pereira](https://github.com/izabellaalves)   |  
+| `1.0`   | 20/10/2023 | Criação da página guia de estilo.|[Lucas Victor](https://github.com/Lucas13032003)| [Izabella Alves](https://github.com/izabellaalves)   |
+| `1.1`   | 20/10/2023 | Adição introdução, objetivos, público-alvo, como utilizar, como manter.            | [Lucas Victor](https://github.com/Lucas13032003) e [Lucas Ribeiro](https://github.com/lucassouzs)                  | [Izabella Alves](https://github.com/izabellaalves)   |
+| `1.2`    |20/10/2023 | Adição do figma.            | [Lucas Victor](https://github.com/Lucas13032003)                            | [Izabella Alves](https://github.com/izabellaalves)   |   
+| `1.3`    |20/10/2023 | Adição do Descrição do Ambiente de Trabalho do Usuário           | [Lucas Victor](https://github.com/Lucas13032003)                            | [Izabella Alves](https://github.com/izabellaalves)  |   
+| `1.4`    |20/10/2023 | Adição da Termologia           | [Lucas Victor](https://github.com/Lucas13032003)|[Izabella Alves](https://github.com/izabellaalves)   |  
+| `1.5`    |20/10/2023 | Adição da link do figma           | [Lucas Victor](https://github.com/Lucas13032003) e [Lucas Ribeiro](https://github.com/lucassouzs)                               | [Izabella Alves](https://github.com/izabellaalves)   |  

@@ -6,19 +6,19 @@ A metodologia do grupo de foco é uma técnica de pesquisa qualitativa que reún
 ## Aplicando a Metodologia do Grupo de Foco
 A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma reunião foi agendada via Teams na quarta-feira, 27/09/2023, das 20:00 às 21:30. 
 
-[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) recrutaram os usuários, enquanto [Lucas Ribeiro de Souza](https://github.com/lucassouzs) preparou o roteiro da entrevista. [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) também atuou como moderador da reunião. A documentação foi realizada por [Gabriel Pessoa Zaranza](https://github.com/GZaranza), e o documento final do grupo de foco foi elaborado por [Gabriel da Silva Rosa](https://github.com/gabrielrosa09). Os usuários do grupo de foco incluíram [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003), [Zenilda Pedrosa Vieira](https://github.com/zenildavieira), Alecsandra Ferreira Araújo Souza e Ana Cristina Ferreira de Araújo. Tudo isso está contido na [Tabela 1 - Participantes do Grupo de Foco](#GrupoDeFoco).
+[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Lucas Victor](https://github.com/Lucas13032003) recrutaram os usuários, enquanto [Lucas Ribeiro](https://github.com/lucassouzs) preparou o roteiro da entrevista. [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) também atuou como moderador da reunião. A documentação foi realizada por [Gabriel Zaranza](https://github.com/GZaranza), e o documento final do grupo de foco foi elaborado por [Gabriel Rosa](https://github.com/gabrielrosa09). Os usuários do grupo de foco incluíram [Lucas Victor](https://github.com/Lucas13032003), [Zenilda Vieira](https://github.com/zenildavieira), Alecsandra Ferreira Araújo Souza e Ana Cristina Ferreira de Araújo. Tudo isso está contido na [Tabela 1 - Participantes do Grupo de Foco](#GrupoDeFoco).
 
 
 
 | Participante                                             | Função       |
 | -------------------------------------------------------- | ------------ |
-| [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)| Recrutador |
-| [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) | Recrutador |
-| [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | Roteirista |
-| [Gabriel Pessoa Zaranza](https://github.com/GZaranza) | Documentador |
-| [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) | Documento Final |
-| [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) | Entrevistado |
-| [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | Entrevistado |
+| [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| Recrutador |
+| [Lucas Victor](https://github.com/Lucas13032003) | Recrutador |
+| [Lucas Ribeiro](https://github.com/lucassouzs) | Roteirista |
+| [Gabriel Zaranza](https://github.com/GZaranza) | Documentador |
+| [Gabriel Rosa](https://github.com/gabrielrosa09) | Documento Final |
+| [Lucas Victor](https://github.com/Lucas13032003) | Entrevistado |
+| [Zenilda Vieira](https://github.com/zenildavieira) | Entrevistado |
 | Alecsandra Ferreira Araújo Souza | Entrevistado |
 | Ana Cristina Ferreira de Araújo | Entrevistado |
 
@@ -116,4 +116,4 @@ A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 28/09/2023 | Inserção do Grupo de Foco                 | [Gabriel Rosa](https://github.com/gabrielrosa09)  | [Gabriel Zaranza](https://github.com/GZaranza)   |
-| `1.1`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
+| `1.1`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Rosa](https://github.com/gabrielrosa09) |

@@ -6,13 +6,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)        
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
-* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)         
-* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
-* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)       
+* [Gabriel Rosa](https://github.com/gabrielrosa09)        
+* [Gabriel Zaranza](https://github.com/GZaranza)         
+* [Izabella Alves](https://github.com/izabellaalves)
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
+* [Lucas Ribeiro](https://github.com/lucassouzs)         
+* [Lucas Victor](https://github.com/Lucas13032003)
+* [Zenilda Vieira](https://github.com/zenildavieira)       
   
 ## Início e término
 
@@ -31,13 +31,13 @@ Reunião realizada no Microsoft Teams.
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Documento planejamento e cronograma detalhado das atividades do projeto|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09) e [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                 |
-|Documento Processo de Design |[Gabriel Pessoa Zaranza](https://github.com/GZaranza), [Izabella Alves Pereira](https://github.com/izabellaalves) e [Lucas Ribeiro de Souza](https://github.com/lucassouzs)                  |
-|Documento equipe e heatmap de disponibilidade dos integrantes|[Izabella Alves Pereira](https://github.com/izabellaalves)                  |
-|Documento ferramentas do projeto|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
-|Documento lista de site avalidados|Todos                 |
-|Documento site escolhido|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)         |
-|Planejamento e cronograma detalhado das atividades do projeto|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                  |
+|Documento planejamento e cronograma detalhado das atividades do projeto|[Gabriel Rosa](https://github.com/gabrielrosa09) e [Zenilda Vieira](https://github.com/zenildavieira)                 |
+|Documento Processo de Design |[Gabriel Zaranza](https://github.com/GZaranza), [Izabella Alves](https://github.com/izabellaalves) e [Lucas Ribeiro](https://github.com/lucassouzs)                  |
+|Documento equipe e heatmap de disponibilidade dos integrantes|[Izabella Alves](https://github.com/izabellaalves)                  |
+|Documento ferramentas do projeto|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
+|Documento lista de site avalidados|<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>                 |
+|Documento site escolhido|[Lucas Victor](https://github.com/Lucas13032003)         |
+|Planejamento e cronograma detalhado das atividades do projeto|[Zenilda Vieira](https://github.com/zenildavieira)                  |
 
 
 *Tabela 1 - Atividades a serem desenvolvidas.*
@@ -53,5 +53,5 @@ Nesta reunião foi definido que o site selecionado para o projeto será o NotaLe
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`1.0`|06/09/2023|Criação do documento|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|
-|`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|06/09/2023|Criação do documento|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

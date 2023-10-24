@@ -34,7 +34,6 @@ A satisfação do usuário é o fator de usabilidade relacionado com uma avalia�
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >
 > [2] Nielsen, J. Usability Engineering. New York, NY: Academic Press, 1993.
-## Bibliografia
 
 ## Histórico de Versões
 

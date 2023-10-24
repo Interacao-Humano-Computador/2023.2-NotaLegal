@@ -6,13 +6,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)        
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
-* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)         
-* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
-* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)          
+* [Gabriel Rosa](https://github.com/gabrielrosa09)        
+* [Gabriel Zaranza](https://github.com/GZaranza)         
+* [Izabella Alves](https://github.com/izabellaalves)
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
+* [Lucas Ribeiro](https://github.com/lucassouzs)         
+* [Lucas Victor](https://github.com/Lucas13032003)
+* [Zenilda Vieira](https://github.com/zenildavieira)          
   
 ## Início e término
 
@@ -29,13 +29,13 @@ Reunião realizada no Microsoft Teams.
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Continuar trabalhando no cronograma|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)                   |
-|Continuar trabalhando no processo de design|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)                  |
-|Continuar trabalhando no processo de design|[Izabella Alves Pereira](https://github.com/izabellaalves)                  |
-|Continuar trabalhando nas ferramentas|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
-|Continuar trabalhando no processo de design|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)                       |
-|Continuar trabalhando no documento de site escolhido|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)         |
-|Continuar trabalhando no cronograma|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                  |
+|Continuar trabalhando no cronograma|[Gabriel Rosa](https://github.com/gabrielrosa09)                   |
+|Continuar trabalhando no processo de design|[Gabriel Zaranza](https://github.com/GZaranza)                  |
+|Continuar trabalhando no processo de design|[Izabella Alves](https://github.com/izabellaalves)                  |
+|Continuar trabalhando nas ferramentas|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
+|Continuar trabalhando no processo de design|[Lucas Ribeiro](https://github.com/lucassouzs)                       |
+|Continuar trabalhando no documento de site escolhido|[Lucas Victor](https://github.com/Lucas13032003)         |
+|Continuar trabalhando no cronograma|[Zenilda Vieira](https://github.com/zenildavieira)                  |
 
 
 *Tabela 1 - Atividades a serem desenvolvidas.*
@@ -52,5 +52,5 @@ Todos os artefatos estão sendo construídos e foram validados pelo grupo na reu
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`1.0`|13/09/2023|Criação do documento|[Izabella Alves Pereira](https://github.com/izabellaalves)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
-|`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|13/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Victor](https://github.com/Lucas13032003)|
+|`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

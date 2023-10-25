@@ -162,10 +162,10 @@ Em uma determinada aula, Ana estava ensinando aos alunos como verificar no site 
 |`1.1`|10/10/2023|Adição do cenário de indicação de créditos|[Lucas Víctor](https://github.com/Lucas13032003)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.2`|10/10/2023|Adição do cenário consultar saldo|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.3`|10/10/2023|Adição do cenário de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
-|`1.4`|10/10/2023|Revisão do cenário consultar saldo, adição da introdução, tabela e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|-|
+|`1.4`|10/10/2023|Revisão do cenário consultar saldo, adição da introdução, tabela e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|- (revisão não precisa de revisor)|
 |`1.5`|11/10/2023|Adição do cenário consultar reclamação|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.6`|11/10/2023|Adição do cenário consultar extrator |[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs) |
 |`1.7`|11/10/2023|Adição do cenário visualizar Recibo Fiscal |[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
-|`1.8`|11/10/2023|Revisão do cenário Visualizar Recibo Fiscal |[Lucas Víctor](https://github.com/Lucas13032003)|-|
+|`1.8`|11/10/2023|Revisão do cenário Visualizar Recibo Fiscal |[Lucas Víctor](https://github.com/Lucas13032003)|- (revisão não precisa de revisor)|
 |`1.9`|12/10/2023|Adição do cenário consultar resultado de sorteio |[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|`1.10`|13/10/2023|Revisão do cenário de indicação de créditos |[Izabella Alves](https://github.com/izabellaalves)|-|
+|`1.10`|13/10/2023|Revisão do cenário de indicação de créditos |[Izabella Alves](https://github.com/izabellaalves)|- (revisão não precisa de revisor)|

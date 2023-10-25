@@ -18,6 +18,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ## Personas
 
+As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exist.com](https://this-person-does-not-exist.com/pt) [2].
+
 ### Persona Primária 1: Luiz Oliveira (Economista)
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif?raw=true" width="150px">
@@ -90,11 +92,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 > [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 >
-
-## Bibliografia
-
-> This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
->
+> [2] This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
+> 
 
 ## Histórico de Versões
 
@@ -107,3 +106,4 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 | `1.4`  | 09/10/2023 | Atualização de personas             | [Lucas Víctor](https://github.com/Lucas13032003)                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | `1.5`  | 13/10/2023 | Correções                           | [Lucas Víctor](https://github.com/Lucas13032003)                         | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
 | `1.6`  | 17/10/2023 | Adicionando sobrenomes              | [Izabella Alves](https://github.com/izabellaalves)                       | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
+| `1.7`  | 25/10/2023 | Correção de referência bibliográfica       | [Zenilda Vieira ](https://github.com/zenildavieira) | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |

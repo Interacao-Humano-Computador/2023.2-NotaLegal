@@ -52,3 +52,4 @@ Se você concorda em participar desta pesquisa, clique no botão "Concordo" abai
 | Versão | Data       | Descrição            | Autor(es)                                      | Revisor(es)                                        |
 | ------ | ---------- | -------------------- | ---------------------------------------------- | -------------------------------------------------- |
 | `1.0`  | 25/09/2023 | Criação do documento | [Gabriel Zaranza](https://github.com/GZaranza) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.1`  | 25/10/2023 | Inclusão da bibliografia | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |

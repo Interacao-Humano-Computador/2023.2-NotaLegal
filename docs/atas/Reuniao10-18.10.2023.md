@@ -14,10 +14,10 @@ Reunião realizada no Microsoft Teams.
 
 ## Início e término
 
-Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
+Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o horário que foi efetivamente realizado.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Horários</p></font>
 
 <table>
   <thead>
@@ -55,17 +55,38 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividade a ser desenvolvida. Fonte:</b> </font>
-</div>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Atividades a serem desenvolvidas</p></font>
 
-| Atividades       | Responsável   |
-| ---------------- | ------------- |
-|Atualizar a metodologia dos cenários|[Lucas Victor](https://github.com/Lucas13032003)|
-|Conferir se os cenários possuem os elementos básicos de um cenário|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|Detalhar mais as personas de acordo com o critério do professor e justificar a quantidade de personas|[Lucas Victor](https://github.com/Lucas13032003), [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+<table>
+    <thead>
+        <tr>
+            <th>Atividades</th>
+            <th>Responsável</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Atualizar a metodologia dos cenários</td>
+            <td>
+                <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Conferir se os cenários possuem os elementos básicos de um cenário</td>
+            <td>
+                <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Detalhar mais as personas de acordo com o critério do professor e justificar a quantidade de personas</td>
+            <td>
+                <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<div align="center">
-<font size="3">Fonte:</b> [Lucas Ribeiro](https://github.com/lucassouzs).</b></p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ## Conclusão
@@ -74,7 +95,7 @@ Foram distribuidas as atividades para cada integrante do grupo.
 
 ## Link da Gravação
 
-[Requisitos - Reunião 10](https://www.youtube.com/watch?v=sGUjagrCR9w&feature=youtu.be)
+[IHC - Reunião 10](https://www.youtube.com/watch?v=sGUjagrCR9w&feature=youtu.be)
 
 ## Histórico de Versão
 

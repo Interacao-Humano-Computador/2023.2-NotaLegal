@@ -16,7 +16,7 @@ Reunião realizada no Microsoft Teams.
   
 ## Início e término
 
-Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
+Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o horário que foi efetivamente realizado.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Horários</p></font>
@@ -54,50 +54,113 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 ## Tarefas relacionadas ao Grupo de foco - 3 a 10 pessoas
 
-Na tabela 2 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
+Na tabela 2 consta as tarefas relacionadas ao Grupo de foco.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tarefas relacionadas ao Grupo de foco</p></font>
-</div>
 
-| Tarefa             |                                                          Responsável                                                           |
-| ------------------ | :----------------------------------------------------------------------------------------------------------------------------: |
-| Recrutadores       | [Lucas Victor](https://github.com/Lucas13032003) <br> [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-| Roteiro            |                                         [Lucas Ribeiro](https://github.com/lucassouzs)                                         |
-| Moderador          |                            [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                            |
-| Documentador       |                                         [Gabriel Zaranza](https://github.com/GZaranza)                                         |
-| Cinegrafista       |                                                           A Definir                                                            |
-| Documento final md |                                        [Gabriel Rosa](https://github.com/gabrielrosa09)                                        |
+<table>
+    <thead>
+        <tr>
+            <th>Tarefa</th>
+            <th>Responsável</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Recrutadores</td>
+            <td>
+                <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+                <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Roteiro</td>
+            <td>
+                <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Moderador</td>
+            <td>
+                <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Documentador</td>
+            <td>
+                <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Cinegrafista</td>
+            <td>A definir - pode ser feito no teams?</td>
+        </tr>
+        <tr>
+            <td>Documento final md</td>
+            <td>
+                <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-## Tarefas relacionadas ao Brainstorm - 8 a 12 pessoas
+## Tarefas relacionadas ao Brainstorming - 8 a 12 pessoas
 
-Na tabela 3 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Horários</p></font>
-</div>
-
-| Tarefa             |                                                           Responsável                                                           |
-| ------------------ | :-----------------------------------------------------------------------------------------------------------------------------: |
-| Recrutadores       | [Lucas Victor](https://github.com/Lucas13032003)  <br> [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |  |
-| Moderador          |                                        [Lucas Victor](https://github.com/Lucas13032003)                                         |
-| Documentador       |                                       [Zenilda Vieira](https://github.com/zenildavieira)                                        |
-| Cinegrafista       |                                                            A Definir                                                            |
-| Documento final md |                                        [Gabriel Rosa](https://github.com/gabrielrosa09)                                         |
+Na tabela 3 consta as tarefas relacionadas ao Brainstorming.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Tarefas relacionadas ao Brainstorming</p></font>
+
+<table>
+    <thead>
+        <tr>
+            <th>Tarefa</th>
+            <th>Responsável</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Recrutadores</td>
+            <td>
+                <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+                <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Moderador</td>
+            <td>
+                <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Documentador</td>
+            <td>
+                <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Cinegrafista</td>
+            <td>A definir - pode ser feito no teams?</td>
+        </tr>
+        <tr>
+            <td>Documento final md</td>
+            <td>
+                <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
-
-
-*Tabela 1 - Atividades a serem desenvolvidas.*
 
 ## Conclusão
-Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidido os métodos de elicitação. Além da definição do dia da gravção da entrega 1 que será realizada dia 22/09/2023.
+
+Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidido os métodos de elicitação. Além da definição do dia da gravação da entrega 1 que será realizada dia 22/09/2023.
 
 ## Link da Gravação
 

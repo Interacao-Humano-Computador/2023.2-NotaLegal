@@ -15,7 +15,7 @@ Reunião realizada no Microsoft Teams.
   
 ## Início e término
 
-Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
+Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o horário que foi efetivamente realizado.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Horários</p></font>

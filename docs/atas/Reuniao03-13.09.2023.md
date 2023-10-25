@@ -16,7 +16,7 @@ Reunião realizada no Microsoft Teams.
   
 ## Início e término
 
-Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
+Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o horário que foi efetivamente realizado.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Horários</p></font>
@@ -56,38 +56,42 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Atividades a serem desenvolvidas</p></font>
 
 <table>
-    <tr>
-        <th>Tarefa</th>
-        <th>Responsável</th>
-    </tr>
-    <tr>
-        <td>Continuar trabalhando no cronograma</td>
-        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-    <tr>
-        <td>Continuar trabalhando no processo de design</td>
-        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-    </tr>
-    <tr>
-        <td>Continuar trabalhando no processo de design</td>
-        <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-        <td>Continuar trabalhando nas ferramentas</td>
-        <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a></td>
-    </tr>
-    <tr>
-        <td>Continuar trabalhando no processo de design</td>
-        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-    </tr>
-    <tr>
-        <td>Continuar trabalhando no documento de site escolhido</td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td>Continuar trabalhando no cronograma</td>
-        <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Tarefa</th>
+            <th>Responsável</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Continuar trabalhando no cronograma</td>
+            <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+        </tr>
+        <tr>
+            <td>Continuar trabalhando no processo de design</td>
+            <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+        </tr>
+        <tr>
+            <td>Continuar trabalhando no processo de design</td>
+            <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+        </tr>
+        <tr>
+            <td>Continuar trabalhando nas ferramentas</td>
+            <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a></td>
+        </tr>
+        <tr>
+            <td>Continuar trabalhando no processo de design</td>
+            <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>Continuar trabalhando no documento de site escolhido</td>
+            <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        </tr>
+        <tr>
+            <td>Continuar trabalhando no cronograma</td>
+            <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+        </tr>
+    </tbody>
 </table>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>

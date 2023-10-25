@@ -17,17 +17,34 @@ Mesma reunião para IHC e RQS.
 
 ## Início e término
 
-Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
-
-|               | Hora de Início   | Hora de Término   |
-| ------------- | :--------------: | :---------------: |
-| Previsto      |      20:00       |      20:45        |
-| Realizado     |      19:00       |      20:30        |
+Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o horário que foi efetivamente realizado.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Horários</p></font>
 
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Hora de Início</th>
+            <th>Hora de Término</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Previsto</td>
+            <td>20:00</td>
+            <td>21:30</td>
+        </tr>
+        <tr>
+            <td>Realizado</td>
+            <td>19:00</td>
+            <td>20:30</td>
+        </tr>
+    </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font></div>
 </div>
 
 ## Pauta
@@ -36,16 +53,15 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 * Definir novas issues;
 
 ## Atividades
+
 Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
-
-![Atividades da reunião 8](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/b02e9cc1a7d89e4576c89c0fb2b2e01bb06df516/docs/imagens/atividadesreuniao9.jpeg)
-
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Atividades a serem desenvolvidas</p></font>
 
-<font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas.</b></p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></p></font>
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/atividadesreuniao9.jpeg?raw=true">
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Conclusão

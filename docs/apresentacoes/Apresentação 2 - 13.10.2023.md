@@ -7,7 +7,7 @@ O propósito desta página é hospedar a apresentação da Segunda Entrega em fo
 ## Vídeo da Apresentação
 
 <div align="center">
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=dbccyoTxdmU" target="blanket">Interacao Humano-Computador - Apresentação 2</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=dbccyoTxdmU" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Apresentação 2</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dbccyoTxdmU" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

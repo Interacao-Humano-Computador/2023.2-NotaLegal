@@ -34,7 +34,7 @@ A Tabela 1 resume as etapas do DECIDE e seu significado.
 
 </div>
 
-<font size="3"><p style="text-align: center">Tabela 1: Significado da sigla DECIDE.</font>
+<font size="3"><p style="text-align: center">Tabela 1: Significado da sigla DECIDE</p></font>
 
 | Letra | Significado | 
 | ----- | ----------------------------------------------------------- | 
@@ -48,7 +48,7 @@ A Tabela 1 resume as etapas do DECIDE e seu significado.
 
 <div align="center">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 
 </div>
 
@@ -92,7 +92,7 @@ A Tabela 2 apresenta as perguntas que serão formuladas durante a avaliação pa
 | 16°  | Você já usou o site em um dispositivo móvel? | Fechada | Sim</br>Não |
 | 17°  | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Discursiva |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 
 ### C - Escolher os métodos
 
@@ -116,7 +116,7 @@ A Tabela 3 abaixo apresenta um modelo para o registro das entrevistas:
 | :--------: | :--------: | :---------------------: | -------- | --------------- | ---------------- |
 | Ordem da Entrevista | Data da Entrevista | Duração da Entrevista | Local da Entrevista (Plataforma) | Nome do(s) Entrevistador(es) | Nome do Entrevistado |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 
 As entrevistas serão conduzidas com um número de participantes que varia entre cinco e doze, conforme recomendado por Dumas e Redish [2]. Os participantes serão contatados e as entrevistas serão agendadas conforme a disponibilidade dos mesmos.
 
@@ -132,7 +132,7 @@ Os 5 participantes selecionados responderam afirmativamente à pergunta sobre a 
 |     4°     | 23/10/2023 | 19:00 - 19:15 | Plataforma Microsoft Teams (Online) | <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>  | --- |
 |     5°     | 23/10/2023 | 19:20 - 19:35 | Plataforma Microsoft Teams (Online) | <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>  | --- |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 
 As entrevistas serão realizadas remotamente, utilizando ferramentas de videoconferência. O consentimento informado dos participantes será obtido antes do início das entrevistas.
 
@@ -162,7 +162,7 @@ Os resultados da avaliação serão apresentados em um relatório que incluirá 
 | :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |
 |      1     | 23/10/2023 | 18:00 - 18:15 | Plataforma Microsoft Teams (Online) | <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a> | --- |
  
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 
 </div>
 

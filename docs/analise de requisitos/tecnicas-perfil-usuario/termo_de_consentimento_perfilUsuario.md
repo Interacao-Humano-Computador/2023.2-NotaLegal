@@ -38,10 +38,17 @@ Se você concorda em participar desta pesquisa, clique no botão "Concordo" abai
 
 [ ] Não Concordo
 
+## Bibliografia
+
+> Aspectos Éticos Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/#referencias-bibliograficas>>. Acesso em: 23/09/2023.
+>
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+>
+> BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 23/09/2023.
+>
+
 ## Histórico de versão
 
-| Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
-| ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 25/09/2023 | Criação do documento                 | [Gabriel Zaranza](https://github.com/GZaranza)  | <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>   |
-
-
+| Versão | Data       | Descrição            | Autor(es)                                      | Revisor(es)                                        |
+| ------ | ---------- | -------------------- | ---------------------------------------------- | -------------------------------------------------- |
+| `1.0`  | 25/09/2023 | Criação do documento | [Gabriel Zaranza](https://github.com/GZaranza) | [Izabella Alves](https://github.com/izabellaalves) |

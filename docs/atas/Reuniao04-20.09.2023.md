@@ -6,19 +6,45 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel Zaranza](https://github.com/GZaranza)         
+
+* [Gabriel Zaranza](https://github.com/GZaranza)
 * [Izabella Alves](https://github.com/izabellaalves)
-* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
-* [Lucas Ribeiro](https://github.com/lucassouzs)         
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
+* [Lucas Ribeiro](https://github.com/lucassouzs)
 * [Lucas Victor](https://github.com/Lucas13032003)
-* [Zenilda Vieira](https://github.com/zenildavieira)       
+* [Zenilda Vieira](https://github.com/zenildavieira)
   
 ## Início e término
 
-|	             |Hora de Início  |Hora de Término  |
-|--------------|:--------------:|:---------------:|
-|Previsto:     |     20:00     |      20:45      |
-|Realizado:    |     20:12      |     21:20   |
+Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Horários</p></font>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Hora de Início</th>
+            <th>Hora de Término</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Previsto</td>
+            <td>20:00</td>
+            <td>20:45</td>
+        </tr>
+        <tr>
+            <td>Realizado</td>
+            <td>20:12</td>
+            <td>21:20</td>
+        </tr>
+    </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
 
 ## Pauta
 
@@ -26,26 +52,46 @@ Reunião realizada no Microsoft Teams.
 * Definição de Issue
 * Definição dos método de elicitação  
 
-## Tarefas relacionadas ao Grupo de foco - 3 a 10 pessoas:
+## Tarefas relacionadas ao Grupo de foco - 3 a 10 pessoas
 
-|Tarefa                                          |Responsável                    |
-|------------------------------------------------|:-----------------------------:|
-|Recrutadores |[Lucas Victor](https://github.com/Lucas13032003)  e [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|Roteiro|[Lucas Ribeiro](https://github.com/lucassouzs)                  |
-|Moderador |[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|Documentador |[Gabriel Zaranza](https://github.com/GZaranza)      |
-|Cinegrafista |A Definir               |
-|Documento final md |[Gabriel Rosa](https://github.com/gabrielrosa09)  |
+Na tabela 2 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tarefas relacionadas ao Grupo de foco</p></font>
+</div>
+
+| Tarefa             |                                                          Responsável                                                           |
+| ------------------ | :----------------------------------------------------------------------------------------------------------------------------: |
+| Recrutadores       | [Lucas Victor](https://github.com/Lucas13032003) <br> [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| Roteiro            |                                         [Lucas Ribeiro](https://github.com/lucassouzs)                                         |
+| Moderador          |                            [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                            |
+| Documentador       |                                         [Gabriel Zaranza](https://github.com/GZaranza)                                         |
+| Cinegrafista       |                                                           A Definir                                                            |
+| Documento final md |                                        [Gabriel Rosa](https://github.com/gabrielrosa09)                                        |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
 
 ## Tarefas relacionadas ao Brainstorm - 8 a 12 pessoas
 
-|Tarefa                                          |Responsável                    |
-|------------------------------------------------|:-----------------------------:|
-|Recrutadores |[Lucas Victor](https://github.com/Lucas13032003)  e [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|            |
-|Moderador |[Lucas Victor](https://github.com/Lucas13032003) |
-|Documentador |[Zenilda Vieira](https://github.com/zenildavieira)         |
-|Cinegrafista |A Definir               |
-|Documento final md |[Gabriel Rosa](https://github.com/gabrielrosa09)  |
+Na tabela 3 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Horários</p></font>
+</div>
+
+| Tarefa             |                                                           Responsável                                                           |
+| ------------------ | :-----------------------------------------------------------------------------------------------------------------------------: |
+| Recrutadores       | [Lucas Victor](https://github.com/Lucas13032003)  <br> [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |  |
+| Moderador          |                                        [Lucas Victor](https://github.com/Lucas13032003)                                         |
+| Documentador       |                                       [Zenilda Vieira](https://github.com/zenildavieira)                                        |
+| Cinegrafista       |                                                            A Definir                                                            |
+| Documento final md |                                        [Gabriel Rosa](https://github.com/gabrielrosa09)                                         |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
 
 
 *Tabela 1 - Atividades a serem desenvolvidas.*
@@ -59,7 +105,7 @@ Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidi
 
 ## Histórico de Versão
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|:-----:|:-------:|
-|`1.0`|21/09/2023|Criação do documento|[Lucas Victor](https://github.com/Lucas13032003)    |[Izabella Alves](https://github.com/izabellaalves)  |
-|`1.1`|29/09/2023|Adicão do link da reunião|[Lucas Ribeiro](https://github.com/lucassouzs)    |[Zenilda Vieira](https://github.com/zenildavieira)  |
+| Versão | Data       | Descrição                 |                      Autor                       |                      Revisor                       |
+| :----: | ---------- | ------------------------- | :----------------------------------------------: | :------------------------------------------------: |
+| `1.0`  | 21/09/2023 | Criação do documento      | [Lucas Victor](https://github.com/Lucas13032003) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.1`  | 29/09/2023 | Adicão do link da reunião |  [Lucas Ribeiro](https://github.com/lucassouzs)  | [Zenilda Vieira](https://github.com/zenildavieira) |

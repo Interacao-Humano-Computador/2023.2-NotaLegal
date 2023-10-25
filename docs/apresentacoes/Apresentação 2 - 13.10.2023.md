@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O propósito desta página é hospedar a apresentação da Seguna Entrega em formato de vídeo. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link correspondente para acessá-lo.
+O propósito desta página é hospedar a apresentação da Segunda Entrega em formato de vídeo. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link correspondente para acessá-lo.
 
 ## Vídeo da Apresentação
 
@@ -11,7 +11,7 @@ O propósito desta página é hospedar a apresentação da Seguna Entrega em for
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dbccyoTxdmU" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Fonte: Autores.</p>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ## Histórico de Versão

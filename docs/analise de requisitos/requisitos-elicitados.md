@@ -1,31 +1,57 @@
 # Requisitos Elicitados
 
 ## Introdução
-O site "Nota Legal" é um sistema que visa oferecer aos cidadãos uma plataforma conveniente e informativa para lidar com questões relacionadas à economia local e à gestão de seus créditos acumulados por meio do programa "Nota Legal". Para garantir que o site atenda às necessidades e expectativas dos usuários, foram definidos uma série de requisitos funcionais (RF) e requisitos não funcionais (RNF) durante o processo de elicitação de requisitos. Esses requisitos desempenham um papel fundamental na definição do escopo e na orientação do desenvolvimento do site. Os requisitos elicitados vieram das técnidas de elicitação: [Introspecção](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/instrospeccao/), [Brainstorming](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/brainstorming/) e [Observação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/observacao/), e foram reunidos na tabela 2.
+
+O site "Nota Legal" é um sistema que visa oferecer aos cidadãos uma plataforma conveniente e informativa para lidar com questões relacionadas à economia local e à gestão de seus créditos acumulados por meio do programa "Nota Legal". Para garantir que o site atenda às necessidades e expectativas dos usuários, foram definidos uma série de requisitos funcionais (RF) e requisitos não funcionais (RNF) durante o processo de elicitação de requisitos. Esses requisitos desempenham um papel fundamental na definição do escopo e na orientação do desenvolvimento do site. Os requisitos elicitados vieram das técnidas de elicitação: [Introspecção](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/instrospeccao.md), [Brainstorming](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/brainstorming.md) e [Observação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/observacao.md), e foram reunidos na tabela 2.
 
 ## Metodologia
-A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em uma tabela estruturada (Tabela 2). Nesta tabela, cada requisito é identificado por um ID exclusivo, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como a [Introspecção](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/instrospeccao/), [Brainstorming](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/brainstorming/) e [Observação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/observacao/).
+
+A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em uma tabela estruturada (Tabela 2). Nesta tabela, cada requisito é identificado por um ID exclusivo, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como a [Introspecção](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/instrospeccao.md), [Brainstorming](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/brainstorming.md) e [Observação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/observacao.md).
 
 Essa abordagem de registro em tabela oferece uma visão organizada e estruturada dos requisitos do projeto, permitindo uma fácil referência e acompanhamento ao longo do ciclo de desenvolvimento. Ela promove a rastreabilidade, o que significa que é possível rastrear a origem de cada requisito, garantindo que todas as necessidades dos stakeholders sejam devidamente consideradas e atendidas no projeto. A legenda para cada sigla esta disponível na tabela 1.
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda para a tabela 2 de requisitos do Nota Legal</p></font>
 
+<table>
+    <thead>
+        <tr>
+            <th>Tipo</th>
+            <th>Descrição</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>RF</td>
+            <td>Requisito Funcional</td>
+        </tr>
+        <tr>
+            <td>RNF</td>
+            <td>Requisito Não-Funcional</td>
+        </tr>
+        <tr>
+            <td>IS</td>
+            <td>Requisito elicitado pela Introspecção</td>
+        </tr>
+        <tr>
+            <td>BS</td>
+            <td>Requisito elicitado pelo Brainstorming</td>
+        </tr>
+        <tr>
+            <td>O</td>
+            <td>Requisito elicitado pelo Observação</td>
+        </tr>
+    </tbody>
+</table>
 
-| Tipo | Descrição                           |
-|------|-------------------------------------|
-| RF   | Requisito Funcional                 |
-| RNF  | Requisito Não-Funcional             |
-| IS   | Requisito elicitado pela Introspecção |
-| BS   | Requisito elicitado pelo Brainstorming |
-| O   | Requisito elicitado pelo Observação |
-
-<div align=center>
-
-<div align=center><p><b>Tabela 1:</b> Legenda para a tabela 2 de requisitos do Nota Legal. Fonte:</b><a href="https://github.com/gabrielrosa09"> Gabriel Rosa</a>, 2023.</p></div>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
-
 <br>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados do site Nota Legal</p></font>
+</div>
 
 
 | ID   | Código | Descrição                                                                                      | Implementado | Rastreabilidade |
@@ -60,9 +86,9 @@ Essa abordagem de registro em tabela oferece uma visão organizada e estruturada
 | INT28| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo | Sim | BS, O |
 |INT29| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel | Sim | BS, O |
 |INT30| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa | Sim | BS, O  |
-<div align=center>
-<div align=center><p><b>Tabela 2:</b> Requisitos elicitados do site Nota Legal. Fonte:</b><a href="https://github.com/gabrielrosa09"> Gabriel Rosa</a> e <a href="https://github.com/izabellaalves"> Izabella Alves</a>, 2023.</p></div>
 
+<div align=center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/izabellaalves"> Izabella Alves</a>, 2023</p></font>
 </div>
 
 ## Bibliografia
@@ -70,6 +96,7 @@ Essa abordagem de registro em tabela oferece uma visão organizada e estruturada
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 30/09/2023.
 >
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+>
 
 ## Histórico de Versões
 
@@ -78,4 +105,3 @@ Essa abordagem de registro em tabela oferece uma visão organizada e estruturada
 |`1.0`|29/09/2023|Criação do documento e adição de tabela|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.1`|29/09/2023|Adição da introdução, metodologia e inserindo rastreabilidade da tabela|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |`2.0`|10/10/2023|Adaptação do documento pro site Nota Legal|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
-

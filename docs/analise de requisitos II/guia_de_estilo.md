@@ -2,10 +2,9 @@
 
 ## Introdução
 
-Segundo a análise de Barbosa e Silva (2011, p.282)<a id="anchor_1" href="#REF1">^1^</a>, o guia de estilo é definido como um registro das principais decisões de design, cujo propósito é preservá-las integralmente na versão final do produto. Além disso, esse guia desempenha um papel essencial como ferramenta de comunicação entre os membros da equipe e outras partes interessadas. Portanto, é de extrema importância que essas decisões possam ser facilmente consultadas e discutidas, tanto para planejamento futuro quanto para atualizações.
+Segundo a análise de Barbosa e Silva (2011, p.282) [1], o guia de estilo é definido como um registro das principais decisões de design, cujo propósito é preservá-las integralmente na versão final do produto. Além disso, esse guia desempenha um papel essencial como ferramenta de comunicação entre os membros da equipe e outras partes interessadas. Portanto, é de extrema importância que essas decisões possam ser facilmente consultadas e discutidas, tanto para planejamento futuro quanto para atualizações.
 
-Com o intuito de alcançar esses objetivos, é preciso contar com um guia de estilo que oriente a criação de interfaces que satisfaçam plenamente as necessidades e expectativas dos usuários, enquanto garantem a consistência visual e de interação em todo o sistema. Durante a elaboração deste documento, foram consideradas as [Metas de Usabilidade](#) e os [Princípios Gerais](#/), ambos documentos que destacam áreas onde o site pode ser aprimorado por meio das diretrizes apresentadas neste guia de estilo.
-
+Com o intuito de alcançar esses objetivos, é preciso contar com um guia de estilo que oriente a criação de interfaces que satisfaçam plenamente as necessidades e expectativas dos usuários, enquanto garantem a consistência visual e de interação em todo o sistema. Durante a elaboração deste documento, foram consideradas as [Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md) e os [Princípios Gerais](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md), ambos documentos que destacam áreas onde o site pode ser aprimorado por meio das diretrizes apresentadas neste guia de estilo.
 
 ### Objetivo do Guia de Estilo
 
@@ -24,7 +23,6 @@ Este guia de estilo foi meticulosamente desenvolvido para atender às necessidad
 Este guia de estilo tem como objetivo servir como um ponto de referência essencial para orientardecisões de design ao longo de todo o ciclo de vida do projeto de Interação Humano-Computador, 
 abrangendo tanto a fase de produção quanto a fase de manutenção. As diretrizes e melhores práticas contidas neste guia são de suma importância para direcionar as decisões de design, garantindo que ainterface do usuário resultante seja ajustada às necessidades dos usuários finais. Assim, busca-se promover uma interação eficaz e satisfatória com o sistema.
 
-
 ### Como Manter o Guia
 
 É importante que o Guia de Estilo esteja sempre atualizado, de acordo com as decisões tomadas pela equipe de design, que modificarão o projeto. Essa constância garante a padronização no projeto, assegurando que todas as alterações estejam alinhadas com os princípios estabelecidos. Manter o Guia de Estilo atualizado não apenas preserva a coesão visual e funcional, mas também assegura uma experiência de usuário consistente e de alta qualidade em todas as interações, fortalecendo assim a identidade do projeto e a confiança dos usuários.
@@ -37,25 +35,25 @@ O site Nota Legal é acessado tanto por computadores (desktops ou notebooks) qua
 
 <div align="center">
   
-<font size="3"><p style="text-align: center">Figura 1 - Página Home </font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</br>  Página Home </font>
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Captura%20de%20tela%20de%202023-10-20%2017-43-27.png?raw=true" style="width: 75%;height=auto;">
-<br>
-<font size="3">Fonte: <a href="https://github.com/Lucas13032003">Lucas Victor</a>, 2023.</p></font>
+
+<font size="3"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Victor</a>, 2023</p></font>
 
 </div>
 
 <div align="center">
 
-## Elementos de Interface, Interação e Ação 
+## Elementos de Interface, Interação e Ação
 
 Os elementos de interface, interação e ação estão disponíveis no projeto, o qual pode ser acessado através do site Figma, conforme a figura 2 abaixo:
 
-<font size="3"><p style="text-align: center">Figura 2 - Figma do Guia de Estilo</font>
+<font size="3"><p style="text-align: center"><b>Figura 2:</br>Figma do Guia de Estilo</font>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fe0jy4MMu1eMkm416vFHsBJ%2FGuia-de-Estilo---Nota-Legal%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DfPV6twxSZONjR758-1" allowfullscreen></iframe>
 
-<font size="3">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/Lucas13032003">Lucas Victor</a>, 2023.</p></font>
+<font size="3"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/Lucas13032003">Lucas Victor</a>, 2023</p></font>
 
 </div>
 
@@ -71,13 +69,15 @@ No que diz respeito às caixas de diálogo, elas devem seguir um padrão definid
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Bibliográfia
 
-> <a id="REF1" href="#anchor_1">1.</a> Repositório do Grupo 2 do desenvolvimento do projeto Lichess, disponível em: <https://github.com/Interacao-Humano-Computador/2022.2-Lichess>
+> Repositório do Grupo 2 do desenvolvimento do projeto Lichess, disponível em: <https://github.com/Interacao-Humano-Computador/2022.2-Lichess>
+>
+> Repositório do Grupo 1 do desenvolvimento do projeto Bilheteria Digital, disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital>
+>
 
-> <a id="REF1" href="#anchor_1">2.</a>  Repositório do Grupo 1 do desenvolvimento do projeto Bilheteria Digital, disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital>
 ## Histórico de Versões
 
 | Versão  | Data       | Descrição                                           | Autor(es)                                   | Revisor(es)             |

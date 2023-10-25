@@ -88,7 +88,7 @@ Na tabela 1 encontram-se as datas de entrega e apresentação de todas as etapas
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Entrega 1 - Planejamento do Projeto - Data de Entrega: 02/out/2023
@@ -250,7 +250,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Entrega 2 - Perfil do usuário - Data de Entrega: 16/out/2023
@@ -495,7 +495,7 @@ Na tabela 3 encontram-se as datas do cronograma planejado para a etapa de Perfil
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Entrega 3 - Princípios Gerais de Projeto - Data de Entrega: 23/out/2023
@@ -622,7 +622,7 @@ Na tabela 4 encontram-se as datas do cronograma planejado para a etapa de Princ�
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Entrega 4 - Planejamento da Avaliação do Storyboard e Análise de tarefas - Data de Entrega: 30/out/2023
@@ -791,7 +791,7 @@ Na tabela 5 encontram-se as datas do cronograma planejado para a etapa de Planej
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Entrega 5 - Relato dos resultados do Story Board e da Análise de tarefas - Data de Entrega: 08/nov/2023
@@ -924,7 +924,7 @@ Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Relato
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 
@@ -1017,7 +1017,7 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Verifi
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 
@@ -1140,7 +1140,7 @@ Na tabela 8 encontram-se as datas do cronograma planejado para a etapa de Relato
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Entrega 8 -  Relato dos resultados da avaliação do protótipo de alta fidelidade - Data de Entrega: 27/nov/2023
@@ -1148,7 +1148,7 @@ Na tabela 8 encontram-se as datas do cronograma planejado para a etapa de Relato
 Na tabela 9 encontram-se as datas do cronograma planejado para a etapa de Relato dos resultados da avaliação do protótipo de alta fidelidade.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Cronograma planejado para a etapa de Relato dos resultados da avaliação do protótipo de alta fidelidade.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Cronograma planejado para a etapa de Relato dos resultados da avaliação do protótipo de alta fidelidade</p></font>
 
 <table>
   <thead>
@@ -1192,7 +1192,7 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a etapa de Relato
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 
@@ -1277,7 +1277,7 @@ Na tabela 10 encontram-se as datas do cronograma planejado para a etapa de Verif
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 
@@ -1362,7 +1362,7 @@ Na tabela 11 encontram-se as datas do cronograma planejado para a Entrega Final.
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Bibliografia

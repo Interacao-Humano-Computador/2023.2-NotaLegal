@@ -1,9 +1,13 @@
 # Aspectos Éticos de Pesquisas Envolvendo Pessoas
+
 ## Introdução
+
 A ética é um pilar fundamental em diversas profissões, regulando e norteando o exercício responsável e consciente das atividades que influenciam diretamente a vida e os direitos das pessoas. Este documento apresenta o Termo de Consentimento Livre e Esclarecido do Grupo 1 da disciplina de Interação Humano-Computador de 2023.2 e explora os quatro princípios essenciais da ética em pesquisas envolvendo pessoas.
 
 No Brasil, a Resolução nº 466/2012 do Conselho Nacional de Saúde [1] rege as pesquisas científicas envolvendo pessoas, estabelecendo princípios essenciais que devem ser seguidos. Esses princípios incluem o respeito à autonomia dos indivíduos, a busca pelo benefício máximo com o mínimo de danos, a prevenção de danos previsíveis e a promoção da justiça e equidade. Essas diretrizes são especialmente relevantes em pesquisas que envolvem seres humanos, onde é imperativo respeitar a dignidade e a autonomia dos participantes, considerando os aspectos éticos ao longo de todo o processo de pesquisa [1].
+
 ## Princípios Éticos Fundamentais
+
 - Princípio da Autonomia: Refere-se ao consentimento livre e esclarecido dos indivíduos e à proteção dos grupos vulneráveis e legalmente incapazes, como menores de idade, alunos ou subordinados. Este princípio demanda que a pesquisa trate os participantes com dignidade, respeite sua autonomia e os defenda em sua vulnerabilidade.
 
 - Princípio da Beneficência: Envolve a avaliação e ponderação cuidadosa entre riscos e benefícios, considerando tanto os benefícios presentes e potenciais, individuais ou coletivos. Busca-se comprometer-se com o máximo de benefícios e o mínimo de danos e riscos, que podem afetar diversas dimensões da vida humana.
@@ -13,12 +17,12 @@ No Brasil, a Resolução nº 466/2012 do Conselho Nacional de Saúde [1] rege as
 - Princípio da Justiça e Equidade: Está relacionado à relevância social da pesquisa, buscando vantagens significativas para os participantes e minimização do ônus para os participantes vulneráveis. Esse princípio garante a igual consideração dos interesses envolvidos, mantendo um foco sócio-humanitário na destinação dos benefícios da pesquisa.
 
 ## Termo de Consentimento Livre e Esclarecido (TCLE)
+
 O Termo de Consentimento Livre e Esclarecido (TCLE) é um documento que visa informar de maneira clara e completa os participantes de uma pesquisa sobre os objetivos, procedimentos, riscos, benefícios e direitos relacionados à sua participação no estudo. Este termo é essencial para garantir que os participantes compreendam completamente o que estão consentindo, assegurando que a participação seja voluntária e baseada em uma decisão informada e sem coação. Ao assinar o TCLE, o participante demonstra sua concordância em participar da pesquisa, tendo pleno conhecimento das informações fornecidas e dos aspectos éticos envolvidos.
 O TCLE que está sendo utilizado pelo Grupo 1 durante o desenvolvimento do projeto encontra-se abaixo:
 
 ### TCLE - GRUPO 1
 
- 
 **TERMO DE CONSENTIMENTO PARA PARTICIPAÇÃO EM PESQUISA**
 
 **Título da Pesquisa:** Avaliação do [objetivo da avaliação] do Site "Nota Legal"
@@ -49,24 +53,27 @@ Se você concorda em participar desta pesquisa, clique no botão "Concordo" abai
 - [ ] Concordo em participar da pesquisa.
 
 - [ ] Não concordo em participar da pesquisa.
- 
+
 Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu apoio é fundamental para o sucesso deste estudo.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza.</a></b></p></font>
-
 </div>
 
 ## Referências Bibliográficas
+
 > [1] BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 23/09/2023.
-> 
+>
+
 ## Bibliografia
+
 > Aspectos Éticos Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/#referencias-bibliograficas>>. Acesso em: 23/09/2023.
-> 
+>
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >
 
 ## Histórico de Versões
+
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|23/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/GZaranza)|

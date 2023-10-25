@@ -24,7 +24,7 @@ Na tabela 1 é possível verificar o membro responsável por cada storyboard.
 | [Zenilda Vieira](https://github.com/zenildavieira)                       | Consultar resultado de sorteio   |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 ## Storyboards
@@ -36,9 +36,9 @@ A história desse StoryBoard se passa na rotina de Luiz (uma de nossas personas)
 <div align="center">
 <p>Figura X - Storyboard da tarefa - Registrar Nova Reclamação </p>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard_gabriel_rosa.jpg" style="width: 65%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard_gabriel_rosa.jpg?raw=true'" style="width: 65%;">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Desbloquear saldo
@@ -48,9 +48,9 @@ Na figura X, é possível ver o storyboard da tarefa "Consultar estabelecimento"
 <div align="center">
 <p>Figura X - Storyboard da tarefa Consultar estabelecimento </p>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard-izabella.jpg" style="width: 65%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard-izabella.jpg?raw=true'" style="width: 65%;">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 ### Visualizar recibo fiscal
@@ -71,7 +71,7 @@ Na Figura X a seguir é apresentado o StoryBoard da tarefa “consultar resultad
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard-zenilda.jpg?raw=true" style="width: 65%;">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieria</a>, 2023.</font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieria</a>, 2023</p></font>
 </div>
 
 ## Bibliografia

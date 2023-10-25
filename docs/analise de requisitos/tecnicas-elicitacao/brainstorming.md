@@ -1,14 +1,17 @@
 # Brainstorming
+
 ## Introdução
 
 O brainstorming é uma técnica amplamente utilizada na elicitação de requisitos no processo de desenvolvimento de software. Essa abordagem colaborativa e criativa envolve a reunião de diversas partes interessadas, como clientes, usuários e membros da equipe de desenvolvimento, em uma sessão de brainstorming. Durante essa reunião, os participantes são encorajados a gerar ideias livremente, sem críticas ou julgamentos, com o objetivo de identificar requisitos, funcionalidades e objetivos do projeto. O brainstorming promove a criatividade, a geração de soluções inovadoras e a participação ativa de todos os envolvidos, o que ajuda a garantir que os requisitos do projeto sejam abrangentes e bem compreendidos desde o início do processo de desenvolvimento.
 
 ## Metodologia
-O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de todos os integrantes da equipe, a princípio, o moderador [Lucas Victor](https://github.com/Lucas13032003) fez uma breve introdução sobre o programa Nota Legal e explicou como seria realizada a sessão. Foi preparado um quadro de post-it's, na plataforma [Canva](canva.com) [1], para cada uma das seis perguntas que guiariam o brainstorming. O mediador então fazia a introdução da pergunta e pedia para os participantes colarem post-it's com ideias sobre aquele assunto e ao final a equipe falava um pouco sobre as ideias levantadas.
+
+O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de todos os integrantes da equipe, a princípio, o moderador [Lucas Victor](https://github.com/Lucas13032003) fez uma breve introdução sobre o programa Nota Legal e explicou como seria realizada a sessão. Foi preparado um quadro de post-it's, na plataforma [Canva](https://www.canva.com/) [1], para cada uma das seis perguntas que guiariam o brainstorming. O mediador então fazia a introdução da pergunta e pedia para os participantes colarem post-it's com ideias sobre aquele assunto e ao final a equipe falava um pouco sobre as ideias levantadas.
 
 ## Desenvolvimento
 
 ### Pergunta 1: Como podemos melhorar o Notal Legal?
+
 > - Desing
 > - Tempo de resposta
 > - Acessibilidade
@@ -17,6 +20,7 @@ O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de
 > - Melhorar a forma de trocar a senha
 
 ### Pergunta 2: Quais são as funcionalidades essenciais que o site Nota Legal deve possuir?
+
 > - Se cadastrar com a base de dados do governo
 > - Consultar o saldo que possui no Nota Legal
 > - Consultar extrato das notas fiscais
@@ -25,6 +29,7 @@ O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de
 > - Login
 
 ### Pergunta 3: Quais são os requisitos não funcionais importantes para o site?
+
 > - Tempo de resposta do app menor que 5 segundos
 > - Garantir a segurança do usuário
 > - Portabilidade para o celular
@@ -33,9 +38,11 @@ O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de
 
 
 ### Pergunta 4: O site Nota Legal precisar integrar-se a algum outro sistema ou plataforma?
+
 > - Todos responderam "sim"
 
 ### Pergunta 5: Quas são as medidas de segurança e privacidade que devem ser implementadas no site Nota Legal?
+
 > - Login atraves do gov.br
 > - Atenticação em 2 fatores
 > - Buscar dados na base da receita federal
@@ -45,6 +52,7 @@ O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de
 > - Privacidade dos dados das notas fiscais
 
 ### Pergunta 6: Como deve ser a interface do site Nota Legal em termos de design, usabilidade e experiência do usuário?
+
 > - De fácil entendimento
 > - Responsividade
 > - Minimalista
@@ -60,6 +68,9 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na ta
 
 **ID:** Cada requisito será identificado por um ID composto da seguinte forma: BSXX (onde XX é um número sequencial). Por exemplo, o primeiro requisito funcional seria BS01 e assim por diante.
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados</p></font>
+</div>
 
 | ID   | Código | Descrição                                                                                      | Implementado |
 |------|--------|------------------------------------------------------------------------------------------------|--------------|
@@ -81,11 +92,8 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na ta
 | BS16|    RNF  | O site deve possuir ferramentas de acessibilidade (Alto contraste, libras, aumentar a fonte) |     Não      |
 
 <div align="center">
-
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Requisitos elicitados. Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</b></p></font>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
-
 
 ## Link da Gravação
 
@@ -99,8 +107,8 @@ Na elicitação de requisitos para o site "Nota Legal", que pode ser visto na ta
 
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 30/09/2023.
 
-
 ## Histórico de Versões
+
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
 |`1.0`|29/09/2023|Criação do documento|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Victor](https://github.com/Lucas13032003)|

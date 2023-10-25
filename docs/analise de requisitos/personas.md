@@ -1,9 +1,11 @@
 # Personas
 
 ## Introdução
+
 Personas são representações fictícias e generalizadas de clientes ideais. Elas são personagens representativos do público-alvo da empresa, criadas para facilitar o processo de design e comunicação. Cada persona deve possuir características que resumam bem os usuários "típicos", tornando-as ferramentas eficientes para tomada de decisões [1].
 
 ## Metodologia
+
 A criação de personas é um processo que envolve pesquisa, análise de dados e empatia para compreender profundamente o público-alvo. Neste projeto, utilizamos a seguinte metodologia:
 
 1. **Coleta de Dados:** Realizamos a coleta de dados dos usuários por meio de um questionário. As perguntas incluíram informações como idade, sexo, experiência em finanças e atitudes em relação à tecnologia.
@@ -17,6 +19,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 ## Personas
 
 ### Persona Primária 1: Luiz Oliveira (Economista)
+
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif?raw=true" width="150px">
 
 - **Idade:** 52 anos
@@ -27,18 +30,20 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o site para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do Nota Legal.
 
 ### Persona Primária 2: Maria Alves Teles (Administradora)
+
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
 
-- Idade: 50 anos
-- Sexo: Feminino
-- Escolaridade: Graduada em Administração
-- Afinidade com tecnologia: Média
-- Frequência: Utiliza computador e celular diariamente
-- Atitudes: Interessada em compartilhar descobertas e experiências
-- Tarefa Primária: Realizar indicações de produtos e serviços de qualidade para sua rede de contatos através do Nota Legal.
-- Objetivo: Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
+- **Idade**: 50 anos
+- **Sexo**: Feminino
+- **Escolaridade**: Graduada em Administração
+- **Afinidade com tecnologia**: Média
+- **Frequência**: Utiliza computador e celular diariamente
+- **Atitudes**: Interessada em compartilhar descobertas e experiências
+- **Tarefa Primária**: Realizar indicações de produtos e serviços de qualidade para sua rede de contatos através do Nota Legal.
+- **Objetivo**: Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
 
 ### Persona Secundária 1: Pedro Sérgio Brito (Estudante)
+
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%203.jfif?raw=true" width= "150px">
 
 - **Idade:** 21 anos
@@ -49,6 +54,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Pedro é um estudante universitário que está começando a se interessar por economia e finanças. Ele usa o Nota Legal para aprender sobre indicadores econômicos e entender melhor como funcionam os mercados financeiros.
 
 ### Persona Secundária 2: Ana Clara Vieira (Professora)
+
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%204.jfif?raw=true" width="150px">
 
 - **Idade:** 57 anos
@@ -61,6 +67,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 ## Anti-Personas
 
 ### Anti-Persona 1: João Pedro Borges (Adolescente)
+
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%205.jfif?raw=true" width="150px">
 
 - **Idade:** 16 anos
@@ -70,6 +77,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** João é um adolescente de 16 anos que não tem interesse em economia e finanças. Ele usa seu tempo livre para jogar videogames e não tem nenhuma fonte de renda. João não se interessa pelo programa Nota Legal, pois não vê valor nele para sua situação.
 
 ### Anti-Persona 2: Clara Maria Rodrigues (Aposentada)
+
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%206.jfif?raw=true" width="150px"> 
 
 - **Idade:** 72 anos
@@ -78,22 +86,24 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Atitudes:** Não utiliza smartphones ou Nota Legal e não gosta de tecnologia
 - **Descrição:** Clara é uma aposentada de 72 anos que não utiliza smartphones nem tem acesso à internet. Ela prefere fazer todas as suas transações financeiras pessoalmente no banco e não vê necessidade de usar o site Nota Legal.
 
-## Referências Bibliograficas
+## Referências Bibliográficas
+
 > [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-> <br/>
+>
 
 ## Bibliografia
-> This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
 
+> This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
+>
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
-| ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 25/09/2023 | Criação da página.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)
-| `1.1`  | 25/09/2023 | Criação das personas.                     | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) 
-| `1.2`  | 25/09/2023 | Adição da Introdução e metodologia.       | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)
-| `1.3`  | 25/09/2023 | Adição das fotos das personas.            | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) 
-| `1.4`  | 09/10/2023 | Atualização de personas                   | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) 
-| `1.5`  | 13/10/2023 |Correções                  | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) 
-| `1.6`  | 17/10/2023 |Adicionando sobrenomes                | [Izabella Alves](https://github.com/izabellaalves) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) 
+| Versão | Data       | Descrição                           | Autor(es)                                                                | Revisor(es)                                                               |
+| ------ | ---------- | ----------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| `1.0`  | 25/09/2023 | Criação da página.                  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor](https://github.com/Lucas13032003)                          |
+| `1.1`  | 25/09/2023 | Criação das personas.               | [Lucas Víctor](https://github.com/Lucas13032003)                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| `1.2`  | 25/09/2023 | Adição da Introdução e metodologia. | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor](https://github.com/Lucas13032003)                         |
+| `1.3`  | 25/09/2023 | Adição das fotos das personas.      | [Lucas Víctor](https://github.com/Lucas13032003)                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| `1.4`  | 09/10/2023 | Atualização de personas             | [Lucas Víctor](https://github.com/Lucas13032003)                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| `1.5`  | 13/10/2023 | Correções                           | [Lucas Víctor](https://github.com/Lucas13032003)                         | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
+| `1.6`  | 17/10/2023 | Adicionando sobrenomes              | [Izabella Alves](https://github.com/izabellaalves)                       | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |

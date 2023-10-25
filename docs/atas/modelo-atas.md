@@ -12,7 +12,7 @@ Mesma reunião para IHC e RQS.
 * [Izabella Alves](https://github.com/izabellaalves)
 * [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
 * [Lucas Ribeiro](https://github.com/lucassouzs)
-* [Lucas Victor](https://github.com/Lucas13032003)
+* [Lucas Víctor](https://github.com/Lucas13032003)
 * [Zenilda Vieira](https://github.com/zenildavieira)
 
 ## Início e término
@@ -20,17 +20,32 @@ Mesma reunião para IHC e RQS.
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Horários</p></font>
 
-|               | Hora de Início   | Hora de Término   |
-| ------------- | :--------------: | :---------------: |
-| Previsto      |      20:45       |      21:30        |
-| Realizado     |      xx:xx       |      xx:xx        |
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Hora de Início</th>
+            <th>Hora de Término</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Previsto</td>
+            <td>20:00</td>
+            <td>20:45</td>
+        </tr>
+        <tr>
+            <td>Realizado</td>
+            <td>xx:xx</td>
+            <td>xx:xx</td>
+        </tr>
+    </tbody>
+</table>
 
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários. Fonte:</b> [xxxx](https://github.com/xxxx)</b></p></font>
-
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/xxxxx">xxxxx</a>, 2023</p></font></div>
 </div>
-
 
 ## Pauta
 
@@ -43,13 +58,15 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Atividade a ser desenvolvida</p></font>
+</div>
 
 | Atividades       | Responsável   |
 | ---------------- | ------------- |
 | xxxx             | xxxx          |
 
-<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividade a ser desenvolvida. Fonte:</b> [xxxx](https://github.com/xxxx).</b></p></font>
-
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [xxxx](https://github.com/xxxx)</p></font>
 </div>
 
 _**OU**_
@@ -57,14 +74,12 @@ _**OU**_
 Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> - Atividades a serem desenvolvidas</p></font>
 
-![xxxx](xxxx)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/XXXXXXXXX.png?raw=true">
 
-<font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas. Fonte:</b> [xxxx](https://github.com/xxxx).</b></p></font>
-
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [xxxx](https://github.com/xxxx)</p></font>
 </div>
-
 
 ## Conclusão
 

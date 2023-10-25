@@ -5,7 +5,7 @@
 Na fase inicial do projeto, os estudantes foram convidados a selecionar individualmente websites governamentais ou de código aberto. Essa escolha tinha como propósito apresentar sugestões para o website que seria analisado em conjunto pelo grupo durante a disciplina Interação Humano-Computador. A Tabela 1 fornece detalhes sobre os websites avaliados por cada membro da equipe.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de sites avaliados .</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de sites avaliados </p></font>
 </div>
 
 | Site avaliado                                                             | Membro que fez a avaliação                            |
@@ -19,7 +19,7 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 | [Ministério Público do Distrito Federal](https://www.mpdft.mp.br/portal/) | [Zenilda Vieira](https://github.com/ZenildaVieira)    |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 ## Sites avaliados por cada membro do grupo

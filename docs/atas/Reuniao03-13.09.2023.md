@@ -6,39 +6,92 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel Rosa](https://github.com/gabrielrosa09)        
-* [Gabriel Zaranza](https://github.com/GZaranza)         
+* [Gabriel Rosa](https://github.com/gabrielrosa09)
+* [Gabriel Zaranza](https://github.com/GZaranza)
 * [Izabella Alves](https://github.com/izabellaalves)
-* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
-* [Lucas Ribeiro](https://github.com/lucassouzs)         
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
+* [Lucas Ribeiro](https://github.com/lucassouzs)
 * [Lucas Victor](https://github.com/Lucas13032003)
-* [Zenilda Vieira](https://github.com/zenildavieira)          
+* [Zenilda Vieira](https://github.com/zenildavieira)
   
 ## Início e término
 
-|	             |Hora de Início  |Hora de Término  |
-|--------------|:--------------:|:---------------:|
-|Previsto:     |    20h       |        20:45    |
-|Realizado:    |     20h      |       20:27     |
+Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Horários</p></font>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Hora de Início</th>
+            <th>Hora de Término</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Previsto</td>
+            <td>20:00</td>
+            <td>20:45</td>
+        </tr>
+        <tr>
+            <td>Realizado</td>
+            <td>20:00</td>
+            <td>20:27</td>
+        </tr>
+    </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+</div>
 
 ## Pauta
 
-- Verificar como está o andamento dos artefatos que estão sendo produzidos durante a sprint.
+* Verificar como está o andamento dos artefatos que estão sendo produzidos durante a sprint.
 
 ## Tarefas
 
-|Tarefa                                          |Responsável                    |
-|------------------------------------------------|:-----------------------------:|
-|Continuar trabalhando no cronograma|[Gabriel Rosa](https://github.com/gabrielrosa09)                   |
-|Continuar trabalhando no processo de design|[Gabriel Zaranza](https://github.com/GZaranza)                  |
-|Continuar trabalhando no processo de design|[Izabella Alves](https://github.com/izabellaalves)                  |
-|Continuar trabalhando nas ferramentas|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
-|Continuar trabalhando no processo de design|[Lucas Ribeiro](https://github.com/lucassouzs)                       |
-|Continuar trabalhando no documento de site escolhido|[Lucas Victor](https://github.com/Lucas13032003)         |
-|Continuar trabalhando no cronograma|[Zenilda Vieira](https://github.com/zenildavieira)                  |
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Atividades a serem desenvolvidas</p></font>
 
+<table>
+    <tr>
+        <th>Tarefa</th>
+        <th>Responsável</th>
+    </tr>
+    <tr>
+        <td>Continuar trabalhando no cronograma</td>
+        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+    <tr>
+        <td>Continuar trabalhando no processo de design</td>
+        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+    <tr>
+        <td>Continuar trabalhando no processo de design</td>
+        <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+    <tr>
+        <td>Continuar trabalhando nas ferramentas</td>
+        <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a></td>
+    </tr>
+    <tr>
+        <td>Continuar trabalhando no processo de design</td>
+        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+        <td>Continuar trabalhando no documento de site escolhido</td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td>Continuar trabalhando no cronograma</td>
+        <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    </tr>
+</table>
 
-*Tabela 1 - Atividades a serem desenvolvidas.*
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+</div>
 
 ## Conclusão
 
@@ -50,7 +103,7 @@ Todos os artefatos estão sendo construídos e foram validados pelo grupo na reu
 
 ## Histórico de Versão
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|:-----:|:-------:|
-|`1.0`|13/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Victor](https://github.com/Lucas13032003)|
-|`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| Versão | Data       | Descrição                 |                       Autor                        |                                 Revisor                                  |
+| :----: | ---------- | ------------------------- | :------------------------------------------------: | :----------------------------------------------------------------------: |
+| `1.0`  | 13/09/2023 | Criação do documento      | [Izabella Alves](https://github.com/izabellaalves) |             [Lucas Victor](https://github.com/Lucas13032003)             |
+| `1.1`  | 14/09/2023 | Adição do link da Reunião |   [Lucas Ribeiro](https://github.com/lucassouzs)   | [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |

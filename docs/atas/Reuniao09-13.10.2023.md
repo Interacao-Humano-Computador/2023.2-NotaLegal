@@ -50,7 +50,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 ## Pauta
 
 * Definir prazos para as entregas das novas issues;
-* Definir novas issues;
+* Definir novas issues.
 
 ## Atividades
 

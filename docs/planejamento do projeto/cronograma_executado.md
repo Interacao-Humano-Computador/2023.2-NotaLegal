@@ -51,8 +51,8 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
     </tr>
     <tr>
       <td>Planejamento do Projeto</td>
-      <td>Início: 06/set - Fim: 27/set</td>
-      <td>Início: 06/set - Fim: 27/set</td>
+      <td>Início: 06/set - Fim: 19/set</td>
+      <td>Início: 06/set - Fim: 20/set</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
@@ -65,7 +65,7 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
     </tr>
     <tr>
       <td>Documentar a Equipe</td>
-      <td>Início: 06/set - Fim: 20/set</td>
+      <td>Início: 06/set - Fim: 19/set</td>
       <td>Início: 06/set - Fim: 20/set</td>
       <td>
         <a href="https://github.com/izabellaalves">Izabella Alves</a>
@@ -78,13 +78,13 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
     </tr>
     <tr>
       <td>Incluir o heatmap de disponibilidade dos integrantes no repositório</td>
-      <td>Início: 06/set - Fim: -/set</td>
-      <td>Início: 06/set - Fim: -/set</td>
+      <td>Início: 06/set - Fim: 19/set</td>
+      <td>Início: 07/set - Fim: 08/set</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
       </td>
       <td>Início: 20/set - Fim: 21/set</td>
-      <td>Início: 20/set - Fim: 21/set</td>
+      <td>Início: 09/set - Fim: 10/set</td>
       <td>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
@@ -92,7 +92,7 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
     <tr>
       <td>Incluir a lista de sites selecionados pelos integrantes do grupo com suas justificativas</td>
       <td>Início: 06/set - Fim: 16/set</td>
-      <td>Início: 06/set - Fim: 16/set</td>
+      <td>Início: 06/set - Fim: 11/set</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br>
@@ -103,15 +103,15 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 20/set - Fim: 21/set</td>
-      <td>Início: 20/set - Fim: 21/set</td>
+      <td>Início: 12/set - Fim: 13/set</td>
       <td>
         <a href="https://github.com/Lucas13032003">Lucas Victor</a>
       </td>
     </tr>
     <tr>
       <td>Documentar o site escolhido para a disciplina</td>
-      <td>Início: 06/set - Fim: 20/set</td>
-      <td>Início: 06/set - Fim: 20/set</td>
+      <td>Início: 06/set - Fim: 19/set</td>
+      <td>Início: 13/set - Fim: 20/set</td>
       <td>
         <a href="https://github.com/Lucas13032003">Lucas Victor</a>
       </td>
@@ -124,30 +124,30 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
     <tr>
       <td>Incluir o Termo de Uso do site permitindo o estudo na disciplina no repositório * O termo de Uso não foi encontrado para o site escolhido - Nota Legal.</td>
       <td>Início: 06/set - Fim: 19/set</td>
-      <td>Início: 06/set - Fim: 19/set</td>
+      <td>-</td>
       <td>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
       </td>
-      <td>-</td>
+      <td>Início: 20/set - Fim: 21/set</td>
       <td>-</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Selecionar as ferramentas do projeto</td>
-      <td>Início: 06/set - Fim: 13/set</td>
+      <td>Início: 06/set - Fim: 19/set</td>
       <td>Início: 06/set - Fim: 13/set</td>
       <td>
         <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
       </td>
       <td>Início: 20/set - Fim: 21/set</td>
-      <td>Início: 20/set - Fim: 21/set</td>
+      <td>Início: 14/set - Fim: 15/set</td>
       <td>
         <a href="https://github.com/Lucas13032003">Lucas Victor</a>
       </td>
     </tr>
     <tr>
       <td>Escolher o processo de Design do projeto (apresentando justificativa da escolha)</td>
-      <td>Início: 06/set - Fim: 18/set</td>
+      <td>Início: 06/set - Fim: 19/set</td>
       <td>Início: 06/set - Fim: 18/set</td>
       <td>
         <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>
@@ -155,21 +155,21 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
       </td>
       <td>Início: 20/set - Fim: 21/set</td>
-      <td>Início: 20/set - Fim: 21/set</td>
+      <td>Início: 19/set - Fim: 20/set</td>
       <td>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
     </tr>
     <tr>
       <td>Definir um cronograma detalhado das atividades do projeto</td>
-      <td>Início: 06/set - Fim: 27/set</td>
+      <td>Início: 06/set - Fim: 19/set</td>
       <td>Início: 06/set - Fim: 27/set</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 20/set - Fim: 21/set</td>
-      <td>Início: 20/set - Fim: 21/set</td>
+      <td>Início: 28/set - Fim: 29/set</td>
       <td>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
       </td>
@@ -177,12 +177,12 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
     <tr>
       <td>Implementar a gitpage</td>
       <td>Início: 06/set - Fim: 19/set</td>
-      <td>Início: 06/set - Fim: 19/set</td>
+      <td>Início: 06/set - Fim: 28/set</td>
       <td>
         <a href="https://github.com/izabellaalves">Izabella Alves</a>
       </td>
       <td>Início: 20/set - Fim: 21/set</td>
-      <td>Início: 20/set - Fim: 21/set</td>
+      <td>Início: 29/set - Fim: 30/set</td>
       <td>
         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
       </td>
@@ -190,7 +190,7 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
     <tr>
       <td>Gravação 1</td>
       <td>27/set</td>
-      <td>27/set</td>
+      <td>29/set</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br>
@@ -201,7 +201,7 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>28/set</td>
-      <td>28/set</td>
+      <td>30/set</td>
       <td>
         <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
       </td>
@@ -209,12 +209,12 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
     <tr>
       <td>Atualização do cronograma executado para Entrega 1</td>
       <td>Início: 06/set - Fim: 27/set</td>
-      <td>Início: 06/set - Fim: 27/set</td>
+      <td>27/set</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
       </td>
       <td>27/set</td>
-      <td>27/set</td>
+      <td>28/set</td>
       <td>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
@@ -222,7 +222,7 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
     <tr>
       <td>Correção após a Entrega 1</td>
       <td>Início: 04/out - Fim: 07/out</td>
-      <td>Início: 04/out - Fim: 07/out</td>
+      <td>Início: 08/out - Fim: 14/out</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br>
@@ -233,7 +233,7 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 08/out - Fim: 09/out</td>
-      <td>Início: 08/out - Fim: 09/out</td>
+      <td>Início: 15/out - Fim: 16/out</td>
       <td>
         <a href="https://github.com/izabellaalves">Izabella Alves</a>
       </td>
@@ -399,6 +399,25 @@ Na tabela 2 encontram-se as datas de execução do cronograma executado para a e
       <td>16/out</td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
+    <tr>
+      <td>Correção após a Entrega 2</td>
+      <td>Início: 18/out <br> Fim: 21/out</td>
+      <td>Início: 23/out <br> Fim: 24/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>25/out</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -527,12 +546,13 @@ Na tabela 3 encontram-se as datas do cronograma executado para a etapa de Princ�
 > Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>. Acesso em 27 de setembro de 2023.
 > 
 > SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 06 de setembro de 2023.
+>
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                                   | Autor                                                                                                 |                     Revisor                      |
 | :----: | ---------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | :----------------------------------------------: |
-| `1.0`  | 18/09/2023 | Criação do cronograma.                                      | [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09) |  [Gabriel Zaranza](https://github.com/GZaranza)  |
+| `1.0`  | 18/09/2023 | Criação do cronograma.                                      | [Zenilda Vieira](https://github.com/ZenildaVieira) <br> [Gabriel Rosa](https://github.com/gabrielrosa09) |  [Gabriel Zaranza](https://github.com/GZaranza)  |
 | `1.1`  | 27/09/2023 | Inclusão das atividades, datas e reponsáveis no cronograma. | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Gabriel Rosa](https://github.com/gabrielrosa09) |
 | `1.2`  | 16/10/2023 | Inclusão do cronograma executado da entrega 2 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.3`  | 23/10/2023 | Inclusão do cronograma executado da entrega 3 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |

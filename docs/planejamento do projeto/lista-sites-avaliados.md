@@ -5,20 +5,47 @@
 Na fase inicial do projeto, os estudantes foram convidados a selecionar individualmente websites governamentais ou de código aberto. Essa escolha tinha como propósito apresentar sugestões para o website que seria analisado em conjunto pelo grupo durante a disciplina Interação Humano-Computador. A Tabela 1 fornece detalhes sobre os websites avaliados por cada membro da equipe.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de sites avaliados </p></font>
-</div>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de sites avaliados</p></font>
 
-| Site avaliado                                                             | Membro que fez a avaliação                            |
-| :-----------------------------------------------------------------------: | :---------------------------------------------------: |
-| [Calibre - E-book Management](https://calibre-ebook.com)                  |[Gabriel Rosa](https://github.com/gabrielrosa09)       |
-| [Pandas](https://pandas.pydata.org/)                                      | [Gabriel Zaranza](https://github.com/GZaranza)        |
-| [Polícia Civil do Distrito Federal](https://www.pcdf.df.gov.br)           |[Izabella Alves](https://github.com/izabellaalves)     |
-| [Correios](https://www.correios.com.br/)     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)           |
-| [Alistamento Militar](https://alistamento.eb.mil.br/)                     |[Lucas Ribeiro](https://github.com/lucassouzs)         |
-| [Nota Legal](https://www.notalegal.df.gov.br/)                            | [Lucas Víctor](https://github.com/Lucas13032003)      |
-| [Ministério Público do Distrito Federal](https://www.mpdft.mp.br/portal/) | [Zenilda Vieira](https://github.com/ZenildaVieira)    |
+<table>
+    <thead>
+        <tr>
+            <th>Site avaliado</th>
+            <th>Membro que fez a avaliação</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://calibre-ebook.com">Calibre - E-book Management</a></td>
+            <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://pandas.pydata.org/">Pandas</a></td>
+            <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.pcdf.df.gov.br">Polícia Civil do Distrito Federal</a></td>
+            <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.correios.com.br/">Correios</a></td>
+            <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://alistamento.eb.mil.br/">Alistamento Militar</a></td>
+            <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.notalegal.df.gov.br/">Nota Legal</a></td>
+            <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.mpdft.mp.br/portal/">Ministério Público do Distrito Federal</a></td>
+            <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+        </tr>
+    </tbody>
+</table>
 
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 

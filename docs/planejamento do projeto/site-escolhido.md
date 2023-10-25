@@ -1,20 +1,22 @@
 # Site Escolhido
 
 ## Introdução
+
 Com a apresentação da disciplina, foi proposta uma ementa que descrevia o projeto, no qual tínhamos que selecionar um site para desenvolver o projeto de Interação Humano-Computador (IHC). Todos os membros do grupo contribuíram apresentando candidatos em potencial para avaliação, acompanhados de argumentos que respaldavam suas escolhas. Em seguida, realizamos uma reunião com o propósito de escolher um dos sites apresentados, conforme documentado [aqui](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md), com o objetivo de chegar a um consenso. Nesse contexto, é possível examinar de forma mais detalhada as alternativas propostas pelos membros do grupo, levando em consideração que o site escolhido no final foi o Nota Legal.
 
-## Nota Legal:
+## Nota Legal
 
 <div align="center">
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/nota-legal-df-2.png?raw=true" width="300px">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Logo do Nota Legal</p></font>
 
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/nota-legal-df-2.png?raw=true'" width="300px">
 
-Figura 1 - Logo do Nota Legal
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://www.notalegal.df.gov.br/">Nota Legal</a>, 2023</p></font>
 </div>
-<br/>
-O "Nota Legal" é um programa no Distrito Federal que recompensa pessoas por exigirem a inclusão do CPF nas notas fiscais de compras, oferecendo descontos em impostos ou dinheiro em troca. Isso promove a transparência fiscal e incentiva a emissão de notas fiscais. 
 
-## Critérios para escolha:
+O "Nota Legal" é um programa no Distrito Federal que recompensa pessoas por exigirem a inclusão do CPF nas notas fiscais de compras, oferecendo descontos em impostos ou dinheiro em troca. Isso promove a transparência fiscal e incentiva a emissão de notas fiscais.
+
+## Critérios para escolha
 
 - A **usabilidade** do site apresenta uma navegação confusa, tornando-o inviável para os usuários.
 
@@ -27,6 +29,7 @@ O "Nota Legal" é um programa no Distrito Federal que recompensa pessoas por exi
 - Há **problemas técnicos** relacionados a bugs e erros técnicos, como links quebrados ou funções que não funcionam corretamente.
 
 ## Motivações de escolha
+
 Com base nos critérios anteriores, a escolha do site "Nota Legal" para o projeto foi motivada por várias razões:
 
 **Público Amplo e Acessível:** O site "Nota Legal" atrai um público diversificado, pois está relacionado a benefícios fiscais e informações financeiras. Isso significa que pessoas de diferentes origens e necessidades podem ser usuárias em potencial, tornando-o acessível a um público variado.
@@ -39,17 +42,16 @@ Com base nos critérios anteriores, a escolha do site "Nota Legal" para o projet
 
 Portanto, a escolha do site "Nota Legal" como projeto é motivada pelo seu público amplo e acessível, pela oportunidade de melhorar a usabilidade da interface, pela integração interdisciplinar entre disciplinas e pela complexidade adequada do site, que oferece uma base sólida para um projeto significativo e desafiador.
 
-## Termo de Uso:
+## Termo de Uso
 
-- Site Governamental;
-
+- Site Governamental.
 
 ## Bibliografia
 
 > Nota Legal. Disponível em: https://www.notalegal.df.gov.br/
 >
 > Clico CRM. Disponível em: https://www.ciclocrm.com.br/portal-nota-legal-df-como-funciona/
-
+>
 
 ## Histórico de Versões
 

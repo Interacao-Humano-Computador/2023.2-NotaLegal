@@ -15,9 +15,7 @@ Breve explicação do frameword DECIDE (link para a explicacao no doc de avalia�
 
 ### Objetivos Gerais (D)
 
-(lucas)
-
-Objetivos do planejamento do relato, pq estamos planejando o relato dos resultados da avaliação do sb
+O planejamento do relato dos resultados da avaliação do storyboard tem como objetivo central proporcionar uma compreensão abrangente e acessível do desempenho do projeto. Com a intenção de apresentar informações detalhadas sobre a clareza narrativa, composição visual, fluidez da história e coerência estilística do storyboard. Ao manter uma linguagem acessível e evitar formalidades excessivas, com o objetivo de garantir que as descobertas sejam compreendidas facilmente por todas as partes interessadas. Este relatório servirá como uma ferramenta essencial para orientar as próximas fases do projeto, promovendo uma comunicação clara e eficaz entre todos os envolvidos.
 
 ### Roteiro de Entrevista (E)
 

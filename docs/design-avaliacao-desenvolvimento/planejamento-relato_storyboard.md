@@ -4,25 +4,21 @@
 
 ## Metodologia
 
-## Elementos
+## Planejamento do Relato
 
-### Objetivos da Avaliação
+### FrameWork DECIDE
 
+### Objetivos Gerais (D)
 
-### Avaliadores e Participantes
+### Roteiro de Entrevista (E)
 
+### Métodos de Avaliação (C)
 
-### Sumário dos dados
+### Aspectos Práticos do Relatico (I)
 
+### Aspectos Éticos (D)
 
-### Problemas encontrados
-
-
-### Sugestões de correções
-
-
-### Gravações do teste piloto e da entrevista
-
+### Avaliação e Apresentação dos Dados (E)
 
 ## Bibliografia
 

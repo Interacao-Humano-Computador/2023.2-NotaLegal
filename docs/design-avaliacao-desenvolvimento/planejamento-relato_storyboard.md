@@ -2,7 +2,9 @@
 
 ## Introdução
 
-(lucas)
+A avaliação do storyboard é uma etapa crucial no desenvolvimento de qualquer projeto visual, onde o storyboard serve como um guia que ajuda a entender a narrativa, o fluxo de ação e os detalhes visuais de uma história. A avaliação desse storyboard é essencial para garantir que a visão do criador seja compreendida e que o produto final atenda às expectativas do público-alvo.
+
+Nesta fase do projeto, realizamos uma avaliação detalhada do storyboard, analisando aspectos como clareza narrativa, composição visual, fluidez da história e coerência estilística. Que tem como objetivo, fornecer uma estrutura organizada para a coleta de dados durante sua fase de avaliação.
 
 ## Metodologia
 

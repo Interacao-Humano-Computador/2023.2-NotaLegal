@@ -4,19 +4,99 @@
 
 ## Metodologia
 
+Breve explicação do frameword DECIDE (link para a explicacao no doc de avaliação) dizendo q a metodologia dos relatos foi baseada no que e dito no livro de hc da simone barbosa, que descrece o que deve conter um relato de resultado de avaliacao
+
 ## Planejamento do Relato
 
 ### Objetivos Gerais (D)
 
+Objetivos do planejamento do relato, pq estamos planejando o relato dos resultados da avaliação do sb
+
 ### Roteiro de Entrevista (E)
 
-### Métodos de Avaliação (C)
+Linkar com o doc 
 
-### Aspectos Práticos do Relatico (I)
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Roteiro de perguntas</p></font>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Pergunta</th>
+            <th>Resposta</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>A história contada pelo storyboard representa a realidade?</td>
+            <td>Sim, não ou não sei responder</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>As ações realizadas pelo ator principal condizem com as ações realizadas na prática?</td>
+            <td>Sim, não ou não sei responder</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Você se identifica com a motivação do ator principal para realizar a tarefa?</td>
+            <td>Sim, não ou não sei responder</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Você consegue entender o storyboard e as ações desenvolvidas nele?</td>
+            <td>Sim, não ou não sei responder</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Você acha que o storyboard resolve o problema em questão?</td>
+            <td>Sim, não ou não sei responder</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Você acha que a satisfação do ator principal condiz com a realidade?</td>
+            <td>Sim, não ou não sei responder</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>As ações realizadas no storyboard seguem uma ordem sequencial, fluida e lógica?</td>
+            <td>Sim, não ou não sei responder</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Houve algum elemento que você não compreendeu no storyboard?</td>
+            <td>Questão aberta</td>
+        </tr>
+    </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+### Métodos de Relato (C)
+
+texto introduzindo, o que vai relatar e como vai ser feito
+
+* Objetivos e escopo da avaliação;
+* Método de avaliação empregado;
+* Perfil dos participantes;
+* Sumário dos dados coletados;
+* Relato da interpretação e análise dos dados;
+* Lista dos problemas encontrados;
+* Planejamento para o reprojeto do sistema.
+
+### Aspectos Práticos do Relato (I)
+
+Olhar o banco central
 
 ### Aspectos Éticos (D)
 
+não expor os participantes da avaliação
+
 ### Avaliação e Apresentação dos Dados (E)
+
+banco central, olhar o sumario de dados, analisa de dados coletados e sugestoes de correções e olhar o bilheteria digital pra ver o que se aproveita
 
 ## Bibliografia
 

@@ -2,17 +2,24 @@
 
 ## Introdução
 
+(lucas)
+
 ## Metodologia
 
+(zenilda)
 Breve explicação do frameword DECIDE (link para a explicacao no doc de avaliação) dizendo q a metodologia dos relatos foi baseada no que e dito no livro de hc da simone barbosa, que descrece o que deve conter um relato de resultado de avaliacao
 
 ## Planejamento do Relato
 
 ### Objetivos Gerais (D)
 
+(lucas)
+
 Objetivos do planejamento do relato, pq estamos planejando o relato dos resultados da avaliação do sb
 
 ### Roteiro de Entrevista (E)
+
+(zenilda)
 
 Linkar com o doc 
 
@@ -76,6 +83,8 @@ Linkar com o doc
 
 ### Métodos de Relato (C)
 
+(lucas)
+
 texto introduzindo, o que vai relatar e como vai ser feito
 
 * Objetivos e escopo da avaliação;
@@ -88,13 +97,19 @@ texto introduzindo, o que vai relatar e como vai ser feito
 
 ### Aspectos Práticos do Relato (I)
 
+(zenilda)
+
 Olhar o banco central
 
 ### Aspectos Éticos (D)
 
+(lucas)
+
 não expor os participantes da avaliação
 
 ### Avaliação e Apresentação dos Dados (E)
+
+(zenilda)
 
 banco central, olhar o sumario de dados, analisa de dados coletados e sugestoes de correções e olhar o bilheteria digital pra ver o que se aproveita
 

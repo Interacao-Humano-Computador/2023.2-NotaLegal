@@ -212,7 +212,7 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
 
 ### Aspectos Éticos (D)
 
-Nesta pesquisa, seguiremos os príncipios éticos de pesquisas científicas envolvendo pessoas estebelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde [2], Esses princípios incluem o respeito à autonomia dos indivíduos, a busca pelo benefício máximo com o mínimo de danos, a prevenção de danos previsíveis e a promoção da justiça e equidade. Essas diretrizes são especialmente relevantes em pesquisas que envolvem seres humanos, onde é imperativo respeitar a dignidade e a autonomia dos participantes, considerando os aspectos éticos ao longo de todo o processo de pesquisa [2].
+Nesta pesquisa, seguiremos os príncipios éticos de pesquisas científicas envolvendo pessoas estabelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde [2], Esses princípios incluem o respeito à autonomia dos indivíduos, a busca pelo benefício máximo com o mínimo de danos, a prevenção de danos previsíveis e a promoção da justiça e equidade. Essas diretrizes são especialmente relevantes em pesquisas que envolvem seres humanos, onde é imperativo respeitar a dignidade e a autonomia dos participantes, considerando os aspectos éticos ao longo de todo o processo de pesquisa [2].
 
 Além disso, todos os participantes deverão assinar o nosso Termo de Consetimento Livre e Esclarecido, descrito no nosso documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md), que modificado exatamente para a avaliação em questão e está descrito abaixo. O objetivo é obter a permissão dos participantes para realizar as atividades necessárias na criação desse artefato, garantindo o respeito por parte dos participantes durante e após a atividade.
 
@@ -253,9 +253,9 @@ Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu ap
 
 ### Avaliação e Apresentação dos Dados (E)
 
-Após a realização da avaliação, feita de acordo com as informações da tabela X, os dados coletados serão devidamente documentados em um relatório abrangente. Esse relatório destacará principalmente se os objetivos estabelecidos pelo grupo foram atendidos, e caso não, como será possível melhorar.
+Após a realização da avaliação, feita de acordo com as informações da tabela 2, os dados coletados serão devidamente documentados em um relatório abrangente. Esse relatório destacará principalmente se os objetivos estabelecidos pelo grupo foram atendidos, e caso não, como será possível melhorar.
 
-O relato detalhado de como todos os resultados serão apresentados está descrito no documento de [Planejamento de Relato dos Resultados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato-storyboard.md).
+O planejamento do relato detalhado de como todos os resultados serão apresentados está descrito no documento de [Planejamento de Relato dos Resultados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato-storyboard.md).
 
 ## Referências Bibliográficas
 
@@ -277,3 +277,4 @@ O relato detalhado de como todos os resultados serão apresentados está descrit
 |:----:|----|---------|-----|:-------:|
 |`1.0`|21/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.1`|21/10/2023|Adicionanando "D" e "I"|[Gabriel Zaranza](https://github.com/gzaranza)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.2`|27/10/2023|Revisão do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - (não precisa de revisor) |

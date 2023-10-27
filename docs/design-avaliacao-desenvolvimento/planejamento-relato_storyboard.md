@@ -6,8 +6,6 @@
 
 ## Planejamento do Relato
 
-### FrameWork DECIDE
-
 ### Objetivos Gerais (D)
 
 ### Roteiro de Entrevista (E)

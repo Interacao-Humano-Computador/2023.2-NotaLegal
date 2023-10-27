@@ -83,9 +83,7 @@ Linkar com o doc
 
 ### Métodos de Relato (C)
 
-(lucas)
-
-texto introduzindo, o que vai relatar e como vai ser feito
+Num mundo em constante transformação tecnológica, a avaliação dos sistemas torna-se uma etapa crucial para assegurar sua eficácia e relevância. Este relatório oferece uma análise abrangente de um sistema específico, delineando seus objetivos, métodos empregados, perfil dos participantes, resumo dos dados coletados, interpretações detalhadas, identificação dos problemas encontrados e estratégias para seu reprojeto, representados abaixo:
 
 * Objetivos e escopo da avaliação;
 * Método de avaliação empregado;

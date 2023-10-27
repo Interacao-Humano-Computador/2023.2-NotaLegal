@@ -105,9 +105,7 @@ Olhar o banco central
 
 ### Aspectos Éticos (D)
 
-(lucas)
-
-não expor os participantes da avaliação
+Respeitar a privacidade dos participantes é essencial. Garantimos que suas identidades e opiniões não serão divulgadas publicamente, protegendo assim sua confidencialidade. É crucial obter o consentimento dos participantes, informando-os sobre o propósito da avaliação e como seus dados serão usados. Ao aderir a essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso.
 
 ### Avaliação e Apresentação dos Dados (E)
 

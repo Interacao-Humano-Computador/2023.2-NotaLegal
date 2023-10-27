@@ -2,14 +2,11 @@
 
 ## Introdução
 
+## Metodologia
 
 ## Elementos do Relato de Resultados
 
-
 ### Objetivos da Avaliação
-
-
-### Metodologia
 
 
 ### Avaliadores e Participantes

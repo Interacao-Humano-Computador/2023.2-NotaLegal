@@ -8,32 +8,54 @@ Por meio de entrevistas e análises, com base no [perfil de usuário](https://gi
 
 ## Metodologia
 
-A metodologia utilizada para fazer esse documento de Planejamento da Avaliação da Análise de Tarefas é a seguinte:
+No planejamento da avaliação do site Nota Legal, adotaremos o framework DECIDE. Esse framework é uma abreviação em que cada letra representa uma etapa fundamental a ser seguida no planejamento, conforme demonstrado na Tabela 1 a seguir:
 
-*- Seguir o framework DECIDE, que é um guia para o planejamento de uma avaliação, composto por seis etapas: **Determinar**, **Explorar**, **Escolher**, **Identificar**, **Decidir** e **Avaliar**;
 
-*- Para cada etapa, descrever os passos realizados, os critérios utilizados, os resultados obtidos e as dificuldades encontradas*;
 
-*- Utilizar as técnicas e ferramentas adequadas para cada etapa, de acordo com os objetivos e as questões da avaliação*;
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1: Etapas do Framework DECIDE</b> </p></font>
 
-*- Documentar todo o processo de avaliação, incluindo os dados coletados, as análises realizadas e as conclusões tiradas*;
 
-*- Apresentar os resultados da avaliação de forma clara e objetiva, destacando os pontos fortes e fracos da análise de tarefas realizada*;
+| Etapa                      | Descrição                                                                                                  |
+|----------------------------|------------------------------------------------------------------------------------------------------------|
+| D - Definir Objetivos      | Definir claramente os objetivos da avaliação, incluindo o que desejamos alcançar com a análise do site Nota Legal.                |
+| E - Especificar Questões   | Identificar as questões específicas que precisam ser abordadas durante a avaliação do site Nota Legal, abrangendo usabilidade, desempenho e satisfação do usuário. |
+| C - Coletar Dados          | Planejar a coleta de dados por meio de entrevistas com usuários reais, análise de métricas e outras fontes relevantes para obter informações valiosas sobre a experiência dos usuários. |
+| I - Interpretar Dados      | Após a coleta de dados, realizar uma análise aprofundada para extrair insights e tendências que ajudarão a compreender o desempenho atual do site Nota Legal. |
+| D - Documentar Resultados  | Documentar de forma clara e precisa os resultados da avaliação, incluindo a identificação de problemas e recomendações para melhorias. |
+| E - Executar Mudanças      | Com base nos resultados da avaliação, implementar as mudanças e melhorias necessárias no site Nota Legal para garantir que ele atenda às expectativas e necessidades dos usuários. |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
 
 ## D - Objetivos
 
-Os objetivos deste tópico seguindo o framework DECIDE são:
-
-*- Determinar as metas e os objetivos da avaliação da análise de tarefas do site Nota Legal*;
-
-*- Definir para quem a avaliação é importante e por quê*;
-
-*- Estabelecer o escopo e o foco da avaliação, considerando as limitações de tempo, recursos e ética*.
+Os objetivos desta avaliação visam verificar se os artefatos produzidos para o site Nota Legal estão em conformidade com os padrões exigidos para esses artefatos e se há oportunidade de explorar designs alternativos para a aplicação. Portanto, a avaliação será fundamental para identificar ideias e problemas não previamente detectados durante a produção dos artefatos relacionados ao site Nota Legal. Essas descobertas orientarão a criação de uma nova versão do artefato, com melhorias que atendam de forma mais eficaz às necessidades e expectativas dos usuários do site Nota Legal.
 
 
 ## E - Explorar Perguntas Respondidas com a Avaliação
 
+Com base nos objetivos estabelecidos para a avaliação do site Nota Legal, elaboramos um conjunto de perguntas essenciais que se concentram em dois aspectos cruciais:
+
+Verificar a conformidade com padrões estabelecidos.
+Explorar ideias e alternativas de design para aprimoramento.
+As perguntas a seguir foram cuidadosamente selecionadas com base no Capítulo 11 da literatura de Barbosa e Silva (2011, p.266)<a id="anchor_1" href="#REF1">^1^</a> e desempenham um papel fundamental na orientação da avaliação:
+
+Os diagramas HTA apresentam as notações corretas, legendas precisas e representações tabulares adequadas?
+
+Os diagramas refletem tarefas que estão alinhadas com as funcionalidades esperadas no site Nota Legal?
+
+As entrevistas com os usuários proporcionam insights valiosos que podem conduzir a melhorias nas tarefas identificadas pela análise de tarefas?
+
+Essas perguntas desempenham um papel vital na avaliação do site Nota Legal, fornecendo diretrizes claras para garantir que os resultados atendam aos objetivos de conformidade e aprimoramento da plataforma.
+
 ## C - Escolher os Métodos de Avaliação
+
+Para a realização da avaliação do site Nota Legal, será adotada uma abordagem que envolve a adaptação de métodos de pesquisa, incluindo entrevistas e observações com os usuários, com base em um questionário estruturado como roteiro.
+
+A escolha desses métodos se justifica pelo fato de serem abordagens investigativas que permitem a coleta de informações ricas e detalhadas. Além disso, essa abordagem é altamente flexível, permitindo fazer perguntas que aprofundam ainda mais os objetivos estabelecidos para a avaliação, garantindo assim uma compreensão abrangente das necessidades e experiências dos usuários. Vale ressaltar que todas as entrevistas serão rigorosamente gravadas e documentadas.
+
+Essa abordagem meticulosa de coleta de dados tem como objetivo garantir que tenhamos uma base sólida de informações para direcionar as melhorias necessárias no site Nota Legal, proporcionando uma experiência mais satisfatória e eficaz para seus usuários.
 
 ## I - Identificar Questões Práticas da Avaliação
 
@@ -82,4 +104,5 @@ Os padrões de ética que serão adotados nesta pesquisa estão de acordo com o 
 | `1.0`  | 28/10/2023 | introdução                     | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.1`  | 28/10/2023 | Adição da metodologia e objetivo                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.2`  | 28/10/2023 | Adição de como lidamos com as questões eticas                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
+| `1.3`  | 28/10/2023 | Adição da metodologia, O, E, C   | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 

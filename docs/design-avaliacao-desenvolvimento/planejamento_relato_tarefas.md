@@ -51,6 +51,12 @@ Os objetivos deste tópico seguindo o framework DECIDE são:
 
 ## D - Lidando com as Questões Éticas
 
+Os padrões de ética que serão adotados nesta pesquisa estão de acordo com o documento de [Aspectos Éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md), que estabelece os princípios e as normas para a realização de entrevistas com os participantes. O termo de consentimento que será apresentado aos entrevistados está ilustrado na Figura 1, e nele constam as informações sobre o objetivo, a metodologia, os benefícios e os riscos da pesquisa, bem como os direitos e deveres dos envolvidos.
+
+![image](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/100947807/75b3a948-e43d-467f-b3e6-6b44c0de9190)
+
+
+
 ## E - Avaliar, Interpretar e Apresentar os Dados
 
 ## Planejamento do Teste Piloto
@@ -70,4 +76,5 @@ Os objetivos deste tópico seguindo o framework DECIDE são:
 | `1.0`  | 28/10/2023 | Criação do documento                      | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.0`  | 28/10/2023 | introdução                     | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.1`  | 28/10/2023 | Adição da metodologia e objetivo                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
+| `1.2`  | 28/10/2023 | Adição decomo lidamos com as questões eticas                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 

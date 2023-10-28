@@ -51,9 +51,14 @@ Os objetivos deste tópico seguindo o framework DECIDE são:
 
 ## D - Lidando com as Questões Éticas
 
-Os padrões de ética que serão adotados nesta pesquisa estão de acordo com o documento de [Aspectos Éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md), que estabelece os princípios e as normas para a realização de entrevistas com os participantes. O termo de consentimento que será apresentado aos entrevistados está ilustrado na Figura 1, e nele constam as informações sobre o objetivo, a metodologia, os benefícios e os riscos da pesquisa, bem como os direitos e deveres dos envolvidos.
+Os padrões de ética que serão adotados nesta pesquisa estão de acordo com o documento de [Aspectos Éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md), que estabelece os princípios e as normas para a realização de entrevistas com os participantes. O termo de consentimento para participação em pesquisa que será apresentado aos entrevistados está ilustrado na Figura 1, e nele constam as informações sobre o objetivo, a metodologia, os benefícios e os riscos da pesquisa, bem como os direitos e deveres dos envolvidos.
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Termo de consentimento</p></font>
 
 ![image](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/100947807/75b3a948-e43d-467f-b3e6-6b44c0de9190)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
 
 
 

@@ -259,13 +259,13 @@ Os participantes selecionados responderam afirmativamente à pergunta sobre a di
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>Consultar estabelecimento</td>
             <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Gilmar Santos</td>
+            <td>17:00</td>
+            <td>17:15</td>
+            <td>02/11/2023</td>
+            <td>Google Meet</td>
         </tr>
         <tr>
             <td></td>

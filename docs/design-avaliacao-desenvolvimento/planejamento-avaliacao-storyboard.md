@@ -196,25 +196,25 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>Consultar resultado de sorteio</td>
             <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Manuella Marques</td>
+            <td>09:00</td>
+            <td>09:15</td>
+            <td>02/11/2023</td>
+            <td>Presencial</td>
         </tr>
     </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza, 2023.</a></b></p></font>
+<font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/gzaranza">Gabriel Zaranza</a>, 2023.</p></font>
 </div>
 
 ### Aspectos Éticos (D)
 
-Nesta pesquisa, seguiremos os príncipios éticos de pesquisas científicas envolvendo pessoas estabelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde [2], Esses princípios incluem o respeito à autonomia dos indivíduos, a busca pelo benefício máximo com o mínimo de danos, a prevenção de danos previsíveis e a promoção da justiça e equidade. Essas diretrizes são especialmente relevantes em pesquisas que envolvem seres humanos, onde é imperativo respeitar a dignidade e a autonomia dos participantes, considerando os aspectos éticos ao longo de todo o processo de pesquisa [2].
+Nesta pesquisa, seguiremos os príncipios éticos de pesquisas científicas envolvendo pessoas estabelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde [2]. Esses princípios incluem o respeito à autonomia dos indivíduos, a busca pelo benefício máximo com o mínimo de danos, a prevenção de danos previsíveis e a promoção da justiça e equidade. Essas diretrizes são especialmente relevantes em pesquisas que envolvem seres humanos, onde é imperativo respeitar a dignidade e a autonomia dos participantes, considerando os aspectos éticos ao longo de todo o processo de pesquisa [2].
 
-Além disso, todos os participantes deverão assinar o nosso Termo de Consetimento Livre e Esclarecido, descrito no nosso documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md), que modificado exatamente para a avaliação em questão e está descrito abaixo. O objetivo é obter a permissão dos participantes para realizar as atividades necessárias na criação desse artefato, garantindo o respeito por parte dos participantes durante e após a atividade.
+Além disso, todos os participantes deverão concordar o nosso Termo de Consentimento Livre e Esclarecido, descrito no nosso documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md), que foi modificado exatamente para a avaliação em questão e está descrito abaixo. O objetivo é obter a permissão dos participantes para realizar as atividades necessárias na criação desse artefato, garantindo o respeito por parte dos participantes durante e após a atividade.
 
 <br>
 
@@ -293,3 +293,4 @@ O teste piloto desta avaliação foi realizado no dia 23 de outubro de 2023, às
 |`1.1`|21/10/2023|Adicionanando "D" e "I"|[Gabriel Zaranza](https://github.com/gzaranza)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.2`|27/10/2023|Revisão do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - (não precisa de revisor) |
 |`1.3`|28/10/2023|Adicionando teste piloto|[Izabella Alves](https://github.com/izabellaalves)| [Lucas Ribeiro](https://github.com/lucassousz) |
+|`1.4`|28/10/2023|Adicionando data no Cronograma das avaliações|[Zenilda Vieira](https://github.com/zenildavieira)| [Lucas Ribeiro](https://github.com/lucassousz) |

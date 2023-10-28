@@ -160,13 +160,13 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>Consultar estabelecimento</td>
             <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Gilmar Santos</td>
+            <td>19:00</td>
+            <td>19:15</td>
+            <td>02/11/2023</td>
+            <td>Google Meet</td>
         </tr>
         <tr>
             <td></td>
@@ -257,6 +257,20 @@ Após a realização da avaliação, feita de acordo com as informações da tab
 
 O planejamento do relato detalhado de como todos os resultados serão apresentados está descrito no documento de [Planejamento de Relato dos Resultados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato-storyboard.md).
 
+## Teste piloto
+
+Um teste piloto é, de acordo com Barbosa e Silva, no livro Interação Humano Computador [1], uma etapa cujo propósito reside na avaliação do planejamento em si. Além disso, busca-se analisar se a avaliação, conforme inicialmente delineada, gera os dados necessários para abordar as questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto de maneira análoga a uma sessão de avaliação convencional. Desse modo, ele tem a oportunidade de verificar se a linguagem utilizada nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para guiar o participante durante a avaliação.
+
+O teste piloto desta avaliação foi realizado no dia 23 de outubro de 2023, às 10h, e durou 6 minutos e alguns segundos. No teste, tivemos a integrante [Izabella Alves](https://github.com/izabellaalves) como mediadora, e a integrante [Zenilda Vieira](https://github.com/zenildavieira) como participante do teste. O termo de consentimento livre e esclarecido, citado acima, foi lido para a participante, e ao aceite, o teste seguiu. Todas as perguntas propostas nesta avaliação foram lidas para a participante e respondidas pela mesma. Dito isso, através do teste piloto é possível concluir que a avaliação é válida para determinar se os [storyboards](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/storyboards.md) estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal, se as motivações e satisfações do usuário estão bem representadas, e encontrar erros e pontos de mudança. No vídeo 1 é possível encontrar o teste piloto realizado.
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/au-0al91fvM" target="blanket"><b>Vídeo 1:</b> Teste piloto do planejamento da avaliação dos storyboards.</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/au-0al91fvM" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+</div>
+
 ## Referências Bibliográficas
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -278,3 +292,4 @@ O planejamento do relato detalhado de como todos os resultados serão apresentad
 |`1.0`|21/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.1`|21/10/2023|Adicionanando "D" e "I"|[Gabriel Zaranza](https://github.com/gzaranza)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.2`|27/10/2023|Revisão do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - (não precisa de revisor) |
+|`1.3`|28/10/2023|Adicionando teste piloto|[Izabella Alves](https://github.com/izabellaalves)| [Lucas Ribeiro](https://github.com/lucassousz) |

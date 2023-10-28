@@ -86,6 +86,8 @@ Os padrões de ética que serão adotados nesta pesquisa estão de acordo com o 
 
 ## E - Avaliar, Interpretar e Apresentar os Dados
 
+Para garantir a qualidade e a relevância da pesquisa, serão realizadas duas etapas de avaliação dos resultados obtidos. Primeiro, será feita uma verificação da confiabilidade dos dados, ou seja, se eles são consistentes e precisos. Segundo, será feita uma verificação da validade externa da pesquisa, ou seja, se os resultados podem ser aplicados a outros contextos e situações. Essas etapas serão realizadas antes de apresentar a conclusão final da análise.
+
 ## Planejamento do Teste Piloto
 
 ## Resultado do Teste Piloto
@@ -105,4 +107,6 @@ Os padrões de ética que serão adotados nesta pesquisa estão de acordo com o 
 | `1.1`  | 28/10/2023 | Adição da metodologia e objetivo                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.2`  | 28/10/2023 | Adição de como lidamos com as questões eticas                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.3`  | 28/10/2023 | Adição da metodologia, O, E, C   | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
+| `1.4`  | 28/10/2023 | Adição do ultimo "E"   | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
+
 

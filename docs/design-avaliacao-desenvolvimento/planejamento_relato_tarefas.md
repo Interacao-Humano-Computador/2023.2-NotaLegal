@@ -61,15 +61,76 @@ Essa abordagem meticulosa de coleta de dados tem como objetivo garantir que tenh
 
 ### Recrutamento
 
+O processo de avaliação do site Nota Legal começa com a etapa de recrutamento dos entrevistados. Essas pessoas devem ser selecionadas com base nas características previamente definidas no [perfil de usuário](#) e nas [personas](#) estabelecidas. O número de entrevistados será igual ao número de integrantes no grupo, totalizando 6 usuários a serem entrevistados, fora o intrevistador. Essa abordagem foi escolhida para proporcionar a cada membro da equipe a oportunidade de interagir diretamente com os usuários, permitindo, desse modo, a coleta de perspectivas diversificadas.
+
+Essa diversidade de perspectivas desempenha um papel fundamental na avaliação do site Nota Legal, uma vez que enriquece o processo com uma ampla variedade de insights. Isso contribuirá para uma avaliação mais abrangente, identificação de oportunidades de aprimoramento e assegurará que o sistema seja capaz de atender efetivamente às necessidades de diversos perfis de usuários.
+
 ### Preparação
 
-### Custos
+Os entrevistadores terão a responsabilidade de conduzir as entrevistas com base no roteiro de perguntas fornecido e registrar cuidadosamente as respostas dos usuários. Durante a entrevista, é fundamental que sejam abordadas atividades relacionadas ao artefato de análise de tarefas, garantindo uma conexão direta entre a avaliação e as funcionalidades do site Nota Legal. Importante destacar que os papéis de entrevistador podem ser desempenhados por uma única pessoa ou por uma dupla, onde cada membro assume uma função específica, seja formulando as perguntas ou registrando as respostas.
+
+Além disso, os entrevistadores devem solicitar aos usuários que compartilhem suas telas, permitindo a realização do método de observação do usuário. Essa abordagem proporcionará insights valiosos ao observar como os usuários interagem com o site em tempo real, identificando desafios, preferências e áreas de melhoria de forma prática.
+
+Dessa forma, a entrevista e a observação do usuário se combinam para fornecer uma compreensão mais profunda da experiência do usuário com o site Nota Legal, ajudando a orientar as melhorias necessárias.
+
+### Recursos e ferramentas
+
+A tabela a seguir apresenta uma visão geral dos recursos e ferramentas que serão empregados no processo de avaliação do site Nota Legal. Esses elementos desempenham um papel fundamental na condução de uma avaliação completa e eficaz, garantindo que a equipe e os usuários possam interagir de forma acessível e eficiente. Esses recursos incluem plataformas de comunicação, equipamentos necessários, roteiros de perguntas, termo de consentimento, teste piloto e diagramas HTA, todos planejados para assegurar que a avaliação seja realizada de maneira transparente e eficaz.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2: Recursos e ferramentas</b> </p></font>
+
+| Recursos e Ferramentas                                      | Descrição                                                                |
+|------------------------------------------------------------|---------------------------------------------------------------------------|
+| Plataformas de Comunicação                                   |  Microsoft Teams, Google Meet                                          |
+| Equipamentos Necessários                                    |  Dispositivos com acesso à internet,  Aplicativos de comunicação (Microsoft Teams, Google Meet)|
+| Roteiro de Perguntas para Avaliação                           | Perguntas a serem respondidas durante a avaliação do site Nota Legal.    |
+| Roteiro de Perguntas para Entrevista                           | Perguntas a serem respondidas durante as entrevistas com os usuários.     |
+| Termo de Consentimento                                       | Documento para autorização formal dos participantes da avaliação.         |
+| Teste Piloto                                                | Etapa de verificação e ajuste da metodologia de avaliação.                |
+| Diagrama HTA para cada Tarefa Selecionada                   | Representação gráfica das tarefas a serem avaliadas no site Nota Legal.   |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
+
 
 ### Prazos
 
+No que diz respeito aos prazos, as entrevistas foram devidamente documentadas na Tabela 3, que apresenta um cronograma detalhado com os seguintes tópicos:
+
+- Entrevistador;
+- Entrevistado;
+- Horário de início e fim da entrevista;
+- Local e data em que a entrevista foi realizada.
+
+As gravações e resultados de cada entrevista estão disponíveis [AQUI](#), proporcionando acesso às informações detalhadas referentes a cada sessão de entrevista.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3: Horários das entrevistas </b> </p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local      |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
+
 ### Roteiro de Perguntas
 
+Durante a entrevista, os participantes terão acesso a capturas de tela que possibilitam uma visualização detalhada da tarefa em discussão, juntamente com o fluxo correspondente apresentado na tabela. Abaixo, na Tabela 4, você encontrará o roteiro de perguntas que será aplicado durante a entrevista. Essas perguntas foram cuidadosamente elaboradas com base nas questões que devem ser respondidas durante a avaliação, como explicado aqui.
+
+Este roteiro de perguntas servirá como um guia estruturado para as entrevistas, assegurando que todos os tópicos relevantes sejam explorados de maneira completa e eficaz.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4: Perguntas e Respostas </b> </p></font>
+  
+| Número |                                                              Pergunta                                                               |     Resposta Possíveis     |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
+
 ### Execução do roteiro
+
 
 ## D - Lidando com as Questões Éticas
 
@@ -106,7 +167,7 @@ Para garantir a qualidade e a relevância da pesquisa, serão realizadas duas et
 | `1.0`  | 28/10/2023 | introdução                     | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.1`  | 28/10/2023 | Adição da metodologia e objetivo                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.2`  | 28/10/2023 | Adição de como lidamos com as questões eticas                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
-| `1.3`  | 28/10/2023 | Adição da metodologia, O, E, C   | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
+| `1.3`  | 28/10/2023 | Adição da metodologia O, E, C   | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.4`  | 28/10/2023 | Adição do ultimo "E"   | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
-
+| `1.5`  | 28/10/2023 | Adição da metodologia I  | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 

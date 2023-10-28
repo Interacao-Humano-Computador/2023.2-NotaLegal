@@ -81,5 +81,5 @@ Os padrões de ética que serão adotados nesta pesquisa estão de acordo com o 
 | `1.0`  | 28/10/2023 | Criação do documento                      | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.0`  | 28/10/2023 | introdução                     | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.1`  | 28/10/2023 | Adição da metodologia e objetivo                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
-| `1.2`  | 28/10/2023 | Adição decomo lidamos com as questões eticas                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
+| `1.2`  | 28/10/2023 | Adição de como lidamos com as questões eticas                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 

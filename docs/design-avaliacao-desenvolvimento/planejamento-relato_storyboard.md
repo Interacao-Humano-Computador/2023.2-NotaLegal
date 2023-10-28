@@ -2,20 +2,26 @@
 
 ## Introdução
 
-A avaliação do storyboard é uma etapa crucial no desenvolvimento de qualquer projeto visual, onde o storyboard serve como um guia que ajuda a entender a narrativa, o fluxo de ação e os detalhes visuais de uma história. A avaliação desse storyboard é essencial para garantir que a visão do criador seja compreendida e que o produto final atenda às expectativas do público-alvo.
+A avaliação do storyboard é uma etapa crucial no desenvolvimento de qualquer projeto visual, onde o storyboard serve como um guia que ajuda a entender a narrativa, o fluxo de ação e os detalhes visuais de uma história. A avaliação desse storyboard é essencial para garantir que a visão do criador seja compreendida e que o produto final atenda às expectativas do público-alvo. Nesta fase do projeto, realizaremos uma avaliação detalhada do storyboard, analisando aspectos como clareza narrativa, composição visual, fluidez da história e coerência estilística e relataremos os resultados após a consolidação dos dados coletados.
 
-Nesta fase do projeto, realizamos uma avaliação detalhada do storyboard, analisando aspectos como clareza narrativa, composição visual, fluidez da história e coerência estilística. Que tem como objetivo, fornecer uma estrutura organizada para a coleta de dados durante sua fase de avaliação.
+Nesse documento, descreveremos o planejamento do relato dos resultados dessa avaliação, após o planejamento detalhado de como será feita a avaliação de cada um dos storyboards criados pelos integrantes do grupo ter sido feito (ver [planejamento-avaliacao-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md)). O planejamento do relato tem como objetivo fornecer uma estrutura organizada para a consolidação e a apresentação dos resultados.
 
 ## Metodologia
 
-(zenilda)
-Breve explicação do frameword DECIDE (link para a explicacao no doc de avaliação) dizendo q a metodologia dos relatos foi baseada no que e dito no livro de hc da simone barbosa, que descrece o que deve conter um relato de resultado de avaliacao
+O planejamento da avaliação dos storyboars foi realizado utilizando o [framework DECIDE](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#framework-decide). Seguindo a mesma linha de raciocínio, o planejamento do relato dos resultados foi definido levando em consideração os tópicos que os avaliadores costuma incluir, de acordo com o livro Interação Humano-Computador, de Barbosa e Diniz [1]:
+
+* Objetivos e escopo da avaliação;
+* Método que foi empregado na avaliação (como a avaliação foi realizada);
+* Número e perfil de usuários e avaliadores que participaram da avaliação;
+* Resumo dos dados coletados (descrições, tabelas, gráficos etc);
+* Problemas encontrados;
+* Planejamento para o reprojeto do sistema.
 
 ## Planejamento do Relato
 
-### Objetivos Gerais (D)
+### Objetivos Gerais
 
-O planejamento do relato dos resultados da avaliação do storyboard tem como objetivo central proporcionar uma compreensão abrangente e acessível do desempenho do projeto. Com a intenção de apresentar informações detalhadas sobre a clareza narrativa, composição visual, fluidez da história e coerência estilística do storyboard. Ao manter uma linguagem acessível e evitar formalidades excessivas, com o objetivo de garantir que as descobertas sejam compreendidas facilmente por todas as partes interessadas. Este relatório servirá como uma ferramenta essencial para orientar as próximas fases do projeto, promovendo uma comunicação clara e eficaz entre todos os envolvidos.
+O planejamento do relato dos resultados da avaliação do storyboard tem como objetivo central padronizar a forma como os resultados serão relatados, proporcionando uma compreensão abrangente e acessível do desempenho do projeto. Com a intenção de apresentar informações detalhadas sobre a clareza narrativa, composição visual, fluidez da história e coerência estilística do storyboard. Ao manter uma linguagem acessível e evitar formalidades excessivas, com o objetivo de garantir que as descobertas sejam compreendidas facilmente por todas as partes interessadas. Este relatório servirá como uma ferramenta essencial para orientar as próximas fases do projeto, promovendo uma comunicação clara e eficaz entre todos os envolvidos.
 
 ### Roteiro de Entrevista (E)
 

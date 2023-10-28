@@ -408,4 +408,4 @@ O teste piloto será conduzido de forma semelhante às entrevistas reais, mas n�
 | `1.1` |20/10/2023|Adição da Introdução e do Planejamento|[Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/gzaranza) |
 | `1.2` |22/10/2023|Adição de Perguntas da Entrevista e Referências|[Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/gzaranza) |
 | `1.3` |22/10/2023|Correções de texto e adição de detalhes|[Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/gzaranza) |
-| `1.4` |27/10/2023|Revisão|[Gabriel Zaranza](https://github.com/gzaranza)  | |
+| `1.4` |27/10/2023|Revisão|[Gabriel Zaranza](https://github.com/gzaranza)  |- (revisão não precisa de revisor)|

@@ -169,5 +169,5 @@ O objetivo principal da tarefa a seguir é consultar o resultado dos sorteios qu
 |`1.4`|12/10/2023|Adição do ctt de consultar resultado de sorteio|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.5`|12/10/2023|Adição do ctt de registrar nova reclamação|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.6`|12/10/2023|Adição do diagrama ctt de consultar extrato|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|`1.7`|13/10/2023|Revisão do ctt de registrar nova reclamação|[Zenilda Vieira](https://github.com/zenildavieira)| - |
+|`1.7`|13/10/2023|Revisão do ctt de registrar nova reclamação|[Zenilda Vieira](https://github.com/zenildavieira)| - (revisão não precisa de revisor) |
 |`1.8`|16/10/2023|Adição da legenda do diagrama ctt |[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|

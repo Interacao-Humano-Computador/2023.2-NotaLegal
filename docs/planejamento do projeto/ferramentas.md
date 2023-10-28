@@ -111,4 +111,4 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 |  `1.2`  | 13/09/2023 | Criação das Referências bibliográficas. | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 |  `1.3`  | 13/09/2023 |     Adição do Histórico de versões.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
 |  `1.4`  | 29/09/2023 |     Adição de novas Ferramentas.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
-|  `1.5`  | 11/10/2023 |     Revisão Ferramentas.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
+|  `1.5`  | 11/10/2023 |     Revisão Ferramentas.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | - (revisão não precisa de revisor)  |

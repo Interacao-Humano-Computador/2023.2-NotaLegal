@@ -70,6 +70,6 @@ Não foi possível utilizar a função de indicação de concessão de créditos
 | :----: | ---------- | ---------------------------------- | :--------------------------------------------------------: | :-------------------------------------------------------: |
 | `1.0`  | 28/09/2023 | Criação do documento               | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves)|
 | `1.1`  | 10/10/2023 | Inclusão dos requisitos elicitados | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves)|
-| `1.2`  | 12/10/2023 | Revisão |  [Izabella Alves](https://github.com/izabellaalves)| [Zenilda Vieira](https://github.com/zenildavieira) |
+| `1.2`  | 12/10/2023 | Revisão |  [Izabella Alves](https://github.com/izabellaalves)| - (revisão não precisa de revisor) |
 | `1.3`  | 13/10/2023 | Adição do vídeo da observação |  [Lucas Ribeiro](https://github.com/lucassouzs)| [Zenilda Vieira](https://github.com/zenildavieira) 
 | `1.4`  | 13/10/2023 | Padronizando a legenda da tabela 1 e fazendo citação no texto |  [Gabriel Zaranza](https://github.com/GZaranza)| [Zenilda Vieira](https://github.com/zenildavieira) 

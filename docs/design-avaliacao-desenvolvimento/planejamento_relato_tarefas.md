@@ -8,7 +8,28 @@ Por meio de entrevistas e análises, com base no [perfil de usuário](https://gi
 
 ## Metodologia
 
+A metodologia utilizada para fazer esse documento de Planejamento da Avaliação da Análise de Tarefas é a seguinte:
+
+*- Seguir o framework DECIDE, que é um guia para o planejamento de uma avaliação, composto por seis etapas: **Determinar**, **Explorar**, **Escolher**, **Identificar**, **Decidir** e **Avaliar**;
+
+*- Para cada etapa, descrever os passos realizados, os critérios utilizados, os resultados obtidos e as dificuldades encontradas*;
+
+*- Utilizar as técnicas e ferramentas adequadas para cada etapa, de acordo com os objetivos e as questões da avaliação*;
+
+*- Documentar todo o processo de avaliação, incluindo os dados coletados, as análises realizadas e as conclusões tiradas*;
+
+*- Apresentar os resultados da avaliação de forma clara e objetiva, destacando os pontos fortes e fracos da análise de tarefas realizada*;
+
 ## D - Objetivos
+
+Os objetivos deste tópico seguindo o framework DECIDE são:
+
+*- Determinar as metas e os objetivos da avaliação da análise de tarefas do site Nota Legal*;
+
+*- Definir para quem a avaliação é importante e por quê*;
+
+*- Estabelecer o escopo e o foco da avaliação, considerando as limitações de tempo, recursos e ética*.
+
 
 ## E - Explorar Perguntas Respondidas com a Avaliação
 
@@ -46,6 +67,7 @@ Por meio de entrevistas e análises, com base no [perfil de usuário](https://gi
 
 | Versão | Data       | Descrição                                 | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 28/10/2023 | Criação do documento                      | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro (https://github.com/lucassouzs)   |
-| `1.0`  | 28/10/2023 | introdução                     | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro (https://github.com/lucassouzs)   |
+| `1.0`  | 28/10/2023 | Criação do documento                      | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
+| `1.0`  | 28/10/2023 | introdução                     | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
+| `1.1`  | 28/10/2023 | Adição da metodologia e objetivo                     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 

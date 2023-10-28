@@ -48,6 +48,14 @@ nav:
     - Metas de Usabilidade: analise de requisitos II/metas_de_usabilidade.md
     - Características Gerais da Plataforma: analise de requisitos II/caracteristicas_da_plataforma.md
     - Guia de Estilo: analise de requisitos II/guia_de_estilo.md
+  - Design, Avaliação e Desenvolvimento:
+    - Storyboard: 
+      - Storyboards: design-avaliacao-desenvolvimento/storyboards.md
+      - Planejamento da Avaliação dos Storyboards: design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md
+      - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md
+    - Análise de Tarefas:
+      - Planejamento da Avaliação da Análise de Tarefas: design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md
+      - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md
     
 theme:
   name: material

@@ -5,7 +5,7 @@ Este texto é baseado no documento [Planejamento da avaliação da Análise de t
 
 ## Metodologia
 
-O relato de resultados da análise de tarefas consiste em uma descrição detalhada dos passos realizados pelos usuários para executar as tarefas propostas, bem como das dificuldades, erros e sugestões encontradas durante o processo. O relato também apresenta uma avaliação quantitativa e qualitativa dos dados coletados, utilizando os critérios definidos no documento do planejamento da avaliação [2]. O objetivo do relato é fornecer um feedback aos desenvolvedores do sistema sobre a usabilidade, a eficiência e a satisfação dos usuários com as funcionalidades oferecidas pelo sistema.
+O relato de resultados da análise de tarefas consiste em uma descrição detalhada dos passos realizados pelos usuários para executar as tarefas propostas, bem como das dificuldades, erros e sugestões encontradas durante o processo. O relato também apresenta uma avaliação quantitativa e qualitativa dos dados coletados, utilizando os critérios definidos no documento do planejamento da avaliação. O objetivo do relato é fornecer um feedback aos desenvolvedores do sistema sobre a usabilidade, a eficiência e a satisfação dos usuários com as funcionalidades oferecidas pelo sistema.
 
 Os elementos de avaliação são:
 
@@ -30,11 +30,16 @@ Neste tópico, o autor do documento deverá explicar o motivo pelo qual essa ava
 
 Neste tópico, o autor do documento deverá descrever qual foi o procedimento adotado para coletar os dados necessários para a avaliação da análise de tarefas do site Nota Legal. O autor deverá explicar como a avaliação foi conduzida, quais foram os métodos utilizados, quem foram os participantes, quais foram as tarefas realizadas, etc. Além disso, para complementar as informações, deverá ser incluído o cronograma executado durante o processo de avaliação. Para padronizar a apresentação do cronograma, iremos ilustrar na tabela 1, o exemplo de como um item de cronograma deve ser estruturado.
 
+<div align="center">
+<p>Tabela 1: Exemplo de cronograma executado<p>
+</div>
+
 | Data | Entrevistador | Entrevistado | Local | Horário |
 | ---- | ----------------- | --------------------- | ----- | ------- |
 
-Tabela 1: Exemplo de cronograma executado (Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023).
-
+<div align="center">
+<p>Fonte: Lucas de Oliveira, 2023.<p>
+</div>
 
 ### Sumário de avaliadores e participantes
 Além de apresentar o cronograma executado durante a avaliação da análise de tarefas, é importante também ter uma visão geral do público que foi entrevistado, para entender melhor suas características e perfis. Para isso, deverá ser feito um resumo que identifique esses usuários e o possível perfil de cada um deles, de acordo com os critérios definidos no perfil de usuário. Esse resumo deverá conter informações como idade, gênero, escolaridade, renda, frequência de uso do site Nota Legal, etc.
@@ -50,10 +55,10 @@ Finalmente, serão feitas propostas de correções para cada um dos problemas id
 
 ## Bibliografia
 
-> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versão
 
 | Versão |    Data    |                        Descrição                        |    Autor(es)     |  Revisor(es)  |
 | :----: | :--------: | :-----------------------------------------------------: | :--------------: | :-----------: |
-| `1.0`  | 28/10/2023 | Criação da versão inicial do planejamento de resultados | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | |
+| `1.0`  | 28/10/2023 | Criação da versão inicial do planejamento de resultados | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/izabellaalves)|

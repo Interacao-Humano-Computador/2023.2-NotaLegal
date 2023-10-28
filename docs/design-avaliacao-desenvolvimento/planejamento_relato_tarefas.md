@@ -151,6 +151,10 @@ Para garantir a qualidade e a relevância da pesquisa, serão realizadas duas et
 
 ## Planejamento do Teste Piloto
 
+Antes de conduzir as entrevistas reais com os participantes, será realizado um teste piloto com dois avaliadores. O teste piloto tem como objetivo garantir que o planejamento esteja funcionando adequadamente, verificar a clareza das perguntas e avaliar a eficácia das ferramentas utilizadas.
+
+O teste piloto será conduzido de forma semelhante às entrevistas reais, mas não envolverá participantes do site Nota Legal. Qualquer ajuste necessário no planejamento será feito com base no feedback dos avaliadores. 
+
 ## Resultado do Teste Piloto
 
 ## Bibliografia
@@ -170,4 +174,5 @@ Para garantir a qualidade e a relevância da pesquisa, serão realizadas duas et
 | `1.3`  | 28/10/2023 | Adição da metodologia O, E, C   | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.4`  | 28/10/2023 | Adição do ultimo "E"   | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.5`  | 28/10/2023 | Adição da metodologia I  | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
+| `1.6`  | 28/10/2023 | Adição do planejameto do teste piloto   | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)   |
 

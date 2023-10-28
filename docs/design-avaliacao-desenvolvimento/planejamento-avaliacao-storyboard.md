@@ -143,7 +143,7 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
     <tbody>
         <tr>
             <td></td>
-            <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+            <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
             <td></td>
             <td></td>
             <td></td>
@@ -151,12 +151,12 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
             <td></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Desbloquear saldo</td>
+            <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+            <td>Carlos Barreto</td>
+            <td>16:00</td>
+            <td>16:15</td>
+            <td>29/10/2023</td>
             <td></td>
         </tr>
         <tr>

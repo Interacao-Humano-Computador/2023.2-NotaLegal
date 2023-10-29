@@ -79,8 +79,8 @@ Modelo de tabela de perguntas e respostas:
 
 ### Resposta da pergunta aberta
 
-* 8 - Houve algum elemento que você não compreendeu no storyboard?
-* 
+8 - Houve algum elemento que você não compreendeu no storyboard?
+
 Resposta:
 
 ### Consolidação e análise dos dados

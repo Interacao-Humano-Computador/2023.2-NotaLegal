@@ -96,7 +96,7 @@ Na figura 3, é possível ver o storyboard da tarefa Consultar estabelecimento.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> Storyboard da tarefa Consultar estabelecimento</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard-izabella.jpg?raw=true'" style="width: 65%;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/5a8005d3dbd82ff58655819dad6fd650a53dd6f4/docs/imagens/storyboards/storyboard-izabella.jpg" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>

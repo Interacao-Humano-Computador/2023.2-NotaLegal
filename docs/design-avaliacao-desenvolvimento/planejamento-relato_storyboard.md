@@ -23,24 +23,13 @@ O planejamento da avaliação dos storyboars foi realizado utilizando o [framewo
 
 O relato dos resultados da avaliação do storyboard deve conter os objetivos gerais e o escopo da avaliação que estão descritos no planejamento da avaliação [2], assim como deve apresentar os dados coletados, a consolidação dos resultados e os problemas encontrados, proporcionando uma compreensão abrangente e acessível da avaliação feita. Com a intenção de apresentar informações detalhadas sobre a clareza narrativa, composição visual, fluidez da história e coerência estilística do storyboard deve-se manter uma linguagem acessível e evitar formalidades excessivas, com o objetivo de garantir que as descobertas sejam compreendidas facilmente por todas as partes interessadas.
 
-### Métodos Empregados na avaliação
+### Métodos Empregados na Avaliação
 
-A avaliação dos storyboards criados pela equipe seguirá o planejado na avaliação de storyboard [2]. O método utilizado será o de investigação com a técnica de entrevista. Todas essas informações citadas devem estar presentes no documento de relato da avaliação. As perguntas serão fechadas, tendo apenas uma questão aberta no final. Tais questões constam no planejamento da avaliação [2], abaixo duplicadas:
+A avaliação dos storyboards criados pela equipe seguirá o planejado na avaliação de storyboard [2]. O método utilizado será o de investigação com a técnica de entrevista. Todas essas informações citadas devem estar presentes no documento de relato da avaliação. As perguntas serão fechadas, tendo apenas uma questão aberta no final. Tais questões constam no planejamento da avaliação em [Roteiro de Entrevista (E) - planejamento-avaliacao-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#roteiro-de-entrevista-e).
 
-#### Perguntas
+É necessário incluir no relato as perguntas e as respostas do entrevistado e um resumo dos demais dados coletados na entrevista, tais como descrições, tabelas, gráficos etc, se houverem.
 
-* A história contada pelo storyboard representa a realidade?
-* As ações realizadas pelo ator principal condizem com as ações realizadas na prática?
-* Você se identifica com a motivação do ator principal para realizar a tarefa?
-* Você consegue entender o storyboard e as ações desenvolvidas nele?
-* Você acha que o storyboard resolve o problema em questão?
-* Você acha que a satisfação do ator principal condiz com a realidade?
-* As ações realizadas no storyboard seguem uma ordem sequencial, fluida e lógica?
-* Houve algum elemento que você não compreendeu no storyboard?
-
-É necessário incluir no relato as respostas do entrevistado e um resumo dos demais dados coletados na entrevista, tais como descrições, tabelas, gráficos etc, se houverem.
-
-### Aspectos Práticos do Relato
+### Aspectos Práticos da Avaliação
 
 É preciso também descrever como os aspectos práticos da avaliação foram executados, desde o recrutamento e preparação até como a avaliação foi realizada, em detalhes. O relato deve conter o nome do avaliador, o número de entrevistados e o nome e o perfil de cada um deles, o nome da pessoa envolvida na análise dos resultados e das demais pessoas envolvidas no processo. Deve ser apresentado o cronograma planejado do horário e local da entrevista e o cronograma efetivamente realizado. Informações como orçamento e equipamentos utilizados também devem ser relatadas.
 

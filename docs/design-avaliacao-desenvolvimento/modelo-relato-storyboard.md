@@ -18,7 +18,7 @@ Descrever os aspectos éticos como descrito em [Aspectos Éticos - planejamento-
 
 ### Avaliação e Apresentação dos Dados
 
-Transcrever perguntas, respostas e consolidação dos dados como definido em [Avaliação e Apresentação dos Dados - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+Transcrever perguntas, respostas e demais dados coletados.
 
 ### Respostas das perguntas fechadas
 
@@ -85,12 +85,12 @@ Resposta:
 
 ### Consolidação e análise dos dados
 
-Descrever a análise dos dados como descrito em [Aspectos Éticos - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#aspectos-%C3%A9ticos).
+Descrever a análise dos dados como descrito em [Avaliação e Apresentação dos Dados - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
 
 ## Bibliografia
 
 >
-> 
+>
 
 ## Histórico de Versão
 

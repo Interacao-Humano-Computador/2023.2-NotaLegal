@@ -120,7 +120,7 @@ Na figura 5, é possível ver o storyboard da tarefa Consultar reclamação.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> Storyboard da tarefa Consultar reclamação</p></font>
 
-<img src="" style="width: 65%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard-lucas-ribeiro.jpg" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -167,3 +167,4 @@ Na Figura 7 a seguir é apresentado o StoryBoard da tarefa Consultar resultado d
 |`1.0`|21/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.1`|21/10/2023|Inclusão do storyboard "consultar resultado de sorteio"|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.2`|23/10/2023|Inclusão do storyboard "registrar reclamação"|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.3`|28/10/2023|Inclusão do storyboard "consultar reclamação"|[Lucas Ribeiro](https://github.com/lucassouzs)|[Zenilda Vieira](https://github.com/zenildavieira)|

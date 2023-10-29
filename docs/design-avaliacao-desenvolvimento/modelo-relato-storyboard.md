@@ -10,7 +10,7 @@ Descrição dos métodos empregados de acordo com [Métodos Empregados na Avalia
 
 ### Aspectos Práticos da Avaliação
 
-Descrever os aspectos práticos como descrito em [Aspectos Práticos da Avaliação - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#aspectos-pr%C3%A1ticos-do-relato).
+Descrever os aspectos práticos como descrito em [Aspectos Práticos da Avaliação - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#aspectos-pr%C3%A1ticos-da-avalia%C3%A7%C3%A3o).
 
 ### Aspectos Éticos
 
@@ -18,7 +18,9 @@ Descrever os aspectos éticos como descrito em [Aspectos Éticos - planejamento-
 
 ### Avaliação e Apresentação dos Dados
 
-Transcrever perguntas, respostas e consolidação dos dados como definido em [Perguntas - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#m%C3%A9todos-empregados-na-avalia%C3%A7%C3%A3o) e [Avaliação e Apresentação dos Dados - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados)
+Transcrever perguntas, respostas e consolidação dos dados como definido em [Avaliação e Apresentação dos Dados - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+
+### Respostas das perguntas fechadas
 
 Modelo de tabela de perguntas e respostas:
 
@@ -78,9 +80,12 @@ Modelo de tabela de perguntas e respostas:
 ### Resposta da pergunta aberta
 
 * 8 - Houve algum elemento que você não compreendeu no storyboard?
+* 
 Resposta:
 
 ### Consolidação e análise dos dados
+
+Descrever a análise dos dados como descrito em [Aspectos Éticos - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#aspectos-%C3%A9ticos).
 
 ## Bibliografia
 

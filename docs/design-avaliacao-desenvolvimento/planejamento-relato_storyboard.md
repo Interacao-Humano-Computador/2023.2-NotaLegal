@@ -43,7 +43,7 @@ Após registrar todos os itens anteriores, deve ser relatado no documento a aná
 
 ## Documento modelo para o relato dos resultados
 
-O documento [modelo-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/modelo-relato-storyboard.md) deve ser usado como base para o relato dos resultados da avaliação de cada storyboard que for feita por cada integrante da equipe. Esse arquivo markdown deve ser copiado e renomeado de acordo com o seguinte padrão: _relato-storyboard-titulo-do-storyboard.md_ onde _titulo-do-storyboard_ deve ser substituído pelo nome do storyboard avaliado.
+O documento [modelo-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/modelo-relato-storyboard.md) deve ser usado como base para o relato dos resultados da avaliação de cada storyboard que for feita por cada integrante da equipe. Ele deve servir de exemplo e pode ser alterado de acordo com a necessidade do relato. Esse arquivo markdown deve ser copiado e renomeado de acordo com o seguinte padrão: _relato-storyboard-titulo-do-storyboard.md_ onde _titulo-do-storyboard_ deve ser substituído pelo nome do storyboard avaliado.
 
 ## Bibliografia
 

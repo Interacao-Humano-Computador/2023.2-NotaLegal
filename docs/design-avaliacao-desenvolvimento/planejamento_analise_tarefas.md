@@ -295,13 +295,13 @@ Os participantes selecionados responderam afirmativamente à pergunta sobre a di
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>Consultar resultado de sorteio</td>
             <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Manuella Marques</td>
+            <td>09:00</td>
+            <td>09:15</td>
+            <td>02/11/2023</td>
+            <td>Presencial</td>
         </tr>
     </tbody>
 </table>

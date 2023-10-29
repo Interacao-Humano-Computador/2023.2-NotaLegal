@@ -85,6 +85,15 @@ O economista é redirecionado para o Portal de Serviços da Receita da Secretari
 
 ### Consultar Estabelecimento
 
+_Descrição do cenário:_ <br>
+_Atores: Maria, administradora._ <br>
+_Ambiente ou contexto: Os arredores do trabalho de Maria._ <br>
+_Objetivos: Maria deseja encontrar uma fármacia parceira do programa Nota Legal para que ela possa comprar seu remédio._ <br>
+_Planejamento: Ela planeja verificar no site Nota Legal as farmácias parceiras._ <br>
+_Ações: Ela pesquisa as fármacias próximas ao seu trabalho, e depois verifica cada uma das fármacias no site Nota Legal._ <br>
+_Eventos: O site lhe mostra quais as fármacias parceiras._ <br>
+_Avaliação: Maria consegue cumprir seu objetivo de forma simples e clara._
+
 [Maria](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-prim%C3%A1ria-2-maria-alves-teles-administradora) é formada em administração e trabalha na administração de uma empresa localizada no centro da cidade há muitos anos. Uma vez por mês, após o trabalho, Maria costuma ir até uma farmácia comprar uma caixa de seu remédio diário. Ao chegar em casa, ela verifica se a nota fiscal foi cadastrada corretamente, para que possa reunir créditos para o desconto do Nota Legal ao final do ano.
 
 Porém, a farmácia que Maria frequentava fechou. Maria deseja continuar com o costume de comprar mensalmente seu remédio após o trabalho. Então ela decidiu verificar quais farmácias localizadas nos arredores de seu trabalho também são cadastradas no programa Nota Legal, para que ela possa continuar ganhando o desconto.

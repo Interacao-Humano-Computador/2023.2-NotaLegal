@@ -20,7 +20,7 @@ Descrever os aspectos éticos como descrito em [Aspectos Éticos - planejamento-
 
 Transcrever perguntas, respostas e demais dados coletados.
 
-### Respostas das perguntas fechadas
+#### Respostas das perguntas fechadas
 
 Modelo de tabela de perguntas e respostas:
 
@@ -77,13 +77,13 @@ Modelo de tabela de perguntas e respostas:
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/xxx">xxx</a>, 2023</p></font>
 </div>
 
-### Resposta da pergunta aberta
+#### Resposta da pergunta aberta
 
 8 - Houve algum elemento que você não compreendeu no storyboard?
 
 Resposta:
 
-### Consolidação e análise dos dados
+#### Consolidação e análise dos dados
 
 Descrever a análise dos dados como descrito em [Avaliação e Apresentação dos Dados - planejamento-relato-storyboard.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
 

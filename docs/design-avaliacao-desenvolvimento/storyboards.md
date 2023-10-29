@@ -103,12 +103,16 @@ Na figura 3, é possível ver o storyboard da tarefa Consultar estabelecimento.
 
 ### Visualizar recibo fiscal
 
+Descrição do StoryBoard:
+
+A história desse storyboard se passa na rotina de Luiz (uma de nossas personas), um consumidor que gosta de acompanhar seus gastos e benefícios do programa Nota Legal (ambiente). Ele é o protagonista desta história (pessoa envolvida). A motivação para o uso da aplicação (motivação de usar a aplicação/sistema) se baseia em verificar se seus recibos fiscais estão sendo registrados corretamente e se ele está recebendo os créditos correspondentes (tarefa). Para isso, ele precisa acessar o aplicativo do Nota Legal, fazer login, escolher a opção de visualizar recibos fiscais e selecionar o período desejado (o que é preciso fazer para completar a tarefa). Ao final, ele consegue ver seus recibos fiscais detalhados e conferir se está tudo certo (satisfação da pessoa ao completar a tarefa).
+
 Na figura 4, é possível ver o storyboard da tarefa Visualizar recibo fiscal.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 4:</b> Storyboard da tarefa  Visualizar recibo fiscal</p></font>
 
-<img src="" style="width: 65%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard-lucas_oliveira.png?raw=true" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
@@ -168,3 +172,4 @@ Na Figura 7 a seguir é apresentado o StoryBoard da tarefa Consultar resultado d
 |`1.1`|21/10/2023|Inclusão do storyboard "consultar resultado de sorteio"|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.2`|23/10/2023|Inclusão do storyboard "registrar reclamação"|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.3`|28/10/2023|Inclusão do storyboard "consultar reclamação"|[Lucas Ribeiro](https://github.com/lucassouzs)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.4`|29/10/2023|Inclusão do storyboard "Visualizar recibo fiscal"|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|

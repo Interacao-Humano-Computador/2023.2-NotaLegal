@@ -93,6 +93,8 @@ Na figura 2, é possível ver o storyboard da tarefa "Desbloquear saldo".
 
 Descrição do StoryBoard:
 
+A história desse storyboard é sobre a personagem Maria (uma de nossas personas) que está na rua _(ambiente)_ e vê que a fármacia, utilizada frequentemente por ela para comprar seus remédios, fechou _(motivação para usar o sistema)_. Sendo assim, ela decide pesquisar novas farmácias parceiras do Nota Legal, onde possa comprar seus remédios. Ela entra no site Nota Legal, com o objetivo de consultar os estabelecimentos, em especial fármacias _(tarefa)_. Após navegar pelo site, ela consegue realizar a tarefa que desejava, e fica feliz pois encontra fármacias parceiras do Nota Legal _(satisfação da pessoa ao completar a tarefa)_.
+
 Na figura 3, é possível ver o storyboard da tarefa Consultar estabelecimento.
 
 <div align="center">

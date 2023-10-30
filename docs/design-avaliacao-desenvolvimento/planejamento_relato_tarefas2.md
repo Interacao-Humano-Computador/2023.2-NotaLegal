@@ -55,20 +55,20 @@ Neste tópico, o autor do documento deverá descrever qual foi o procedimento ad
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
             <td>Registar uma reclamação</td>
             <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
             <td>Wellington</td>
             <td>20:00</td>
             <td>20:15</td>
+            <td>02/11/2023</td>
+            <td>Presencial</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+            <td>Carlos Barreto</td>
+            <td> 16:30</td>
+            <td>16:45</td>
             <td>02/11/2023</td>
             <td>Presencial</td>
         </tr>

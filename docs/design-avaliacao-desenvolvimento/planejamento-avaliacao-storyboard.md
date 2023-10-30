@@ -142,13 +142,13 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
     </thead>
     <tbody>
         <tr>
-            <td></td>
+            <td>Consultar uma reclamação</td>
             <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Wellington</td>
+            <td>20:00</td>
+            <td>20:15</td>
+            <td>02/11/2023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Desbloquear saldo</td>

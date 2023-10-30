@@ -268,13 +268,13 @@ Os participantes selecionados responderam afirmativamente à pergunta sobre a di
             <td>Google Meet</td>
         </tr>
         <tr>
-            <td></td>
+            <td>Visualizar recibo fiscal</td>
             <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Francinete de Oliveira</td>
+            <td>20:00</td>
+            <td>20:15</td>
+            <td>02/11/2023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar reclamação</td>

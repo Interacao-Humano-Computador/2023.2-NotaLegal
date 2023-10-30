@@ -286,13 +286,13 @@ Os participantes selecionados responderam afirmativamente à pergunta sobre a di
             <td>Presencial</td>
         </tr>
         <tr>
-            <td></td>
+            <td>Consultar extrato</td>
             <td><a href="https://github.com/lucas13032003">Lucas Víctor</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Alecsandra Ferreira</td>
+            <td>19:30</td>
+            <td>19:45</td>
+            <td>02/11/20023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar resultado de sorteio</td>

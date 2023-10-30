@@ -43,7 +43,7 @@ Na tabela 1 é possível verificar o membro responsável por cada storyboard.
         </tr>
         <tr>
             <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-            <td>Indicar Crédito</td>
+            <td>Consultar extrato</td>
         </tr>
         <tr>
             <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
@@ -137,17 +137,20 @@ Na figura 5, é possível ver o storyboard da tarefa Consultar reclamação.
 
 Descrição do StoryBoard:
 
-A história desse StoryBoard se passa durante a virada do ano, onde a persona Luís comemora a chegada do novo ano com seus amigos. Logo no início de janeiro, como parte de sua tradição anual, ele acessa o site do programa Nota Legal para realizar suas indicações referentes ao IPTU de sua residência. Após concluir todo o processo e fazer as indicações, Luís consegue obter um desconto significativo em sua dívida de imposto, deixando-o extremamente contente.
+A história desse StoryBoard conta com a presença da persona [Luís](#).
 
-Na figura 6, é possível ver o storyboard da tarefa Indicar Crédito.
+Luís passou por uma semana movimentada, fazendo várias compras em lugares como supermercados e farmácias. Ele estava cuidando de sua saúde e atendendo às necessidades de sua casa, o que o levou a acumular várias notas fiscais. Quando a semana chegou ao fim, Luís decidiu que era hora de verificar seu extrato no site do programa Nota Legal. Com seu computador à disposição, ele acessou a plataforma e inseriu o período de consulta. Ele estava ansioso para conferir seu histórico de compras e sabia que isso era importante. Para sua satisfação, ao verificar o extrato, Luís percebeu que todas as compras que ele havia feito estavam devidamente registradas. Ele sentiu um grande alívio por ter mantido todas as notas fiscais e seguido o processo de inserção delas no site, sabendo que isso resultaria em benefícios futuros. A sensação de ter tudo em ordem e um registro de suas despesas foi recompensadora, deixando-o satisfeito por sua organização e pela tranquilidade de saber que estava cumprindo suas obrigações fiscais da melhor maneira possível.
+
+Na figura 6, é possível ver o storyboard da tarefa Consultar Extrato.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 6:</b> Storyboard da tarefa Indicar Crédito</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 6:</b> Storyboard da tarefa Consultar Extrato</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard_Lucas_Victor.png?raw=true" style="width: 65%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard_cosultar_credito.jpeg?raw=true" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
+
 
 ### Consultar resultado de sorteio
 

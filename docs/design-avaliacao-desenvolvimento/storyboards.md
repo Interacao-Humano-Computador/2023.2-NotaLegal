@@ -43,7 +43,7 @@ Na tabela 1 é possível verificar o membro responsável por cada storyboard.
         </tr>
         <tr>
             <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-            <td>Consultar extrato</td>
+            <td>Indicar Crédito</td>
         </tr>
         <tr>
             <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
@@ -133,12 +133,14 @@ Na figura 5, é possível ver o storyboard da tarefa Consultar reclamação.
 
 Descrição do StoryBoard:
 
-Na figura 6, é possível ver o storyboard da tarefa Consultar extrato.
+A história desse StoryBoard se passa durante a virada do ano, onde a persona Luís comemora a chegada do novo ano com seus amigos. Logo no início de janeiro, como parte de sua tradição anual, ele acessa o site do programa Nota Legal para realizar suas indicações referentes ao IPTU de sua residência. Após concluir todo o processo e fazer as indicações, Luís consegue obter um desconto significativo em sua dívida de imposto, deixando-o extremamente contente.
+
+Na figura 6, é possível ver o storyboard da tarefa Indicar Crédito.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 6:</b> Storyboard da tarefa Consultar extrato</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 6:</b> Storyboard da tarefa Indicar Crédito</p></font>
 
-<img src="" style="width: 65%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard_Lucas_Victor.png?raw=true" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>

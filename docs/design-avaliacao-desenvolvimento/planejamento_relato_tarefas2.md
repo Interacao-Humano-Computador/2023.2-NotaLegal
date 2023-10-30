@@ -35,8 +35,7 @@ Neste tópico, o autor do documento deve fornecer uma explicação detalhada sob
 
 ### Método
 
-Neste tópico, o autor do documento deverá descrever qual foi o procedimento adotado para coletar os dados necessários para a avaliação da análise de tarefas do site Nota Legal. O autor deverá explicar como a avaliação foi conduzida, quais foram os métodos utilizados, quem foram os participantes, quais foram as tarefas realizadas, etc. Além disso, para complementar as informações, deverá ser incluído o cronograma executado durante o processo de avaliação. Para padronizar a apresentação do cronograma, iremos ilustrar na tabela 1, o exemplo de como um item de cronograma deve ser estruturado.
-
+Neste tópico, o autor do documento deverá descrever qual foi o procedimento adotado para coletar os dados necessários para a avaliação da análise de tarefas do site Nota Legal. O autor deverá explicar como a avaliação foi conduzida, quais foram os métodos utilizados, quem foram os participantes, quais foram as tarefas realizadas, etc. Além disso, para complementar as informações, deverá ser incluído o cronograma executado durante o processo de avaliação. Para padronizar a apresentação do cronograma, iremos utilizar a tabela 1, para colocarmos o cronograma executado.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b>Cronograma Executado</p></font>
@@ -58,28 +57,28 @@ Neste tópico, o autor do documento deverá descrever qual foi o procedimento ad
             <td>Registrar uma reclamação</td>
             <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
             <td>Wellington</td>
-            <td>20:00</td>
-            <td>20:15</td>
-            <td>02/11/2023</td>
-            <td>Presencial</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>Desbloquar Saldo</td>
             <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
             <td>Carlos Barreto</td>
-            <td> 16:30</td>
-            <td>16:45</td>
-            <td>02/11/2023</td>
-            <td>Presencial</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>Consultar estabelecimento</td>
             <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
             <td>Gilmar Santos</td>
-            <td>17:00</td>
-            <td>17:15</td>
-            <td>02/11/2023</td>
-            <td>Google Meet</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -94,28 +93,28 @@ Neste tópico, o autor do documento deverá descrever qual foi o procedimento ad
             <td>Consultar reclamação</td>
             <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
             <td>Gisele Ribeiro</td>
-            <td>20:00</td>
-            <td>20:15</td>
-            <td>02/11/2023</td>
-            <td>Presencial</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>Consultar extrato</td>
             <td><a href="https://github.com/lucas13032003">Lucas Víctor</a></td>
             <td>Alecsandra Ferreira</td>
-            <td>19:30</td>
-            <td>19:45</td>
-            <td>02/11/20023</td>
-            <td>Presencial</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>Consultar resultado de sorteio</td>
             <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
             <td>Manuella Marques</td>
-            <td>09:00</td>
-            <td>09:15</td>
-            <td>02/11/2023</td>
-            <td>Presencial</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>

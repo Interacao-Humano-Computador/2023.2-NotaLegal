@@ -55,7 +55,7 @@ Neste tópico, o autor do documento deverá descrever qual foi o procedimento ad
     </thead>
     <tbody>
         <tr>
-            <td>Registar uma reclamação</td>
+            <td>Registrar uma reclamação</td>
             <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
             <td>Wellington</td>
             <td>20:00</td>
@@ -64,7 +64,7 @@ Neste tópico, o autor do documento deverá descrever qual foi o procedimento ad
             <td>Presencial</td>
         </tr>
         <tr>
-            <td></td>
+            <td>Desbloquar Saldo</td>
             <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
             <td>Carlos Barreto</td>
             <td> 16:30</td>
@@ -100,13 +100,13 @@ Neste tópico, o autor do documento deverá descrever qual foi o procedimento ad
             <td>Presencial</td>
         </tr>
         <tr>
-            <td></td>
+            <td>Consultar extrato</td>
             <td><a href="https://github.com/lucas13032003">Lucas Víctor</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Alecsandra Ferreira</td>
+            <td>19:30</td>
+            <td>19:45</td>
+            <td>02/11/20023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar resultado de sorteio</td>
@@ -179,3 +179,4 @@ Finalmente, uma vez que o propósito desta atividade frequentemente está relaci
 | :----: | :--------: | :-----------------------------------------------------: | :--------------: | :-----------: |
 | `1.0`  | 28/10/2023 | Criação da versão inicial do planejamento de resultados | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/izabellaalves)|
 | `1.2`  | 29/10/2023 | Adição e melhoria dos tópicos, tabelas, feedback.       | [Lucas Víctor](https://github.com/lucas13032003) | [Izabella Alves](https://github.com/izabellaalves)|
+| `1.3`  | 30/10/2023 | Atualização da tabela.       | [Lucas Víctor](https://github.com/lucas13032003) | [Izabella Alves](https://github.com/izabellaalves)|

@@ -383,7 +383,7 @@ O teste piloto será conduzido de forma semelhante às entrevistas reais, mas n�
         <tr>
             <td>1</td>
             <td>23/10/2023</td>
-            <td>18:00 - 18:15</td>
+            <td>18:00 - 18:20</td>
             <td>Plataforma Microsoft Teams (Online)</td>
             <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> 
             <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td></td>
@@ -393,6 +393,18 @@ O teste piloto será conduzido de forma semelhante às entrevistas reais, mas n�
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
+
+O teste piloto desta avaliação foi realizado no dia 23 de outubro de 2023, às 18:15h, e terminou às 18:29h. No teste, tivemos o integrante <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>  como mediador, e o integrante <a href="https://github.com/GZaranza">Gabriel Zaranza</a> como participante do teste. Todas as perguntas propostas nesta avaliação foram lidas para o participante e respondidas por ele mesmo. Dito isso, através do teste piloto é possível concluir que a avaliação é válida para determinar se as análises de tarefas estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal, e encontrar erros e pontos de mudança. No vídeo 1 é possível encontrar o teste piloto realizado.
+
+<div align="center">
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=E4gaSs_6Dug&ab_channel=GabrielZaranza" target="blanket"><b>Vídeo 1:</b> Teste piloto do planejamento da avaliação das análises de tarefas.</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=E4gaSs_6Dug&ab_channel=GabrielZaranza" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+
 
 ## Referências Bibliográficas
 
@@ -408,4 +420,4 @@ O teste piloto será conduzido de forma semelhante às entrevistas reais, mas n�
 | `1.1` |20/10/2023|Adição da Introdução e do Planejamento|[Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/gzaranza) |
 | `1.2` |22/10/2023|Adição de Perguntas da Entrevista e Referências|[Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/gzaranza) |
 | `1.3` |22/10/2023|Correções de texto e adição de detalhes|[Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/gzaranza) |
-| `1.4` |27/10/2023|Revisão|[Gabriel Zaranza](https://github.com/gzaranza)  |- (revisão não precisa de revisor)|
+| `1.4` |27/10/2023|Revisão|[Gabriel Zaranza](https://github.com/gzaranza)  ||

@@ -399,7 +399,7 @@ O teste piloto desta avaliação foi realizado no dia 23 de outubro de 2023, às
 <div align="center">
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=E4gaSs_6Dug&ab_channel=GabrielZaranza" target="blanket"><b>Vídeo 1:</b> Teste piloto do planejamento da avaliação das análises de tarefas.</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=E4gaSs_6Dug&ab_channel=GabrielZaranza" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E4gaSs_6Dug" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>

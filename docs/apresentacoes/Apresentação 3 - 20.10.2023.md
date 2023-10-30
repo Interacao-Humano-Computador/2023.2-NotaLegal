@@ -10,7 +10,8 @@ O propósito desta página é hospedar a apresentação da Terceira Entrega em f
 
 <p style="text-align: center"><a href="https://youtu.be/YYIZo0he24s" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Apresentação 3</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/YYIZo0he24s" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YYIZo0he24s" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>

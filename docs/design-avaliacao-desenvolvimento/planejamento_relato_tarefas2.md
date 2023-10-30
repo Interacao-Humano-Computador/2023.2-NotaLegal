@@ -154,18 +154,59 @@ Finalmente, uma vez que o propósito desta atividade frequentemente está relaci
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2: </b>Sugestões de Correções</p></font>
 
-| Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
-| :---------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: |
-| <a href="https://github.com/GZaranza">Gabriel Zaranza</a>                           |                   |                |            |
-| <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>                         |                   |                |            |
-| <a href="https://github.com/izabellaalves">Izabella Alves</a>                       |                   |                |            |
-| <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> |                   |                |            |
-| <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>                           |                   |                |            |
-| <a href="https://github.com/lucas13032003">Lucas Víctor</a>                         |                   |                |            |
-| <a href="https://github.com/zenildavieira">Zenilda Vieira</a>                       |                   |                |            |
 
+<table>
+  <tr>
+    <th>Executor(a) do Reprojeto</th>
+    <th>Horário de Início</th>
+    <th>Horário de Fim</th>
+    <th>Data</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucas13032003">Lucas Víctor</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b>[Lucas Víctor](https://github.com/lucas13032003), 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Lucas Víctor, 2023</p></font>
 </div>
 
 ## Bibliografia

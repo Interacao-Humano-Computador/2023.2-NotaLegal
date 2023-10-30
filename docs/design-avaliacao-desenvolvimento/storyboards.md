@@ -77,12 +77,14 @@ Na figura 1, é possível ver o storyboard da tarefa "Registrar nova reclamaçã
 
 Descrição do StoryBoard:
 
+A história desse storyboard é sobre o personagem Luiz (uma de nossas personas) que está em sua casa _(ambiente)_ e deseja ver o seu saldo no Nota Legal para usá-lo em indicações _(motivção para usar o sistema)_ , porém, ao entrar no site, ele percebe que seu saldo está bloqueado. Luiz deseja desbloquear esse saldo _(tarefa)_ antes do perído de indicação, então ele foi na aba "desbloquear" para visualizar os documentos fiscais bloqueados e depois foi redirecionado para o site da Secretaria da Fazenda do Distrito Federal (SEFAZ-DF), onde preencheu o formulário. Após um tempo, o seu saldo foi desbloqueada e Luiz pode usa-lo para realizar a indicação e conseguir desconto no IPVA _(satisfação da pessoa ao completar a tarefa)_.
+
 Na figura 2, é possível ver o storyboard da tarefa "Desbloquear saldo".
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Storyboard da tarefa Desbloquear saldo</p></font>
 
-<img src="" style="width: 65%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard_desbloquear_saldo.jpeg?raw=true" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>

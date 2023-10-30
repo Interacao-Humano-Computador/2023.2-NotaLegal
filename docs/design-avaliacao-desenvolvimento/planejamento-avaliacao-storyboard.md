@@ -187,13 +187,13 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
             <td>Presencial</td>
         </tr>
         <tr>
-            <td></td>
+            <td>Consultar extrato</td>
             <td><a href="https://github.com/lucas13032003">Lucas Víctor</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Alecsandra Ferreira</td>
+            <td>19:00</td>
+            <td>19:15</td>
+            <td>02/11/2023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar resultado de sorteio</td>

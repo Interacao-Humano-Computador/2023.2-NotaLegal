@@ -182,3 +182,4 @@ Na Figura 7 a seguir é apresentado o StoryBoard da tarefa Consultar resultado d
 |`1.2`|23/10/2023|Inclusão do storyboard "registrar reclamação"|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.3`|28/10/2023|Inclusão do storyboard "consultar reclamação"|[Lucas Ribeiro](https://github.com/lucassouzs)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`1.4`|29/10/2023|Inclusão do storyboard "Visualizar recibo fiscal"|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.5`|30/10/2023|Inclusão do storyboard "Consultar extrato""|  <a href="https://github.com/lucas13032003">Lucas Víctor</a> | [Lucas Ribeiro](https://github.com/lucassouzs)|

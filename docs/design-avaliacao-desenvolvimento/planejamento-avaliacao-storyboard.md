@@ -157,7 +157,7 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
             <td>16:00</td>
             <td>16:15</td>
             <td>02/11/2023</td>
-            <td></td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar estabelecimento</td>

@@ -169,13 +169,13 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
             <td>Google Meet</td>
         </tr>
         <tr>
-            <td></td>
+            <td>Visualizar Recibo Fiscal</td>
             <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Francinete de Oliveira Dias</td>
+            <td>20:30</td>
+            <td>20:45</td>
+            <td>02/11/2023</td>
+            <td>Google Meet</td>
         </tr>
         <tr>
             <td>Consultar reclamação</td>

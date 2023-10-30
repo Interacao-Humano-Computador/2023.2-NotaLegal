@@ -142,7 +142,7 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
     </thead>
     <tbody>
         <tr>
-            <td>Consultar uma reclamação</td>
+            <td>Registrar uma reclamação</td>
             <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
             <td>Wellington</td>
             <td>20:00</td>

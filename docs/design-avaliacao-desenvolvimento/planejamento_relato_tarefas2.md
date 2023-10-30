@@ -81,9 +81,9 @@ Neste tópico, o autor do documento deverá descrever qual foi o procedimento ad
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>Visualizar recibo fiscal</td>
             <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-            <td></td>
+            <td>Francinete de Oliveira</td>
             <td></td>
             <td></td>
             <td></td>

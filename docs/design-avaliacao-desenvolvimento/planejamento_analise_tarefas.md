@@ -277,13 +277,13 @@ Os participantes selecionados responderam afirmativamente à pergunta sobre a di
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>Consultar reclamação</td>
             <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Gisele Ribeiro</td>
+            <td>20:00</td>
+            <td>20:15</td>
+            <td>02/11/2023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td></td>

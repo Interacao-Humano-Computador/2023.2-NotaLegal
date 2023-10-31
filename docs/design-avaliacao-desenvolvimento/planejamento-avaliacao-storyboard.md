@@ -43,7 +43,7 @@ Os objetivos gerais que irão guiar a avaliação do Storyboard são:
 
 Afim de alcançar dados que verifiquem nossos objetivos, optamos por realizar uma entrevista principalmente com perguntas fechadas. As perguntas em questão terão uma linguagem simplificada, para facilitar a compreensão do participante.
 
-As perguntas selecionadas estão descritas na tabela 1, bem como as possíveis respostas.
+As perguntas selecionadas estão descritas na tabela 1, bem como as possíveis respostas e o objetivo que será avaliado com cada questão.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Roteiro de perguntas</p></font>
@@ -54,6 +54,7 @@ As perguntas selecionadas estão descritas na tabela 1, bem como as possíveis r
             <th>ID</th>
             <th>Pergunta</th>
             <th>Resposta</th>
+            <th>Objetivo avaliado</th>
         </tr>
     </thead>
     <tbody>
@@ -61,41 +62,49 @@ As perguntas selecionadas estão descritas na tabela 1, bem como as possíveis r
             <td>1</td>
             <td>A história contada pelo storyboard representa a realidade?</td>
             <td>Sim, não ou não sei responder</td>
+            <td>Avaliar se os Storyboards estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal</td>
         </tr>
         <tr>
             <td>2</td>
             <td>As ações realizadas pelo ator principal condizem com as ações realizadas na prática?</td>
             <td>Sim, não ou não sei responder</td>
+            <td>Avaliar se os Storyboards estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Você se identifica com a motivação do ator principal para realizar a tarefa?</td>
             <td>Sim, não ou não sei responder</td>
+            <td>Avaliar se as motivações e satisfações do usuário estão representadas nos storyboards</td>
         </tr>
         <tr>
             <td>4</td>
             <td>Você consegue entender o storyboard e as ações desenvolvidas nele?</td>
             <td>Sim, não ou não sei responder</td>
+            <td>Avaliar se os Storyboards estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal</td>
         </tr>
         <tr>
             <td>5</td>
             <td>Você acha que o storyboard resolve o problema em questão?</td>
             <td>Sim, não ou não sei responder</td>
+            <td>Encontrar erros ou pontos de mudança nos Storyboards</td>
         </tr>
         <tr>
             <td>6</td>
             <td>Você acha que a satisfação do ator principal condiz com a realidade?</td>
             <td>Sim, não ou não sei responder</td>
+            <td>Avaliar se as motivações e satisfações do usuário estão representadas nos storyboards</td>
         </tr>
         <tr>
             <td>7</td>
             <td>As ações realizadas no storyboard seguem uma ordem sequencial, fluida e lógica?</td>
             <td>Sim, não ou não sei responder</td>
+            <td>Encontrar erros ou pontos de mudança nos Storyboards</td>
         </tr>
         <tr>
             <td>8</td>
             <td>Houve algum elemento que você não compreendeu no storyboard?</td>
             <td>Questão aberta</td>
+            <td>Encontrar erros ou pontos de mudança nos Storyboards</td>
         </tr>
     </tbody>
 </table>
@@ -109,7 +118,7 @@ Muitos métodos são utilizados para realizar avaliações no ramo da Interaçã
 
 Nesta avaliação, usaremos o método de investigação, ele pode envolver questionários, entrevistas, grupos de foco e estudos de campo, permitindo ao avaliador entender as opiniões, expectativas e comportamentos dos usuários em relação ao que está sendo avaliado, neste caso, os [storyboards](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/storyboards.md).
 
-A técnica de investigação que usaremos será a entrevista, e ao todo, 7 pessoas serão entrevistadas, pois, de acordo com Jakob Nielsen em seu livro "Usability Engineering", testes individuais de usabilidade podem ser realizados com cerca de 5 a 15 participantes. A entrevista trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado [1]. Além disso, as perguntas realizadas durante a entrevista serão principalmente perguntas fechadas, visto que este tipo de perguntas pode ser analisado mais rapidamente e o entrevistado em questão provavelmente já conhece as prováveis respostas.
+A técnica de investigação que usaremos será a entrevista, e ao todo, 7 pessoas serão entrevistadas, pois, de acordo com Jakob Nielsen em seu livro "Usability Engineering" [3], testes individuais de usabilidade podem ser realizados com cerca de 5 a 15 participantes. A entrevista trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado [1]. Além disso, as perguntas realizadas durante a entrevista serão principalmente perguntas fechadas, visto que este tipo de perguntas pode ser analisado mais rapidamente e o entrevistado em questão provavelmente já conhece as prováveis respostas.
 
 ### Aspectos Práticos da Avaliação (I)
 
@@ -277,6 +286,7 @@ O teste piloto desta avaliação foi realizado no dia 23 de outubro de 2023, às
 >
 > [2] BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 21/10/2023.
 >
+> [3] NIELSEN, Jakob. Usability Engineering. 1. ed. São Paulo: Campus, 1994. 261 p. ISBN 85-7001-252-X. Acesso em: 31/10/2023.
 
 ## Bibliografia
 
@@ -294,3 +304,4 @@ O teste piloto desta avaliação foi realizado no dia 23 de outubro de 2023, às
 |`1.2`|27/10/2023|Revisão do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - (não precisa de revisor) |
 |`1.3`|28/10/2023|Adicionando teste piloto|[Izabella Alves](https://github.com/izabellaalves)| [Lucas Ribeiro](https://github.com/lucassousz) |
 |`1.4`|28/10/2023|Adicionando data no Cronograma das avaliações|[Zenilda Vieira](https://github.com/zenildavieira)| [Lucas Ribeiro](https://github.com/lucassousz) |
+|`1.5`|31/10/2023|Correção após apresentação|[Izabella Alves](https://github.com/izabellaalves)| [Lucas Ribeiro](https://github.com/lucassousz) |

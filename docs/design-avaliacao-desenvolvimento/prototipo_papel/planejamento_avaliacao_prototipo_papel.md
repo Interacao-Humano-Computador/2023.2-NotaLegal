@@ -89,7 +89,7 @@ A Tabela 2 resume as etapas do DECIDE e seu significado.
         </tr>
         <tr>
             <td align="center">C</td>
-            <td>(Choose) Escolher os métodos de avaliação</td>
+            <td>Escolher os métodos de avaliação</td>
         </tr>
         <tr>
             <td align="center">I</td>
@@ -101,7 +101,7 @@ A Tabela 2 resume as etapas do DECIDE e seu significado.
         </tr>
         <tr>
             <td align="center">E</td>
-            <td>(Evaluate) Avaliar, interpretar e apresentar os dados</td>
+            <td>Avaliar, interpretar e apresentar os dados</td>
         </tr>
     </tbody>
 </table>

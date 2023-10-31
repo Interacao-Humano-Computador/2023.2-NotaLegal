@@ -244,25 +244,23 @@ Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu ap
 
 ## E - Avaliar, interpretar e apresentar os dados
 
-### Coleta de dados
 
-
-
-### Interpretação dos dados
-
-
-
-### Consolidação dos resultados
-
-
-
-### Apresentação dos resultados
-
-Após a finalização das entrevistas, os dados coletados devem ser analisados
 
 ## Planejamto do Teste Piloto
 
+Um teste piloto é, de acordo com Barbosa e Silva, no livro Interação Humano Computador [1], uma etapa cujo propósito reside na avaliação do planejamento em si. Além disso, busca-se analisar se a avaliação, conforme inicialmente delineada, gera os dados necessários para abordar as questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto de maneira análoga a uma sessão de avaliação convencional. Desse modo, ele tem a oportunidade de verificar se a linguagem utilizada nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para guiar o participante durante a avaliação.
 
+O teste piloto desta avaliação foi realizado no dia taltal, às xxh, e durou cerca de x minutos. No teste, tivemos o integrante [Lucas Ribeiro](https://github.com/lucassouzs) como mediador, e o integrante [xxxx](https://github.com/xxxx) como participante do teste. O termo de consentimento livre e esclarecido, citado acima, foi lido para a participante, e ao aceite, o teste seguiu. Todas as perguntas propostas nesta avaliação foram lidas para a participante e respondidas pela mesma. Dito isso, através do teste piloto é possível concluir que a avaliação é válida para determinar se os [storyboards](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/storyboards.md) estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal, se as motivações e satisfações do usuário estão bem representadas, e encontrar erros e pontos de mudança. No vídeo 1 é possível encontrar o teste piloto realizado.
+
+<div align="center">
+<p style="text-align: center"><a href="" target="blanket"><b>Vídeo 1:</b> Teste piloto do planejamento da avaliação do Protótipo de Papel</a></p>
+
+<iframe width="560" height="315" src="" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+Vídeo 1: Teste piloto do planejamento da avaliação do Protótipo de Papel.
 
 ## Referência Bibliográfica
 

@@ -17,31 +17,31 @@ A Tabela 1 apresenta as tarefas a serem prototipadas e usadas durante a avaliaç
     <th>Tarefas que podem ser executadas no site do Nota Legal</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td align="center">1</td>
     <td>Registrar nova reclamação</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td align="center">2</td>
     <td>Desbloquear saldo</td>
   </tr>
   <tr>
-    <td>3</td>
+    <td align="center">3</td>
     <td>Consultar estabelecimento</td>
   </tr>
   <tr>
-    <td>4</td>
+    <td align="center">4</td>
     <td>Visualizar recibo fiscal</td>
   </tr>
   <tr>
-    <td>5</td>
+    <td align="center">5</td>
     <td>Consultar reclamação</td>
   </tr>
   <tr>
-    <td>6</td>
+    <td align="center">6</td>
     <td>Consultar extrato</td>
   </tr>
   <tr>
-    <td>7</td>
+    <td align="center">7</td>
     <td>Consultar resultado de sorteio</td>
   </tr>
 </table>
@@ -80,27 +80,27 @@ A Tabela 2 resume as etapas do DECIDE e seu significado.
     </thead>
     <tbody>
         <tr>
-            <td>D</td>
+            <td align="center">D</td>
             <td>Determinar os objetivos gerais da avaliação</td>
         </tr>
         <tr>
-            <td>E</td>
+            <td align="center">E</td>
             <td>Explorar perguntas a serem feitas na avaliação</td>
         </tr>
         <tr>
-            <td>C</td>
+            <td align="center">C</td>
             <td>(Choose) Escolher os métodos de avaliação</td>
         </tr>
         <tr>
-            <td>I</td>
+            <td align="center">I</td>
             <td>Identificar e administrar as questões práticas da avaliação</td>
         </tr>
         <tr>
-            <td>D</td>
+            <td align="center">D</td>
             <td>Decidir como lidar com as questões éticas</td>
         </tr>
         <tr>
-            <td>E</td>
+            <td align="center">E</td>
             <td>(Evaluate) Avaliar, interpretar e apresentar os dados</td>
         </tr>
     </tbody>

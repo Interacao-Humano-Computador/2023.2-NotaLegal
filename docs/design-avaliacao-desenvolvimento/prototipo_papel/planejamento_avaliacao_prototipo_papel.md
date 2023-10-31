@@ -9,7 +9,7 @@ O principal objetivo é comparar e avaliar ideias e alternativas de design atrav
 A Tabela 1 apresenta as tarefas a serem prototipadas e usadas durante a avaliação para o Nota Legal. O objetivo da simulação é avaliar a interface e interação delas, visando melhorá-las para o protótipo de alta fidelidade.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tarefas do Nota Legal</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1: Tarefas do Nota Legal</p></font>
 
 <table>
   <tr>

@@ -207,9 +207,58 @@ Além disso, é necessário que os participantes sejam completamente informados 
 
 Estes princípios éticos formam a base sólida sobre a qual esta avaliação é conduzida, assegurando não apenas a validade dos resultados, mas também o respeito pelos direitos e dignidade de todos os envolvidos.
 
+Além disso, todos os participantes deverão concordar o nosso Termo de Consentimento Livre e Esclarecido, descrito no nosso documento de [Aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md), que foi modificado exatamente para a avaliação em questão e está descrito abaixo. O objetivo é obter a permissão dos participantes para realizar as atividades necessárias na criação desse artefato, garantindo o respeito por parte dos participantes durante e após a atividade.
+
+<div align="center"><p><strong>TERMO DE CONSENTIMENTO PARA PARTICIPAÇÃO EM PESQUISA</strong></p></div>
+
+**Título da Pesquisa:** Avaliação do Protótipo de Papel do Site "Nota Legal"
+
+**Instituição:** Faculdade do Gama - Universidade de Brasília (FGA/UNB)
+
+**Disciplina:** Interação Humano-Computador
+
+Prezado(a) participante,
+
+Você está sendo convidado(a) a participar de uma pesquisa acadêmica conduzida por estudantes da Faculdade do Gama - Universidade de Brasília (FGA/UNB), como parte da disciplina de Interação Humano-Computador. O objetivo desta pesquisa é avaliar o Protótipo de Papel do site "Nota Legal".
+
+**Duração:** A pesquisa deve levar em média 10 minutos para ser concluída.
+
+**Riscos e Benefícios:** Não são esperados riscos significativos ao participar desta pesquisa. Os benefícios incluem contribuir para a validação do prototipo de papel do site "Nota Legal" e ajudar a melhorar sua usabilidade.
+
+**Confidencialidade:** Suas respostas serão mantidas em estrita confidencialidade. Os dados coletados serão usados apenas para fins acadêmicos e não serão compartilhados com terceiros não autorizados. Seus dados pessoais não serão divulgados em nenhum momento.
+
+**Participação Voluntária:** Sua participação nesta pesquisa é totalmente voluntária. Você tem o direito de recusar-se a participar ou de interromper sua participação a qualquer momento, sem penalizações.
+
+**Contato:**
+Se tiver alguma dúvida ou preocupação sobre esta pesquisa, entre em contato com [integrante da equipe responsável pelo protótipo de papel], responsável pela entrevista, pelo e-mail [email do integrante da equipe].
+
+**Consentimento:** Ao prosseguir com a pesquisa, você está indicando que leu este termo de consentimento, entendeu seus direitos e concorda em participar voluntariamente. Você pode retirar seu consentimento a qualquer momento, sem consequências negativas.
+
+Se você concorda em participar desta pesquisa, clique no botão "Concordo" abaixo.
+
+* [ ] Concordo em participar da pesquisa.
+
+* [ ] Não concordo em participar da pesquisa.
+
+Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu apoio é fundamental para o sucesso deste estudo.
+
 ## E - Avaliar, interpretar e apresentar os dados
 
+### Coleta de dados
 
+
+
+### Interpretação dos dados
+
+
+
+### Consolidação dos resultados
+
+
+
+### Apresentação dos resultados
+
+Após a finalização das entrevistas, os dados coletados devem ser analisados
 
 ## Planejamto do Teste Piloto
 

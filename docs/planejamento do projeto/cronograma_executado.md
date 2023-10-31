@@ -541,6 +541,180 @@ Na tabela 3 encontram-se as datas do cronograma executado para a etapa de Princ�
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
+## Entrega 4 - Planejamento da Avaliação do Storyboard e Análise de tarefas - Data de Entrega: 30/out/2023
+
+Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Planejamento da Avaliação do Storyboard e Análise de tarefas.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma executado para a etapa de Planejamento da Avaliação do Storyboard e Análise de tarefas</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Planejamento da Avaliação do Storyboard (definir métodos)</td>
+      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Planejamento da Avaliação da Análise de tarefas (definir métodos)</td>
+      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Definir cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas</td>
+      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+      </td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Definir e planejar o teste piloto e data para realização</td>
+      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
+      </td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Realizar o teste piloto e fazer correções se necessárias</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a>
+      </td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Realizar a avaliação</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+      </td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Planejar e documentar o relato dos resultados da avaliação do Storyboard</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+      </td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Planejar e documentar o relato dos resultados da avaliação do Análise de tarefas.</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+      </td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Gravação 4</td>
+      <td>25/out</td>
+      <td>31/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>26/out</td>
+      <td>31/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 4</td>
+      <td>25/out</td>
+      <td>25/out</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+      </td>
+      <td>25/out</td>
+      <td>25/out</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
 ## Bibliografia
 
 > Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>. Acesso em 27 de setembro de 2023.
@@ -556,3 +730,4 @@ Na tabela 3 encontram-se as datas do cronograma executado para a etapa de Princ�
 | `1.1`  | 27/09/2023 | Inclusão das atividades, datas e reponsáveis no cronograma. | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Gabriel Rosa](https://github.com/gabrielrosa09) |
 | `1.2`  | 16/10/2023 | Inclusão do cronograma executado da entrega 2 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.3`  | 23/10/2023 | Inclusão do cronograma executado da entrega 3 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.4`  | 31/10/2023 | Inclusão do cronograma executado da entrega 4 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    |  [Gabriel Rosa](https://github.com/gabrielrosa09) |

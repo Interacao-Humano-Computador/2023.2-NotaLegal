@@ -564,107 +564,84 @@ Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Planej
     <tr>
       <td>Planejamento da Avaliação do Storyboard (definir métodos)</td>
       <td>Início: 19/out <br> Fim: 21/out</td>
-      <td>Início: 30/out <br> Fim: 30/out</td>
+      <td>Início: 21/out <br> Fim: 30/out</td>
       <td>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
         <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
       </td>
       <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 30/out <br> Fim: 31/out</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
       </td>
     </tr>
     <tr>
       <td>Planejamento da Avaliação da Análise de tarefas (definir métodos)</td>
       <td>Início: 19/out <br> Fim: 21/out</td>
-      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>Início: 20/out <br> Fim: 22/out</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
       </td>
       <td>Início: 22/out <br> Fim: 27/out</td>
-      <td>Início: 20/out <br> Fim: /out</td>
+      <td>Início: 26/out <br> Fim: 27/out</td>
       <td>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
       </td>
     </tr>
     <tr>
-      <td>Definir cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas</td>
+      <td>Definir, planejar e executar o teste piloto e data para realização - storyboard</td>
       <td>Início: 19/out <br> Fim: 21/out</td>
-      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>Início: 21/out <br> Fim: 23/out</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
       <td>
         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
       </td>
     </tr>
     <tr>
-      <td>Definir e planejar o teste piloto e data para realização</td>
+      <td>Definir, planejar e executar o teste piloto e data para realização - análise de tarefas</td>
       <td>Início: 19/out <br> Fim: 21/out</td>
-      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>Início: 20/out <br> Fim: 23/out</td>
       <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
       </td>
       <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Realizar o teste piloto e fazer correções se necessárias</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>
-        <a href="https://github.com/izabellaalves">Izabella Alves</a>
-      </td>
-      <td>Início: 24/out <br> Fim: 25/out</td>
       <td>Início: 24/out <br> Fim: 25/out</td>
       <td>
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Realizar a avaliação</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
-      </td>
-      <td>Início: 24/out <br> Fim: 25/out</td>
-      <td>Início: 24/out <br> Fim: 25/out</td>
-      <td>
-        <a href="https://github.com/izabellaalves">Izabella Alves</a>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
       </td>
     </tr>
     <tr>
       <td>Planejar e documentar o relato dos resultados da avaliação do Storyboard</td>
       <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 27/out <br> Fim: 28/out</td>
       <td>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 24/out <br> Fim: 25/out</td>
-      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>Início: 29/out <br> Fim: 30/out</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+        <a href="https://github.com/lucas13032003">Lucas Victor</a>
       </td>
     </tr>
     <tr>
       <td>Planejar e documentar o relato dos resultados da avaliação do Análise de tarefas.</td>
       <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
-      </td>
-      <td>Início: 24/out <br> Fim: 25/out</td>
-      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>Início: 28/out <br> Fim: 30/out</td>
       <td>
         <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+       <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+      </td>
+      <td>Início: 24/out <br> Fim: 25/out</td>
+      <td>Início: 30/out <br> Fim: 31/out</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a>
       </td>
     </tr>
     <tr>
@@ -683,18 +660,18 @@ Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Planej
       <td>26/out</td>
       <td>31/out</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 4</td>
       <td>25/out</td>
-      <td>25/out</td>
+      <td>31/out</td>
       <td>
         <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
       </td>
       <td>25/out</td>
-      <td>25/out</td>
+      <td>31/out</td>
       <td>
         <a href="https://github.com/izabellaalves">Izabella Alves</a>
       </td>

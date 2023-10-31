@@ -128,7 +128,7 @@ Na figura 5, é possível ver o storyboard da tarefa Consultar reclamação.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> Storyboard da tarefa Consultar reclamação</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard-lucas-ribeiro.jpg" style="width: 65%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/storyboards/storyboard-lucas-ribeiro.jpg?raw=true" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>

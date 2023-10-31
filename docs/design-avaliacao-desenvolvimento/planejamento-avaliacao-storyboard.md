@@ -109,7 +109,7 @@ Muitos métodos são utilizados para realizar avaliações no ramo da Interaçã
 
 Nesta avaliação, usaremos o método de investigação, ele pode envolver questionários, entrevistas, grupos de foco e estudos de campo, permitindo ao avaliador entender as opiniões, expectativas e comportamentos dos usuários em relação ao que está sendo avaliado, neste caso, os [storyboards](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/storyboards.md).
 
-A técnica de investigação que usaremos será a entrevista. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado [1]. Além disso, as perguntas realizadas durante a entrevista serão principalmente perguntas fechadas, visto que este tipo de perguntas pode ser analisado mais rapidamente e o entrevistado em questão provavelmente já conhece as prováveis respostas.
+A técnica de investigação que usaremos será a entrevista, e ao todo, 7 pessoas serão entrevistadas, pois, de acordo com Jakob Nielsen em seu livro "Usability Engineering", testes individuais de usabilidade podem ser realizados com cerca de 5 a 15 participantes. A entrevista trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado [1]. Além disso, as perguntas realizadas durante a entrevista serão principalmente perguntas fechadas, visto que este tipo de perguntas pode ser analisado mais rapidamente e o entrevistado em questão provavelmente já conhece as prováveis respostas.
 
 ### Aspectos Práticos da Avaliação (I)
 
@@ -166,7 +166,7 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
             <td>19:00</td>
             <td>19:15</td>
             <td>02/11/2023</td>
-            <td>Google Meet</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Visualizar Recibo Fiscal</td>
@@ -175,7 +175,7 @@ O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá
             <td>20:30</td>
             <td>20:45</td>
             <td>02/11/2023</td>
-            <td>Google Meet</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar reclamação</td>

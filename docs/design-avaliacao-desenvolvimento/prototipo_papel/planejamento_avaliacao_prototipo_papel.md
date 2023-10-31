@@ -211,7 +211,7 @@ Cada membro da equipe é encarregado de preparar e organizar os recursos necess�
 O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de avaliação é identificada pelo nome do entrevistador (membro da equipe), entrevistado, horário de início e término da entrevista, além da data e do local onde ocorreu.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cronograma das avaliações do Protótipo de Papel</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cronograma das avaliações do Protótipo de Papel</p></font>
 
 <table>
     <thead>

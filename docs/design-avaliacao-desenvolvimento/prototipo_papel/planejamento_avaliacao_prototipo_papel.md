@@ -195,6 +195,26 @@ A simulação de uso é uma parte do processo de avaliação. Ela permite que os
 
 No final da simulação de uso, é comum fazer perguntas ao usuário sobre sua experiência com o protótipo. Estas perguntas podem abordar vários aspectos, desde a coerência da sequência de elementos de interação até a disposição dos elementos na interface. As respostas a estas perguntas podem fornecer informações valiosas para refinar e melhorar o design.
 
+## I - Identificar e administrar as questões práticas da avaliação
+
+
+
+## D - Decidir como lidar com as questões éticas
+
+Durante o processo de avaliação, é crucial aderir a princípios éticos para garantir a integridade da pesquisa e o bem-estar dos participantes. O respeito à privacidade e confidencialidade dos participantes é fundamental. Todos os dados coletados serão utilizados exclusivamente para fins de pesquisa, e em nenhum momento serão compartilhados com terceiros.
+
+Além disso, é necessário que os participantes sejam completamente informados sobre os objetivos da pesquisa. Antes de participar das entrevistas, eles serão apresentados aos propósitos do estudo e terão a oportunidade de dar seu consentimento informado de maneira clara e compreensível. É importante destacar que os participantes têm o direito de interromper a entrevista a qualquer momento, caso sintam desconforto ou decidam não continuar sua participação.
+
+Estes princípios éticos formam a base sólida sobre a qual esta avaliação é conduzida, assegurando não apenas a validade dos resultados, mas também o respeito pelos direitos e dignidade de todos os envolvidos.
+
+## E - Avaliar, interpretar e apresentar os dados
+
+
+
+## Planejamto do Teste Piloto
+
+
+
 ## Referência Bibliográfica
 
 [1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Acessado em: 30/10/2023.

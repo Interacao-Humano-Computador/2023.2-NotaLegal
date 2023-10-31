@@ -196,6 +196,8 @@ No final da simulação de uso, é comum fazer perguntas ao usuário sobre sua e
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
+Na condução de uma boa avaliação, é essencial atender a uma série de aspectos práticos que garantem a atenção e a precisão do processo. Nesta seção, abordaremos três elementos-chave:
+
 ### Recrutamento
 
 Para a Avaliação do Protótipo de Papel, o recrutamento dos usuários será uma responsabilidade compartilhada por todos os integrantes da equipe. Cada membro terá a tarefa de recrutar um usuário de acordo com o Perfil de Usuário estabelecido. Esse processo de recrutamento é essencial para garantir que tenhamos uma variedade representativa de usuários, proporcionando uma avaliação abrangente e significativa do protótipo.
@@ -204,9 +206,94 @@ Para a Avaliação do Protótipo de Papel, o recrutamento dos usuários será um
 
 Cada membro da equipe é encarregado de preparar e organizar os recursos necessários para sua própria avaliação. Isso inclui a definição do local da avaliação (presencial ou remoto), horário das entrevistas, preparação de materiais e equipamentos (como as perguntas a serem feitas durante a entrevista, câmera, gravador de voz etc.) e a elaboração do [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-éticos-d). Esta distribuição de responsabilidades garante que cada avaliação seja conduzida de maneira adequada e eficiente, com todos os recursos essenciais disponíveis para uma avaliação completa e detalhada do protótipo.
 
-### Prazos
+### Cronograma
 
-O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá o nome do entrevistador (membro da equipe), entrevistado, horário de início e fim da entrevista, data e local onde ocorreu a entrevista.
+O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de avaliação é identificada pelo nome do entrevistador (membro da equipe), entrevistado, horário de início e término da entrevista, além da data e do local onde ocorreu.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cronograma das avaliações do Protótipo de Papel</p></font>
+
+<table>
+    <thead>
+        <tr>
+            <th>Protótipo de Papel</th>
+            <th>Entrevistador(a)</th>
+            <th>Entrevistado(a)</th>
+            <th>Horário de início</th>
+            <th>Horário de fim</th>
+            <th>Data</th>
+            <th>Local</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Registrar uma reclamação</td>
+            <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Desbloquear saldo</td>
+            <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Consultar estabelecimento</td>
+            <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Visualizar Recibo Fiscal</td>
+            <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Consultar reclamação</td>
+            <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Consultar extrato</td>
+            <td><a href="https://github.com/lucas13032003">Lucas Víctor</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Consultar resultado de sorteio</td>
+            <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>>, 2023.</p></font>
+</div>
 
 ## D - Decidir como lidar com as questões éticas
 

@@ -46,7 +46,6 @@ A Tabela 1 apresenta as tarefas a serem prototipadas e usadas durante a avaliaç
   </tr>
 </table>
 
-
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
@@ -276,8 +275,6 @@ Vídeo 1: Teste piloto do planejamento da avaliação do Protótipo de Papel.
 
 ## Histórico de Versões
 
-| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Revisor(es)</p> |
-| :--:                       | :----: | :-------: | :---: | :-------------: |
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+| :--: | :----: | :-------: | :---: | :-------------: |
 | 30/10/2023 | `1.0` | Criação do documento | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
-
-</div>

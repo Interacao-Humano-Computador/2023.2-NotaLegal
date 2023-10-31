@@ -259,19 +259,17 @@ O teste piloto desta avaliação foi realizado no dia taltal, às xxh, e durou c
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
-Vídeo 1: Teste piloto do planejamento da avaliação do Protótipo de Papel.
-
 ## Referência Bibliográfica
 
-[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Acessado em: 30/10/2023.
-
-[2] Snyder, C. Paper Prototyping: the fast and easy way to design and refine user interfaces. San Francisco, CA: Morgan Kaufmann, 2003.
-
-[3] Sharp, H.; Rogers, Y.; Preece, J. Interaction design: beyond human-computer interaction, 2a edição. New York, NY: John Wiley & Sons, 2007.
-
-[4] Dumas, J.S. & Redish, J.C. A Practical Guide to Usability Testing, edição revisada. Exeter, UK: Intellect, 1999.
-
-[5] Nielsen, J. Why You Only Need to Test with 5 Users, Alertbox. Disponível em http://www.useit.com/alertbox/20000319.html, 2000.
+> [1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Acessado em: 30/10/2023.
+> 
+> [2] Snyder, C. Paper Prototyping: the fast and easy way to design and refine user interfaces. San Francisco, CA: Morgan Kaufmann, 2003.
+> 
+> [3] Sharp, H.; Rogers, Y.; Preece, J. Interaction design: beyond human-computer interaction, 2a edição. New York, NY: John Wiley & Sons, 2007.
+> 
+> [4] Dumas, J.S. & Redish, J.C. A Practical Guide to Usability Testing, edição revisada. Exeter, UK: Intellect, 1999.
+> 
+> [5] Nielsen, J. Why You Only Need to Test with 5 Users, Alertbox. Disponível em http://www.useit.com/alertbox/20000319.html, 2000.
 
 ## Histórico de Versões
 

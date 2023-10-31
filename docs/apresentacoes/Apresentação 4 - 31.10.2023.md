@@ -8,12 +8,12 @@ O propósito desta página é hospedar a apresentação da Quarta Entrega em for
 
 <div align="center">
 
-<p style="text-align: center"><a href="#" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Apresentação 4</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=GsxXPRqyNJE" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Apresentação 4</a></p>
 
-<iframe width="560" height="315" src="#" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GsxXPRqyNJE" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ## Histórico de Versão
@@ -21,3 +21,5 @@ O propósito desta página é hospedar a apresentação da Quarta Entrega em for
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|30/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassousz)|
+|`1.1`|30/10/2023|Adicionando link da gravação|[Gabriel Zaranza](https://github.com/GZaranzas)|[Lucas Ribeiro](https://github.com/lucassousz)|
+

@@ -564,20 +564,15 @@ Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Planej
     <tr>
       <td>Planejamento da Avaliação do Storyboard (definir métodos)</td>
       <td>Início: 19/out <br> Fim: 21/out</td>
-      <td>Início: 19/out <br> Fim: 21/out</td>
+      <td>Início: 30/out <br> Fim: 30/out</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
         <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 22/out <br> Fim: 23/out</td>
       <td>Início: 22/out <br> Fim: 23/out</td>
       <td>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
       </td>
     </tr>
     <tr>
@@ -587,14 +582,9 @@ Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Planej
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
-        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 22/out <br> Fim: 27/out</td>
+      <td>Início: 20/out <br> Fim: /out</td>
       <td>
         <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
       </td>

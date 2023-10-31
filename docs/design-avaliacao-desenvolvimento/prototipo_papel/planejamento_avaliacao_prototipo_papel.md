@@ -344,7 +344,7 @@ Após a conclusão da avaliação, realizada conforme as diretrizes da Tabela 2,
 
 O planejamento detalhado sobre como os resultados serão apresentados está disponível no documento de [Planejamento de Relato dos Resultados](xxx). Este plano garantirá que todas as descobertas sejam comunicadas de forma clara e eficaz, destacando não apenas as conquistas, mas também as oportunidades de melhoria identificadas durante o processo de avaliação.
 
-## Planejamto do Teste Piloto
+## Planejamento do Teste Piloto
 
 Um teste piloto é, de acordo com Barbosa e Silva, no livro Interação Humano Computador [1], uma etapa cujo propósito reside na avaliação do planejamento em si. Além disso, busca-se analisar se a avaliação, conforme inicialmente delineada, gera os dados necessários para abordar as questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto de maneira análoga a uma sessão de avaliação convencional. Desse modo, ele tem a oportunidade de verificar se a linguagem utilizada nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para guiar o participante durante a avaliação.
 

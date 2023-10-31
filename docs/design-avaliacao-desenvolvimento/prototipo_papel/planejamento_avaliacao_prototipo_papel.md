@@ -375,3 +375,4 @@ O teste piloto desta avaliação foi realizado no dia taltal, às xxh, e durou c
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--: | :----: | :-------: | :---: | :-------------: |
 | 30/10/2023 | `1.0` | Criação do documento | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
+| 31/10/2023 | `1.1` | Adição do I-D-E e do Teste Piloto | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |

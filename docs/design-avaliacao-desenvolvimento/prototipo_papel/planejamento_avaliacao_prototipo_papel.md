@@ -209,7 +209,7 @@ Estes princípios éticos formam a base sólida sobre a qual esta avaliação é
 
 Além disso, todos os participantes deverão concordar o nosso Termo de Consentimento Livre e Esclarecido, descrito no nosso documento de [Aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md), que foi modificado exatamente para a avaliação em questão e está descrito abaixo. O objetivo é obter a permissão dos participantes para realizar as atividades necessárias na criação desse artefato, garantindo o respeito por parte dos participantes durante e após a atividade.
 
-<div align="center"><p><strong>TERMO DE CONSENTIMENTO PARA PARTICIPAÇÃO EM PESQUISA</strong></p></div>
+<div align="center"><p><strong>TERMO DE CONSENTIMENTO PARA PARTICIPAÇÃO</strong></p></div>
 
 **Título da Pesquisa:** Avaliação do Protótipo de Papel do Site "Nota Legal"
 
@@ -223,7 +223,7 @@ Você está sendo convidado(a) a participar de uma pesquisa acadêmica conduzida
 
 **Duração:** A pesquisa deve levar em média 10 minutos para ser concluída.
 
-**Riscos e Benefícios:** Não são esperados riscos significativos ao participar desta pesquisa. Os benefícios incluem contribuir para a validação do prototipo de papel do site "Nota Legal" e ajudar a melhorar sua usabilidade.
+**Riscos e Benefícios:** Não são esperados riscos significativos ao participar desta pesquisa. Os benefícios incluem contribuir para a validação do protótipo de papel do site "Nota Legal" e ajudar a melhorar sua usabilidade.
 
 **Confidencialidade:** Suas respostas serão mantidas em estrita confidencialidade. Os dados coletados serão usados apenas para fins acadêmicos e não serão compartilhados com terceiros não autorizados. Seus dados pessoais não serão divulgados em nenhum momento.
 

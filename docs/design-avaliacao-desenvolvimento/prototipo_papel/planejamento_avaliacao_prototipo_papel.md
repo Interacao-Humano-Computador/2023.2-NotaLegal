@@ -292,7 +292,7 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
     </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 </div>
 
 ## D - Decidir como lidar com as questões éticas

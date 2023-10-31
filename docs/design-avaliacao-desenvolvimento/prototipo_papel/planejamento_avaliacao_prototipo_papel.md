@@ -132,49 +132,49 @@ No final da simulação de uso, algumas perguntas serão feitas ao usuário sobr
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Questões a serem tratadas na entrevista</p></font>
 
 <table>
-  <tr>
+  <tr align="center">
     <th>Ordem das perguntas</th>
     <th>Objetivos Relacionados</th>
     <th>Perguntas</th>
     <th>Tipo de pergunta</th>
     <th>Respostas possíveis</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>1°</td>
     <td>2</td>
     <td>Após simular o uso dessa tarefa (citar a tarefa) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
     <td>Fechada</td>
     <td>Sim </br>Não</br>Caso sim, pedir para descrever o problema</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>2°</td>
     <td>2</td>
     <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
     <td>Aberta</td>
     <td>Resposta discursiva</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>3°</td>
     <td>1</td>
     <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
     <td>Fechada</td>
     <td>Sim </br>Não</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>4°</td>
     <td>1</td>
     <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
     <td>Fechada</td>
     <td>Sim </br>Não</br>Caso sim, pedir para descrever</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>5°</td>
     <td>1</td>
     <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
     <td>Aberta</td>
     <td>Resposta Discursiva</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>6°</td>
     <td>2</td>
     <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>

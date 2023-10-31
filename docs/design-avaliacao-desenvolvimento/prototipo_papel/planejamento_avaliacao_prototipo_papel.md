@@ -196,7 +196,17 @@ No final da simulação de uso, é comum fazer perguntas ao usuário sobre sua e
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
+### Recrutamento
 
+Para a Avaliação do Protótipo de Papel, o recrutamento dos usuários será uma responsabilidade compartilhada por todos os integrantes da equipe. Cada membro terá a tarefa de recrutar um usuário de acordo com o Perfil de Usuário estabelecido. Esse processo de recrutamento é essencial para garantir que tenhamos uma variedade representativa de usuários, proporcionando uma avaliação abrangente e significativa do protótipo.
+
+### Preparação
+
+Cada membro da equipe é encarregado de preparar e organizar os recursos necessários para sua própria avaliação. Isso inclui a definição do local da avaliação (presencial ou remoto), horário das entrevistas, preparação de materiais e equipamentos (como as perguntas a serem feitas durante a entrevista, câmera, gravador de voz etc.) e a elaboração do [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-éticos-d). Esta distribuição de responsabilidades garante que cada avaliação seja conduzida de maneira adequada e eficiente, com todos os recursos essenciais disponíveis para uma avaliação completa e detalhada do protótipo.
+
+### Prazos
+
+O cronograma da avaliação é descrito na tabela 2, onde cada avaliação terá o nome do entrevistador (membro da equipe), entrevistado, horário de início e fim da entrevista, data e local onde ocorreu a entrevista.
 
 ## D - Decidir como lidar com as questões éticas
 
@@ -243,7 +253,9 @@ Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu ap
 
 ## E - Avaliar, interpretar e apresentar os dados
 
+Após a conclusão da avaliação, realizada conforme as diretrizes da Tabela 2, todos os dados coletados serão cuidadosamente documentados em um relatório abrangente. Este relatório terá como foco principal a análise se os objetivos estabelecidos pelo grupo foram alcançados. Caso não tenham sido atendidos, o relatório fornecerá insights sobre as áreas que precisam ser aprimoradas e como essas melhorias podem ser implementadas.
 
+O planejamento detalhado sobre como os resultados serão apresentados está disponível no documento de [Planejamento de Relato dos Resultados](xxx). Este plano garantirá que todas as descobertas sejam comunicadas de forma clara e eficaz, destacando não apenas as conquistas, mas também as oportunidades de melhoria identificadas durante o processo de avaliação.
 
 ## Planejamto do Teste Piloto
 

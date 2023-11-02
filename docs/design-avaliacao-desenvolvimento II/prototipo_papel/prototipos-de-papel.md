@@ -54,25 +54,30 @@ Na tabela 1 é possível verificar o membro responsável por cada protótipo de 
 </div>
 
 ## Protótipos
+
+### Registrar nova reclamação
+
+Na figura X é possível ver o protótipo de papel da tarefa "Registrar nova reclamação".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Protótipo de papel da tarefa Registrar Nova Reclamação</p></font>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/a1e8969f2790f102ddfa7f31e44533752ea2624c/docs/imagens/prototipos-de-papel/prototipo-de-papel-gabrielrosa.jpg?raw=true" style="width: 65%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
 ### Consultar estabelecimento
+Na figura X é possível ver o protótipo de papel da tarefa "Consultar estabelecimento".
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Protótipo de papel da tarefa Consultar estabelecimento</p></font>
 
-<img src="#" style="width: 65%;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/1882400114e88fffce5fcec9e181dc6756492e1e/docs/imagens/prototipos-de-papel/prototipo-de-papel-izabella.jpg?raw=true" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
-### Registrar nova reclamação
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 5:</b> Protótipo de papel da tarefa Registrar Nova Reclamação</p></font>
-
-<img src="#" style="width: 65%;">
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
-</div>
 
 ## Bibliografia
 >

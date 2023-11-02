@@ -64,13 +64,10 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 No vídeo 1, é possível ver a gravação da avaliação do storyboard "Consultar estabelecimento".
 
 <div align="center">
-
-<p style="text-align: center"><a href="<div align="center">
-
+  
 <p style="text-align: center"><a href="https://youtu.be/tUogNyVjB0s" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Consultar estabelecimento".</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tUogNyVjB0s" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 

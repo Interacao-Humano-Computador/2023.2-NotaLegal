@@ -78,6 +78,17 @@ Na figura X é possível ver o protótipo de papel da tarefa "Consultar estabele
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
+### Consultar reclamação
+Na figura X é possível ver o protótipo de papel da tarefa "Consultar reclamação".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Protótipo de papel da tarefa Consultar reclamação</p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/prototipos-de-papel/prototipo-de-papel-lucas-ribeiro.png" style="width: 65%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
 
 ## Bibliografia
 >
@@ -87,3 +98,4 @@ Na figura X é possível ver o protótipo de papel da tarefa "Consultar estabele
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|21/10/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.0`|21/10/2023|Adição do protótipo "consultar reclamação"|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|

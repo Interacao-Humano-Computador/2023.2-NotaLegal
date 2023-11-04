@@ -1,9 +1,7 @@
 # Planejamento do relato dos resultados da avaliação do Protótipo de Papel
 
 ## Introdução
-
-
-[planejamento_avaliacao_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_avaliacao_prototipo_papel.md)
+Este documento tem como objetivo planejar a elaboração do relatório que descreverá os resultados da avaliação dos protótipos em papel realizados pelo Grupo 01 do site Nota Legal. Nele, abordaremos os principais tópicos necessários para a criação desse relatório.
 
 ## Metodologia
 

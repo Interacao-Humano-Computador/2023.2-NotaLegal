@@ -348,12 +348,12 @@ O planejamento detalhado sobre como os resultados serão apresentados está disp
 
 Um teste piloto é, de acordo com Barbosa e Silva, no livro Interação Humano Computador [1], uma etapa cujo propósito reside na avaliação do planejamento em si. Além disso, busca-se analisar se a avaliação, conforme inicialmente delineada, gera os dados necessários para abordar as questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto de maneira análoga a uma sessão de avaliação convencional. Desse modo, ele tem a oportunidade de verificar se a linguagem utilizada nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para guiar o participante durante a avaliação.
 
-O teste piloto desta avaliação foi realizado no dia taltal, às xxh, e durou cerca de x minutos. No teste, tivemos o integrante [Lucas Ribeiro](https://github.com/lucassouzs) como mediador, e o integrante [xxxx](https://github.com/xxxx) como participante do teste. O termo de consentimento livre e esclarecido, citado acima, foi lido para a participante, e ao aceite, o teste seguiu.
+O teste piloto desta avaliação foi realizado no dia 04/11/2023, às 17h, e durou cerca de 5 minutos. No teste, tivemos o integrante [Lucas Ribeiro](https://github.com/lucassouzs) como mediador, e o integrante [Lucas Victor](https://github.com/Lucas13032003) como participante do teste. O termo de consentimento livre e esclarecido, citado acima, foi lido para a participante, e ao aceite, o teste seguiu.
 
 <div align="center">
-<p style="text-align: center"><a href="" target="blanket"><b>Vídeo 1:</b> Teste piloto do planejamento da avaliação do Protótipo de Papel</a></p>
+<p style="text-align: center"><a href="https://youtu.be/I4IPE2tbLBE" target="blanket"><b>Vídeo 1:</b> Teste piloto do planejamento da avaliação do Protótipo de Papel</a></p>
 
-<iframe width="560" height="315" src="" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/I4IPE2tbLBE" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
@@ -376,3 +376,4 @@ O teste piloto desta avaliação foi realizado no dia taltal, às xxh, e durou c
 | :--: | :----: | :-------: | :---: | :-------------: |
 | 30/10/2023 | `1.0` | Criação do documento | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
 | 31/10/2023 | `1.1` | Adição do I-D-E e do Teste Piloto | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
+| 31/10/2023 | `1.1` | Adição do video do Teste Piloto | [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |

@@ -309,7 +309,7 @@ Os participantes selecionados responderam afirmativamente à pergunta sobre a di
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
-As entrevistas serão realizadas remotamente, utilizando ferramentas de videoconferência. O consentimento informado dos participantes será obtido antes do início das entrevistas.
+As entrevistas serão realizadas de forma presencial. O consentimento informado dos participantes será obtido antes do início das entrevistas.
 
 ### D - Decidir as questões éticas
 

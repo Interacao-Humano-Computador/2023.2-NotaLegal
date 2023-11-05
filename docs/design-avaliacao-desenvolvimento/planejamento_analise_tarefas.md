@@ -4,7 +4,7 @@
 
 A avaliação da usabilidade do site Nota Legal é de extrema importância para garantir que os cidadãos possam usufruir dos benefícios fiscais oferecidos pelo programa de forma eficaz e satisfatória. Esta avaliação visa identificar problemas de usabilidade, acessibilidade e comunicabilidade que possam afetar a experiência do usuário ao utilizar o site. O planejamento adequado é fundamental para garantir a eficiência da avaliação e economizar recursos.
 
-O site Nota Legal oferece uma variedade de serviços, como a consulta de benefícios fiscais, o registro de notas fiscais e a solicitação de créditos. Neste planejamento, focaremos na avaliação da tarefa de consulta de benefícios fiscais.
+O site Nota Legal oferece uma variedade de serviços, como o registro de uma reclamação, desbloqueio de saldo, consulta de estabelecimento, visualização de recibo fiscal, consulta de reclamação, consulta extrato e consulta do resultado do sorteio. Neste planejamento, focaremos na avaliação da tarefa de consulta de benefícios fiscais.
 
 ## Planejamento
 
@@ -309,7 +309,7 @@ Os participantes selecionados responderam afirmativamente à pergunta sobre a di
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
-As entrevistas serão realizadas remotamente, utilizando ferramentas de videoconferência. O consentimento informado dos participantes será obtido antes do início das entrevistas.
+As entrevistas serão realizadas de forma presencial. O consentimento informado dos participantes será obtido antes do início das entrevistas.
 
 ### D - Decidir as questões éticas
 

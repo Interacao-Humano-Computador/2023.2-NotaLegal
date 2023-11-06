@@ -10,7 +10,7 @@ Nesta avaliação, tivemos como metodologia a investigação, e a técnica utili
 
 ### Aspectos Práticos da Avaliação
 
-A avaliação foi conduzida pela integrante do grupo [Gabriel Rosa](https://github.com/gabrielrosa09) e contou com a participação do entrevistado, Wellington da Silva Rosa. Não houve outras pessoas envolvidas no processo. Os equipamentos utilizados incluíram apenas um celular para gravação do áudio e do vídeo da entrevista. O cronograma planejado para a entrevista presencial foi do dia 2 de novembro, das 20:00 às 20:15, mas foi executado 5 de novembro de 2023, das 17:00 às 17:15, devido a disponibilidade do usuário. Na tabela 1 é possível ver o cronograma planejado e o cronograma executado.
+A avaliação foi conduzida pelo integrante do grupo [Gabriel Rosa](https://github.com/gabrielrosa09) e contou com a participação do entrevistado, Wellington da Silva Rosa. Não houve outras pessoas envolvidas no processo. Os equipamentos utilizados incluíram apenas um celular para gravação do áudio e do vídeo da entrevista. O cronograma planejado para a entrevista presencial foi do dia 2 de novembro, das 20:00 às 20:15, mas foi executado 5 de novembro de 2023, das 17:00 às 17:15, devido a disponibilidade do usuário. Na tabela 1 é possível ver o cronograma planejado e o cronograma executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da entrevista.</p>

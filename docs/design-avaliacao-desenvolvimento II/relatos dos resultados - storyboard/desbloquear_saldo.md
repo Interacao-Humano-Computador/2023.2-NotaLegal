@@ -12,7 +12,7 @@ Os objetivos desta avaliação podem ser resumidos em três principais tópicos:
 
 ## Metodologia
 
-Foi utilizada o método de investigação, através de uma entrevista guiada a [8 perguntas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#roteiro-de-entrevista-e), sobre o storyboard feito pelo integrante da equipe. O participante leu o storuboard e logo em seguida foi mostrado o [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d). Após o participante aceitar, foi feita as 8 pergutnas.
+Foi utilizada o método de investigação, através de uma entrevista guiada a [8 perguntas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#roteiro-de-entrevista-e), sobre o storyboard feito pelo integrante da equipe. Primeiramente,foi mostrado o [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) e após o participante aceitar, o entrevistador pediu para que o participante lê-se o storyboard. Após a leitura, o entrevistador fez as perguntas para que o participante responde-se.
 
 
 ### Aspectos Práticos da Avaliação

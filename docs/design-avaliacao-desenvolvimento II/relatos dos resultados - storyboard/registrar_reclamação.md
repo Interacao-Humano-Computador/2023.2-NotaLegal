@@ -143,7 +143,7 @@ Inicialmente, é encorajador notar que o feedback do participante indicou que o 
 
 O participante também se identificou com a motivação do personagem principal para realizar a tarefa (Questão 3), o que é positivo, pois mostra que a motivação é clara e identificável para o usuário, tornando a experiência mais significativa.
 
-No entanto, uma área que precisa de atenção é a compreensão do storyboard e das ações nele representadas (Questão 4), onde o participante indicou uma compreensão parcial. Isso sugere que há espaço para melhorias na clareza e na comunicação visual do storyboard. O objetivo aqui é garantir que o usuário compreenda facilmente as ações representadas.
+No entanto, o usuário conseguiu compreender o storyboard em questão (Questão 4), onde o participante indicou uma compreensão total.
 
 É encorajador notar que o participante respondeu "Não" à pergunta sobre a existência de elementos incompreensíveis no storyboard, o que é positivo (Questão 8).
 
@@ -151,7 +151,7 @@ Além disso, é positivo que o participante acredita que o storyboard resolve o 
 
 Por fim, a avaliação confirmou que as ações no storyboard seguem uma ordem sequencial, fluida e lógica (Questão 7), o que é fundamental para a eficácia do storyboard.
 
-Em resumo, os resultados sugerem que o storyboard está alinhado com muitos dos objetivos propostos. No entanto, é importante notar que a clareza na compreensão do storyboard pode ser aprimorada para garantir que todos os detalhes sejam transmitidos de forma transparente.
+Em resumo, os resultados sugerem que o storyboard está alinhado com muitos dos objetivos propostos.
 
 É relevante mencionar que uma revisão do storyboard está programada para o dia 5 de novembro de 2023, com base no feedback fornecido pelo participante, e o cronograma de correção pode ser consultado na tabela 3.
 

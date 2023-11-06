@@ -1,38 +1,23 @@
 # Planejamento do relato dos resultados da avaliação do Protótipo de Papel
 
 ## Introdução
-Este documento tem como objetivo planejar a elaboração do relatório que descreverá os resultados da avaliação dos protótipos em papel realizados pelo Grupo 01 do site Nota Legal. Nele, abordaremos os principais tópicos necessários para a criação desse relatório.
+Nesse documento, descreveremos o planejamento do relato dos resultados dessa avaliação, após o planejamento detalhado de como será feita a avaliação de cada um dos protótipos de papel criados pelos integrantes do grupo ter sido feito. O planejamento do relato tem como objetivo fornecer uma estrutura organizada para a consolidação e a apresentação dos resultados. Esse planejamento servirá como uma ferramenta essencial para orientar a consolidação dos dados coletados na fase de avaliação e a apresentação desses dados, além do relato dos problemas encontrados e de sugestões de correções para esses problemas, promovendo uma comunicação clara e eficaz entre todos os envolvidos.
+
 
 ## Metodologia
+O relato dos resultados da avaliação do protótipo de papel deve incluir, de acorco com Barbosa e Diniz [1], os seguintes tópicos:
 
-o livro Interação Humano-Computador, de Barbosa e Diniz [1]:
-
-No relato dos resultados, os avaliadores devem comunicar aos interessados:
-
-* os objetivos da avaliação;
-* uma breve descrição do método de prototipação em papel;
-* o número e o perfi l de avaliadores e dos participantes;
-* as tarefas executadas pelos participantes;
-* uma lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto, indicando:
- – local onde ocorreu;
- – fatores de usabilidade prejudicados;
- – descrição e justifi cativa do problema;
- – correção realizada no protótipo em papel;
- – indicação se o problema voltou a ocorrer depois da correção;
-* uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
- – local onde ocorreu;
- – fatores de usabilidade prejudicados;
- – descrição e justifi cativa do problema;
- – prioridade para correção;
- – sugestões de correção;
-* indicações de partes do sistema que podem ser mais bem elaboradas.
-
+- Objetivos e escopo da avaliação;
+- Método que foi empregado na avaliação (como a avaliação foi realizada);
+- Número e perfil de usuários e avaliadores que participaram da avaliação;
+- Resumo dos dados coletados (descrições, tabelas, gráficos etc);
+- Problemas encontrados;
+- Planejamento para o reprojeto do sistema.
 
 ## Planejamento do Relato
 
 ### Objetivos Gerais
-
-
+O relato dos resultados da avaliação do protótipo de papel deve conter os objetivos gerais e o escopo da avaliação que estão descritos no planejamento da avaliação [1], assim como deve apresentar os dados coletados, a consolidação dos resultados e os problemas encontrados, proporcionando uma compreensão abrangente e acessível da avaliação feita.
 
 ### Métodos Empregados na Avaliação
 
@@ -136,3 +121,4 @@ O documento [modelo-relato-prototipo-papel.md](https://github.com/Interacao-Huma
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 04/11/2023 | Criação do documento |   [Zenilda Vieira](https://github.com/zenildavieira)   |  [Lucas Ribeiro](https://github.com/lucassouzs)  |
 | `1.1`  | 06/11/2023 | Adição dos topicos "metodos empregados" e "aspectos praticos" |   [Izabella Alves](https://github.com/izabellaalves)   |  [Lucas Ribeiro](https://github.com/lucassouzs)  |
+| `1.1`  | 06/11/2023 | Adição da introdução, metodologia e objetivos gerais |   [Gabriel Zaranza](https://github.com/GZaranza)   |  [Lucas Ribeiro](https://github.com/lucassouzs)  |

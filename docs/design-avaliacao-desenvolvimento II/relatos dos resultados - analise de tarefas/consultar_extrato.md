@@ -57,12 +57,11 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://youtu.be/tUogNyVjB0s" target="blanket"><b>Vídeo 1:</b> Avaliação da tarefa "Consultar estabelecimento".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/UdP0ZZJ9yWI" target="blanket"><b>Vídeo 1:</b> Avaliação da tarefa "Consultar extrato".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tUogNyVjB0s" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/UdP0ZZJ9yWI" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 <div align="center">

@@ -203,4 +203,4 @@ Pensando nesse pontos, o site do Nota Legal apresenta uma experiência de usuár
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
-| `1.0`  | 31/10/2023 | Criação do documento |  [Gabriel Zaranza](https://github.com/GZaranza)    | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.0`  | 06/11/2023 | Criação do documento |  [Gabriel Zaranza](https://github.com/GZaranza)    | [Izabella Alves](https://github.com/izabellaalves) |

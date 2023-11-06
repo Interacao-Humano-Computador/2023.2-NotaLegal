@@ -1,4 +1,4 @@
-# Relato dos resultados da avaliação da análise de tarefa "Consultar estabelecimento"
+# Relato dos resultados da avaliação da análise de tarefa "Visualizar Recibo de Indicação"
 
 ## Introdução
 Este documento detalha os resultados da avaliação realizada na análise da tarefa “Visualizar recibo fiscal” no site Nota Legal. O propósito desta avaliação é identificar dificuldades de usabilidade na tarefa de visualizar recibos fiscais. Nosso foco é compreender como os usuários utilizam essa funcionalidade, quais são as principais barreiras que enfrentam e como podemos aprimorar sua experiência.

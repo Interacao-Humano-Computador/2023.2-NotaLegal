@@ -159,7 +159,7 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
             </tr>
         </tbody>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de OLiveira</a>, 2023</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
 ### Avaliação dos Dados

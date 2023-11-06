@@ -76,8 +76,6 @@ As perguntas e respostas dadas pelo participantes estão presentes no vídeo 1 e
 
 </div>
 
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2 - </b> Perguntas fechadas e respostas</p></font>
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 2 - </b> Perguntas respondidas na avaliação.</p></font>
@@ -177,9 +175,10 @@ As perguntas e respostas dadas pelo participantes estão presentes no vídeo 1 e
             </tr>
         </tbody>
     </table>
-
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
+
+
 
 
 #### Consolidação e análise dos dados

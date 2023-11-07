@@ -113,6 +113,7 @@ A Tabela 2 resume as etapas do DECIDE e seu significado.
 O propósito desta avaliação é coletar informações dos interessados, principalmente dos usuários, sobre suas interações com o sistema Nota Legal. Além disso, busca-se identificar quaisquer problemas de interface que possam prejudicar a experiência do usuário e coletar feedback sobre a utilização do sistema. Serão levados em consideração critérios de qualidade como usabilidade, experiência do usuário, acessibilidade e comunicabilidade. Essas simulações de uso permitem identificar quais partes da interface estão funcionando bem e quais apresentam problemas de usabilidade. O planejamento é fundamental neste processo, pois uma avaliação adequada da qualidade de uso pode evitar o desperdício de tempo e recursos financeiros. Os aspectos a serem avaliados têm como objetivos:
 
 **(1)** Avaliar e comparar diferentes ideias e alternativas de design
+
 **(2)** Identificar problemas na interação e na interface do sistema.
 
 ## E - Explorar perguntas
@@ -283,11 +284,11 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
         <tr>
             <td>Consultar resultado de sorteio</td>
             <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Carolina</td>
+            <td>10:00</td>
+            <td>10:15</td>
+            <td>12/11/2023</td>
+            <td>presencial - a combinar</td>
         </tr>
     </tbody>
 </table>
@@ -342,7 +343,7 @@ Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu ap
 
 Após a conclusão da avaliação, realizada conforme as diretrizes da Tabela 2, todos os dados coletados serão cuidadosamente documentados em um relatório abrangente. Este relatório terá como foco principal a análise se os objetivos estabelecidos pelo grupo foram alcançados. Caso não tenham sido atendidos, o relatório fornecerá insights sobre as áreas que precisam ser aprimoradas e como essas melhorias podem ser implementadas.
 
-O planejamento detalhado sobre como os resultados serão apresentados está disponível no documento de [Planejamento de Relato dos Resultados](xxx). Este plano garantirá que todas as descobertas sejam comunicadas de forma clara e eficaz, destacando não apenas as conquistas, mas também as oportunidades de melhoria identificadas durante o processo de avaliação.
+O planejamento detalhado sobre como os resultados serão apresentados está disponível no documento de [Planejamento de Relato dos Resultados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md). Este plano garantirá que todas as descobertas sejam comunicadas de forma clara e eficaz, destacando não apenas as conquistas, mas também as oportunidades de melhoria identificadas durante o processo de avaliação.
 
 ## Planejamento do Teste Piloto
 
@@ -372,9 +373,9 @@ O teste piloto desta avaliação foi realizado no dia 04/11/2023, às 17h, e dur
 
 ## Histórico de Versões
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-| :--: | :----: | :-------: | :---: | :-------------: |
-| 30/10/2023 | `1.0` | Criação do documento | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
-| 31/10/2023 | `1.1` | Adição do I-D-E e do Teste Piloto | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
-| 31/10/2023 | `1.1` | Adição do video do Teste Piloto | [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
-| 31/10/2023 | `1.1` | Correção e adição do video do Teste Piloto | [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
+| Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
+| :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
+| `1.0` | 02/11/2023 | Criação do documento | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
+| `1.1` | 04/11/2023 |  Adição do I-D-E e do Teste Piloto | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
+| `1.2` | 04/11/2023 |  Adição do video do Teste Piloto | [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
+| `1.3` | 07/11/2023 |  Correção e adição do video do Teste Piloto | [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |

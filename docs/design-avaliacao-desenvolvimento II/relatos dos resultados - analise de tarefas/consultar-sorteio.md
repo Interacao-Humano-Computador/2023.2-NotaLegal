@@ -6,13 +6,13 @@ Esse documento visa apresentar os resultados da avaliação da análise de taref
 
 ## Metodologia
 
-Nesta avaliação foi utilizado o método de investigação através de uma entrevista com um usuário do site Nota Legal. As perguntas feitas estão relatadas no tópico [Avaliação e Apresentação de Dados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/relato-storyboard-consultar-sorteio.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados) mais adiante. A entrevista foi realizada com uma usuária, em sua residência, com dezessete perguntas e gravada utilizando um celular. Ao final da entrevista, a entrevistada foi incentivada a falar de forma aberta sobre as respostas das perguntas e a falar sobre o uso do site Nota Legal. Todas as considerações feitas foram anotadas e utilizadas na avaliação.
+Nesta avaliação foi utilizado o método de investigação através de uma entrevista com um usuário do site Nota Legal. As perguntas feitas estão relatadas no tópico [Avaliação e Apresentação de Dados](hhttps://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-sorteio.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados) mais adiante. A entrevista foi realizada com uma usuária, em sua residência, com dezessete perguntas e gravada utilizando um celular. Ao final da entrevista, a entrevistada foi incentivada a falar de forma aberta sobre as respostas das perguntas e a falar sobre o uso do site Nota Legal. Todas as considerações feitas foram anotadas e utilizadas na avaliação.
 
 ### Aspectos Práticos da Avaliação
 
 #### Recrutamento
 
-Com base no [perfil](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/perfil_usuario.md#defini%C3%A7%C3%A3o-do-usu%C3%A1rio) levantado na etapa inicial do projeto, a usuária Manuella Marques foi escolhida para participar dessa avaliação. Ela tem 59 anos, é do sexo feminino, tem uma certa experiência com tecnologia e sua principal tarefa no Site do Nota Legal é a indicação de recebimento dos créditos. Foi agendado com ela um encontro presencial, no dia 02/11/23 às 9h, conforme o cronograma planejado. Porém, devido a um imprevisto, a entrevista foi adiada para o dia 05/11/23 e foi realizada às 11h desse dia. Na tabela 1, no tópico [Aspectos Práticos - Prazos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/relato-storyboard-consultar-sorteio.md#prazos) é possível verificar o cronograma planejado e o executado da entrevista.
+Com base no [perfil](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/perfil_usuario.md#defini%C3%A7%C3%A3o-do-usu%C3%A1rio) levantado na etapa inicial do projeto, a usuária Manuella Marques foi escolhida para participar dessa avaliação. Ela tem 59 anos, é do sexo feminino, tem uma certa experiência com tecnologia e sua principal tarefa no Site do Nota Legal é a indicação de recebimento dos créditos. Foi agendado com ela um encontro presencial, no dia 02/11/23 às 9h, conforme o cronograma planejado. Porém, devido a um imprevisto, a entrevista foi adiada para o dia 05/11/23 e foi realizada às 11h desse dia. Na tabela 1, no tópico [Aspectos Práticos - Prazos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-sorteio.md#prazos) é possível verificar o cronograma planejado e o executado da entrevista.
 
 #### Preparação
 
@@ -64,7 +64,7 @@ Como dito anteriormente, na Tabela 1 encontram-se as datas de planejamento e exe
 
 ### Aspectos Éticos
 
-No início da entrevista, o [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) que consta no planejamento dessa avaliação foi lido para a entrevistada e explicado em detalhes. Após o seu consentimento, deu-se início a explicação da tarefa a ser analisada com a explicação do seu [diagrama HTA](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-resultado-de-sorteio). Em seguida, a entrevista foi realizada. Foi deixado claro à entrevistada que sua identidade e seus dados pessoais não seriam divulgados, e assim, a entrevistada concordou em ser gravada. Dessa forma, a gravação foi feita focando os papéis fixados na parede e com o áudio sendo capturado normalmente.
+No início da entrevista, o [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas) que consta no planejamento dessa avaliação foi lido para a entrevistada e explicado em detalhes. Após o seu consentimento, deu-se início a explicação da tarefa a ser analisada com a explicação do seu [diagrama HTA](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md#consultar-resultado-de-sorteio). Em seguida, a entrevista foi realizada. Foi deixado claro à entrevistada que sua identidade e seus dados pessoais não seriam divulgados, e assim, a entrevistada concordou em ser gravada. Dessa forma, a gravação foi feita focando os papéis fixados na parede e com o áudio sendo capturado normalmente.
 
 ### Avaliação e Apresentação dos Dados
 
@@ -72,7 +72,7 @@ No início da entrevista, o [termo de consentimento](https://github.com/Interaca
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=O35ldfSgny0" target="blanket"><b>Vídeo 1:</b> Entrevista - Avaliação do Storyboard "Consultar resultado de sorteio"</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=O35ldfSgny0" target="blanket"><b>Vídeo 1:</b> Entrevista - Avaliação da Análise de Tarefa "Consultar resultado de sorteio"</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O35ldfSgny0" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

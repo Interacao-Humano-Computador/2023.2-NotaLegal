@@ -53,9 +53,9 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
 
 <div align="center">
   
-<p style="text-align: center"><a href="link do video aqui" target="blanket"><b>Vídeo 1:</b> Avaliação da tarefa "Visualizar Recibo Fiscal".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/yTpwFUMwABU?feature=shared" target="blanket"><b>Vídeo 1:</b> Avaliação da tarefa "Visualizar Recibo Fiscal".</a></p>
 
-<iframe width="560" height="315" src="link do video" title="Apresentação 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/yTpwFUMwABU?feature=shared" title="Apresentação 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 
@@ -75,37 +75,37 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
             <tr>
                 <td>1</td>
                 <td>A história contada pelo storyboard representa a realidade?	</td>
-                <td>-</td>
+                <td>Sim</td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>As ações realizadas pelo ator principal condizem com as ações realizadas na prática?	</td>
-                <td>-</td>
+                <td>Sim</td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>Você se identifica com a motivação do ator principal para realizar a tarefa?	</td>
-                <td>-</td>
+                <td>Sim</td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>Você consegue entender o storyboard e as ações desenvolvidas nele?	</td>
-                <td>-</td>
+                <td>Sim</td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>Você acha que o storyboard resolve o problema em questão?	</td>
-                <td>-</td>
+                <td>Sim</td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>Você acha que a satisfação do ator principal condiz com a realidade?	</td>
-                <td>-</td>
+                <td>Mais ou Menos</td>
             </tr>
             <tr>
                 <td>7</td>
                 <td>As ações realizadas no storyboard seguem uma ordem sequencial, fluida e lógica?	</td>
-                <td>-</td>
+                <td>Sim</td>
             </tr>
         </tbody>
     </table>
@@ -121,15 +121,18 @@ Resposta: "Não"
 
 ### Avaliação dos Dados
 A partir da conversa com a usuária do site Nota Legal, que analisou o StoryBoard "Visualizar recibo fiscal", pudemos obter insights relevantes sobre a experiência do usuário e pontos que demandam melhorias. A seguir, apresentamos um resumo das principais descobertas.
-#### Problemas e Dificuldades Identificadas
-
 
 #### Sugestões de Melhoria
+A entrevistada não apontou nenhuma correção ou sugestão de melhoria, mas podemos levar em consideração que na pergunta 6- " Você acha que a satisfação do ator principal condiz com a realidade" a entrevistada respondeu um "Mais ou menos" isso pode ser um ponto de observação a se considerar neste StoryBoard.
 
-#### Análise dos dados coletados
+#### Consolidação dos dados coletados
+
+As respostas obtidas nessa entrevista mostra que o StoryBoard está de acordo com as expectativas do usuário, para todas as perguntas as respostas foram positivas em relação a proximidade das expectativvas dos usuários do Nota Legal em relação a tarefa de "Visualizar recibos de Indicação". Com isso chega-se a conclusão que não será necessario fazer alterações no StoryBoard em questão.
 
 
-#### Sugestões de correções
+
+
+
 
 
 ## Bibliografia
@@ -144,3 +147,4 @@ A partir da conversa com a usuária do site Nota Legal, que analisou o StoryBoar
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 05/11/2023 | Criação do documento |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.1`  | 06/11/2023 | Adição das respostas da entrevistada |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    | [Gabriel Zaranza](https://github.com/GZaranza) |

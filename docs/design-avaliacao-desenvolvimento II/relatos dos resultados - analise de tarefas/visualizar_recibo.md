@@ -53,9 +53,9 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
 
 <div align="center">
   
-<p style="text-align: center"><a href="link do video aqui" target="blanket"><b>Vídeo 1:</b> Avaliação da tarefa "Visualizar Recibo Fiscal".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/OA0qvziC32Y?feature=shared" target="blanket"><b>Vídeo 1:</b> Avaliação da tarefa "Visualizar Recibo Fiscal".</a></p>
 
-<iframe width="560" height="315" src="link do video" title="Apresentação 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/OA0qvziC32Y?feature=shared" title="Apresentação 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 
@@ -75,42 +75,42 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
             <tr>
                 <td>1</td>
                 <td>Qual seu nome completo?</td>
-                <td>-</td>
+                <td>Francinete de Oliveira Dias</td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>Qual sua idade?</td>
-                <td>-</td>
+                <td>46 anos</td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>Qual sua ocupação?</td>
-                <td>-</td>
+                <td>Professora</td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>Com que frequência você utiliza o site Nota Legal?</td>
-                <td>-</td>
+                <td>Sempre</td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>Você acha fácil encontrar a opção de Visualizar recibos fiscais?</td>
-                <td>-</td>
+                <td>Mais ou menos</td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>Quais são os maiores desafios que você enfrenta ao usar a função de Visualizar recibos fiscais?</td>
-                <td>-</td>
+                <td>Lentidão no carregamento</td>
             </tr>
             <tr>
                 <td>7</td>
                 <td>Você tem alguma sugestão para melhorar a usabilidade do site?</td>
-                <td>-</td>
+                <td>Não</td>
             </tr>
             <tr>
                 <td>8</td>
                 <td>Você já teve problemas para acessar sua conta?</td>
-                <td>-</td>
+                <td>Não</td>
             </tr>
             <tr>
                 <td>9</td>
@@ -120,22 +120,22 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
             <tr>
                 <td>10</td>
                 <td>Você já precisou entrar em contato com o suporte ao cliente?</td>
-                <td>-</td>
+                <td>Já tentei uma vez</td>
             </tr>
             <tr>
                 <td>11</td>
                 <td>Se sim, como foi sua experiência?</td>
-                <td>-</td>
+                <td>Tive uma certa dificuldade mas agora ficou mais simples</td>
             </tr>
             <tr>
                 <td>12</td>
                 <td>Você recomendaria o site Nota Legal para outras pessoas? Por quê?</td>
-                <td>-</td>
+                <td>Sim porque é uma forma de receber algum beneficio sobre o imposto pago </td>
             </tr>
             <tr>
                 <td>13</td>
                 <td>Você já encontrou informações incorretas ou desatualizadas no site?</td>
-                <td>-</td>
+                <td>Não</td>
             </tr>
             <tr>
                 <td>14</td>
@@ -145,7 +145,7 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
             <tr>
                 <td>15</td>
                 <td>Como você classificaria a velocidade de carregamento do site?</td>
-                <td>-</td>
+                <td>No inicio rapido mas determinado momento fica lento</td>
             </tr>
             <tr>
                 <td>16</td>
@@ -155,7 +155,7 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
             <tr>
                 <td>17</td>
                 <td>Qual sugestão de melhoria você gostaria de compartilhar?</td>
-                <td>-</td>
+                <td>Ficasse mais rapido a questão de buscar informaçõese e abrir as paginas corretamente</td>
             </tr>
         </tbody>
     </table>
@@ -165,14 +165,18 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
 ### Avaliação dos Dados
 A partir da conversa com a usuária do site Nota Legal, que realizou a tarefa "Visualizar recibo fiscal", pudemos obter insights relevantes sobre a experiência do usuário e pontos que demandam melhorias. A seguir, apresentamos um resumo das principais descobertas.
 #### Problemas e Dificuldades Identificadas
-
+ A entrevistada relata uma certa dificuldade quando contacta o suporte ao cliente e também faz algumas ponderações relacionadas ao tempo de carregamento no Site.
 
 #### Sugestões de Melhoria
 
-#### Análise dos dados coletados
+Nas sugestões de melhoria a entrevistada volta a falar sobre o tempo de carregamento do site e relata que em algumas ocasiões ele fica lento, e isso acaba causando um estreesse no usuário.
 
+#### Análise dos dados coletados
+Levando em conta a entrevista percebe-se que a usuária tem uma boa experiência com o site "Nota Legal" mas também pondera questões que podem melhorar,como o tempo de carregamento das paginas. Ela utiliza o site frequentemente e diz que acha mais ou menos facil encontrar a função de "Visualizar recibos de Indicação". Ela também acha importante a recomendação do site para outras pessoas por conta dos benefícios que o programa trás.
 
 #### Sugestões de correções
+
+Após a coleta minuciosa dos dados percebe-se que a aréa em que mais precisa de atenção é a otimização do carregamento de algumas  páginas, a usuária relata como é frustante ter que esperar o carregamento de algumas páginas, outro ponto de atenção diz respeito sobre ao suporte do cliente, apesar da entrevistada relatar que ouve uma melhora ainda é meio ruim segundo ela. 
 
 
 ## Bibliografia
@@ -187,3 +191,4 @@ A partir da conversa com a usuária do site Nota Legal, que realizou a tarefa "V
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 05/11/2023 | Criação do documento |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    | [Gabriel Rosa](https://github.com/gabrielrosa09) |
+| `1.1`  | 06/11/2023 | Adição do link da entrevista |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    | [Gabriel Rosa](https://github.com/gabrielrosa09) |

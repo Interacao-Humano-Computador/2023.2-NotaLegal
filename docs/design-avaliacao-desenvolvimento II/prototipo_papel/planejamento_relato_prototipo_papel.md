@@ -107,7 +107,67 @@ Respeitar a privacidade dos participantes é essencial. Deve ser garantido no re
 
 ### Avaliação e Apresentação dos Dados
 
-Após registrar todos os itens anteriores, deve ser relatado no documento a análise dos dados coletados, a fim de verificar se os objetivos da avaliação foram alcançados. Se problemas no protótipo de papel forem detectados, devem ser enumerados e descritos brevemente. E, para finalizar, deve-se apresentar sugestões de correções e melhorias se forem necessárias. Se for preciso refazer o protótipo depapel, deve ser apresentado um cronograma de reprojeto.
+O vídeo da simulação de uso deve ser incluído no documento, assim como as respostas das perguntas feitas, conforme o planejamnto da avaliação. Na tabela 2 pode-se verifcar um modelo da tabela que deve constar com as respostas do entrevistado.
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Questões a serem tratadas na entrevista</p></font>
+
+<table>
+  <tr align="center">
+    <th>Ordem das perguntas</th>
+    <th>Objetivos Relacionados</th>
+    <th>Perguntas</th>
+    <th>Tipo de pergunta</th>
+    <th>Resposta</th>
+  </tr>
+  <tr align="center">
+    <td>1°</td>
+    <td>2</td>
+    <td>Após simular o uso dessa tarefa (citar a tarefa) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
+    <td>Fechada</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>2°</td>
+    <td>2</td>
+    <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
+    <td>Aberta</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>3°</td>
+    <td>1</td>
+    <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
+    <td>Fechada</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>4°</td>
+    <td>1</td>
+    <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
+    <td>Fechada</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>5°</td>
+    <td>1</td>
+    <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
+    <td>Aberta</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>6°</td>
+    <td>2</td>
+    <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>
+    <td>Aberta</td>
+    <td></td>
+  </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+Após registrar todos os itens anteriores, deve ser relatado no documento a análise dos dados coletados, a fim de verificar se os objetivos da avaliação foram alcançados. Se problemas no protótipo de papel forem detectados, devem ser enumerados e descritos brevemente. E, para finalizar, deve-se apresentar sugestões de correções e melhorias se forem necessárias. Se for preciso refazer o protótipo de papel, deve ser apresentado um cronograma de reprojeto.
 
 ## Documento modelo para o relato dos resultados
 

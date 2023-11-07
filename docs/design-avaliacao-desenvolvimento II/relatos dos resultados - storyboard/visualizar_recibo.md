@@ -1,7 +1,7 @@
-# Relato dos resultados da avaliação da análise de tarefa "Consultar estabelecimento"
+# Relato dos resultados da avaliação do StoryBoard "Visualizar Recibo de Indicação"
 
 ## Introdução
-Este documento detalha os resultados da avaliação realizada na análise da tarefa “Visualizar recibo fiscal” no site Nota Legal. O propósito desta avaliação é identificar dificuldades de usabilidade na tarefa de visualizar recibos fiscais. Nosso foco é compreender como os usuários utilizam essa funcionalidade, quais são as principais barreiras que enfrentam e como podemos aprimorar sua experiência.
+Este documento detalha os resultados da avaliação feita pelo usuário do StoryBoard “Visualizar recibo fiscal” no site Nota Legal. O propósito desta avaliação é avaliar junto com o usuário se esse StoryBoard condiz com a realidade e expectativas dos mesmos. Nosso foco é compreender como os usuários utilizam essa funcionalidade e checar possíveis erros no nosso StoryBoard para que assim possamos fazer as mudanças necessárias.
 ## Metodologia
 
 Para esta avaliação, utilizamos a metodologia de pesquisa, e a técnica empregada foi a entrevista. No Vídeo x, podemos observar que a entrevista ocorreu de maneira presencial, e que a participante se apresentou no início. Em seguida, lemos o nosso termo de consentimento livre e esclarecido para ela, e após a sua concordância, prosseguimos com a avaliação, na qual todas as questões foram respondidas.
@@ -74,87 +74,37 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
         <tbody>
             <tr>
                 <td>1</td>
-                <td>Qual seu nome completo?</td>
+                <td>A história contada pelo storyboard representa a realidade?	</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2</td>
-                <td>Qual sua idade?</td>
+                <td>As ações realizadas pelo ator principal condizem com as ações realizadas na prática?	</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>3</td>
-                <td>Qual sua ocupação?</td>
+                <td>Você se identifica com a motivação do ator principal para realizar a tarefa?	</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>4</td>
-                <td>Com que frequência você utiliza o site Nota Legal?</td>
+                <td>Você consegue entender o storyboard e as ações desenvolvidas nele?	</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>5</td>
-                <td>Você acha fácil encontrar a opção de Visualizar recibos fiscais?</td>
+                <td>Você acha que o storyboard resolve o problema em questão?	</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>6</td>
-                <td>Quais são os maiores desafios que você enfrenta ao usar a função de Visualizar recibos fiscais?</td>
+                <td>Você acha que a satisfação do ator principal condiz com a realidade?	</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>7</td>
-                <td>Você tem alguma sugestão para melhorar a usabilidade do site?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>8</td>
-                <td>Você já teve problemas para acessar sua conta?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>9</td>
-                <td>Se sim, qual foi o problema?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>10</td>
-                <td>Você já precisou entrar em contato com o suporte ao cliente?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>11</td>
-                <td>Se sim, como foi sua experiência?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>12</td>
-                <td>Você recomendaria o site Nota Legal para outras pessoas? Por quê?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>13</td>
-                <td>Você já encontrou informações incorretas ou desatualizadas no site?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>14</td>
-                <td>Se sim, você poderia especificar quais?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>15</td>
-                <td>Como você classificaria a velocidade de carregamento do site?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>16</td>
-                <td>Você já usou o site em um dispositivo móvel?</td>
-                <td>-</td>
-            </tr>
-            <tr>
-                <td>17</td>
-                <td>Qual sugestão de melhoria você gostaria de compartilhar?</td>
+                <td>As ações realizadas no storyboard seguem uma ordem sequencial, fluida e lógica?	</td>
                 <td>-</td>
             </tr>
         </tbody>
@@ -162,8 +112,15 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
+
+#### Resposta da pergunta aberta
+
+8 - Houve algum elemento que você não compreendeu no storyboard?
+Resposta: "Não"
+
+
 ### Avaliação dos Dados
-A partir da conversa com a usuária do site Nota Legal, que realizou a tarefa "Visualizar recibo fiscal", pudemos obter insights relevantes sobre a experiência do usuário e pontos que demandam melhorias. A seguir, apresentamos um resumo das principais descobertas.
+A partir da conversa com a usuária do site Nota Legal, que analisou o StoryBoard "Visualizar recibo fiscal", pudemos obter insights relevantes sobre a experiência do usuário e pontos que demandam melhorias. A seguir, apresentamos um resumo das principais descobertas.
 #### Problemas e Dificuldades Identificadas
 
 

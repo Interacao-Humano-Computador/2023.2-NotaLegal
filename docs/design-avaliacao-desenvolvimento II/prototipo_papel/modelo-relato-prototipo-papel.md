@@ -84,7 +84,7 @@ Transcrever perguntas, respostas e demais dados coletados como descrito em [Aval
 
 #### Vídeo da simulação de uso
 
-Incluir o vídeo da simulação de uso conforme descriteo em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+Incluir o vídeo da simulação de uso conforme descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
 
 #### Respostas das perguntas
 
@@ -153,7 +153,7 @@ Descrever a análise dos dados como descrito em [Avaliação e Apresentação do
 
 ## Bibliografia
 
->
+> .
 >
 
 ## Histórico de Versão

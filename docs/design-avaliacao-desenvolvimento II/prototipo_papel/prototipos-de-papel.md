@@ -73,7 +73,15 @@ Na figura 1 é possível ver o protótipo de papel da tarefa "Registrar nova rec
 
 ### Desbloquear saldo
 
-Figura 2
+Na figura 2 é possível ver o protótipo de papel da tarefa "Desbloquear saldo".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 3:</b> Protótipo de papel da tarefa Desbloquear saldo</p></font>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/1882400114e88fffce5fcec9e181dc6756492e1e/docs/imagens/prototipos-de-papel/prot_papel_zaranza.jpg?raw=true" style="width: 65%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
 
 ### Consultar estabelecimento
 

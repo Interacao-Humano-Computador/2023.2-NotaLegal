@@ -682,6 +682,140 @@ Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Planej
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
+## Entrega 5 - Relato dos resultados do Story Board e da Análise de tarefas - Data de Entrega: 08/nov/2023
+
+Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Relato dos resultados do Story Board e da Análise de tarefas.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma planejado para a etapa de Relato dos resultados do Story Board e da Análise de tarefas</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período de desenvolvimento</th>
+      <th>Responsáveis</th>
+      <th>Revisão</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Documentar o relato dos resultados do Story Board</td>
+      <td>Início: 26/out <br> Fim: 29/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
+      </td>
+      <td>Início: 30/out <br> Fim: 31/out</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Documentar o relato da Análise de tarefas</td>
+      <td>Início: 26/out <br> Fim: 29/out</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 30/out <br> Fim: 31/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Planejamento da Avaliação do Protótipo de Papel</td>
+      <td>Início: 26/out <br> Fim: 29/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 30/out <br> Fim: 31/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Documentar o planejamento e relato dos resultados da avaliação do Protótipo de Papel.</td>
+      <td>Início: 26/out <br> Fim: 29/out</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+      </td>
+      <td>Início: 30/out <br> Fim: 31/out</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Gravação 5</td>
+      <td>03/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>04/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 5</td>
+      <td>03/nov</td>
+      <td>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+      </td>
+      <td>03/nov</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Correção após a Entrega 5</td>
+      <td>Início: 10/nov <br> Fim: 11/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 12/nov <br> Fim: 13/nov</td>
+      <td>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+
 ## Bibliografia
 
 > Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>. Acesso em 27 de setembro de 2023.

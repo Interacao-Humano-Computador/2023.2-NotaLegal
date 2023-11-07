@@ -109,9 +109,8 @@ Respeitar a privacidade dos participantes é essencial. Deve ser garantido no re
 
 O vídeo da simulação de uso deve ser incluído no documento, assim como as respostas das perguntas feitas, conforme o planejamnto da avaliação. Na tabela 2 pode-se verifcar um modelo da tabela que deve constar com as respostas do entrevistado.
 
-
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Questões a serem tratadas na entrevista</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Perguntas e respostas</p></font>
 
 <table>
   <tr align="center">

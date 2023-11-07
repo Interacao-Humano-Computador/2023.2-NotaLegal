@@ -196,9 +196,9 @@ Diante das respostas da entrevistada, a avaliação da análise da tarefa "consu
 
 ## Bibliografia
 
-> ZARANZA, Gabriel; ALVES, Izabella. [Planejamento da Avaliação do Storyboard](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md). Disciplina de IHC, FGA, Gama, 2023.
+> ROSA, Gabriel. [Planejamento da Avaliação da Análise de Tarefa](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md). Disciplina de IHC, FGA, Gama, 2023.
 >
-> RIBEIRO, Lucas; VIEIRA, Zenilda. [Planejamento do Relato da Avaliação do Storyboard](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato-storyboard.md). Disciplina de IHC, FGA, Gama, 2023.
+> VICTOR, Lucas; OLIVEIRA, Lucas. [Planejamento do Relato da Avaliação da Análise de Tarefa](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md). Disciplina de IHC, FGA, Gama, 2023.
 >
 
 ## Histórico de Versão
@@ -206,4 +206,4 @@ Diante das respostas da entrevistada, a avaliação da análise da tarefa "consu
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 04/11/2023 | Criação do documento | [Zenilda Vieira](https://github.com/zenildavieira) | [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-| `1.1`  | 05/11/2023 | Avaliação do storyboard | [Zenilda Vieira](https://github.com/zenildavieira) | [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| `1.1`  | 05/11/2023 | Avaliação da análise de tarefa | [Zenilda Vieira](https://github.com/zenildavieira) | [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |

@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Esse documento visa apresentar os resultados da avaliação do storyboard "Consultar Sorteio", realizada por [Zenilda Vieira](https://github.com/zenildavieira). Essa avaliação tem como objetivos gerais avaliar se o storyboard em questão está de acordo com as tarefas executadas pelo usuário no site Nota Legal e se as motivações e satisfações do usuário estão representadas nesse storyboard. Além desses dois, um terceiro objetivo deve ser alcançado, que é o de encontrar erros e/ou pontos de mudança no storyboard "Consultar Sorteio".
+Esse documento visa apresentar os resultados da avaliação do [storyboard "Consultar Sorteio"](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/storyboards.md#consultar-resultado-de-sorteio), realizada por [Zenilda Vieira](https://github.com/zenildavieira). Essa avaliação tem como objetivos gerais avaliar se o storyboard em questão está de acordo com as tarefas executadas pelo usuário no site Nota Legal e se as motivações e satisfações do usuário estão representadas nesse storyboard. Além desses dois, um terceiro objetivo deve ser alcançado, que é o de encontrar erros e/ou pontos de mudança no storyboard "Consultar Sorteio".
 
 ## Metodologia
 
-Nesta avaliação foi utilizado o método de investigação através de uma entrevista com um usuário do site Nota Legal. As perguntas feitas estão relatadas no tópico [Avaliação e Apresentação de Dados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/relato-storyboard-consultar-sorteio.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados) mais adiante. A entrevista foi realizada com uma usuária, em sua residência, com sete perguntas fechadas e uma aberta e gravada uitlizando um celular. Ao final da entrevista, a entrevistada foi incentivada a falar de forma aberta sobre as respostas das perguntas e a avaliar o storyboard em estudo com suas próprias palavras, indicando erros, partes que porventura não foram compreendidas e se havia alguma parte que, na opinião dela, precisava ser modificada para maior clareza e compreeensão. Todas essas considerações foram anotadas e utilizadas na avaliação.
+Nesta avaliação foi utilizado o método de investigação através de uma entrevista com um usuário do site Nota Legal. As perguntas feitas estão relatadas no tópico [Avaliação e Apresentação de Dados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/relato-storyboard-consultar-sorteio.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados) mais adiante. A entrevista foi realizada com uma usuária, em sua residência, com sete perguntas fechadas e uma aberta e gravada utilizando um celular. Ao final da entrevista, a entrevistada foi incentivada a falar de forma aberta sobre as respostas das perguntas e a avaliar o storyboard em estudo com suas próprias palavras, indicando erros, partes que porventura não foram compreendidas e se havia alguma parte que, na opinião dela, precisava ser modificada para maior clareza e compreeensão. Todas essas considerações foram anotadas e utilizadas na avaliação.
 
 ### Aspectos Práticos da Avaliação
 
@@ -16,7 +16,7 @@ Com base no [perfil](https://github.com/Interacao-Humano-Computador/2023.2-NotaL
 
 #### Preparação
 
-Para a execução da entrevista, foi preparado um ambiente de gravação na residência da entrevistada, utilizando-se uma parede na qual foram fixados o termo de consentimento, o storyboard desenhado à mão e as perguntas fechadas para que a entrevistada pudesse preeencher as respostas. A resposta da pergunta aberta e as considerações feitas foram anotadas pela entrevistadora. Logo em seguida, esse mesmo ambiente foi aproveitado para a realização da avaliação da análise de tarefas. Toda a avaliação foi gravada utilizando-se um smartphone Android.
+Para a execução da entrevista, foi preparado um ambiente de gravação na residência da entrevistada, utilizando-se uma parede na qual foram fixados o termo de consentimento, o storyboard desenhado à mão e as perguntas fechadas para que a entrevistada pudesse preencher as respostas. A resposta da pergunta aberta e as considerações feitas foram anotadas pela entrevistadora. Logo em seguida, esse mesmo ambiente foi aproveitado para a realização da avaliação da análise de tarefas. Toda a entrevista foi gravada utilizando-se um smartphone Android.
 
 #### Prazos
 
@@ -73,7 +73,7 @@ As respostas das perguntas feitas na entrevista constam na tabela 2 a seguir. A 
 #### Respostas das perguntas fechadas
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Perguntas e respostas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Perguntas e respostas</p></font>
 
 <table>
     <thead>

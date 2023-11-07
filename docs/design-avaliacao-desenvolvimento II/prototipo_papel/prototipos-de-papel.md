@@ -89,7 +89,16 @@ Na figura 3 é possível ver o protótipo de papel da tarefa "Consultar estabele
 
 ### Visualizar recibo fiscal
 
-Figura 4
+
+Na figura 4 é possível ver o protótipo de papel da tarefa "Visualizar Recibo de Indicação".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 4:</b> Protótipo de papel da tarefa Visualizar recibo de indicação</p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/prototipos-de-papel/prototipo_Lucas_Oliveira.png?raw=true" style="width: 65%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
 
 ### Consultar reclamação
 
@@ -132,3 +141,4 @@ Na figura 7 é possível ver o protótipo de papel da tarefa "Consultar resultad
 |`1.1`|04/11/2023|Adição do protótipo "consultar reclamação"|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.2`|04/11/2023|Adição do protótipo "Registrar nova reclamação"|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.3`|05/11/2023|Adição do protótipo "Consultar resultado de sorteio"|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.4`|06/11/2023|Adição do protótipo "Visualizar Recibo de indicação"|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|

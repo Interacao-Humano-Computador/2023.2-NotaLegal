@@ -16,7 +16,7 @@ Nesta avaliação, tivemos como metodologia a investigação, e a técnica utili
 
 ### Aspectos Práticos da Avaliação
 
-A avaliação foi conduzida pelo integrante do grupo [Lucas Víctor](https://github.com/Lucas13032003) e contou com a participação do entrevistado, Alecsandra Araújo Souza. Não houve outras pessoas envolvidas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem custos adicionais. Os equipamentos utilizados incluíram papel, lápis e um celular para gravação do áudio e do vídeo da entrevista. O cronograma planejado para a entrevista presencial foi ajustado do dia 2 de novembro para o dia 1º de novembro, das 17:00 às 19:15, para acomodar a disponibilidade do entrevistado. Na tabela 1 é possível ver o cronograma planejado e o cronograma executado.
+A avaliação foi conduzida pelo integrante do grupo [Lucas Víctor](https://github.com/Lucas13032003) e contou com a participação do entrevistado, Alecsandra Araújo Souza. Não houve outras pessoas envolvidas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem custos adicionais. Os equipamentos utilizados incluíram papel, lápis e um celular para gravação do áudio e do vídeo da entrevista. O cronograma planejado para a entrevista presencial foi ajustado do dia 2 de novembro para o dia 5 de novembro, das --- às ----, para acomodar a disponibilidade do entrevistado. Na tabela 1 é possível ver o cronograma planejado e o cronograma executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da entrevista.</p>
@@ -35,8 +35,8 @@ A avaliação foi conduzida pelo integrante do grupo [Lucas Víctor](https://git
     <td>Cronograma Planejado</td>
     <td>Lucas Víctor</td>
     <td>Alecsandra Araújo</td>
-    <td></td>
-    <td></td>
+    <td>19:00</td>
+    <td>19:15</td>
     <td>02/11/2023</td>
     <td>Presencial</td>
   </tr>
@@ -61,13 +61,13 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 
 ### Avaliação e Apresentação dos Dados
 
-No vídeo 1, é possível ver a gravação da avaliação do storyboard "Consultar estabelecimento".
+No vídeo 1, é possível ver a gravação da avaliação do storyboard "Consultar extrato".
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://youtu.be/sSBTmiHWT3o" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Consultar estabelecimento".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/rA1SYWGrkDE" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Consultar estabelecimento".</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/sSBTmiHWT3o" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/rA1SYWGrkDE" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
@@ -93,37 +93,37 @@ As perguntas fechadas foram estruturadas de forma a permitir análises quantitat
         <tr>
             <td>1</td>
             <td>A história contada pelo storyboard representa a realidade?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>2</td>
             <td>As ações realizadas pelo ator principal condizem com as ações realizadas na prática?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Você se identifica com a motivação do ator principal para realizar a tarefa?</td>
-            <td></td>
+            <td>Mias ou menos</td>
         </tr>
         <tr>
             <td>4</td>
             <td>Você consegue entender o storyboard e as ações desenvolvidas nele?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>5</td>
             <td>Você acha que o storyboard resolve o problema em questão?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>6</td>
             <td>Você acha que a satisfação do ator principal condiz com a realidade?</td>
-            <td></td>
+            <td>Mais ou menos</td>
         </tr>
         <tr>
             <td>7</td>
             <td>As ações realizadas no storyboard seguem uma ordem sequencial, fluida e lógica?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
     </tbody>
 </table>
@@ -135,10 +135,21 @@ Além disso, a pergunta aberta permitiu aos participantes expressar suas opiniõ
 
 8. Houve algum elemento que você não compreendeu no storyboard?
 
-Resposta: 
+Resposta: Não, ficou claro.
 
-#### Consolidação e análise dos dados
+#### Consolidação e Análise dos Dados
+A tabela apresentada acima destaca as respostas obtidas em uma série de perguntas fechadas relacionadas a um storyboard específico. A análise dessas respostas revela os seguintes insights:
 
+1. Através da entrevista, foi possível considerar que a história contada pelo storyboard representa a realidade (Pergunta 1).
+2. Da mesma forma, a maioria concorda que as ações realizadas pelo ator principal no storyboard condizem com as ações na prática (Pergunta 2).
+3. Em relação à motivação do ator principal, a resposta "Mais ou menos" na Pergunta 3 indica uma certa ambiguidade ou falta de identificação em alguns participantes.
+4. A compreensão do storyboard e das ações nele desenvolvidas é, em geral, positiva, como indicado na Pergunta 4.
+5. A maioria dos participantes acredita que o storyboard resolve o problema em questão (Pergunta 5).
+6. A satisfação do ator principal em relação à realidade é avaliada como "Mais ou menos" (Pergunta 6).
+7. As ações no storyboard são consideradas sequenciais, fluidas e lógicas (Pergunta 7).
+Além das perguntas fechadas, a pergunta aberta (Pergunta 8) permitiu aos participantes expressar suas opiniões e insights de forma mais livre e abrangente, e a resposta indicou que não houve falta alguma de clareza no storyboard.
+
+Esses resultados fornecem uma visão geral das percepções dos participantes em relação ao storyboard, destacando áreas de concordância e aquelas que podem exigir revisão ou esclarecimento.
 
 
 <div align="center">
@@ -153,9 +164,9 @@ Resposta:
         </thead>
         <tbody>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>Correção</td>
+                <td>08/11/2023</td>
+                <td> <a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
             </tr>
         </tbody>
     </table>
@@ -175,3 +186,5 @@ Resposta:
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 05/11/2023 | Criação do documento |  [Lucas Víctor](https://github.com/Lucas13032003)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.0`  | 06/11/2023 | Análise de dados     |  [Lucas Víctor](https://github.com/Lucas13032003)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+

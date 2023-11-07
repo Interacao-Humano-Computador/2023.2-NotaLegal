@@ -68,6 +68,17 @@ No início da entrevista, o [termo de consentimento](https://github.com/Interaca
 
 ### Avaliação e Apresentação dos Dados
 
+#### Vídeo da entrevista
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=8FqxtIjrtKc" target="blanket"><b>Vídeo 1:</b> Entrevista - Avaliação do Storyboard "Consultar resultado de sorteio"</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8FqxtIjrtKc" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
 As respostas das perguntas feitas na entrevista constam na tabela 2 a seguir. A resposta da pergunta aberta foi transcrita logo abaixo da tabela 2 e em seguida foram transcritas as considerações feitas pela entrevistada.
 
 #### Respostas das perguntas fechadas
@@ -137,17 +148,6 @@ A entrevistada, por nunca ter sido sorteada e por já ter enfrentado problemas d
 #### Consolidação e análise dos dados
 
 Considerando as respostas da usuária, é possível afirmar que o storyboard "Consultar resultado de sorteio" está de acordo com a tarefa respectiva no site Nota Legal. As motivações e as satisfações do usuário estão representadas no storyboard. Dessa forma, a usuária não identificou nenhum ponto de mudança nesse storyboard. Então chegamos a concluão que não será necesário alterar o storyboard em estudo.
-
-### Vídeo da entrevista
-
-<div align="center">
-
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=8FqxtIjrtKc" target="blanket"><b>Vídeo 1:</b> Entrevista - Avaliação do Storyboard "Consultar resultado de sorteio"</a></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8FqxtIjrtKc" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
-</div>
 
 ## Bibliografia
 

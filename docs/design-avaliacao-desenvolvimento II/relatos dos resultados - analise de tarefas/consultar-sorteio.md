@@ -68,6 +68,17 @@ No início da entrevista, o [termo de consentimento](https://github.com/Interaca
 
 ### Avaliação e Apresentação dos Dados
 
+#### Vídeo da entrevista
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=O35ldfSgny0" target="blanket"><b>Vídeo 1:</b> Entrevista - Avaliação do Storyboard "Consultar resultado de sorteio"</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O35ldfSgny0" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
 As respostas das perguntas feitas na entrevista constam na tabela 2 a seguir.
 
 #### Respostas das perguntas
@@ -182,17 +193,6 @@ Em relação a tarefa "consultar resultado de sorteio", a entrevistada afirmou q
 #### Consolidação e análise dos dados
 
 Diante das respostas da entrevistada, a avaliação da análise da tarefa "consultar resultado de sorteio" foi realizada. A tarefa em questão foi bem avaliada pela usuária como simples e fácil de ser executada, que afirmou não ter dificuldades nenhuma nessa tarefa. Portanto, a partir dessa entrevista não forma levantados pontos de melhoria na tarefa em estudo. No site como um todo, é necessário melhorar seu desempenho, tempo de resposta e disponibilidade.
-
-### Vídeo da entrevista
-
-<div align="center">
-
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=O35ldfSgny0" target="blanket"><b>Vídeo 1:</b> Entrevista - Avaliação do Storyboard "Consultar resultado de sorteio"</a></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O35ldfSgny0" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
-</div>
 
 ## Bibliografia
 

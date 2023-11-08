@@ -186,4 +186,4 @@ Em resumo, os resultados sugerem que o storyboard está alinhado com muitos dos 
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
-| `1.0`  | 31/10/2023 | Criação do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.0`  | 07/11/2023 | Criação do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |

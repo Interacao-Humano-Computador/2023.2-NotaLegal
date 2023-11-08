@@ -91,37 +91,37 @@ As perguntas fechadas foram organizadas de maneira a possibilitar análises quan
         <tr>
             <td>1</td>
             <td>A história contada pelo storyboard representa a realidade?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>2</td>
             <td>As ações realizadas pelo ator principal condizem com as ações realizadas na prática?</td>
-            <td></td>
+            <td>Não</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Você se identifica com a motivação do ator principal para realizar a tarefa?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>4</td>
             <td>Você consegue entender o storyboard e as ações desenvolvidas nele?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>5</td>
             <td>Você acha que o storyboard resolve o problema em questão?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>6</td>
             <td>Você acha que a satisfação do ator principal condiz com a realidade?</td>
-            <td></td>
+            <td>Não</td>
         </tr>
         <tr>
             <td>7</td>
             <td>As ações realizadas no storyboard seguem uma ordem sequencial, fluida e lógica?</td>
-            <td></td>
+            <td>Não</td>
         </tr>
     </tbody>
 </table>
@@ -133,7 +133,7 @@ Além disso, a pergunta aberta permitiu aos participantes expressar suas opiniõ
 
 8. Houve algum elemento que você não compreendeu no storyboard?
 
-Resposta: .
+Resposta: Não.
 
 ### Consolidação e análise dos dados
 

@@ -792,8 +792,8 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Relato
   </thead>
   <tbody>
     <tr>
-      <td>Documentar o relato dos resultados do Story Board <br> Um documento para cada integrante do grupo (*) <br>
-            (*) As datas de execução e revisão parecem se sopbrepor, mas na realidade, como foram vários documentos, as datas de execução e de revisão de cada um são datas em sequência que não se sobrepõem.
+      <td>Documentar o relato dos resultados do Story Board <br> Um documento para cada integrante do grupo (*) <br> <br>
+            <font size="2">(*) As datas de execução e revisão parecem se sobrepor, mas na realidade, como foram vários documentos, as datas de execução e de revisão de cada um são datas em sequência que não se sobrepõem.</font>
       </td>
       <td>Início: 26/out <br> Fim: 29/out</td>
       <td>Início: 31/out <br> Fim: 08/nov</td>
@@ -815,8 +815,8 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Relato
       </td>
     </tr>
     <tr>
-      <td>Documentar o relato da Análise de tarefas <br> Um documento para cada integrante do grupo (**) <br>
-          (**) As datas de execução e revisão parecem se sopbrepor, mas na realidade, como foram vários documentos, as datas de execução e de revisão de cada um são datas em sequência que não se sobrepõem.
+      <td>Documentar o relato da Análise de tarefas <br> Um documento para cada integrante do grupo (**) <br> <br>
+            <font size="2">(**) As datas de execução e revisão parecem se sobrepor, mas na realidade, como foram vários documentos, as datas de execução e de revisão de cada um são datas em sequência que não se sobrepõem.</font>
       </td>
       <td>Início: 26/out <br> Fim: 29/out</td>
       <td>Início: 31/out <br> Fim: 08/nov</td>
@@ -854,6 +854,26 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Relato
       </td>
     </tr>
     <tr>
+      <td>Criar e documentar os protótipos de papel que serão utilizados nas avaliações</td>
+      <td>Início: 26/out <br> Fim: 29/out</td>
+      <td>Início: 02/nov <br> Fim: 06/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 22/out <br> Fim: 23/out</td>
+      <td>Início: 07/out <br> Fim: 08/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+      </td>
+    </tr>
+    <tr>
       <td>Definir, planejar e executar o teste piloto e data para realização - protótipo de papel</td>
       <td>Início: 26/out <br> Fim: 29/out</td>
       <td>Início: 03/nov <br> Fim: 04/nov</td>
@@ -879,26 +899,6 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Relato
       <td>Início: 30/out <br> Fim: 31/out</td>
       <td>Início: 07/nov <br> Fim: 08/nov</td>
       <td>
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Criar e documentar os protótipos de papel que serão utilizados nas avaliações</td>
-      <td>Início: 26/out <br> Fim: 29/out</td>
-      <td>Início: 02/nov <br> Fim: 06/nov</td>
-      <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
-        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
-      </td>
-      <td>Início: 22/out <br> Fim: 23/out</td>
-      <td>Início: 07/out <br> Fim: 08/out</td>
-      <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
       </td>
     </tr>

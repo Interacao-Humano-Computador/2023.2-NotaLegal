@@ -137,7 +137,17 @@ Resposta: Não.
 
 ### Consolidação e análise dos dados
 
-[consolidação]
+A análise das respostas fornecidas revela uma visão complexa e matizada das percepções dos participantes em relação ao storyboard em questão. Enquanto há consenso de que a história contada pelo storyboard representa a realidade (Pergunta 1) e que as ações realizadas pelo ator principal são condizentes com as práticas (Pergunta 2).
+
+A identificação com a motivação do ator principal para realizar a tarefa (Pergunta 3) é um ponto de divergência, indicando que algumas pessoas podem não estar completamente convencidas ou envolvidas com as razões apresentadas no storyboard. Esses dados revelam uma compreensão eficaz do conteúdo apresentado e uma percepção geral de que o storyboard é bem-sucedido em abordar o problema em questão (Pergunta 5). A clareza na comunicação visual e na resolução do enredo é evidente (Pergunta 4), sugerindo uma narrativa coesa e compreensível para os participantes. Além disso, embora a maioria dos participantes tenha compreendido o storyboard e suas ações, a satisfação do ator principal em relação à realidade (Pergunta 6) é avaliada de forma mais crítica, sugerindo que há espaço para melhorias na representação da experiência do personagem.
+
+O entendimento de que o storyboard resolve o problema em questão indica uma percepção positiva da eficácia da narrativa proposta. No entanto, a falta de uma sequência lógica e fluida nas ações do storyboard (Pergunta 7) pode ser uma área de preocupação. Isso sugere a necessidade de revisar a estrutura narrativa para garantir uma progressão suave e compreensível das ações.
+
+A análise também destaca a importância da pergunta aberta (Pergunta 8) para obter insights mais detalhados e opiniões dos participantes. A ausência de comentários negativos sobre a clareza do storyboard indica que, apesar das áreas de ambiguidade identificadas, os participantes não tiveram dificuldades significativas em compreender a história proposta.
+
+Em resumo, o storyboard é amplamente compreendido e aceito, mas requer ajustes na motivação do personagem, satisfação do ator principal e sequência lógica das ações. Esses insights orientarão revisões para uma narrativa mais envolvente.
+
+É importante ressaltar que uma correção do storyboard está programada para o dia 10 de novembro de 2023, com base no feedback fornecido pelo participante, e o cronograma de correção pode ser visto na tabela 3.
 
 <div align="center">
     <p><b>Tabela 3</b> - Cronograma de correção.</p>
@@ -152,7 +162,7 @@ Resposta: Não.
         <tbody>
             <tr>
                 <td>Correção</td>
-                <td>09/11/2023</td>
+                <td>10/11/2023</td>
                 <td>Lucas Ribeiro</td>
             </tr>
         </tbody>

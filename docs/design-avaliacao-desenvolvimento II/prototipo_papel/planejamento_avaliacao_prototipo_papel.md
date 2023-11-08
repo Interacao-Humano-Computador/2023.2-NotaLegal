@@ -266,7 +266,7 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
         <tr>
             <td>Consultar reclamação</td>
             <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-            <td>Lucas Ribeiro</td>
+            <td>Ana Clara</td>
             <td>20:00</td>
             <td>20:15</td>
             <td>10/11/2023</td>

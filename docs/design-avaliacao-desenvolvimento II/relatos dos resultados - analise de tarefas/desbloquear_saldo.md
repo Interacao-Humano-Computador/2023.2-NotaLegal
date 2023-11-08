@@ -1,5 +1,4 @@
-# Relato dos resultados da avaliação do Storyboard "Consultar Estabelecimento"
-
+# Relato dos resultados da avaliação do Storyboard "Desbloquear Saldo"
 ## Introdução
 
 Este documento apresenta os resultados da avaliação realizada na análise de tarefa da atividade "Desbloquear saldo" do site Nota Legal.

@@ -48,8 +48,9 @@ A avaliação foi conduzida por [Lucas Ribeiro](https://github.com/lucassouzs), 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
-
 ### Aspectos Éticos
+
+Conforme demonstrado no Vídeo 1, foram seguidos os princípios éticos das pesquisas científicas envolvendo seres humanos. Nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas) foi minuciosamente lido e aceito pelo participante, assegurando que ele estivesse plenamente informado sobre os procedimentos, objetivos, riscos, benefícios e propósitos da pesquisa antes de concordar em participar.
 
 ### Apresentação dos Dados
 

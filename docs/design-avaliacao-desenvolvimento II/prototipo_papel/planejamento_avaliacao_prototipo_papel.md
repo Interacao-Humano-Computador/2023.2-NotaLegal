@@ -230,11 +230,11 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
         <tr>
             <td>Registrar uma reclamação</td>
             <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Wellington Rosa</td>
+            <td>18:00</td>
+            <td>18:15</td>
+            <td>11/11</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Desbloquear saldo</td>

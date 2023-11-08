@@ -182,3 +182,4 @@ Em resumo, o storyboard é amplamente compreendido e aceito, mas requer ajustes 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 07/11/2023 | Criação do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.1`  | 08/11/2023 | Conclusão do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |

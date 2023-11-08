@@ -4,6 +4,20 @@
 
 O site Nota Legal é um portal online que busca atender às necessidades dos usuários de forma eficaz, proporcionando uma experiência de aprendizagem natural e rápida. A fim de alcançar esse objetivo, o site é projetado com base em princípios gerais de Interação Humano-Computador (IHC) e metas de usabilidade. Neste documento, destacaremos as principais características gerais do site Nota Legal, com base nos princípios e diretrizes de IHC e nas metas de usabilidade.
 
+## Acesso ao Nota Legal
+
+Em relação a requisitos de acesso de software, o usuário só precisa ter acesso a internet, um computador ou dispositivo móvel e um sistema operacional básico. Além disso, para acessar a plataforma em si, é necessário seguir os seguintes passos: 
+
+1. Abra um navegador de internet (como Google Chrome, Mozilla Firefox, Safari, etc.).
+
+2. Na barra de endereços na parte superior do navegador, digite o URL do site do Nota Legal: www.notalegal.df.gov.br.
+
+3. Na página inicial, clique em “Acessar minha conta” no canto superior direito.
+
+4. Você será redirecionado para a página de login. Insira seu CPF/CNPJ e sua senha nos campos apropriados.
+
+5. Clique em "Acessar" para acessar sua conta.
+
 ## Princípios Gerais de IHC
 
 ### 1. Correspondência com as Expectativas dos Usuários
@@ -70,6 +84,14 @@ A satisfação do usuário é uma preocupação constante no site Nota Legal. A 
 
 Embora o site Nota Legal siga a diretriz de simplicidade nas estruturas de tarefas na maioria das áreas, há telas de carregamento que podem ser excessivamente longas e não fornecem informações sobre o tempo estimado de conclusão. Isso pode causar frustração aos usuários, especialmente quando o tempo de carregamento excede o esperado.
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Tela de carregamento muito demorada</a></p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fC5Dodn3MZQ" title="Tela de carregamento do Login do site Nota Legal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> , 2023</p></font>
+</div>
+
 ### 2. Falta de Suporte a Idiomas Diversos
 
 Embora o site Nota Legal busque seguir a correspondência com as expectativas dos usuários, pode haver limitações na disponibilidade de suporte a idiomas diversos. Isso pode afetar a acessibilidade para usuários que preferem ou necessitam utilizar o site em outros idiomas além do idioma principal.
@@ -77,6 +99,22 @@ Embora o site Nota Legal busque seguir a correspondência com as expectativas do
 ### 3. Erros Toleráveis no Design Responsivo
 
 O site Nota Legal oferece um design responsivo, mas em algumas situações, especialmente em dispositivos móveis, pode haver erros de layout ou problemas de usabilidade. Isso pode afetar a experiência de usuários que acessam o site a partir de diferentes dispositivos e tamanhos de tela.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Tela 1 responsiva com erro.</p></font>
+
+<img src="" style="width: 80%;height=auto;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></p></font>
+</div>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 2:</b> Tela 2 responsiva com erro.</p></font>
+
+<img src="" style="width: 80%;height=auto;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></p></font>
+</div>
 
 ## Limites da Plataforma
 
@@ -103,4 +141,5 @@ O site Nota Legal incorpora princípios gerais de IHC e metas de usabilidade par
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|15/10/2023|Criação do documento|[Gabriel Rosa](https://github.com/gzaranza)|[Lucas de OLiveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|15/10/2023|Criação do documento|[Gabriel Rosa](https://github.com/gzaranza)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`2.0`|08/11/2023|Correção do documento|[Gabriel Rosa](https://github.com/gzaranza)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

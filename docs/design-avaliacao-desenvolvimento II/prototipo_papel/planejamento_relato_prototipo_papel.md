@@ -55,7 +55,7 @@ Além disso, é importante incluir quaisquer outras considerações ou particula
 
 *Em relação aos materiais, os protótipos de papel foram impressos em papel, proporcionando uma experiência próxima à de um aplicativo real. Para permitir que os participantes destacassem áreas de interesse e fizessem anotações, fornecemos canetas coloridas, lápis e borrachas, para que pudessem marcar e ajustar conforme necessário.*
 
-A avaliação ocorreu na [local da avaliação], que foi preparada previamente com mesas e cadeiras, proporcionando conforto tanto para o participante quanto para o avaliador. A escolha deste ambiente também garantiu a privacidade necessária para as sessões e minimizou distrações externas.*
+*A avaliação ocorreu na [local da avaliação], que foi preparada previamente com mesas e cadeiras, proporcionando conforto tanto para o participante quanto para o avaliador. A escolha deste ambiente também garantiu a privacidade necessária para as sessões e minimizou distrações externas.*
 
 *Além disso, a equipe de avaliação chegou com antecedência para configurar os equipamentos, garantindo que tudo estivesse pronto para o início das sessões.*
 

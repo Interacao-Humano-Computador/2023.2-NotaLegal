@@ -175,11 +175,23 @@ A entrevista com o usuário do site Nota Legal, focada na função "consultar re
 
 O único problema identificado no site "Nota Legal", mas especificamente, na seção de consultar reclamação, foi em relação a lentidão do site, onde o usuário mencionou a velocidade do site como um dos maiores desafios ao usar a função de consultar reclamação, sendo uma preocupação relevante, classificando a velocidade de carregamento do site como "Lenta", pois a performance do site afeta diretamente a experiência do usuário, indicando que há espaço para melhorias na otimização do site.
 
-#### Sugestões de Melhoria
+#### Sugestões de Melhorias
+
+Otimização de Código: Investir em técnicas para reduzir o tamanho dos arquivos de código, o que não apenas economiza espaço, mas também melhora o tempo de carregamento das páginas.
+
+Compressão de Imagens e Arquivos: Utilize técnicas de compressão para reduzir o tamanho de imagens e outros arquivos, diminuindo assim o tempo necessário para carregar as páginas.
+
+Armazenamento em Cache: Implemente estratégias de armazenamento em cache para reduzir a carga no servidor e acelerar as solicitações subsequentes dos usuários, proporcionando uma experiência mais rápida de navegação no seu site.
 
 #### Análise dos dados coletados
 
+Com base nas respostas da entrevista, observamos que a usuária tem uma experiência positiva com o site Nota Legal. Ela o utiliza frequentemente, acha fácil encontrar a opção de consulta reclamação, não teve problemas para acessar sua conta e não encontrou informações incorretas no site. Além disso, ele expressou sua disposição em recomendar o site para outras pessoas, destacando seu valor como benefício para a população.
+
 #### Sugestões de correções
+
+Com base nas informações coletadas, foi identificado que as áreas cruciais que necessitam de atenção são a otimização do desempenho do site, especialmente no que diz respeito à melhoria da velocidade de carregamento, e a contínua monitoração e coleta de feedback dos usuários para assegurar a manutenção da alta qualidade da usabilidade do site.
+
+Em resumo, a entrevista realizada com os usuários do site Nota Legal enfatizou a importância da otimização do desempenho, com foco na melhoria da velocidade de carregamento. Além disso, a satisfação geral dos usuários e a disposição deles em recomendar o site indicam que o mesmo desempenha um papel valioso para os usuários.
 
 ## Bibliografia
 > ROSA, Gabriel. [Planejamento da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md). Disciplina de IHC, FGA, Gama, 2023.
@@ -193,3 +205,4 @@ O único problema identificado no site "Nota Legal", mas especificamente, na se�
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 08/11/2023 | Criação do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.1`  | 08/11/2023 | Conclusão do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |

@@ -10,7 +10,7 @@ Nesta avaliação, tivemos como metodologia a investigação, e a técnica utili
 
 ### Aspectos Práticos da Avaliação
 
-A avaliação foi conduzida pela integrante do grupo [Lucas Víctor](https://github.com/Lucas13032003) e contou com a participação da entrevistada, Alecsandra Araújo Souza. Não houve outras pessoas envolvidas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem custos adicionais. Os equipamentos utilizados incluíram apenas um celular para gravação do áudio e do vídeo da entrevista. O cronograma planejado para a entrevista presencial foi ajustado do dia 2 de novembro para o dia 5 de novembro, das ----  às ------- , para acomodar a disponibilidade do entrevistado. Na tabela 1 é possível ver o cronograma planejado e o cronograma executado.
+A avaliação foi conduzida pela integrante do grupo [Lucas Víctor](https://github.com/Lucas13032003) e contou com a participação da entrevistada, Alecsandra Araújo Souza. Não houve outras pessoas envolvidas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem custos adicionais. Os equipamentos utilizados incluíram apenas um celular para gravação do áudio e do vídeo da entrevista. O cronograma planejado para a entrevista presencial foi ajustado do dia 2 de novembro para o dia 5 de novembro, das 21:00  às 21:06 , para acomodar a disponibilidade do entrevistado. Na tabela 1 é possível ver o cronograma planejado e o cronograma executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da entrevista.</p>
@@ -38,8 +38,8 @@ A avaliação foi conduzida pela integrante do grupo [Lucas Víctor](https://git
     <td>Cronograma Executado</td>
    <td>Lucas Víctor</td>
     <td>Alecsandra Araújo</td>
-    <td></td>
-    <td></td>
+    <td>21:00</td>
+    <td>21:15</td>
     <td>05/11/2023</td>
     <td>Presencial</td>
   </tr>

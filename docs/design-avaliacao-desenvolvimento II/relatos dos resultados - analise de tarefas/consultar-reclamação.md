@@ -54,6 +54,8 @@ Conforme demonstrado no Vídeo 1, foram seguidos os princípios éticos das pesq
 
 ### Apresentação dos Dados
 
+No vídeo 1, é possível ver a gravação do relato da análise de tarefas "Consultar reclamação".
+
 <div align="center">
   
 <p style="text-align: center"><a href="https://youtu.be/3L5VB7sTdMk" target="blanket"><b>Vídeo 1:</b> Avaliação da tarefa "Consultar Reclamação".</a></p>

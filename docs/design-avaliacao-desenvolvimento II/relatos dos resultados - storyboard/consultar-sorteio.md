@@ -64,7 +64,7 @@ Como dito anteriormente, na Tabela 1 encontram-se as datas de planejamento e exe
 
 ### Aspectos Éticos
 
-No início da entrevista, o [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) que consta no planejamento dessa avaliação foi lido para a entrevistada e explicado em detalhes. Após o seu consentimento, deu-se início a leitura do storyboard e depois a entrevista foi realizada. Foi deixado claro à entrevistada que sua identidade e seus dados pessoais não seriam divulgados, e assim, a entrevistada concordou em ser gravada. Dessa forma, a gravação foi feita focando os papéis fixados na parede e com o áudio sendo capturado normalmente.
+No início da entrevista, o [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) que consta no planejamento dessa avaliação foi lido para a entrevistada e explicado em detalhes. Após o seu consentimento, deu-se início a leitura do storyboard e depois a entrevista foi realizada. Foi deixado claro à entrevistada que sua identidade e seus dados pessoais não seriam divulgados, e assim, a entrevistada concordou em ser gravada, porém sem o uso de sua imagem. Dessa forma, a gravação foi feita focando os papéis fixados na parede e com o áudio sendo capturado normalmente.
 
 ### Avaliação e Apresentação dos Dados
 

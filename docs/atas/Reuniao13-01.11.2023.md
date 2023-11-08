@@ -34,8 +34,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
     </tr>
     <tr>
       <td>Realizado</td>
-      <td>xx:xx</td>
-      <td>xx:xx</td>
+      <td>20:05</td>
+      <td>20:32</td>
     </tr>
   </tbody>
 </table>
@@ -71,7 +71,8 @@ Na figura 2 encontram-se as atividades definidas e os responsáveis por cada uma
 
 ## Conclusão
 
-Foram distribuidas as atividades para cada integrante do grupo.
+- Foram distribuidas as atividades para cada integrante do grupo.
+- As datas de entrega das atividades serão definidas na próxima reunião
 
 ## Link da Gravação
 

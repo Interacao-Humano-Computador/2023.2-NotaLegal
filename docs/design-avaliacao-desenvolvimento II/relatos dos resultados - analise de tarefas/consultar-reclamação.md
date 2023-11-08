@@ -173,6 +173,8 @@ A entrevista com o usuário do site Nota Legal, focada na função "consultar re
 
 #### Problemas e Dificuldades Identificadas
 
+O único problema identificado no site "Nota Legal", mas especificamente, na seção de consultar reclamação, foi em relação a lentidão do site, onde o usuário mencionou a velocidade do site como um dos maiores desafios ao usar a função de consultar reclamação, sendo uma preocupação relevante, classificando a velocidade de carregamento do site como "Lenta", pois a performance do site afeta diretamente a experiência do usuário, indicando que há espaço para melhorias na otimização do site.
+
 #### Sugestões de Melhoria
 
 #### Análise dos dados coletados

@@ -65,9 +65,10 @@ No vídeo 1, é possível ver a gravação da avaliação do storyboard "Consult
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://youtu.be/rA1SYWGrkDE" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Consultar estabelecimento".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/rA1SYWGrkDE" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Consultar extrato".</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/rA1SYWGrkDE" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rA1SYWGrkDE" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 

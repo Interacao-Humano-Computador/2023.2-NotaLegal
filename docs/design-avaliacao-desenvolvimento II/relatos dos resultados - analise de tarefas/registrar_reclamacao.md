@@ -59,7 +59,8 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
   
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=DvJswIlwRtM" target="blanket"><b>Vídeo 1:</b> Avaliação da tarefa "Registro de uma reclamação".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DvJswIlwRtM" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DvJswIlwRtM" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 

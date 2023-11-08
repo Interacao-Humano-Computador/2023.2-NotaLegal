@@ -248,11 +248,11 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
         <tr>
             <td>Consultar estabelecimento</td>
             <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Elaime Alves</td>
+            <td>17:00</td>
+            <td>17:15</td>
+            <td>10/11</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Visualizar Recibo Fiscal</td>

@@ -55,7 +55,7 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
   
 <p style="text-align: center"><a href="https://youtu.be/OA0qvziC32Y?feature=shared" target="blanket"><b>Vídeo 1:</b> Avaliação da tarefa "Visualizar Recibo Fiscal".</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/OA0qvziC32Y?feature=shared" title="Apresentação 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OA0qvziC32Y" title="Apresentação 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 

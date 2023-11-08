@@ -129,7 +129,7 @@ Na figura 6 é possível ver o protótipo de papel da tarefa "Consultar extrato"
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 6:</b> Protótipo de papel da tarefa Consultar extrato</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/prototipodepapel-extrato.png" style="width: 65%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/prototipodepapel-extrato.png?raw=true" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>

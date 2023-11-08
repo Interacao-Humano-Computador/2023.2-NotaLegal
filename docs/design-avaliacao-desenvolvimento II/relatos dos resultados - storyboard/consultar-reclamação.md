@@ -56,9 +56,109 @@ A avaliação foi conduzida por [Lucas Ribeiro](https://github.com/lucassouzs), 
 
 ### Aspectos Éticos
 
+Conforme demonstrado no Vídeo 1, foram seguidos os princípios éticos das pesquisas científicas envolvendo seres humanos. Nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) foi minuciosamente lido e aceito pelo participante, assegurando que ele estivesse plenamente informado sobre os procedimentos, objetivos, riscos, benefícios e propósitos da pesquisa antes de concordar em participar.
+
 ### Avaliação e Apresentação dos Dados
 
-#### Consolidação e análise dos dados
+No vídeo 1, é possível ver a gravação da avaliação do storyboard "Consultar reclamação".
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/6Mj0HJDjkV4" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Consultar estabelecimento".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Mj0HJDjkV4" title="Relato do Storyboard - Consultar Reclamação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+
+</div>
+
+A pesquisa foi conduzida por meio de um questionário composto por sete perguntas fechadas e uma pergunta aberta. Ficamos satisfeitos em observar uma participação significativa, com todas as perguntas respondidas de forma completa. É relevante destacar que os participantes demonstraram um elevado grau de conforto durante sua participação na pesquisa e mostraram clara compreensão da linguagem utilizada nas perguntas. Esse entendimento claro contribuiu significativamente para a qualidade das respostas obtidas.
+
+As perguntas fechadas foram organizadas de maneira a possibilitar análises quantitativas e simplificar a apresentação dos dados em formato tabular. Para uma análise mais aprofundada das respostas às perguntas fechadas, favor consultar a Tabela 2 abaixo:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2 - </b> Perguntas fechadas e respostas</p></font>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Pergunta</th>
+            <th>Resposta</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>A história contada pelo storyboard representa a realidade?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>As ações realizadas pelo ator principal condizem com as ações realizadas na prática?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Você se identifica com a motivação do ator principal para realizar a tarefa?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Você consegue entender o storyboard e as ações desenvolvidas nele?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Você acha que o storyboard resolve o problema em questão?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Você acha que a satisfação do ator principal condiz com a realidade?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>As ações realizadas no storyboard seguem uma ordem sequencial, fluida e lógica?</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
+Além disso, a pergunta aberta permitiu aos participantes expressar suas opiniões e insights de forma mais livre e abrangente. Sua resposta pode ser vista abaixo:
+
+8. Houve algum elemento que você não compreendeu no storyboard?
+
+Resposta: .
+
+### Consolidação e análise dos dados
+
+[consolidação]
+
+<div align="center">
+    <p><b>Tabela 3</b> - Cronograma de correção.</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Etapa</th>
+                <th>Data</th>
+                <th>Responsável</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Correção</td>
+                <td>09/11/2023</td>
+                <td>Lucas Ribeiro</td>
+            </tr>
+        </tbody>
+    </table>
+    <p><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p>
+</div>
 
 ## Bibliografia
 

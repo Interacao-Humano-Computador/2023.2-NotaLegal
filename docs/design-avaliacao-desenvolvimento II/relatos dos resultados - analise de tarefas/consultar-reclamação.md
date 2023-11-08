@@ -6,7 +6,7 @@ Este documento apresenta os resultados da avaliação realizada na análise da t
 
 ## Metodologia
 
-Nesta avaliação, adotamos uma abordagem de investigação, utilizando a técnica de entrevista. Como mostra no Vídeo 1, a entrevista foi conduzida pessoalmente. Iniciamos o processo com a apresentação do participante, seguida pela leitura do nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas). Após a aceitação, procedemos com a avaliação, onde todas as perguntas foram devidamente respondidas pela participante.
+Nesta avaliação, adotamos uma abordagem de investigação, utilizando a técnica de entrevista. Como mostra no Vídeo 1, a entrevista foi conduzida pessoalmente, onde iniciamos o processo com a apresentação do participante, seguida pela leitura do nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas) e, após a aceitação, procedemos com a avaliação, onde todas as perguntas foram devidamente respondidas pela participante.
 
 ### Aspectos Práticos da Avaliação
 

@@ -257,20 +257,20 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
         <tr>
             <td>Visualizar Recibo Fiscal</td>
             <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Francinete de Oliveira Dias</td>
+            <td>20:30	</td>
+            <td>20:45	</td>
+            <td>10/11/2023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar reclamação</td>
             <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Lucas Ribeiro</td>
+            <td>20:00</td>
+            <td>20:15</td>
+            <td>10/11/2023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar extrato</td>

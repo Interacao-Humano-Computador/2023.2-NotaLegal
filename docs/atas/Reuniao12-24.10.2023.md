@@ -65,7 +65,7 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 Na figura 2 encontram-se as atividades definidas e os responsáveis por cada uma delas para a entrega 4 de RQS.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Atividades a serem desenvolvidas</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 2:</b> Atividades a serem desenvolvidas</p></font>
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/issues-RQS4-24-10-2023.png?raw=true">
 

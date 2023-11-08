@@ -62,7 +62,7 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 Na figura 2 encontram-se as atividades definidas e os responsáveis por cada uma delas para a entrega 5.1 de RQS.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Atividades a serem desenvolvidas</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 2:</b> Atividades a serem desenvolvidas</p></font>
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/issues-RQS_5.1-01-11-2023.jpeg?raw=true">
 

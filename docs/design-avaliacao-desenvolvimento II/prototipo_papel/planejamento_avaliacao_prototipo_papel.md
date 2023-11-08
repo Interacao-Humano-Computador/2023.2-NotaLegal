@@ -241,7 +241,7 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
             <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
             <td>Carlos Barrto</td>
             <td>18:00</td>
-            <td>18:00</td>
+            <td>18:15</td>
             <td>10/11/2023</td>
             <td>Presencial</td>
         </tr>

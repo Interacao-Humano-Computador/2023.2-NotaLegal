@@ -169,6 +169,8 @@ No vídeo 1, é possível ver a gravação do relato da análise de tarefas "Con
 
 ### Avaliação dos Dados
 
+A entrevista com o usuário do site Nota Legal, focada na função "consultar reclamação", ofereceu insights cruciais sobre a experiência do usuário, identificando áreas críticas que necessitam de melhorias. Em resumo, as principais conclusões são as seguintes:
+
 #### Problemas e Dificuldades Identificadas
 
 #### Sugestões de Melhoria

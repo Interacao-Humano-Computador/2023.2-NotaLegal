@@ -66,6 +66,107 @@ No vídeo 1, é possível ver a gravação do relato da análise de tarefas "Con
 
 </div>
 
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 2 - </b> Perguntas respondidas na avaliação.</p></font>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Perguntas</th>
+                <th>Respostas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Qual seu nome completo?</td>
+                <td>Ana Clara Silva de Araújo</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Qual sua idade?</td>
+                <td>19 anos</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Qual sua ocupação?</td>
+                <td>Vendedora</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Com que frequência você utiliza o site Nota Legal?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Você acha fácil encontrar a opção de consulta de estabelecimentos?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Quais são os maiores desafios que você enfrenta ao usar a função de consulta de estabelecimentos?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Você tem alguma sugestão para melhorar a usabilidade do site?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Você já teve problemas para acessar sua conta?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Se sim, qual foi o problema?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Você já precisou entrar em contato com o suporte ao cliente?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>Se sim, como foi sua experiência?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>Você recomendaria o site Nota Legal para outras pessoas? Por quê?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>Você já encontrou informações incorretas ou desatualizadas no site?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>Se sim, você poderia especificar quais?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>Como você classificaria a velocidade de carregamento do site?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>Você já usou o site em um dispositivo móvel?</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>Qual sugestão de melhoria você gostaria de compartilhar?</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
 ### Avaliação dos Dados
 
 #### Problemas e Dificuldades Identificadas

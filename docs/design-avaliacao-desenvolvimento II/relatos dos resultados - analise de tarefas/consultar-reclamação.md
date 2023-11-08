@@ -2,7 +2,11 @@
 
 ## Introdução
 
+Este documento apresenta os resultados da avaliação realizada na análise da tarefa "Consultar Reclamação" no site Nota Legal. O objetivo desta avaliação é identificar problemas de usabilidade na funcionalidade de consulta de reclamação. Especificamente, buscamos compreender a forma como os usuários interagem com essa funcionalidade, identificar os principais obstáculos que encontram e propor maneiras de melhorar a experiência deles. Os critérios de qualidade que serão considerados incluem eficiência, eficácia, satisfação do usuário e acessibilidade. Este relatório oferecerá insights valiosos para aprimorar a usabilidade da tarefa "Consultar Reclamação" no Nota Legal, visando proporcionar uma experiência mais eficaz e satisfatória aos usuários.
+
 ## Metodologia
+
+Nesta avaliação, adotamos uma abordagem de investigação, utilizando a técnica de entrevista. Como mostra no Vídeo 1, a entrevista foi conduzida pessoalmente. Iniciamos o processo com a apresentação do participante, seguida pela leitura do nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas). Após a aceitação do participante, procedemos com a avaliação. Primeiramente, concedemos um período ao participante para que ele pudesse examinar o storyboard em questão e se preparar para responder às perguntas. As perguntas foram então formuladas e respondidas durante a sessão de entrevista.
 
 ### Aspectos Práticos da Avaliação
 

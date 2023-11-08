@@ -64,7 +64,7 @@ No vídeo 1, é possível ver a gravação da avaliação do storyboard "Consult
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://youtu.be/6Mj0HJDjkV4" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Consultar estabelecimento".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/6Mj0HJDjkV4" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Consultar reclamação".</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Mj0HJDjkV4" title="Relato do Storyboard - Consultar Reclamação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

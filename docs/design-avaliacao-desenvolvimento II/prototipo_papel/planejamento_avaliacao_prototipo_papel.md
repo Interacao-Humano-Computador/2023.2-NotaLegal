@@ -239,11 +239,11 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
         <tr>
             <td>Desbloquear saldo</td>
             <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Carlos Barrto</td>
+            <td>18:00</td>
+            <td>18:00</td>
+            <td>10/11/2023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar estabelecimento</td>

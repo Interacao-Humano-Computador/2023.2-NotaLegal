@@ -95,72 +95,72 @@ No vídeo 1, é possível ver a gravação do relato da análise de tarefas "Con
             <tr>
                 <td align="center">4</td>
                 <td>Com que frequência você utiliza o site Nota Legal?</td>
-                <td></td>
+                <td>Raramente</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Você acha fácil encontrar a opção de consulta de estabelecimentos?</td>
-                <td></td>
+                <td>Sim</td>
             </tr>
             <tr>
                 <td align="center">6</td>
                 <td>Quais são os maiores desafios que você enfrenta ao usar a função de consulta de estabelecimentos?</td>
-                <td></td>
+                <td>A lentidão do site.</td>
             </tr>
             <tr>
                 <td align="center">7</td>
                 <td>Você tem alguma sugestão para melhorar a usabilidade do site?</td>
-                <td></td>
+                <td>Melhorar essa questão da lentidão do site.</td>
             </tr>
             <tr>
                 <td align="center">8</td>
                 <td>Você já teve problemas para acessar sua conta?</td>
-                <td></td>
+                <td>Não</td>
             </tr>
             <tr>
                 <td align="center">9</td>
                 <td>Se sim, qual foi o problema?</td>
-                <td></td>
+                <td>-</td>
             </tr>
             <tr>
                 <td align="center">10</td>
                 <td>Você já precisou entrar em contato com o suporte ao cliente?</td>
-                <td></td>
+                <td>Não</td>
             </tr>
             <tr>
                 <td align="center">11</td>
                 <td>Se sim, como foi sua experiência?</td>
-                <td></td>
+                <td>-</td>
             </tr>
             <tr>
                 <td align="center">12</td>
                 <td>Você recomendaria o site Nota Legal para outras pessoas? Por quê?</td>
-                <td></td>
+                <td>Sim, porque no site "Nota Legal", é possível resolver nossos problemas.</td>
             </tr>
             <tr>
                 <td align="center">13</td>
                 <td>Você já encontrou informações incorretas ou desatualizadas no site?</td>
-                <td></td>
+                <td>Não</td>
             </tr>
             <tr>
                 <td align="center">14</td>
                 <td>Se sim, você poderia especificar quais?</td>
-                <td></td>
+                <td>-</td>
             </tr>
             <tr>
                 <td align="center">15</td>
                 <td>Como você classificaria a velocidade de carregamento do site?</td>
-                <td></td>
+                <td>Lenta</td>
             </tr>
             <tr>
                 <td align="center">16</td>
                 <td>Você já usou o site em um dispositivo móvel?</td>
-                <td></td>
+                <td>Sim</td>
             </tr>
             <tr>
                 <td align="center">17</td>
                 <td>Qual sugestão de melhoria você gostaria de compartilhar?</td>
-                <td></td>
+                <td>Melhorar a questão da velocidade.</td>
             </tr>
         </tbody>
     </table>

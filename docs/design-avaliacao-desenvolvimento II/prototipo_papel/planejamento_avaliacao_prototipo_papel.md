@@ -233,7 +233,7 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
             <td>Wellington Rosa</td>
             <td>18:00</td>
             <td>18:15</td>
-            <td>11/11</td>
+            <td>11/11/2023</td>
             <td>Presencial</td>
         </tr>
         <tr>
@@ -251,7 +251,7 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
             <td>Elaime Alves</td>
             <td>17:00</td>
             <td>17:15</td>
-            <td>10/11</td>
+            <td>10/11/2023</td>
             <td>Presencial</td>
         </tr>
         <tr>
@@ -275,11 +275,11 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
         <tr>
             <td>Consultar extrato</td>
             <td><a href="https://github.com/lucas13032003">Lucas Víctor</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Alecsandra Araújo</td>
+            <td>20:15</td>
+            <td>20:30</td>
+            <td>10/11/2023</td>
+            <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar resultado de sorteio</td>

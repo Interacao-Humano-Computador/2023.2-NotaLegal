@@ -5,9 +5,12 @@
 Este documento apresenta os resultados da avaliação realizada no storyboard da tarefa "Consultar Estabelecimento" do site Nota Legal. A avaliação teve como propósito primordial a análise da representação visual das interações do usuário neste contexto específico. Através de uma análise criteriosa, buscamos avaliar se o storyboard está alinhado com as ações executadas pelos usuários no site Nota Legal e se consegue capturar de forma precisa as motivações e satisfações dos usuários. Além disso, identificamos e documentamos erros e áreas que demandam aprimoramentos no storyboard, com o intuito de contribuir para uma experiência do usuário mais eficaz e satisfatória.
 
 Os objetivos desta avaliação podem ser resumidos em três principais tópicos:
+
 * Avaliar se os Storyboards estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal;
+
 * Avaliar se as motivações e satisfações do usuário estão representadas nos storyboards;
-* Encontrar erros ou pontos de mudança nos Storyboards
+
+* Encontrar erros ou pontos de mudança nos Storyboards.
 
 
 ## Metodologia

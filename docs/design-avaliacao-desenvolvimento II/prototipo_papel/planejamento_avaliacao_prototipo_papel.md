@@ -354,7 +354,7 @@ O teste piloto desta avaliação foi realizado no dia 04/11/2023, às 17h, e dur
 <div align="center">
 <p style="text-align: center"><a href="https://youtu.be/zgfq99m9xco" target="blanket"><b>Vídeo 1:</b> Teste piloto do planejamento da avaliação do Protótipo de Papel</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/zgfq99m9xco" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgfq99m9xco" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>

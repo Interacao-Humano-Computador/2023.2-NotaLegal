@@ -94,6 +94,11 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
       <td></td>
     </tr>
+    <tr>
+      <td>06</td>
+      <td>A estrutura do documento é bem definida?</td>
+      <td></td>
+    </tr>
   </table>
 
 <p><b>Fonte:</b> Izabella Alves, 2023.</p>

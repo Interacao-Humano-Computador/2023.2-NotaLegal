@@ -1,4 +1,4 @@
-# Relato dos resultados da avaliação da análise de tarefa "Consultar estabelecimento"
+# Relato dos resultados da avaliação da análise de tarefa "Consultar reclamação"
 
 ## Introdução
 
@@ -99,12 +99,12 @@ No vídeo 1, é possível ver a gravação do relato da análise de tarefas "Con
             </tr>
             <tr>
                 <td align="center">5</td>
-                <td>Você acha fácil encontrar a opção de consulta de estabelecimentos?</td>
+                <td>Você acha fácil encontrar a opção de consultar reclamação?</td>
                 <td>Sim</td>
             </tr>
             <tr>
                 <td align="center">6</td>
-                <td>Quais são os maiores desafios que você enfrenta ao usar a função de consulta de estabelecimentos?</td>
+                <td>Quais são os maiores desafios que você enfrenta ao usar a função de consultar reclamação?</td>
                 <td>A lentidão do site.</td>
             </tr>
             <tr>

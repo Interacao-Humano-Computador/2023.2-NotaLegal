@@ -186,27 +186,27 @@ Na tabela 3, estão listados os critérios que devem ser verificados no [Planeja
     </tr>
     <tr>
       <td>03</td>
-      <td>O artefato descreve os aspectos práticos do relato dos resultados da avaliação?</td>
+      <td>O artefato descreve como devem ser apresentados os aspectos práticos do relato dos resultados da avaliação?</td>
       <td></td>
     </tr>
     <tr>
       <td>04</td>
-      <td>O artefato descreve os aspectos éticos do relato dos resultados da avaliação?</td>
+      <td>O artefato descreve como devem ser apresentados os aspectos éticos do relato dos resultados da avaliação?</td>
       <td></td>
     </tr>
     <tr>
       <td>05</td>
-      <td>O artefato descreve os resultados da avaliação?</td>
+      <td>O artefato descreve como devem ser apresentados os resultados da avaliação?</td>
       <td></td>
     </tr>
     <tr>
       <td>06</td>
-      <td>O artefato descreve as conclusões da avaliação?</td>
+      <td>O artefato descreve como devem ser apresentadas as conclusões da avaliação?</td>
       <td></td>
     </tr>
     <tr>
       <td>07</td>
-      <td>O artefato o modelo do cronograma executado da avaliação?</td>
+      <td>O artefato apresenta o modelo do cronograma executado da avaliação?</td>
       <td></td>
     </tr>
     <tr>

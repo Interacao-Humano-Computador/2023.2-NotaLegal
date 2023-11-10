@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) na disciplina de Requisitos de Software. A versão que será analisada será a versão 2.0 do documento, adicionada ao histórico de versões com a data 08/11/2023.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 2.0 do documento, adicionada ao histórico de versões com a data 08/11/2023.
 
 ## Objetivo
 

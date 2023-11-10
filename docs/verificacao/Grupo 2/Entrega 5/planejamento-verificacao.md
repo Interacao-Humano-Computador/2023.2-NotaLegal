@@ -87,21 +87,17 @@ A verificação será executada nos dias 10/11/2023 e 13/11/2023, as atividades 
 
 ## Checklists
 
-Lucas Ribeiro
+Lucas Ribeiro - Planejamento da avaliação do protótipo de papel
 
-Planejamento da avaliação do protótipo de papel
+Lucas Ribeiro - Planejamento do relato da avaliação do protótipo de papel
 
-Planejamento do relato da avaliação do protótipo de papel
+Lucas Ribeiro - Relato do Resultado - Análise de Tarefas do site Ventoy (eles fizeram um docuemtno só)
 
-Relato do Resultado - Análise de Tarefas do site Ventoy (eles fizeram um docuemtno só)
+-
 
+Zenilda Vieira - Relato do Resultado - Storyboard (eles fizeram um documento só)
 
-
-Zenilda Vieira
-
-Relato do Resultado - Storyboard (eles fizeram um documento só)
-
-Storyboards
+Zenilda Vieira - Storyboards
 
 ## Referências
 

@@ -236,7 +236,7 @@ Na tabela 4, estão listados os critérios que devem ser verificados nos [Storyb
     </tr>
     <tr>
       <td>01</td>
-      <td>O storyboard possui um título?</td>
+      <td>Os storyboards possuem um título?</td>
       <td></td>
     </tr>
     <tr>
@@ -251,27 +251,32 @@ Na tabela 4, estão listados os critérios que devem ser verificados nos [Storyb
     </tr>
     <tr>
       <td>04</td>
-      <td>O storyboard possui atores?</td>
+      <td>Os storyboards possuem atores?</td>
       <td></td>
     </tr>
     <tr>
       <td>05</td>
-      <td>O storyboard possui cenários?</td>
+      <td>Os storyboards possuem cenários?</td>
       <td></td>
     </tr>
     <tr>
       <td>06</td>
-      <td>O storyboard possui a satisfação do usuário ao final da cena?</td>
+      <td>Os storyboards possuem a satisfação do usuário ao final da cena?</td>
       <td></td>
     </tr>
     <tr>
       <td>07</td>
-      <td>O storyboard possui ações do usuário?</td>
+      <td>Os storyboards possuem ações do usuário?</td>
       <td></td>
     </tr>
     <tr>
       <td>08</td>
-      <td>O storyboard possui objetivos?</td>
+      <td>Os storyboards possuem objetivos?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>Os storyboards foram feitos em papel?</td>
       <td></td>
     </tr>
   </table>

@@ -71,7 +71,7 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 Na tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "[Planejamento do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/resultadoStory/)" em relação ao checklist específico.
 
 <div align="center">
-  <p><b>Tabela 3:</b> Checklist de Verificação para o artefato "Planejamento do Relato dos Resultados da Avaliação do Storyboard"</p>
+  <p><b>Tabela 2:</b> Checklist de Verificação para o artefato "Planejamento do Relato dos Resultados da Avaliação do Storyboard"</p>
   <table>
     <tr>
       <th>ID</th>
@@ -125,6 +125,8 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
 </div>
 
 ## Problemas encontrados
+
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/)".
 
 ### Checklist Geral
 

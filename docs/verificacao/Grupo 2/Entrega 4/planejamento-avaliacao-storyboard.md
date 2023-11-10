@@ -126,6 +126,8 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
 
 ## Problemas encontrados
 
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/)".
+
 ### Checklist Geral
 
 - **ID 03:** O artefato possui apenas uma seção para "Referências Bibliográficas", porém, as fontes citadas nesta seção não são referenciadas no texto. Além disso, o artefato não possui uma seção para "Bibliografia", que é onde devem ser citadas as fontes que foram utilizadas para a elaboração do artefato, mas que não foram citadas no texto.

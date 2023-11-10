@@ -10,10 +10,16 @@
 
 ## Participantes
 
-## Objetivos de verificação
+## Objetos de verificação
 
 ## Cronograma
 
 ## Checklists
 
 ## Referências
+
+# Histórico de Versões
+
+| Versão | Data   | Descrição     | Autor     |  Revisor        |
+| :----: | ------ | ------------- | --------- | :-------------: |
+| `1.0`  | 09/11/2023 | Criação do documento  |  |  |

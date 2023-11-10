@@ -150,3 +150,9 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 > ALVES, Izabella. [Planejamento da Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo%202/Entrega%204/planejamento-verificacao.md), NOTA LEGAL, FGA, 2023. Acesso em: 09 de novembro de 2023.
 >
 > [Storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#historico-de-versoes). VENTOY, FGA, 2023. Acesso em: 09 de novembro de 2023.
+
+# Histórico de Versões
+
+| Versão | Data   | Descrição     | Autor     |  Revisor        |
+| :----: | ------ | ------------- | --------- | :-------------: |
+| `1.0`  | 09/11/2023 | Criação do documento  |  |  |

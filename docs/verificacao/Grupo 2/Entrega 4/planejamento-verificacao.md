@@ -415,3 +415,9 @@ Na tabela 6, estão listados os critérios que devem ser verificados no [Planeja
 > FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 09 de novembro de 2021.
 >
 > Planejamento da Verificação da Etapa 4 do Grupo 2. BILHETERIA DIGITAL, Disciplina de IHC, FGA, Gama, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo/>. Acesso em: 09 de novembro de 2023.
+
+# Histórico de Versões
+
+| Versão | Data   | Descrição     | Autor     |  Revisor        |
+| :----: | ------ | ------------- | --------- | :-------------: |
+| `1.0`  | 09/11/2023 | Criação do documento  |  |  |

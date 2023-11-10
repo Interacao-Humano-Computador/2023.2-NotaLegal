@@ -18,7 +18,7 @@
 
 ## Referências
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |

@@ -148,7 +148,7 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 >
 > [Planejamento do Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/resultadoStory/#sumario-de-dados). VENTOY, FGA, 2023. Acesso em: 09 de novembro de 2023.
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |

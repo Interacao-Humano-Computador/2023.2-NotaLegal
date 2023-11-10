@@ -151,7 +151,7 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 >
 > [Storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#historico-de-versoes). VENTOY, FGA, 2023. Acesso em: 09 de novembro de 2023.
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |

@@ -145,7 +145,7 @@ Nenhum problema foi encontrado em relação ao checklist específico.
 >
 > [Planejamento da Avalição do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/). VENTOY, FGA, 2023. Acesso em: 09 de novembro de 2023.
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |

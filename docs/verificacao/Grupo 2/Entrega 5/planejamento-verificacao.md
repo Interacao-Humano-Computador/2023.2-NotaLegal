@@ -25,18 +25,22 @@ Zenilda Vieira
 Tabela 1
 
 Planejamento da avaliação do protótipo de papel
+
 Planejamento do relato da avaliação do protótipo de papel
 
 Relato do Resultado - Análise de Tarefas do site Ventoy (eles fizeram um docuemtno só)
+
 Relato do Resultado - Storyboard (eles fizeram um documento só)
+
 Storyboards
 
 ## Cronograma
 
 A verificação será executada nos dias 10/11/2023 e 13/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tabela de artefatos </p></font>
-</div>
+
 
 <table>
 
@@ -77,24 +81,32 @@ A verificação será executada nos dias 10/11/2023 e 13/11/2023, as atividades 
 </tbody>
 </table>
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Checklists
 
 Lucas Ribeiro
+
 Planejamento da avaliação do protótipo de papel
+
 Planejamento do relato da avaliação do protótipo de papel
+
 Relato do Resultado - Análise de Tarefas do site Ventoy (eles fizeram um docuemtno só)
 
+
+
 Zenilda Vieira
+
 Relato do Resultado - Storyboard (eles fizeram um documento só)
+
 Storyboards
 
 ## Referências
 
 Lucas Ribeiro
+
 Zenilda Vieira
 
 ## Histórico de Versões

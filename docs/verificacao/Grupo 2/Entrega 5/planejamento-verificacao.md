@@ -28,7 +28,7 @@ Planejamento da avaliação do protótipo de papel
 
 Planejamento do relato da avaliação do protótipo de papel
 
-Relato do Resultado - Análise de Tarefas do site Ventoy (eles fizeram um docuemtno só)
+Relato do Resultado - Análise de Tarefas do site Ventoy (eles fizeram um documento só)
 
 Relato do Resultado - Storyboard (eles fizeram um documento só)
 
@@ -81,23 +81,97 @@ A verificação será executada nos dias 10/11/2023 e 13/11/2023, as atividades 
 </tbody>
 </table>
 
-
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Checklists
 
-Lucas Ribeiro - Planejamento da avaliação do protótipo de papel
+### Checklist Geral
 
-Lucas Ribeiro - Planejamento do relato da avaliação do protótipo de papel
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 5 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
-Lucas Ribeiro - Relato do Resultado - Análise de Tarefas do site Ventoy (eles fizeram um docuemtno só)
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 5</p></font>
 
--
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Todas as referências bibliográficas são chamadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O artefato possui introdução?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Todas as tabelas são referenciadas no texto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-Zenilda Vieira - Relato do Resultado - Storyboard (eles fizeram um documento só)
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
-Zenilda Vieira - Storyboards
+### Checklist do artefato Planejamento da avaliação do protótipo de papel
+
+Lucas Ribeiro
+
+### Checklist do artefato Planejamento do relato da avaliação do protótipo de papel
+
+Lucas Ribeiro
+
+### Checklist do artefato Relato do Resultado - Análise de Tarefas do site Ventoy 
+
+Lucas Ribeiro -(eles fizeram um docuemtno só)
+
+### Checklist do artefato Relato do Resultado - Storyboard
+
+Zenilda Vieira - (eles fizeram um documento só)
+
+### Checklist do artefato Storyboards
+
+Zenilda Vieira
 
 ## Referências
 

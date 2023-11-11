@@ -420,4 +420,4 @@ Na tabela 6, estão listados os critérios que devem ser verificados no [Planeja
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 09/11/2023 | Criação do documento  |  |  |
+| `1.0`  | 09/11/2023 | Criação do documento  | [Izabella Alves](https://github.com/izabellaalves) | [Gabriel Zaranza](https://github/GZaranza)  |

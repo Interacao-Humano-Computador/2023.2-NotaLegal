@@ -1,12 +1,14 @@
-# Verificação do Planejamento da Avaliação do Storyboard
+# Verificação do artefato "Planejamento da Avaliação da Análise de Tarefas"
 
-## Introdução
+# Verificação do artefato Storyboard
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 2.0 do documento, adicionada ao histórico de versões com a data 08/11/2023.
+## Introdução 
+
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.0 do documento, adicionada ao histórico de versões com a data 29/10/2023.
 
 ## Objetivo
 
-O objetivo desta verificação é identificar possíveis problemas no artefato "[Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
+O objetivo desta verificação é identificar possíveis problemas no artefato "[Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
 
 ## Metodologia
 
@@ -20,7 +22,7 @@ Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist
 
 ### Checklist Geral
 
-Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/)" em relação ao checklist geral.
+Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/)" em relação ao checklist geral.
 
 <div align="center">
 <p><b>Tabela 1:</b> Checklist de Verificação Geral.</p>
@@ -44,22 +46,22 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>03</td>
       <td>O artefato possui Bibliografia e Referências Bibliográficas usadas de forma correta?</td>
-      <td>Não</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>06</td>
       <td>A estrutura do documento é bem definida?</td>
-      <td>Incompleto</td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -68,10 +70,10 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 ### Checklist Específico
 
-Na tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "[Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/)" em relação ao checklist específico.
+Na tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "[Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/)" em relação ao checklist específico.
 
 <div align="center">
-<p><b>Tabela 2:</b> Checklist de Verificação do artefato "Planejamento da Avaliação do Storyboard".</p>
+<p><b>Tabela 5:</b> Checklist de Verificação do artefato "Planejamento da Avaliação da Análise de Tarefas".</p>
 
   <table>
     <tr>
@@ -124,29 +126,30 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
 <p><b>Fonte:</b> Izabella Alves, 2023.</p>
 </div>
 
+
 ## Problemas encontrados
 
-Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/)".
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/)".
 
 ### Checklist Geral
 
-- **ID 03:** O artefato possui apenas uma seção para "Referências Bibliográficas", porém, as fontes citadas nesta seção não são referenciadas no texto. Além disso, o artefato não possui uma seção para "Bibliografia", que é onde devem ser citadas as fontes que foram utilizadas para a elaboração do artefato, mas que não foram citadas no texto.
+- **ID 04:** As tabelas estão sem um padrão, várias tabelas são chamadas de "tabela 1", algumas não possuem fonte, e outras não possuem nem título e nem fonte, além de não serem chamadas dentro do texto.
 
+- **ID 05:** Como dito anteriormente, as tabelas não possuem um padrão, algumas possuem fonte, outras não, algumas possuem título, outras não, e algumas não são chamadas dentro do texto.
 
-- **ID 06:** O artefato, apesar de possuir um conteúdo bem completo, não possui uma estrutura bem definida. Primeiro temos uma seção para o Framework DECIDE, onde alguns aspectos do planejamento são citados, porém, logo após há uma seção chamada "Planejamento da Avaliação", o que pode ser confuso para o leitor, pois o planejamento da avaliação já havia começado antes,
 
 ### Checklist Específico
 
-Nenhum problema foi encontrado em relação ao checklist específico.
+Nenhum problema foi encontrado em relação ao checklist específico, parabéns ao grupo pelo bom planejamento da avaliação da análise de tarefas.
 
 ## Bibliografia
-
+>
 > ALVES, Izabella. [Planejamento da Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo%202/Entrega%204/planejamento-verificacao.md), NOTA LEGAL, FGA, 2023. Acesso em: 09 de novembro de 2023.
 >
-> [Planejamento da Avalição do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/). VENTOY, FGA, 2023. Acesso em: 09 de novembro de 2023.
+> [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/). VENTOY, FGA, 2023. Acesso em: 09 de novembro de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 09/11/2023 | Criação do documento  | [Izabella Alves](https://github.com/izabellaalves) | [Gabriel Zaranza](https://github/GZaranza)  |
+| `1.0`  | 11/11/2023 | Criação do documento  | [Izabella Alves](https://github.com/izabellaalves) | [Gabriel Zaranza](https://github/GZaranza)  |

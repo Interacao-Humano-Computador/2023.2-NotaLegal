@@ -10,6 +10,8 @@ O objetivo desta verificação é assegurar que a entrega 1 cumpra os padrões e
 
 ## Metodologia
 
+## Metodologia
+
 A metodologia selecionada para a verificação dos artefatos do  [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) é a Inspeção, desenvolvida por Michael E. Fagan. Esta abordagem estruturada para revisão de código e outros artefatos de software tem como objetivo identificar e corrigir defeitos de forma eficiente durante o processo de desenvolvimento. Conhecida por sua abordagem sistemática e rigorosa, a Inspeção por Fagan enfoca a detecção precoce de erros para aprimorar a qualidade do software.
 
 ## Etapas da Inspeção por Fagan
@@ -261,6 +263,22 @@ Na Tabela 3, estão listados os critérios que devem ser verificados em todos os
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
+
+## Checklist Ferramentas
+
+## Checklist Planejamento da Avaliação
+
+## Checklist Cronograma
+
+## Checklist Metodologia
+
+## Checklist Política	
+
+## Checklist Processo de Design de IHC
+
+## Checklist Site escolhido
+
+## Checklist Sites avaliados
 
 ## Bibliografia
 >

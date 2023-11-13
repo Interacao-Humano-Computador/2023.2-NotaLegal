@@ -126,10 +126,10 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 >
 > ZARANZA, Gabriel. [Planejamento da Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo%202/Entrega%202/planejamento-verificacao.md), NOTA LEGAL, FGA, 2023. Acesso em: 13 de novembro de 2023.
 >
-> [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/aspectosEticos/#historico-de-versoes). Limirio, FGA, 2023. Acesso em: 13 de novembro de 2023.
+> [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/aspectosEticos/#historico-de-versoes). Limirio, FGA, 2023. Acesso em: 13 de novembro de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 13/11/2023 | Criação do documento  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Isabella Alves](https://github/izabellaalves)  |
+| `1.0`  | 13/11/2023 | Criação do documento  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github/izabellaalves)  |

@@ -35,33 +35,33 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     </tr>
     <tr>
       <td>01</td>
-      <td></td>
-      <td></td>
+      <td>O artefato possui um histórico de versões padronizado?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
-      <td></td>
-      <td></td>
+      <td>O artefato possui introdução?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
-      <td></td>
-      <td></td>
+      <td>O artefato possui Bibliografia e Referências Bibliográficas usadas de forma correta?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
-      <td></td>
-      <td></td>
+      <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
-      <td></td>
-      <td></td>
+      <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>06</td>
-      <td></td>
-      <td></td>
+      <td>A estrutura do documento é bem definida?</td>
+      <td>Sim</td>
     </tr>
   </table>
 

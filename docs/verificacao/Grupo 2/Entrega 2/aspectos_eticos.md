@@ -83,7 +83,7 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     </tr>
     <tr>
       <td>01</td>
-      <td>- Considera aspectos Éticos de Pesquisas Envolvendo Pessoas?
+      <td> Considera aspectos Éticos de Pesquisas Envolvendo Pessoas?
 </td>
       <td>Sim</td>
     </tr>

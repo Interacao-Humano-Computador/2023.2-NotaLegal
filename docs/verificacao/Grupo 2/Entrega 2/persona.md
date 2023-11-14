@@ -83,22 +83,32 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     </tr>
     <tr>
       <td>01</td>
-      <td>Idade (criança, jovem, adulto, terceira idade etc.)</td>
+      <td>As personas foram definidas a partir dos dados do perfil do usuário?</td>
       <td></td>
     </tr>
     <tr>
       <td>02</td>
-      <td>Experiência (leigo/ novato, especialista)</td>
+      <td>As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)?</td>
       <td></td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Atitudes (tecnófilos, tecnófobos)</td>
+      <td>As personas apresentam as situações em que seram utilizadas?</td>
       <td></td>
     </tr>
     <tr>
       <td>04</td>
-      <td>Tarefas primárias (compra, venda)</td>
+      <td>O elenco de personas tem entre 3 a 12 personas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O elenco de personas e a razão da quantidade de personas é justificada?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O projeto contém a anti-persona e persona primária?</td>
       <td></td>
     </tr>
   </table>

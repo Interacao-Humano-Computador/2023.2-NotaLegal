@@ -76,19 +76,72 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
 <p><b>Tabela 2:</b> Checklist de Verificação do artefato "Entrevista".</p>
 
   <table>
+  <thead>
     <tr>
       <th>ID</th>
-      <th>Critério</th>
+      <th>Descrição</th>
       <th>Avaliação</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>01</td>
-      <td>Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários
-(quanto mais melhor)?
-</td>
+      <td>1</td>
+      <td>O artefato possui uma introdução condizente com o conteúdo do texto?</td>
       <td>Sim</td>
     </tr>
-  </table>
+    <tr>
+      <td>2</td>
+      <td>Todas as bibliografias/referências bibliográficas são utilizadas no texto?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?</td>
+      <td>Incompleto</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>As diretrizes foram seguidas?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Foi explicada como seria feita a entrevista?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Houve preparação para a entrevista?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Formato da entrevista definido e adequado?</td>
+      <td>Incompleto</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Forma de registro adequado?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Foram registradas as respostas?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Finalização organizada?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Houve consentimento do entrevistado?</td>
+      <td>Sim</td>
+    </tr>
+
+  </tbody>
+</table>
 
 <p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
 </div>

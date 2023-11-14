@@ -83,22 +83,27 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     </tr>
     <tr>
       <td>01</td>
-      <td></td>
+      <td>O artefato possui a metodologia utilizada e sua respectiva descrição?</td>
       <td></td>
     </tr>
     <tr>
       <td>02</td>
-      <td></td>
+      <td>Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção?</td>
       <td></td>
     </tr>
     <tr>
       <td>03</td>
-      <td></td>
+      <td>Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado?</td>
       <td></td>
     </tr>
     <tr>
       <td>04</td>
+      <td>A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais?</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema?</td>
       <td></td>
     </tr>
   </table>

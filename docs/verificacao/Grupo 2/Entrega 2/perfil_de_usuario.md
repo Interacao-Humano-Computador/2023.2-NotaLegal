@@ -211,3 +211,4 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 13/11/2023 | Criação do documento  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github/izabellaalves)  |
+| `1.1`  | 14/11/2023 | Preenchendo tabela do checklist  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github/izabellaalves)  |

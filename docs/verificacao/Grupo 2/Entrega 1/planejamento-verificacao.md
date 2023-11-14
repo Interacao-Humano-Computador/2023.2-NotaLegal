@@ -8,7 +8,6 @@ A Verificação e Validação (V&V) são etapas cruciais no desenvolvimento de s
 
 O objetivo desta verificação é assegurar que a entrega 1 cumpra os padrões estabelecidos, garantindo a qualidade e confiabilidade do aplicativo. Qualquer discrepância ou área de melhoria identificada será comunicada para ajustes, visando o contínuo aprimoramento do projeto. Este processo de verificação é essencial para garantir a conformidade do produto em desenvolvimento e contribuir para o sucesso contínuo do projeto.
 
-## Metodologia
 
 ## Metodologia
 
@@ -63,13 +62,13 @@ A Tabela 1 apresenta os artefatos que serão inspecionados durante o processo de
           <td>Ferramentas</td>
           <td align="center">1.0</td>
           <td align="center">13/11/2023</td>
-          <td align="center"><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+          <td align="center"><a href="https://github.com/LimirioGuimaraeshttps://github.com/LimirioGuimaraes">	Limírio Guimarães</a></td>
       </tr>
       <tr>
           <td>Heatmap</td>
           <td align="center">1.0</td>
           <td align="center">13/11/2023</td>
-          <td align="center"><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>   
+          <td align="center"><a href="https://github.com/Lucas13032003">	Limirio Correia</a></td>   
       </tr>
       <tr>
           <td>  Planejamento da Avaliação </td>
@@ -203,7 +202,7 @@ A Tabela 2 apresenta a data e versão em que o integrante irá realizar a verifi
 Na Tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para todos os artefatos da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -314,15 +313,53 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 </div>
 
-
-
-
 ## Checklist Planejamento da Avaliação
 
 Na Tabela 5, estão listados os critérios que devem ser verificados no artefato de [Planejamento da Avaliação]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
 
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>O objetivo da avaliação está claramente definido?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> As atividades do framework DECIDE, especialmente as relacionadas à determinação de objetivos e exploração de perguntas, são apresentadas de forma clara e compreensível?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As perguntas formuladas para explorar os objetivos escolhidos são específicas e alinhadas com a metodologia proposta?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>A descrição dos métodos de avaliação escolhidos (inspeção e observação) é adequada e compreensível?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>As etapas de preparação, recrutamento, custos e lidar com questões éticas estão bem definidas na metodologia de avaliação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td> O processo de avaliar, interpretar e apresentar os dados, incluindo o uso de termo de consentimento e elaboração do relatório, é explicado de maneira clara e abrangente?</td>
+      <td></td>
+    </tr>
+  </table>
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
 
 ## Checklist Cronograma
 
@@ -378,21 +415,246 @@ Na Tabela 6, estão listados os critérios que devem ser verificados no artefato
 
 Na Tabela 7, estão listados os critérios que devem ser verificados no artefato de [Metodologia]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>A metodologia empregada está claramente descrita no documento?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os métodos de coleta de dados foram especificados de maneira precisa?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Existe uma justificativa clara para a escolha dos métodos de análise de dados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>O delineamento da pesquisa é adequado para atender aos objetivos propostos?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Foi apresentado a metodologia utilizada dentro do desenvolvimento da equipe?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>A metodologia aborda a questão da validade interna e externa da pesquisa?</td>
+      <td></td>
+    </tr>
+  </table>
+
+  <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
+
 ## Checklist Política	
 
 Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Política]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>O documento esclarece claramente o objetivo das políticas adotadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>As diretrizes para a criação de issues estão bem definidas no documento?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>A explicação sobre o uso de branches para desenvolvimento é clara e adequada?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>As orientações sobre pull requests estão detalhadas e compreensíveis?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O exemplo de issue apresentado na Figura 1 está alinhado com as diretrizes definidas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>As referências bibliográficas são relevantes e adequadas para embasar as políticas?</td>
+      <td></td>
+    </tr>
+  </table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
+
 ## Checklist Processo de Design de IHC
 
-Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Processo de Design de IHC]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na Tabela 9, estão listados os critérios que devem ser verificados no artefato de [Processo de Design de IHC]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>As atividades do processo de design foram claramente delineadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os ciclos de vida foram apresentados de forma compreensível?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As fases dos ciclos foram explicitamente descritas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Existe uma descrição detalhada das técnicas utilizadas no processo?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Cada ciclo inclui uma conclusão ou direcionamento claro ao seu término?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O ciclo de vida de Mayhew é abordado e devidamente documentado no conteúdo?</td>
+      <td></td>
+    </tr>
+  </table>
+
+  <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
 
 ## Checklist Site escolhido
 
-Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Site escolhido]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na Tabela 10, estão listados os critérios que devem ser verificados no artefato de [Site escolhido]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 10:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>O artefato possui o objetivo do documento?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>A metodologia utilizada no artefato é explicitamente descrita?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>São apresentados critérios fundamentais para a escolha do site no artefato?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>A justificativa para a escolha do site é devidamente abordada no artefato?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O artefato oferece uma introdução adequada ao site selecionado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O site apresenta termos de uso disponíveis para serem utilizados na disciplina, sendo um site do governo ou de software livre?</td>
+      <td></td>
+    </tr>
+  </table>
+
+  <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
 
 ## Checklist Sites avaliados
 
-Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Sites avaliados]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na Tabela 11, estão listados os critérios que devem ser verificados no artefato de [Sites avaliados]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>A apresentação dos sites avaliados é clara e intuitiva?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O resultado global das avaliações de todos os sites é apresentado de forma abrangente?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Cada sítio possui uma avaliação individual detalhada?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>São claramente destacadas as heurísticas violadas em cada sítio avaliado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Foi identificado e comunicado o problema principal em cada sítio avaliado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O método de avaliação de cada sítio é explicado de maneira compreensível e transparente</td>
+      <td></td>
+    </tr>
+  </table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
 
 ## Bibliografia
 >
@@ -404,7 +666,7 @@ Na Tabela 8, estão listados os critérios que devem ser verificados no artefato
 
 ## Histórico de Versões
 
+
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 13/11/2023 | Criação do documento  |  |  |
-
+| `1.0`  | 14/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |

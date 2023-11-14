@@ -266,19 +266,133 @@ Na Tabela 3, estão listados os critérios que devem ser verificados em todos os
 
 ## Checklist Ferramentas
 
+Na Tabela 4, estão listados os critérios que devem ser verificados no artefato de [Ferramentas](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/planejamento/Ferramentas.md#ferramentas) da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist Específico para o Artefato de Ferramentas.</p></font>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>O objetivo do artefato em relação ao documento está claramente definido?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O artefato abrange todas as ferramentas planejadas para utilização no projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Há especificações detalhadas no artefato sobre a aplicação de cada ferramenta?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>O artefato inclui a apresentação das logos correspondentes a cada ferramenta?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O artefato reflete a versão mais recente das ferramentas planejadas para uso no projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O artefato passou por revisão por parte dos membros da equipe?</td>
+      <td></td>
+    </tr>
+  </table>
+
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
+
+
+
+
 ## Checklist Planejamento da Avaliação
+
+Na Tabela 5, estão listados os critérios que devem ser verificados no artefato de [Planejamento da Avaliação]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+
+
 
 ## Checklist Cronograma
 
+Na Tabela 6, estão listados os critérios que devem ser verificados no artefato do [Cronograma]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Possui cronograma planejado e executado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> O cronograma planejado possui datas de todas atividades de todas as etapas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O cronograma planejado possui período de correção pós-entrega?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>O cronograma executado possui datas de execução e revisão das atividades de cada etapa?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O cronograma prevê atividades de teste e validação após a implementação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O artefato passou por revisão por parte dos membros da equipe?</td>
+      <td></td>
+    </tr>
+  </table>
+
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
+
 ## Checklist Metodologia
+
+Na Tabela 7, estão listados os critérios que devem ser verificados no artefato de [Metodologia]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 ## Checklist Política	
 
+Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Política]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
 ## Checklist Processo de Design de IHC
+
+Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Processo de Design de IHC]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 ## Checklist Site escolhido
 
+Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Site escolhido]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
 ## Checklist Sites avaliados
+
+Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Sites avaliados]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 ## Bibliografia
 >

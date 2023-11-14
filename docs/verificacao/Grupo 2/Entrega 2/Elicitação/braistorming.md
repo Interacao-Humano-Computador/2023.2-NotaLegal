@@ -36,32 +36,32 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>01</td>
       <td>O artefato possui um histórico de versões padronizado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato possui Bibliografia e Referências Bibliográficas usadas de forma correta?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>06</td>
       <td>A estrutura do documento é bem definida?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -87,32 +87,32 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>1</td>
       <td>Possui justificativa da quantidade de usuários presentes na sessão de brainstorming?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Os usuários possuem o perfil definido pela equipe?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>3</td>
       <td>A sessão possui um moderador?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>O moderador da sessão faz perguntas para guiar os participantes?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Todos os participantes falaram e se sentiram seguros para expor opiniões?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>No início da sessão, o moderador informou o objetivo e procedimento da atividade para os participantes?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     
    
@@ -132,7 +132,7 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Específico
 
-- Não foi possível identificar nenhum erro neste documento de Brainstorming, segue todos os critérios especificads no checklist específico.
+- **ID-2**: Apesar dos participantes serem usuários do sistema, não ficou claro o perfil deles e se estão de acordo com o perfil de usuário definido no projeto
 
 ## Bibliografia
 >

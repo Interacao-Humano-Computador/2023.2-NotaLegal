@@ -36,32 +36,32 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>01</td>
       <td>O artefato possui um histórico de versões padronizado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato possui Bibliografia e Referências Bibliográficas usadas de forma correta?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>A estrutura do documento é bem definida?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -87,22 +87,22 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>1</td>
       <td>As tarefas são representadas por tarefas do usuário, do sistema, interatvias e abstratas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>As representações dos tipos de tarefas estão de acordo com o padrão?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Foram representadas as relações entre as tarefas?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>4</td>
       <td>As relações entre as tarefas foram bem representadas?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
    
   </tbody>
@@ -121,7 +121,11 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Específico
 
-- Não foi possível identificar nenhum erro neste documento de Concur Task Trees, segue todos os critérios especificads no checklist específico.
+- **ID-03 e ID-04**: Não representaram as relações entre as tarefas como ativação, ativação com passagem de informação, escolha, concorrência. É importante representar essas relações para aumentar a expressividade da notação CTT (BARBOSA, 2010. Cap. 6.4.3)[1].
+
+## Referências Bibliográficas
+>
+>[1] BARBOSA, Simone; SILVA, Bruno. Interação humano-computador. Elsevier Brasil, 2010.
 
 ## Bibliografia
 >

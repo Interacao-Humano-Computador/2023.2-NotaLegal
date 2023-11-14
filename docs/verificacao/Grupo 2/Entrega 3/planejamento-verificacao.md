@@ -108,7 +108,18 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 </div>
 
-## Referências
+## Referências Bibliográficas
+
+>
+> [1] BARROS, André. Plano de ensino da disciplina Interação Humano Computador no semestre 02/2023, FGA, Gama, 2023. Acesso em: 14 de novembro de 2023.
+
+## Bibliografia
+>
+>  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+>
+> FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 09 de novembro de 2021.
+>
+> Planejamento da Verificação da Etapa 4 do Grupo 2. BILHETERIA DIGITAL, Disciplina de IHC, FGA, Gama, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo/>. Acesso em: 14 de novembro de 2023.
 
 ## Histórico de Versões
 

@@ -51,12 +51,12 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>04</td>
       <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
-      <td>Não se aplica</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td>Não</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>06</td>
@@ -97,7 +97,7 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>3</td>
       <td>As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?</td>
-      <td>Incompleto</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
@@ -117,17 +117,17 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>7</td>
       <td>Formato da entrevista definido e adequado?</td>
-      <td>Incompleto</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Forma de registro adequado?</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Foram registradas as respostas?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>10</td>
@@ -153,12 +153,14 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-- 
+- **ID-05:** Creio que eles trabalham com um formato padrão nas tabelas, porém no documento a tabela 1 está sem a fonte de quem fez, já na tabela 2 possui a fonte de quem realizou.
 
 
 ### Checklist Específico
 
-- 
+- **ID-08:** O registro foi realizado da maneira correta sendo postado no Youtube como não listado, porém o áudio da entrevista do participante/convidado não foi possível escutar em nenhum momento.
+
+- **ID-09:** Não houve registro das respostas do participando, seria bom ter devido principalmente ao vídeo da entrevista não ter o áudio do participante.
 
 ## Bibliografia
 >

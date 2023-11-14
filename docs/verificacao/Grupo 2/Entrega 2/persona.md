@@ -84,32 +84,32 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>01</td>
       <td>As personas foram definidas a partir dos dados do perfil do usuário?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
-      <td>As personas apresentam as situações em que seram utilizadas?</td>
-      <td></td>
+      <td>As personas apresentam as situações em que serão utilizadas?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>O elenco de personas tem entre 3 a 12 personas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>O elenco de personas e a razão da quantidade de personas é justificada?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>O projeto contém a anti-persona e persona primária?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -123,12 +123,12 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-- 
+- Não foi possível identificar nenhum erro neste documento de Aspectos Éticos, segue todos os critérios especificads no checklist geral.
 
 
 ### Checklist Específico
 
-- 
+- Não foi possível identificar nenhum erro neste documento de Aspectos Éticos, segue todos os critérios especificads no checklist específico.
 
 ## Bibliografia
 >
@@ -141,3 +141,4 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 13/11/2023 | Criação do documento  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github/izabellaalves)  |
+| `1.1`  | 14/11/2023 | Preenchendo tabela do checklist  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github/izabellaalves)  |

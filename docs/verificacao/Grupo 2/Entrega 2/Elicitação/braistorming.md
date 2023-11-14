@@ -65,7 +65,7 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     </tr>
   </table>
 
-<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Checklist Específico
@@ -118,7 +118,8 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
    
   </tbody>
 </table>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
 
 ## Problemas encontrados
 

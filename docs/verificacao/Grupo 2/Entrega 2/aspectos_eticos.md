@@ -56,7 +56,7 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td>Não</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>06</td>

@@ -1,10 +1,10 @@
 # Verificação do artefato "Brainstorming"
 
-# Verificação do artefato Brainstorming
+
 
 ## Introdução 
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão X do documento, adicionada ao histórico de versões com a data X.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.0 do documento, adicionada ao histórico de versões com a data 15/10/2023.
 
 ## Objetivo
 
@@ -73,7 +73,7 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 Na tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "[Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/)" em relação ao checklist específico.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de Brainstorming</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Brainstorming</p></font>
 
 <table>
   <thead>

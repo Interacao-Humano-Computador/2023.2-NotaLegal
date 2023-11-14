@@ -56,7 +56,7 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td>Não</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
@@ -76,108 +76,111 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
 <p><b>Tabela 2:</b> Checklist de Verificação do artefato "Perfil de Usuário".</p>
 
   <table>
+  <thead>
     <tr>
       <th>ID</th>
-      <th>Critério</th>
+      <th>Descrição</th>
       <th>Avaliação</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>01</td>
-      <td>Dados demográficos : idade, sexo, status socioeconômico</td>
-      <td></td>
+      <td>1</td>
+      <td>Foram utilizados estudos, como entrevistas ou questionários, para coletar dados para o perfil de usuário?</td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>02</td>
-      <td>Experiência no cargo que ocupa: cargo atual, experiência nesse cargo, tempo na empresa,
-responsabilidades, trabalhos e cargos anteriores, plano de carreira;</td>
-      <td></td>
+      <td>2</td>
+      <td>Os dados coletados foram agrupados por faixas e grupos nos quais os usuários se encaixam?</td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>03</td>
-      <td>Informações sobre a empresa: tamanho da empresa, área de atuação</td>
-      <td></td>
+      <td>3</td>
+      <td>Foi elaborado um perfil de usuários com base nos dados agregados?</td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>04</td>
-      <td>Educação: grau de instrução, área de formação, cursos realizados, alfabetismo. O quão bem o
-usuário lê? Ele tem dificuldade com informação impressa? Tem experiência com textos complexos?
-Está disposto a ler texto ao utilizar produtos como o que está sendo projetado? Prefere aprender com
-outras pessoas? Prefere aprender fazendo?</td>
-      <td></td>
+      <td>4</td>
+      <td>Existe uma proporção calculada para os usuários em cada perfil identificado?</td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>05</td>
-      <td>Experiência com computadores: alfabetismo computacional, habilidade com computadores, anos de
-experiência. Que sistemas computacionais o usuário conhece? Quais deles costuma utilizar? Que
-hardware costuma utilizar?</td>
-      <td></td>
+      <td>5</td>
+      <td>Os usuários foram categorizados em grupos considerando idade, experiência, atitudes e tarefas primárias?</td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>06</td>
-      <td>Experiência com um produto específico ou ferramentas semelhantes: experiência com produtos
-concorrentes e outros produtos específicos do domínio, hábitos de uso, preferências e
-descontentamentos</td>
-      <td></td>
+      <td>6</td>
+      <td>O perfil de usuário identifica características relevantes?</td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>07</td>
-      <td>Tecnologia disponível: hardware (tamanho e resolução do monitor ou tela do dispositivo, velocidade
-do processamento etc.), software e outras ferramentas aos quais tem acesso</td>
-      <td></td>
+      <td>7</td>
+      <td>O perfil de usuário inclui informações sobre cargos ocupados pelos usuários?</td>
+      <td>Não</td>
     </tr>
     <tr>
-      <td>08</td>
-      <td>Treinamento: o quanto o usuário valoriza treinamento? Prefere um estilo de aprendizado visual,
-auditivo ou outro? Pode investir tempo aprendendo a utilizar o produto em questão?</td>
-      <td></td>
+      <td>8</td>
+      <td>O perfil de usuário inclui informações sobre as atitudes desempenhadas pelos usuários?</td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>09</td>
-      <td>Tecnologia disponível: hardware (tamanho e resolução do monitor ou tela do dispositivo, velocidade
-do processamento etc.),atitudes e valores: preferências de produto, medo de tecnologia etc. O usuário costuma assumir
-riscos e explorar novas formas de fazer o mesmo trabalho? Ou evita novas experiências, preferindo
-caminhos já percorridos e testados? Ou prefere que alguém lhes mostre cada passo de uma nova
-tarefa sendo aprendida?</td>
-      <td></td>
+      <td>9</td>
+      <td>O perfil de usuário abrange informações sobre a experiência dos usuários?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>Conhecimento do domínio: o que e quanto o usuário conhece sobre o assunto em questão? É
-especialista? É esperado que se torne um especialista?</td>
-      <td></td>
+      <td>O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>11</td>
-      <td>Objetivos: quais são os principais objetivos dos usuário? Como eles são alcançados atualmente?</td>
-      <td></td>
+      <td>O perfil de usuário descreve as atividades principais dos usuários?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>Tarefas: quais são as tarefas do usuário que precisam ser apoiadas? Quais dessas são consideradas
-primárias, e quais são secundárias? Há quanto tempo realiza essas tarefas? São tarefas frequentes
-ou infrequentes? São tarefas inovadoras? Que experiência ele possui em tarefas semelhantes?</td>
-      <td></td>
+      <td>O perfil de usuário considera a faixa etária dos usuários?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>13</td>
-      <td>Gravidade dos erros: quais são as possíveis consequências negativas dos erros do usuário?</td>
-      <td></td>
+      <td>O perfil de usuário avalia a relação dos usuários com a tecnologia?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>Motivação para o trabalho: o usuário se limita a cumprir a carga horária ou trabalha além do
-expediente, por prazer? Gosta da interação social no local de trabalho? Tem ambição de ser
-promovido?</td>
-      <td></td>
+      <td>O perfil de usuário considera a relação dos usuários com o domínio do produto?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>15</td>
-      <td>Idiomas e jargões: que idiomas o usuário conhece e utiliza fluentemente? Ele possui um jargão
-profissional particular, um vocabulário próprio da empresa, da sua atividade ou de algum grupo social
-relevante para o seu projeto?</td>
-      <td></td>
+      <td>O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?</td>
+      <td>Sim</td>
     </tr>
-  </table>
+    <tr>
+      <td>16</td>
+      <td>As características identificadas nos perfis foram priorizadas?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Foi designada uma responsabilidade específica para a elaboração do questionário?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Foi estabelecido um cronograma para a elaboração do questionário?</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Foi definido um prazo para o preenchimento do questionário?</td>
+      <td>Sim</td>
+    </tr>
+  </tbody>
+</table>
 
 <p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
 </div>
@@ -189,12 +192,13 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-- 
-
+- Não foi possível identificar nenhum erro neste documento de Aspectos Éticos, segue todos os critérios especificads no checklist geral.
 
 ### Checklist Específico
 
-- 
+- **ID-07:** Não foi possível identificar nenhuma pergunta em relação qual a ocupação do usuário.
+
+- **ID-18:** Não foi realizado nenhum cronograma no documento para a aplicação do questionário.
 
 ## Bibliografia
 >

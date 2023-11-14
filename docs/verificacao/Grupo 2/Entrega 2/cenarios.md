@@ -51,12 +51,12 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>04</td>
       <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td>Não</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>06</td>
@@ -84,27 +84,27 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>01</td>
       <td>O artefato possui a metodologia utilizada e sua respectiva descrição?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>02</td>
       <td>Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>04</td>
       <td>A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -123,7 +123,13 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Específico
 
-- Não foi possível identificar nenhum erro neste documento de Aspectos Éticos, segue todos os critérios especificads no checklist específico.
+- **ID-01:** Não há uma secção de explicação da metodologia de cenário. Poderia explicar um pouco a partir dos exemplos presentes no capítulo 07 do livro Interação Humano Computador [1]. E também citar o que o texto descritivo de cada cenário deve conter como contexto, ator(es), objetivos, ações e avaliação, e o ator principal.
+
+- **ID-03:** Os cenários 1 e 2 que foram apresentados estão perfeitos, mas o cenário 3 está curto e direto sem todo o contexto de descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado como cenário 1 e 2.
+
+## Referências Bibliográficas
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Bibliografia
 >
@@ -136,3 +142,4 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 13/11/2023 | Criação do documento  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github/izabellaalves)  |
+| `1.1`  | 14/11/2023 | Preenchendo tabela do checklist  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github/izabellaalves)  |

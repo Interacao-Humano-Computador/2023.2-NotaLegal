@@ -78,7 +78,7 @@ Foram distribuidas as atividades para cada integrante do grupo.
 
 ## Link da Gravação
 
-Essa reunião não foi gravada porque foi feita presencialmente em sala de aula.
+[Link da reunião 14.](https://youtu.be/ZHVdu0CWNGk)
 
 ## Histórico de Versão
 

@@ -4,11 +4,11 @@
 
 A verificação e validação (V&V) são processos fundamentais no desenvolvimento de software, desempenhando papéis cruciais na garantia da qualidade e confiabilidade dos artefatos produzidos. A verificação refere-se à avaliação sistemática dos artefatos de software para garantir que eles atendam aos requisitos e padrões especificados. Este processo concentra-se na análise estática e dinâmica do código, na conformidade com as diretrizes de codificação, na identificação de erros e na garantia de que o software seja construído de acordo com as expectativas.
 
-Dito isso, este documento fará a verificação da entrega 2 realizada pelo Grupo 2, que está trabalhando com o site Ventoy, na disciplina Interação Humano Computador.
+Dito isso, este documento fará a verificação da entrega 2 realizada pelo Grupo 2, que está trabalhando com o site [Ventoy](https://interacao-humano-computador.github.io/2023.2-Ventoy/), na disciplina Interação Humano Computador.
 
 ## Objetivos
 
-O propósito deste documento é realizar uma verificação minuciosa dos artefatos desenvolvidos pelo Grupo 2 durante a etapa 2, que abrange o tema Analise de Requisitos. O objetivo é assegurar que esses artefatos estejam em plena conformidade com os requisitos estabelecidos na disciplina de Interação Humano Computador, bem como em alinhamento com os padrões consagrados na literatura especializada nesse campo. Essa análise visa garantir a qualidade e a aderência às melhores práticas, contribuindo para o desenvolvimento de artefatos ainda melhores para o projeto.
+O propósito deste documento é realizar uma verificação minuciosa dos artefatos desenvolvidos pelo Grupo 2 durante a [etapa 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/aspectosEticos/), que abrange o tema Analise de Requisitos. O objetivo é assegurar que esses artefatos estejam em plena conformidade com os requisitos estabelecidos na disciplina de Interação Humano Computador, bem como em alinhamento com os padrões consagrados na literatura especializada nesse campo. Essa análise visa garantir a qualidade e a aderência às melhores práticas, contribuindo para o desenvolvimento de artefatos ainda melhores para o projeto.
 
 ## Metodologia
 
@@ -84,33 +84,33 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
     </tr>
     <tr>
         <td>  Brainstorming </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td>  1.0  </td>
+        <td> 	15/10/2023 </td>
+        <td> <a href="https://github.com/LimirioGuimaraes">Limirio Guimarães</a> </td>
     </tr>
     <tr>
         <td>  Instropecção </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td>  1.0 </td>
+        <td> 14/10/2023	 </td>
+        <td> <a href="https://github.com/yabamiah">Vinícius Mendes</a> </td>
     </tr>
     <tr>
         <td> Grupos de foco </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td>  1.0  </td>
+        <td> 	15/10/2023 </td>
+        <td> <a href="https://github.com/LuisMiranda10">Luis Miranda</a> </td>
     </tr>
     <tr>
         <td>  Análise Hierarquica de Tarefas (HTA) </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 2.3  </td>
+        <td> 	07/11/2023 </td>
+        <td> <a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
     </tr>
     <tr>
         <td>  Concur Task Trees (CTT) </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+       <td> 2.0  </td>
+        <td> 	07/11/2023 </td>
+        <td> <a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
     </tr>
         
     
@@ -140,7 +140,7 @@ A verificação será executada nos dias 13/11/2023 e 14/11/2023, as atividades 
 </thead>
 <tbody>
     <tr>
-        <td>  09/10/2023 </td>
+        <td>  13/10/2023 </td>
         <td>  Planejamento da verificação </td>
         <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> e Gabriel Rosa </td>
     </tr>
@@ -170,27 +170,27 @@ A verificação será executada nos dias 13/11/2023 e 14/11/2023, as atividades 
         <td> 	Gabriel Rosa </td>
     </tr>
     <tr>
-        <td>  09/10/2023 </td>
+        <td>  13/10/2023 </td>
         <td>  Verificação do artefato "Brainstoming" </td>
         <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
     <tr>
-        <td>  10/10/2023 </td>
+        <td>  13/10/2023 </td>
         <td>  Verificação do artefato "Introspecção" </td>
         <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
     <tr>
-        <td>  10/10/2023 </td>
+        <td>  14/10/2023 </td>
         <td>  Verificação do artefato "Grupo de foco" </td>
         <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
     <tr>
-        <td>  10/10/2023 </td>
+        <td>  14/10/2023 </td>
         <td>  Verificação do artefato "Análise Hierarquica de Tarefas (HTA)" </td>
         <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
     <tr>
-        <td>  10/10/2023 </td>
+        <td>  14/10/2023 </td>
         <td>  Verificação do artefato "Concur Task Trees" </td>
         <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
@@ -212,7 +212,7 @@ Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino
 
 ### Checklist Geral
 
-Na tabela x, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega x do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela x, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela x:</b> Checklist para todos os artefatos da Entrega 2</p></font>
@@ -418,10 +418,10 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
 
 ### Brainstorming
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela X, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de Brainstorming</p></font>
 
 <table>
   <thead>
@@ -434,22 +434,48 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td>1</td>
-      <td></td>
+      <td>Possui justificativa da quantidade de usuários presentes na sessão de brainstorming?</td>
       <td></td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>Os usuários possuem o perfil definido pela equipe?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>A sessão possui um moderador?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>O moderador da sessão faz perguntas para guiar os participantes?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Todos os participantes falaram e se sentiram seguros para expor opiniões?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>No início da sessão, o moderador informou o objetivo e procedimento da atividade para os participantes?</td>
+      <td></td>
+    </tr>
+    
    
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Introspecção
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela X, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/introspeccao/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de Introspecção</p></font>
 
 <table>
   <thead>
@@ -462,22 +488,27 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td>1</td>
+      <td>Foi definido o cenário?</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O cenário definido apresenta a motivação do usuário ?</td>
       <td></td>
     </tr>
    
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Grupo de foco
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela X, estão listados os critérios que devem ser verificados no artefato [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/GrupoDeFoco/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de Grupo de Foco</p></font>
 
 <table>
   <thead>
@@ -490,22 +521,37 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td>1</td>
+      <td>Possui justificativa/referência para o número de participantes?</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>A sessão possui modereador?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O moderador incentivou os participantes a falarem suas opiniões?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Foram definidos os tópicos a serem explorados nas sessões?</td>
       <td></td>
     </tr>
    
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Análise Hierarquica de Tarefas (HTA)
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela X, estão listados os critérios que devem ser verificados no artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de Análise Hierárquica de Tarefas</p></font>
 
 <table>
   <thead>
@@ -518,22 +564,42 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td>1</td>
+      <td>A tarefa é organizada entre objetivos e operações?</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os objetivos e operações estão sendo representados graficamente certos ?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O diagrama mostra as relações entre os subobjetivos?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>A tabela do HTA mostra os inputs,feedbacks, planos, problemas e recomendações?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Cada subobjetivo é alcançado por uma operação?</td>
       <td></td>
     </tr>
    
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Concur Task Trees (CTT)
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela X, estão listados os critérios que devem ser verificados no artefato [ConcurTaskTrees (CTT)](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de ConcurTaskTrees (CTT)</p></font>
 
 <table>
   <thead>
@@ -546,14 +612,29 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td>1</td>
+      <td>As tarefas são representadas por tarefas do usuário, do sistema, interatvias e abstratas?</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>As representações dos tipos de tarefas estão de acordo com o padrão?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Foram representadas as relações entre as tarefas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>As relações entre as tarefas foram bem representadas?</td>
       <td></td>
     </tr>
    
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 
@@ -562,6 +643,8 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
 ## Bibliografia
 >
 >Economia DF. Planejamento da Verificação da Entrega 3 do Grupo 2. Grupo Economia DF da disciplina Requisitos de Software, disponível em:https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-03/planejamento-verificacao-e3-grupo2/#checklist-de-especificacao-de-uso. Acesso em: 13 de novembro de 2023.
+>
+>BARBOSA, Simone Diniz Junqueira, et al. Interação humano-computador e experiência do usuario. Auto publicação, 2021.
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |

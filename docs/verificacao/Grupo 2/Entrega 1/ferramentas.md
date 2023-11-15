@@ -38,47 +38,47 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
 </table>
 
@@ -101,32 +101,32 @@ Na Tabela 2, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td>1</td>
       <td>O objetivo do artefato em relação ao documento está claramente definido?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato abrange todas as ferramentas planejadas para utilização no projeto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Há especificações detalhadas no artefato sobre a aplicação de cada ferramenta?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>O artefato inclui a apresentação das logos correspondentes a cada ferramenta?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato reflete a versão mais recente das ferramentas planejadas para uso no projeto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>O artefato passou por revisão por parte dos membros da equipe?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -142,15 +142,17 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 ### Checklist Geral
 
+1. **Nenhum problema identificado:**
+   - Todos os critérios do Checklist Geral foram atendidos conforme as expectativas. Não foram identificados problemas neste conjunto de verificações.
 
+### Checklist Ferramentas
 
-### Checklist Específico
-
-
+1. **Nenhum problema identificado:**
+   - O Checklist Específico para o Artefato de Ferramentas também foi integralmente atendido sem a identificação de problemas. A equipe demonstrou conformidade com todos os critérios estabelecidos para esta fase do projeto.
 
 ### Conclusão
 
-A verificação identificou alguns pontos que requerem atenção e melhorias no artefato [Ferramentas](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/planejamento/Ferramentas.md#ferramentas) elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/). Recomenda-se uma revisão e ajustes conforme os problemas relatados.
+A verificação não identificou problemas no Artefato [Ferramentas](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/planejamento/Ferramentas.md#ferramentas) elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 ## Bibliografia
 >
@@ -163,3 +165,5 @@ A verificação identificou alguns pontos que requerem atenção e melhorias no 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 14/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+| `1.1`  | 15/11/2023 | Analise do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+

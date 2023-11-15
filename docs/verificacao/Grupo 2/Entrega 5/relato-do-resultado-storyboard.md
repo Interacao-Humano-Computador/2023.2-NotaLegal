@@ -12,7 +12,7 @@ A abordagem adotada neste documento consiste em uma inspeção por meio de check
 
 ## Apresentação dos dados
 
-Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações em Problemas Encontrados mais adiante.
+Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
 
 ### Checklist Geral
 
@@ -100,47 +100,47 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
     <tr>
       <td align="center">1</td>
       <td>O artefato segue o planejamento proposto?</td>
-      <td align="center"></td>
+      <td align="center">Incompleto</td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>A metodologia do relato é apresentada?</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td>O objetivo da avaliação é apresentado e analisado se foi atingido ou não?</td>
-      <td align="center"></td>
+      <td align="center">Incompleto</td>
     </tr>
     <tr>
       <td align="center">3</td>
+      <td>O objetivo da avaliação é apresentado e analisado se foi atingido ou não?</td>
+      <td align="center">Incompleto</td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
       <td>O sumário dos dados é apresentado?</td>
-      <td align="center"></td>
+      <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Foram feitas análises com os resultados da entrevista?</td>
-      <td align="center"></td>
+      <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">6</td>
       <td>O artefato descreve os problemas encontrados nas entrevistas?</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">4</td>
-      <td>Existe sugestões e/ou planejamento de correção para os problemas?</td>
-      <td align="center"></td>
+      <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">7</td>
-      <td>As entrevistas tiveram participação do usuário?</td>
-      <td align="center"></td>
+      <td>Existe sugestões e/ou planejamento de correção para os problemas?</td>
+      <td align="center">Incompleto</td>
     </tr>
     <tr>
       <td align="center">8</td>
+      <td>As entrevistas tiveram participação do usuário?</td>
+      <td align="center">Sim</td>
+    </tr>
+    <tr>
+      <td align="center">9</td>
       <td>As entrevistas foram gravadas e o vídeo disponibilizado?</td>
-      <td align="center"></td>
+      <td align="center">Sim</td>
     </tr>
   </tbody>
 </table>
@@ -150,30 +150,36 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Problemas encontrados
 
-O artefato apresenta uma boa qualidade, uma boa formatação e uma boa padronização. Recomenda-se verificar a ortografia das palavras e as normas cultas da língua portuguesa com uma revisão minuciosa para corrigir algumas falhas contidas no documento.
+O artefato apresenta os resultados de todas as avaliações feitas pelo grupo e por esse motivo ficou extenso e um pouco confuso. Para uma melhor organização e clareza das informações, sugere-se que seja feito um documento separado para cada avaliação.
 
-A seguir são listados os problemas encontrados durante a verificação do artefato em estudo.
+Em uma verificação geral, observou-se que alguns links estão direcionados para storyboards diferentes do que os indicados ou direto para a introdução do documento de storyboards. O primeiro vídeo está com problema no áudio, a voz do entrevistador não está disponível. Nos relatos dos storyboards 1 e 8 há links quebrados de vídeos, mas também há links que funcionam. As entrevistas foram feitas online e em algumas a imagem do entrevistado não foi gravada.
+
+A seguir são listados os problemas encontrados durante a verificação do checklist do artefato em estudo.
 
 ### Checklist geral
 
-- Não foram encontrados problemas nos itens verificados.
+- **ID 06:** As duas últimas tabelas estão com o números 9 e 10 que já foram utilizados no texto. Elas devem ser renomeadas.
+
+- **ID 07:** Essas duas tabelas mencionadas anteriormente que estão com os números repetidos não são referenciadas no texto.
 
 ### Checklist Específico
 
-- **ID 09:** .
+- **ID 01:** O planejamento proposto é seguido em sua grande parte, mas há divergência entre os tópicos listados no planejamento e os utilizados nos relatos.
 
-- **ID 11:** .
+- **ID 02:** A metodologia é apresentada de forma muito resumida, poderia ter sido desenvolvida melhor e com mais detalhes.
 
-- **ID 12:** .
+- **ID 03:** O objetivo definido é muito genérico e não define nenhuma meta específica para a avaliação de storyboards. Assim, não há conclusões sobre o assunto.
+
+- **ID 07:** Na maioria das entrevistas não houve sugestões de melhoria dos storyboards, o que pode caracterizar que o entrevistador não incentivou o entrevistado a analisar o storyboard com mais critério e atenção. Em uma entrevista que o entrevistador sugeriu melhorias, não foi informado se elas seriam feitas no storyboard em questão.
 
 ## Bibliografia
 >
 > RIBEIRO, Lucas; VIEIRA, Zenilda. [Planejamento de Verificação da Entrega 5 do Grupo 2](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo%202/Entrega%205/planejamento-verificacao.md), GAMA, FGA, 2023. Acesso em: 14 de novembro de 2023.
 >
-> VENTOY, [Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/relatoDosResultados/), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
+> VENTOY, [Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/relatoDosResultados/), FGA, GAMA, 2023. Acesso em: 14 de novembro de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 14/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira)| [Lucas Ribeiro](https://github.com/lucassouzs) |
+| `1.0`  | 14/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira)| [Gabriel Rosa](https://github.com/gabrielrosa) |

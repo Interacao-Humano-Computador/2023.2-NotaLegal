@@ -14,8 +14,8 @@ A metodologia utilizada será a de verificação por inspeção desenvolvida por
 
 * Preparação: nessa etapa os autores disponibilizam os documentos, no nosso caso, os artefatos do grupo 2 podem ser encontrados na gitpage [2023.2-Ventoy](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 * Inspeção individual: cada revisor vai analisar os artefatos, identificando problemas, erros, inconsistências, etc.
-* Reunião de inspeção: revisores e autores se reúnem para discutir descobertas, esclarecer dúvidas e chegar a um consenso sobre as correções necessárias. No caso da disciplina, os revisores irão produzir documentos com os resultados das verificações e diponibilizá-los no repositório do grupo com acesso livre para os autores.
-* Correção e reinspeção: nessa etapa os autores corrigem os problemas identificados e o trabalho é reinspecionado. Na disciplina será feito diferente, o próprio grupo irá inspecionar seus artefatos e depois corrigi-los na próxima entrega.
+* Reunião de inspeção: revisores e autores se reúnem para discutir descobertas, esclarecer dúvidas e chegar a um consenso sobre as correções necessárias. No caso da disciplina, os revisores irão produzir documentos com os resultados das verificações e disponibilizá-los no repositório do grupo com acesso livre para os autores.
+* Correção e reinspeção: nessa etapa os autores corrigem os problemas identificados e o trabalho é reinspecionado. Na disciplina será feito diferente, o próprio grupo irá inspecionar seus artefatos e depois corrigi-los para a próxima entrega.
 * Acompanhamento: Na abordagem de Fagan, destaca-se a coleta de métricas e dados referentes à inspeção. Isso abrange a quantificação de defeitos identificados, o tempo investido e a eficácia global do processo, proporcionando uma análise contínua e aprimoramento do método.
 
 ## Participantes
@@ -117,7 +117,7 @@ Nesta etapa, será definido um checklist de verificação geral, que deve ser ap
 
 Além disso, as observações devem ser registradas após a tabela, indicando o ID respectivo que gerou a observação.
 
-Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino da disciplina Interação Humano-Computador [1], bem como na observação dos projetos dos semestres anteriores e dos feedbacks dados pelos monitores e pelo Professor após as apresentações.
+Os checklists criados se baseiam nos critérios estabelecidos na bibliografia recomendada, no Plano de Ensino da disciplina Interação Humano-Computador, bem como na observação dos projetos dos semestres anteriores e dos feedbacks dados pelos monitores e pelo Professor após as apresentações.
 
 ### Checklist Geral
 
@@ -325,12 +325,12 @@ Na Tabela 5, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
-### Checklist do Artefato Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas
+### Checklist do Artefato Resultado - Análise de Tarefas do site Ventoy
 
-Na Tabela 6, estão listados os critérios que devem ser verificados no artefato [Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas.md) do [Grupo 2](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main).
+Na Tabela 6, estão listados os critérios que devem ser verificados no artefato [Resultado - Análise de Tarefas do site Ventoy](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/resultado/) do [Grupo 2](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist Resultado - Análise de Tarefas do site Ventoy</p></font>
 
 <table>
   <thead>
@@ -404,12 +404,12 @@ Na Tabela 7, estão listados os critérios que devem ser verificados no artefato
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center">2</td>
+      <td align="center">3</td>
       <td>O objetivo da avaliação é apresentado e analisado se foi atingido ou não?</td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center">3</td>
+      <td align="center">4</td>
       <td>O sumário dos dados é apresentado?</td>
       <td align="center"></td>
     </tr>
@@ -424,17 +424,17 @@ Na Tabela 7, estão listados os critérios que devem ser verificados no artefato
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center">4</td>
+      <td align="center">7</td>
       <td>Existe sugestões e/ou planejamento de correção para os problemas?</td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center">7</td>
+      <td align="center">8</td>
       <td>As entrevistas tiveram participação do usuário?</td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center">8</td>
+      <td align="center">9</td>
       <td>As entrevistas foram gravadas e os vídeos disponibilizado?</td>
       <td align="center"></td>
     </tr>

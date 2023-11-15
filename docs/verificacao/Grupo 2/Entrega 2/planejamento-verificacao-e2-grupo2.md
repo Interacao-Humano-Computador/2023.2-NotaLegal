@@ -54,33 +54,33 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
 <tbody>
     <tr>
         <td>  Aspectos Éticos </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.1  </td>
+        <td> 	11/10/2023 </td>
+        <td> <a href="https://github.com/LimirioGuimaraes">Limirio Guimarães</a> </td>
     </tr>
     <tr>
         <td> Perfil de Usuário </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.0  </td>
+        <td> 	14/10/2023 </td>
+        <td> <a href="https://github.com/Mayara-tech">Mayara Alves</a> </td>
     </tr>
     <tr>
         <td>  Personas </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.0  </td>
+        <td> 14/10/2023	 </td>
+        <td><a href="https://github.com/Mayara-tech">Mayara Alves</a>  </td>
     </tr>
     <tr>
         <td>  Cenários </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.0  </td>
+        <td> 13/10/2023	 </td>
+        <td> <a href="https://github.com/brenob6">Breno Queiroz</a> </td>
     </tr>
     <tr>
         <td>  Entrevista </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.0  </td>
+        <td> 	15/10/2023 </td>
+        <td> <a href="https://github.com/brenob6">Breno Queiroz</a> e <a href="https://github.com/Mayara-tech">Mayara Alves</a> </td>
     </tr>
     <tr>
         <td>  Brainstorming </td>
@@ -145,27 +145,27 @@ A verificação será executada nos dias 13/11/2023 e 14/11/2023, as atividades 
         <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> e Gabriel Rosa </td>
     </tr>
     <tr>
-        <td>  09/10/2023 </td>
+        <td>  13/10/2023 </td>
         <td>  Verificação do artefato "Ferramentas" </td>
         <td> 	Gabriel Rosa </td>
     </tr>
     <tr>
-        <td>  09/10/2023 </td>
+        <td>  13/10/2023 </td>
         <td>  Verificação do artefato "Ferramentas" </td>
         <td> 	Gabriel Rosa </td>
     </tr>
     <tr>
-        <td>  09/10/2023 </td>
+        <td>  13/10/2023 </td>
         <td>  Verificação do artefato "Ferramentas" </td>
         <td> 	Gabriel Rosa </td>
     </tr>
     <tr>
-        <td>  09/10/2023 </td>
+        <td> 13/10/2023 </td>
         <td>  Verificação do artefato "Ferramentas" </td>
         <td> 	Gabriel Rosa </td>
     </tr>
     <tr>
-        <td>  09/10/2023 </td>
+        <td>  13/10/2023 </td>
         <td>  Verificação do artefato "Ferramentas" </td>
         <td> 	Gabriel Rosa </td>
     </tr>
@@ -212,10 +212,10 @@ Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino
 
 ### Checklist Geral
 
-Na tabela x, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela x:</b> Checklist para todos os artefatos da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -279,39 +279,51 @@ Na tabela x, estão listados os critérios que devem ser verificados em todos os
 
 ### Aspectos Éticos
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 4, estão listados os critérios que devem ser verificados no artefato [4](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de 4</p></font>
 
 <table>
-  <thead>
     <tr>
       <th>ID</th>
-      <th>Descrição</th>
+      <th>Critério</th>
       <th>Avaliação</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td>1</td>
-      <td></td>
+      <td>01</td>
+      <td> Considera aspectos Éticos de Pesquisas Envolvendo Pessoas?
+</td>
       <td></td>
     </tr>
-   
-  </tbody>
-</table>
+    <tr>
+      <td>02</td>
+      <td>Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a
+gravação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O termo de consentimento livre e esclarecido dos participantes?</td>
+      <td></td>
+    </tr>
+  </table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
 </div>
 
 ### Perfil de Usuário
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 5, estão listados os critérios que devem ser verificados no artefato [5](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato de 5</p></font>
 
-<table>
+ <table>
   <thead>
     <tr>
       <th>ID</th>
@@ -322,80 +334,203 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td>1</td>
-      <td></td>
+      <td>Foram utilizados estudos, como entrevistas ou questionários, para coletar dados para o perfil de usuário?</td>
       <td></td>
     </tr>
-   
+    <tr>
+      <td>2</td>
+      <td>Os dados coletados foram agrupados por faixas e grupos nos quais os usuários se encaixam?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Foi elaborado um perfil de usuários com base nos dados agregados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Existe uma proporção calculada para os usuários em cada perfil identificado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Os usuários foram categorizados em grupos considerando idade, experiência, atitudes e tarefas primárias?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O perfil de usuário identifica características relevantes?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>O perfil de usuário inclui informações sobre cargos ocupados pelos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>O perfil de usuário inclui informações sobre as atitudes desempenhadas pelos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>O perfil de usuário abrange informações sobre a experiência dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>O perfil de usuário descreve as atividades principais dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>O perfil de usuário considera a faixa etária dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>O perfil de usuário avalia a relação dos usuários com a tecnologia?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>O perfil de usuário considera a relação dos usuários com o domínio do produto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>As características identificadas nos perfis foram priorizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Foi designada uma responsabilidade específica para a elaboração do questionário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Foi estabelecido um cronograma para a elaboração do questionário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Foi definido um prazo para o preenchimento do questionário?</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
-
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Personas
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 6, estão listados os critérios que devem ser verificados no artefato [6](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato de 6</p></font>
 
 <table>
-  <thead>
     <tr>
       <th>ID</th>
-      <th>Descrição</th>
+      <th>Critério</th>
       <th>Avaliação</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td>1</td>
-      <td></td>
+      <td>01</td>
+      <td>As personas foram definidas a partir dos dados do perfil do usuário?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>As personas apresentam as situações em que serão utilizadas?</td>
       <td></td>
     </tr>
-   
-  </tbody>
-</table>
+    <tr>
+      <td>04</td>
+      <td>O elenco de personas tem entre 3 a 12 personas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O elenco de personas e a razão da quantidade de personas é justificada?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O projeto contém a anti-persona e persona primária?</td>
+      <td></td>
+    </tr>
+  </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Cenários
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 7, estão listados os critérios que devem ser verificados no artefato [7](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de 7</p></font>
 
-<table>
-  <thead>
+ <table>
     <tr>
       <th>ID</th>
-      <th>Descrição</th>
+      <th>Critério</th>
       <th>Avaliação</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td>1</td>
-      <td></td>
+      <td>01</td>
+      <td>O artefato possui a metodologia utilizada e sua respectiva descrição?</td>
       <td></td>
     </tr>
-   
-  </tbody>
-</table>
+    <tr>
+      <td>02</td>
+      <td>Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema?</td>
+      <td></td>
+    </tr>
+  </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Entrevista
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [x](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 9, estão listados os critérios que devem ser verificados no artefato [9](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de x</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist para o artefato de 9</p></font>
 
-<table>
+ <table>
   <thead>
     <tr>
       <th>ID</th>
@@ -406,14 +541,65 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td>1</td>
-      <td></td>
+      <td>O artefato possui uma introdução condizente com o conteúdo do texto?</td>
       <td></td>
     </tr>
-   
+    <tr>
+      <td>2</td>
+      <td>Todas as bibliografias/referências bibliográficas são utilizadas no texto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>As diretrizes foram seguidas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Foi explicada como seria feita a entrevista?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Houve preparação para a entrevista?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Formato da entrevista definido e adequado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Forma de registro adequado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Foram registradas as respostas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Finalização organizada?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Houve consentimento do entrevistado?</td>
+      <td></td>
+    </tr>
+
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Brainstorming

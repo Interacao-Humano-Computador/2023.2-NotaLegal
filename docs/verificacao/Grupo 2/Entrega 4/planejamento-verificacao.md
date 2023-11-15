@@ -32,7 +32,7 @@ Nesta verificação, chegaremos até a etapa de Reunião de Inspeção, onde, se
 
 A integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) responsável por fazer a verificação da Entrega 4 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) é [Izabella Alves](https://github.com/izabellaalves). Esta participante fará a verificação de todos os documentos produzidos na Entrega 4 e documentará os resultados encontrados, que serão revisados por [Gabriel Zaranza](https://github.com/GZaranza), também integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
 
-## Objetivos de verificação
+## Objetos de verificação
 
 Nesta etapa, serão verificados os artefatos presentes na tabela 1:
 
@@ -46,6 +46,7 @@ Nesta etapa, serão verificados os artefatos presentes na tabela 1:
       <th>Artefato</th>
       <th>Versão</th>
       <th>Data</th>
+      <th>Autor</th>
     </tr>
   </thead>
   <tbody>
@@ -53,26 +54,35 @@ Nesta etapa, serão verificados os artefatos presentes na tabela 1:
       <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/">Planejamento da Avaliação do Storyboard</a></td>
       <td>2.0</td>
       <td>08/11/2023</td>
+        <td align="center"> <a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/resultadoStory/">Planejamento do Relato dos Resultados da Avaliação do Storyboard</a></td>
       <td>1.0</td>
       <td>30/10/2023</td>
+        <td align="center"><a href='https://github.com/LuisMiranda10'>Luis Eduardo</a> e <br> 
+            <a href='https://github.com/yabamiah'>Vinícius Mendes</a></td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/">Storyboards</a></td>
       <td>2.0</td>
       <td>29/10/2023</td>
+        <td> <a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/">Planejamento da Avaliação da Análise de Tarefas</a></td>
       <td>1.0</td>
       <td>29/10/2023</td>
+        <td align="center"><a href='https://github.com/Mayara-tech'>Mayara Alves</a>, <br>
+            <a href="https://github.com/LimirioGuimaraeshttps://github.com/LimirioGuimaraes">	Limírio Guimarães</a> e <br>
+            <a href='https://github.com/brenob6'>Breno Queiroz</a> </td> 
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas/">Planejamento do Relato dos Resultados da Análise de Tarefas</a></td>
       <td>1.0</td>
       <td>30/10/2023</td>
+        <td align="center"><a href='https://github.com/LuisMiranda10'>Luis Eduardo</a> e <br> 
+            <a href='https://github.com/yabamiah'>Vinícius Mendes</a></td>
     </tr>
   </tbody>
 </table>

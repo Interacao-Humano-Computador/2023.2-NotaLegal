@@ -325,12 +325,12 @@ Na Tabela 5, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
-### Checklist do Artefato Resultado - Análise de Tarefas do site Ventoy
+### Checklist do Artefato Relato do Resultado da Análise de Tarefas
 
-Na Tabela 6, estão listados os critérios que devem ser verificados no artefato [Resultado - Análise de Tarefas do site Ventoy](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/resultado/) do [Grupo 2](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main).
+Na Tabela 6, estão listados os critérios que devem ser verificados no artefato [Relato do Resultado da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/resultado/) do [Grupo 2](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist Resultado - Análise de Tarefas do site Ventoy</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist do Relato do Resultado da Análise de Tarefas</p></font>
 
 <table>
   <thead>
@@ -348,26 +348,36 @@ Na Tabela 6, estão listados os critérios que devem ser verificados no artefato
     </tr>
     <tr>
       <td align="center">2</td>
-      <td>A metodologia do relato é apresentada?</td>
+      <td>Foi realizado teste piloto anteriormente à realização das entrevistas?</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>O sumário dos dados é apresentado?</td>
+      <td>O participante da entrevista leu e concordou com o termo de consentimento proposto?</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>Existe sugestões e/ou planejamento de correção para os problemas?	</td>
+      <td>As entrevistas foram gravadas e publicadas no artefato?</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>Foram feitas análises com os resultados da entrevista?</td>
+      <td>As tarefas foram apresentados ao usuário?</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">6</td>
+      <td>As tarefas estão consistentes com a aplicação analisada pelo grupo?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>Foram feitas análises com os resultados da entrevista?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
       <td>O artefato descreve os problemas encontrados nas entrevistas?</td>
       <td align="center"></td>
     </tr>

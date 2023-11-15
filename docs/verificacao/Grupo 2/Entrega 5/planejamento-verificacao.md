@@ -470,3 +470,4 @@ Na Tabela 7, estão listados os critérios que devem ser verificados no artefato
 | `1.0`  | 10/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa) |
 | `1.1`  | 14/11/2023 | Adição das tabelas de checklist | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Rosa](https://github.com/gabrielrosa) |
 | `1.2`  | 14/11/2023 | Adição da parte inicial do documento | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa) |
+| `1.3`  | 14/11/2023 | Correção de uma das tabelas |[Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Rosa](https://github.com/gabrielrosa) |

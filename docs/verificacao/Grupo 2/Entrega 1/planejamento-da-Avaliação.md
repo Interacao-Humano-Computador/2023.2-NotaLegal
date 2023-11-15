@@ -87,7 +87,7 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 ## Checklist Planejamento da Avaliação
 
-Na Tabela 5, estão listados os critérios que devem ser verificados no artefato de [Planejamento da Avaliação]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na Tabela 2, estão listados os critérios que devem ser verificados no artefato de [Planejamento da Avaliação]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
   <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Específico para o Artefato de Planejamento da Avaliação.</p></font>

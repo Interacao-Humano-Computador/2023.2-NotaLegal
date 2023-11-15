@@ -54,7 +54,7 @@ nav:
     - Metas de Usabilidade: analise de requisitos II/metas_de_usabilidade.md
     - Características Gerais da Plataforma: analise de requisitos II/caracteristicas_da_plataforma.md
     - Guia de Estilo: analise de requisitos II/guia_de_estilo.md
-  - Design, Avaliação e Desenvolvimento:
+  - D.A.D:
     - Storyboard: 
       - Storyboards: design-avaliacao-desenvolvimento/storyboards.md
       - Planejamento da Avaliação dos Storyboards: design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md
@@ -63,7 +63,7 @@ nav:
     - Análise de Tarefas:
       - Planejamento da Avaliação da Análise de Tarefas: design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md
       - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md
-  - Design, Avaliação e Desenvolvimento II:
+  - D.A.D II:
     - Protótipo de Papel:
       - Protótipos de Papel: design-avaliacao-desenvolvimento II/prototipo_papel/prototipos-de-papel.md
       - Planejamento da Avaliação: design-avaliacao-desenvolvimento II/prototipo_papel/planejamento_avaliacao_prototipo_papel.md
@@ -85,6 +85,55 @@ nav:
       - Registrar reclamação: design-avaliacao-desenvolvimento II/relatos dos resultados - storyboard/registrar_reclamação.md
       - Visualizar recibo: design-avaliacao-desenvolvimento II/relatos dos resultados - storyboard/visualizar_recibo.md
       - Consultar reclamação: design-avaliacao-desenvolvimento II/relatos dos resultados - storyboard/consultar-reclamação.md
+  - Verificação:
+    - Grupo 2:
+      - Panorama Geral: verificacao/Grupo 2/verificacao-panorama-geral.md
+      - Entrega 1:
+        - Planejamento da verificação: verificacao/Grupo 2/Entrega 1/planejamento-verificacao.md
+        - Cronograma: verificacao/Grupo 2/Entrega 1/cronograma.md
+        - Ferramentas: verificacao/Grupo 2/Entrega 1/ferramentas.md
+        - Metodologia: verificacao/Grupo 2/Entrega 1/metodologiam.md
+        - Políticas: verificacao/Grupo 2/Entrega 1/políticas.md
+        - Heatmap: verificacao/Grupo 2/Entrega 1/heatmap.md
+        - Processo de Design: verificacao/Grupo 2/Entrega 1/processo-de-Design-de-IHC.md
+        - Sites avaliados: verificacao/Grupo 2/Entrega 1/site-Avaliados.md
+        - Site escolhido: verificacao/Grupo 2/Entrega 1/site_Escolhido.md
+      - Entrega 2:
+        - Planejamento da verificação: verificacao/Grupo 2/Entrega 2/planejamento-verificacao-e2-grupo2.md
+        - Aspectos Éticos: verificacao/Grupo 2/Entrega 2/aspectos_eticos.md
+        - Perfil de Usuário: verificacao/Grupo 2/Entrega 2/perfil_de_usuario.md
+        - Personas: verificacao/Grupo 2/Entrega 2/persona.md
+        - Cenários: verificacao/Grupo 2/Entrega 2/cenarios.md
+        - Elicitação:
+          - Brainstorming: verificacao/Grupo 2/Entrega 2/Elicitação/braistorming.md
+          - Introspecção: verificacao/Grupo 2/Entrega 2/Elicitação/introspeccao.md
+          - Entrevista: verificacao/Grupo 2/Entrega 2/Elicitação/entrevista.md
+          - Grupo de Foco: verificacao/Grupo 2/Entrega 2/Elicitação/grupo_de_foco.md
+        - Análise de Tarefas:
+          - HTA: verificacao/Grupo 2/Entrega 2/hta.md
+          - CTT: verificacao/Grupo 2/Entrega 2/ctt.md
+      - Entrega 3:
+        - Planejamento da verificação: verificacao/Grupo 2/Entrega 3/planejamento-verificacao.md
+        - Princípios Gerais: verificacao/Grupo 2/Entrega 3/principio-gerais-do-projeto.md
+        - Características Gerais: verificacao/Grupo 2/Entrega 3/caracteristicas-gerais.md
+        - Metas de Usabilidade: verificacao/Grupo 2/Entrega 3/metas-de-usabilidade.md
+        - Guia de Estilo: verificacao/Grupo 2/Entrega 3/guia-de-estilo.md
+      - Entrega 4:
+        - Planejamento da verificação: verificacao/Grupo 2/Entrega 4/planejamento-verificacao.md
+        - Storyboard:
+          - Planejamento da Avaliação: verificacao/Grupo 2/Entrega 4/planejamento-avaliacao-storyboard.md
+          - Planejamento do Relato dos Resultados: verificacao/Grupo 2/Entrega 4/planejamento-relato-storyboard.md
+          - Storyboards: verificacao/Grupo 2/Entrega 4/storyboard.md
+        - Análise de Tarefas: 
+          - Planejamento da Avaliação: verificacao/Grupo 2/Entrega 4/planejamento-avaliacao-analise-tarefas.md
+          - Planejamento do Relato dos Resultados: verificacao/Grupo 2/Entrega 4/planejamento-relato-analise-tarefas.md
+      - Entrega 5:
+        - Planejamento da verificação: verificacao/Grupo 2/Entrega 5/planejamento-verificacao.md
+        - Relato dos Resultados:
+          - Storyboard: verificacao/Grupo 2/Entrega 5/relato-do-resultado-storyboard.md
+        - Protótipo de Papel:
+          - Planejamento da Avaliação: verificacao/Grupo 2/Entrega 5/planejamento-avaliacao-prototipo-de-papel.md
+          - Planejamento do Relato dos Resultados: verificacao/Grupo 2/Entrega 5/planejamento-relato-resultados-prototipo-de-papel.md
 theme:
   name: material
   features:
@@ -95,19 +144,32 @@ theme:
     - navigation.top
     - navigation.footer
   palette:
-    - primary: green
-    - media: "(prefers-color-scheme: light)"
-      scheme: claro
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - scheme: default
       toggle:
-        icon: material/circle-half-full
+        icon: material/weather-night
         name: Mudar para o modo escuro
+      primary: green
+      accent: purple
 
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       toggle:
-        icon: material/circle-half-full
+        icon: material/weather-sunny
         name: Mudar para o modo claro
-  favicon: imagens/logo_nota_legal.png
-  logo: imagens/logo_nota_legal.png
+      primary: green
+      accent: lime
+  favicon: imagens/logo-economida-df.png
+  logo: imagens/logo-economida-df.png
+
 
   language: pt-BR
+  extra_css: [stylesheets/extra.css]

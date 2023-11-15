@@ -38,59 +38,96 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 </table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-## Checklist Ferramentas
+## Checklist Heatmap
 
 Na Tabela 2, estão listados os critérios que devem ser verificados no artefato de [Heatmap](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/planejamento/Heatmap.md#heatmap) da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
-
-
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Específico para o Artefato de Heatmap.</p></font>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>O objetivo da criação do Heatmap para agendamento de reuniões está claramente definido na introdução?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> A descrição do processo de preenchimento da tabela do Heatmap está apresentada de maneira clara e compreensível?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>A análise dos resultados do Heatmap, incluindo a escolha do dia e horário para as reuniões, é abordada de forma detalhada?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>A Figura 1, representando o Heatmap, está adequadamente inserida e referenciada no contexto do documento?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>A escolha do dia e horário para as reuniões é justificada de maneira satisfatória no documento?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>A referência bibliográfica ao trabalho de Miguel Mechi Naves Rocha et al. é pertinente e contribui para embasar a utilização do Heatmap?</td>
+      <td>Sim</td>
+    </tr>
+  </table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
@@ -103,15 +140,17 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 ### Checklist Geral
 
+1. **Nenhum problema identificado:**
+   - Todos os critérios do Checklist Geral foram atendidos conforme as expectativas. Não foram identificados problemas neste conjunto de verificações.
 
+### Checklist Heatmap
 
-### Checklist Específico
-
-
+1. **Nenhum problema identificado:**
+   - O Checklist Específico para o Artefato de Heatmap também foi integralmente atendido sem a identificação de problemas. A equipe demonstrou conformidade com todos os critérios estabelecidos para esta fase do projeto.
 
 ### Conclusão
 
-A verificação identificou alguns pontos que requerem atenção e melhorias no artefato [Heatmap](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/planejamento/Heatmap.md#heatmap) elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/). Recomenda-se uma revisão e ajustes conforme os problemas relatados.
+A verificação não identificou problemas no Artefato [Heatmap](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/planejamento/Heatmap.md#heatmap) elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 ## Bibliografia
 >
@@ -124,3 +163,4 @@ A verificação identificou alguns pontos que requerem atenção e melhorias no 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 14/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+| `1.1`  | 15/11/2023 | Analise do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |

@@ -279,7 +279,7 @@ Na tabela 3, estão listados os critérios que devem ser verificados em todos os
 
 ### Aspectos Éticos
 
-Na tabela 4, estão listados os critérios que devem ser verificados no artefato [4](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Aspectos Éticos](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de 4</p></font>
@@ -318,7 +318,7 @@ gravação?</td>
 </div>
 
 ### Perfil de Usuário
-Na tabela 5, estão listados os critérios que devem ser verificados no artefato [5](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 5, estão listados os critérios que devem ser verificados no artefato [ Perfil de Usuário](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato de 5</p></font>
@@ -434,7 +434,7 @@ Na tabela 5, estão listados os critérios que devem ser verificados no artefato
 
 ### Personas
 
-Na tabela 6, estão listados os critérios que devem ser verificados no artefato [6](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 6, estão listados os critérios que devem ser verificados no artefato [Personas](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato de 6</p></font>
@@ -482,7 +482,7 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
 
 ### Cenários
 
-Na tabela 7, estão listados os critérios que devem ser verificados no artefato [7](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 7, estão listados os critérios que devem ser verificados no artefato [Cenários](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de 7</p></font>
@@ -525,7 +525,7 @@ Na tabela 7, estão listados os critérios que devem ser verificados no artefato
 
 ### Entrevista
 
-Na tabela 9, estão listados os critérios que devem ser verificados no artefato [8](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 9, estão listados os critérios que devem ser verificados no artefato [Entrevista](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para o artefato de 8</p></font>

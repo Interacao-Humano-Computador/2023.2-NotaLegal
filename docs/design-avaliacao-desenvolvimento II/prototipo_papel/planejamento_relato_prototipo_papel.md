@@ -172,7 +172,7 @@ Após registrar todos os itens anteriores, deve ser relatado no documento a aná
 
 O documento [modelo-relato-prototipo-papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/modelo-relato-prototipo-papel.md) deve ser usado como base para o relato dos resultados da avaliação de cada protótipo de papel que for feita por cada integrante da equipe. Ele deve servir de exemplo e pode ser alterado de acordo com a necessidade do relato. Esse arquivo markdown deve ser copiado e renomeado de acordo com o seguinte padrão: _relato-prototipo-papel-titulo-do-prototipo.md_ onde _titulo-do-prototipo_ deve ser substituído pelo nome do protótipo de papel avaliado.
 
-## Bibliografia
+## Referências Bibliográficas
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >

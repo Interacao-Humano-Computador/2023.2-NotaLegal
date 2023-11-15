@@ -39,13 +39,39 @@ Nesta etapa, serão verificados os seguintes artefatos:
 
 <div align="center">
 <p><b>Tabela 1:</b> Objetos de verificação da entrega 3.</p>
-  
-| Artefato | Versão | Data | Autores |
-| --- | --- | --- | --- |
-| Princípios Gerais do Projeto | 1.6 | 21/10/2023 | [Limírio Guimarães](https://github.com/LimirioGuimaraes)
-| Características Gerais | 1.0 | 23/10/2023 | [Milena Baruc](https://github.com/MilenaBaruc)
-| Metas de Usabilidade | 1.0 | 23/10/2023 | [Mayara Alves](https://github.com/Mayara-tech)
-| Guias de Estilo | 1.0 | 23/10/2023 | [Altino Arthur](https://github.com/arthurrochamoreira)
+
+<table>
+  <tr>
+    <th>Artefato</th>
+    <th>Versão</th>
+    <th>Data</th>
+    <th>Autores</th>
+  </tr>
+  <tr>
+    <td>Princípios Gerais do Projeto</td>
+    <td>1.6</td>
+    <td>21/10/2023</td>
+    <td><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+  </tr>
+  <tr>
+    <td>Características Gerais</td>
+    <td>1.0</td>
+    <td>23/10/2023</td>
+    <td><a href="https://github.com/MilenaBaruc">Milena Baruc</a></td>
+  </tr>
+  <tr>
+    <td>Metas de Usabilidade</td>
+    <td>1.0</td>
+    <td>23/10/2023</td>
+    <td><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+  </tr>
+  <tr>
+    <td>Guias de Estilo</td>
+    <td>1.0</td>
+    <td>23/10/2023</td>
+    <td><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+  </tr>
+</table>
 
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 </div>

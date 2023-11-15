@@ -81,7 +81,7 @@ Na tabela 4, estão listados os critérios que devem ser verificados no [Caracte
     </tr>
     <tr>
       <td>01</td>
-      <td>Existe uma introdução ao conceito abordado?1</td>
+      <td>Existe uma introdução ao conceito abordado?</td>
       <td></td>
     </tr>
     <tr>

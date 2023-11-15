@@ -34,17 +34,91 @@ A integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-N
 
 ## Objetivos de verificação
 
-Nesta etapa, serão verificados os seguintes artefatos:
+Nesta etapa, serão verificados os artefatos presentes na tabela 1:
 
-- [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/), na versão 2.0, de 08/11/2023.
+<div align="center">
 
-- [Planejamento do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/resultadoStory/), na versão 1.0, de 30/10/2023.
+<p><b>Tabela 1:</b> Objetos de verificação da entrega 4.</p>
+  
+<table>
+  <thead>
+    <tr>
+      <th>Artefato</th>
+      <th>Versão</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/">Planejamento da Avaliação do Storyboard</a></td>
+      <td>2.0</td>
+      <td>08/11/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/resultadoStory/">Planejamento do Relato dos Resultados da Avaliação do Storyboard</a></td>
+      <td>1.0</td>
+      <td>30/10/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/">Storyboards</a></td>
+      <td>2.0</td>
+      <td>29/10/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/">Planejamento da Avaliação da Análise de Tarefas</a></td>
+      <td>1.0</td>
+      <td>29/10/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas/">Planejamento do Relato dos Resultados da Análise de Tarefas</a></td>
+      <td>1.0</td>
+      <td>30/10/2023</td>
+    </tr>
+  </tbody>
+</table>
 
-- [Storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/), na versão 2.0, de 29/10/2023.
+<p><b>Fonte:</b> Izabella Alves, 2023.</p>
+</div>
 
-- [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/), na versão 1.0, de 29/10/2023.
+## Cronograma
 
-- [Planejamento do Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas/), na versão 1.0, de 30/10/2023.
+A verificação será realizada no dia 09/11/2023 e no dia 10/11/2023, por [Izabella Alves](https://github.com/izabellaalves), e os objetos verificados em determinada data estão visíveis na tabela 2:
+
+<div align="center">
+<p><b>Tabela 2:</b> Cronograma de verificação da etapa 4.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Artefato</th>
+      <th>Data de Verificação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/">Planejamento da Avaliação do Storyboard</a></td>
+      <td>09/11/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/resultadoStory/">Planejamento do Relato dos Resultados da Avaliação do Storyboard</a></td>
+      <td>09/11/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/">Storyboards</a></td>
+      <td>09/11/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/">Planejamento da Avaliação da Análise de Tarefas</a></td>
+      <td>10/11/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas/">Planejamento do Relato dos Resultados da Análise de Tarefas</a></td>
+      <td>10/11/2023</td>
+    </tr>
+  </tbody>
+</table>
+<p><b>Fonte:</b> Izabella Alves, 2023.</p>
+</div>
 
 ## Checklists
 
@@ -58,10 +132,10 @@ Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino
 
 ### Checklist Geral
 
-Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<p><b>Tabela 1:</b> Checklist de Verificação Geral.</p>
+<p><b>Tabela 3:</b> Checklist de Verificação Geral.</p>
 
   <table>
     <tr>
@@ -106,10 +180,10 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 ### Checklist de Planejamento da Avaliação do Storyboard
 
-Na tabela 2, estão listados os critérios que devem ser verificados no [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 4, estão listados os critérios que devem ser verificados no [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<p><b>Tabela 2:</b> Checklist de Verificação do artefato "Planejamento da Avaliação do Storyboard".</p>
+<p><b>Tabela 4:</b> Checklist de Verificação do artefato "Planejamento da Avaliação do Storyboard".</p>
 
   <table>
     <tr>
@@ -164,10 +238,10 @@ Na tabela 2, estão listados os critérios que devem ser verificados no [Planeja
 
 ### Checklist de Planejamento do Relato dos Resultados da Avaliação do Storyboard
 
-Na tabela 3, estão listados os critérios que devem ser verificados no [Planejamento do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/resultadoStory/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 5, estão listados os critérios que devem ser verificados no [Planejamento do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/resultadoStory/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <p><b>Tabela 3:</b> Checklist de Verificação para o artefato "Planejamento do Relato dos Resultados da Avaliação do Storyboard"</p>
+  <p><b>Tabela 5:</b> Checklist de Verificação para o artefato "Planejamento do Relato dos Resultados da Avaliação do Storyboard"</p>
   <table>
     <tr>
       <th>ID</th>
@@ -222,11 +296,11 @@ Na tabela 3, estão listados os critérios que devem ser verificados no [Planeja
 
 ### Checklist de Storyboards
 
-Na tabela 4, estão listados os critérios que devem ser verificados nos [Storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 6, estão listados os critérios que devem ser verificados nos [Storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 
 <div align="center">
-  <p><b>Tabela 4:</b> Checklist de Verificação para o artefato "Storyboard".</p>
+  <p><b>Tabela 6:</b> Checklist de Verificação para o artefato "Storyboard".</p>
 
   <table>
     <tr>
@@ -287,10 +361,10 @@ Na tabela 4, estão listados os critérios que devem ser verificados nos [Storyb
 
 ### Checklist de Planejamento da Avaliação da Análise de Tarefas
 
-Na tabela 5, estão listados os critérios que devem ser verificados no [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 7, estão listados os critérios que devem ser verificados no [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<p><b>Tabela 5:</b> Checklist de Verificação do artefato "Planejamento da Avaliação da Análise de Tarefas".</p>
+<p><b>Tabela 7:</b> Checklist de Verificação do artefato "Planejamento da Avaliação da Análise de Tarefas".</p>
 
   <table>
     <tr>
@@ -345,10 +419,10 @@ Na tabela 5, estão listados os critérios que devem ser verificados no [Planeja
 
 ### Checklist de Planejamento do Relato dos Resultados da Análise de Tarefas
 
-Na tabela 6, estão listados os critérios que devem ser verificados no [Planejamento do Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 8, estão listados os critérios que devem ser verificados no [Planejamento do Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <p><b>Tabela 6:</b> Checklist de Verificação para o artefato "Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas"</p>
+  <p><b>Tabela 8:</b> Checklist de Verificação para o artefato "Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas"</p>
   <table>
     <tr>
       <th>ID</th>
@@ -421,3 +495,4 @@ Na tabela 6, estão listados os critérios que devem ser verificados no [Planeja
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 09/11/2023 | Criação do documento  | [Izabella Alves](https://github.com/izabellaalves) | [Gabriel Zaranza](https://github/GZaranza)  |
+| `1.1`  | 10/11/2023 | Concluindo verificação | [Izabella Alves](https://github.com/izabellaalves) | [Gabriel Zaranza](https://github/GZaranza)  |

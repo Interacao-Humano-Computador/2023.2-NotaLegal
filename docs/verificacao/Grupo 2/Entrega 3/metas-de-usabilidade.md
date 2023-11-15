@@ -34,32 +34,32 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>01</td>
       <td>O artefato possui um histórico de versões padronizado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato possui Bibliografia e Referências Bibliográficas usadas de forma correta?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>A estrutura do documento é bem definida?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -82,27 +82,27 @@ Na tabela 2, estão listados os critérios que devem ser verificados no [Metas d
     <tr>
       <td>01</td>
       <td>É apresentada quais metas de usabilidade  serão alcançadas no projeto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>É explicada a razão da escolha  das metas de usabilidade que foram selecionadas para o projeto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>É apresentado como as metas de usabilidade serão verificadas nas avaliações? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Existe uma introdução ao conceito abordado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>O documento segue o padrão estabelecido pelo grupo?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
      
   </table>
@@ -118,11 +118,11 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-- **ID 0x:** 
+- **ID 03:** O artefato está incompleto porque apesar de as Referências Bibliográficas está correto, o documento não apresenta uma Bibliográfia apesar de citar na metodologia que eles estão utilizando os critérios estabelecidos por Nielsen.
 
 ### Checklist Específico
 
-- **ID 0x:**
+- No Checklist Específico não foram encontrados nenhum problema, o documento apresenta quais as metas de usabilidade serão verificadas na avaliação e também como essas metas serão verificadas nas avaliações.
 
   
 ## Bibliografia

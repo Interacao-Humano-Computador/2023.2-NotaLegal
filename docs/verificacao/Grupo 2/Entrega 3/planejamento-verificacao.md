@@ -40,12 +40,12 @@ Nesta etapa, serão verificados os seguintes artefatos:
 <div align="center">
 <p><b>Tabela 1:</b> Objetos de verificação da entrega 3.</p>
   
-| Documento | Versão | Data | Link |
+| Artefato | Versão | Data | Autores |
 | --- | --- | --- | --- |
-| Princípios Gerais do Projeto | 1.6 | 21/10/2023 |[Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/principiosGerais/) |
-| Características Gerais | 1.0 | 23/10/2023 | [Características Gerais](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/caracteristicasGerais/)  |
-| Metas de Usabilidade | 1.0 | 23/10/2023 | [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/metasUsabilidade/) |
-| Guias de Estilo | 1.0 | 23/10/2023 | [Guias de Estilo](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/guia-de-estilo/) |
+| Princípios Gerais do Projeto | 1.6 | 21/10/2023 | [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+| Características Gerais | 1.0 | 23/10/2023 | [Milena Baruc](https://github.com/MilenaBaruc)
+| Metas de Usabilidade | 1.0 | 23/10/2023 | [Mayara Alves](https://github.com/Mayara-tech)
+| Guias de Estilo | 1.0 | 23/10/2023 | [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 </div>

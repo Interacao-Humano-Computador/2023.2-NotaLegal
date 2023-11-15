@@ -101,7 +101,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
     <tr>
-        <td>Etapa 2 - Análise de Requisitos.</td>
+        <td>Etapa 2 - Análise de Requisitos I.</td>
         <td>  Aspectos Éticos </td>
         <td>   </td>
         <td> 	 </td>
@@ -179,6 +179,38 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td> 	07/11/2023 </td>
         <td> <a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
         <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+    <tr>
+        <td>Etapa 3 - Análise de Requisitos II.</td>
+        <td>Princípios Gerais do Projeto</td>
+        <td>1.6</td>
+        <td>21/10/2023</td>
+        <td> <a href="https://github.com/LimirioGuimaraes">Limirio Guimarães</a> </td>
+        <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Características Gerais</td>
+        <td>1.0</td>
+        <td>23/10/2023</td>
+        <td> <a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+        <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Metas de Usabilidade</td>
+        <td>1.0</td>
+        <td>23/10/2023</td>
+        <td><a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
+        <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> </td>
+    </tr>
+        <tr>
+        <td></td>
+        <td>Guias de Estilo</a></td>
+        <td>1.0</td>
+        <td>23/10/2023</td>
+        <td><a href='https://github.com/arthurrochamoreira'>Altino Arthur</a></td>
+        <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> </td>
     </tr>
     <tr>
         <td>Etapa 4 - Design, Avaliação e Desenvolvimento I.</td>

@@ -261,7 +261,7 @@ Na tabela 6, estão listados os critérios que devem ser verificados no [Metas d
     </tr>
     <tr>
       <td>03</td>
-      <td>Éa presentado como as metas de usabilidade serão verificadas nas avaliações? </td>
+      <td>É apresentado como as metas de usabilidade serão verificadas nas avaliações? </td>
       <td></td>
     </tr>
     <tr>

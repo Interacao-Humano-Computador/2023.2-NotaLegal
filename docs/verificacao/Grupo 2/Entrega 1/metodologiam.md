@@ -38,59 +38,98 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
 </table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-## Checklist Ferramentas
+## Checklist Metodologia
 
 Na Tabela 2, estão listados os critérios que devem ser verificados no artefato de [Metodologia](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/planejamento/metodologia.md#metodologia) da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Específico para o Artefato de Metodologia.</p></font>
 
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>A metodologia empregada está claramente descrita no documento?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os métodos de coleta de dados foram especificados de maneira precisa?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Existe uma justificativa clara para a escolha dos métodos de análise de dados?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>O delineamento da pesquisa é adequado para atender aos objetivos propostos?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Foi apresentado a metodologia utilizada dentro do desenvolvimento da equipe?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>A metodologia aborda a questão da validade interna e externa da pesquisa?</td>
+      <td>Sim</td>
+    </tr>
+  </table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
@@ -103,11 +142,16 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 ### Checklist Geral
 
+1. **ID: 1**
+   - **Descrição:** Histórico de Versão Não Padronizado
+   - **Resposta:** Incompleto
+   - **Observação:** As tabelas estão com títulos de colunas no singular, de forma que elas estão despadronizadas com os outros Artefatos.
 
 
-### Checklist Específico
+### Checklist Metodologia
 
-
+1. **Nenhum problema identificado:**
+   - O Checklist Específico para o Artefato de Metodologia foi integralmente atendido sem a identificação de problemas. A equipe demonstrou conformidade com todos os critérios estabelecidos para esta fase do projeto.
 
 ### Conclusão
 
@@ -124,3 +168,4 @@ A verificação identificou alguns pontos que requerem atenção e melhorias no 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 14/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+| `1.1`  | 15/11/2023 | Analise do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |

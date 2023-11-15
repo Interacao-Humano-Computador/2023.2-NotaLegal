@@ -34,32 +34,32 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>01</td>
       <td>O artefato possui um histórico de versões padronizado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato possui Bibliografia e Referências Bibliográficas usadas de forma correta?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>A estrutura do documento é bem definida?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -83,43 +83,43 @@ Na tabela 2, estão listados os critérios que devem ser verificados no [Guia de
     <tr>
       <td>01</td>
       <td>Existe uma introdução ao conceito abordado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>É  apresentado o objetivo do guia de estilo</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O conteúdo do guia de estilo está organizado? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>É  apresentado o  Público-Alvo do guia de estilo?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>O documento apresenta os resultados da Análise?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>São  apresentados todos os elementos de interface (Disposição espacial e grid, janelas, tipografia e cores)?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>07</td>
       <td> São apresentados os elementos de interação (estilos de interação, seleção de um estilo e aceleradores (teclas de atalho) )?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
     <td>08</td>
     <td> São apresentados os  vocabulário e padrões, terminologia, tipos de tela (para tarefas comuns), sequências de diálogos 
  (para feedback ou confirmação de uma operação)? </td>
-    <td></td>
+    <td>Não</td>
     </tr>
   </table>
 
@@ -134,11 +134,11 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-- **ID 0x:** 
+- **ID 03:** O documento apresenta um problema nesse id, primeiro porque a primeira referência que eles usam o sistema numérico dela está colocada errada no texto, e segundo porque apesar de citarem na introdução  "Barbosa e Silva (2011, p.282)" não foi colocado isso na Bibliográfia.
 
 ### Checklist Específico
 
-- **ID 0x:**
+- **ID 08:** Há um problema nesse id porque não são apresentados os vocabulários e padrões utilizados.
 
   
 ## Bibliografia

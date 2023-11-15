@@ -62,10 +62,10 @@ Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino
 
 ### Checklist Geral
 
-Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 2, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<p><b>Tabela 1:</b> Checklist de Verificação Geral.</p>
+<p><b>Tabela 2:</b> Checklist de Verificação Geral.</p>
 
   <table>
     <tr>
@@ -108,6 +108,202 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 </div>
 
+### Checklist do artefato Principios Gerais do Projeto
+
+Na tabela 3, estão listados os critérios que devem ser verificados no [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/principiosGerais/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <p><b>Tabela 3:</b> Checklist de Verificação para o artefato "Principios Gerais do Projeto"</p>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>É apresentado como o Princípios Gerais do Projeto será utilizado no projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>O documento apresenta as características da plataforma para o projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>A descrição dos princípios e diretrizes estão de acordo com domínio da aplicação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Existe uma introdução ao conceito abordado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O documento segue o padrão estabelecido pelo grupo?</td>
+      <td></td>
+    </tr>
+     
+  </table>
+
+
+<p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
+</div>
+
+
+### Checklist do artefato Características Gerais
+
+Na tabela 4, estão listados os critérios que devem ser verificados no [Características Gerais](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/caracteristicasGerais/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <p><b>Tabela 4:</b> Checklist de Verificação para o artefato "Características Gerais"</p>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>Existe uma introdução ao conceito abordado?1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>O documento apresentada as características da plataforma para o projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>São apresentados os limites da Plataforma em questão?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>São apresentados os Entraves encontrados na Plataforma em questão?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O documento segue o padrão estabelecido pelo grupo?</td>
+      <td></td>
+    </tr>
+     
+  </table>
+
+
+<p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
+</div>
+
+
+### Checklist do artefato Metas de Usabilidade
+
+Na tabela 5, estão listados os critérios que devem ser verificados no [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/metasUsabilidade/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <p><b>Tabela 5:</b> Checklist de Verificação para o artefato "Metas de Usabilidade"</p>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>É apresentada quais metas de usabilidade  serão alcançadas no projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>É explicada a razão da escolha  das metas de usabilidade que foram selecionadas para o projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Éa presentado como as metas de usabilidade serão verificadas nas avaliações? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Existe uma introdução ao conceito abordado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O documento segue o padrão estabelecido pelo grupo?</td>
+      <td></td>
+    </tr>
+     
+  </table>
+
+
+<p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
+</div>
+
+
+
+
+### Checklist do artefato Guia de Estilo
+
+Na tabela 6, estão listados os critérios que devem ser verificados no [Guia de Estilo](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/guia-de-estilo/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <p><b>Tabela 6:</b> Checklist de Verificação para o artefato "Guia de Estilo"</p>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>Existe uma introdução ao conceito abordado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>É  apresentado o objetivo do guia de estilo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O conteúdo do guia de estilo está organizado? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>É  apresentado o  Público-Alvo do guia de estilo?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O documento apresenta os resultados da Análise?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>São  apresentados todos os elementos de interface (Disposição espacial e grid, janelas, tipografia e cores)?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td> São apresentados os elementos de interação (estilos de interação, seleção de um estilo e aceleradores (teclas de atalho) )?</td>
+      <td></td>
+    </tr>
+    <tr>
+    <td>08</td>
+    <td> São apresentados os  vocabulário e padrões, terminologia, tipos de tela (para tarefas comuns), sequências de diálogos 
+ (para feedback ou confirmação de uma operação)? </td>
+    <td></td>
+    </tr>
+  </table>
+
+
+<p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
+</div>
+
 ## Referências Bibliográficas
 
 >
@@ -117,7 +313,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 >
 >  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 >
-> FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 09 de novembro de 2021.
+> FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 14 de novembro de 2021.
 >
 > Planejamento da Verificação da Etapa 4 do Grupo 2. BILHETERIA DIGITAL, Disciplina de IHC, FGA, Gama, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo/>. Acesso em: 14 de novembro de 2023.
 

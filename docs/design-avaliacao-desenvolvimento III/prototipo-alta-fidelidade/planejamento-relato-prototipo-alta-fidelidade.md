@@ -101,6 +101,8 @@ Adicionalmente, é importante preencher o cronograma de execução, disponível 
 
 ## Problemas Encontrados
 
+## Cronograma de Correções
+
 ## Referências Bibliográficas
 >
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

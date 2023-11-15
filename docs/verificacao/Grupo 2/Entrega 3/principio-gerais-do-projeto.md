@@ -34,32 +34,32 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>01</td>
       <td>O artefato possui um histórico de versões padronizado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato possui Bibliografia e Referências Bibliográficas usadas de forma correta?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>A estrutura do documento é bem definida?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -81,27 +81,32 @@ Na tabela 2, estão listados os critérios que devem ser verificados no [Princí
     <tr>
       <td>01</td>
       <td>É apresentado como o Princípios Gerais do Projeto será utilizado no projeto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O documento apresenta as características da plataforma para o projeto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>A descrição dos princípios e diretrizes estão de acordo com domínio da aplicação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Existe uma introdução ao conceito abordado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
-      <td>O documento segue o padrão estabelecido pelo grupo?</td>
-      <td></td>
+      <td>O documento apresenta as definições de cada princípio?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>O documento apresenta uma Análise bem estruturada sobre os Princípios Aplicáveis?  </td>
+      <td>Sim</td>
     </tr>
      
   </table>
@@ -116,11 +121,11 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-- **ID 0x:** 
+- No Checklist Geral não foram encontrado problemas, o documento está bem estruturado e segue o padrão dos outros artefatos do grupo, o artefato está com a Bibliográfia e Referências Bibliográficas também usada corretamente, bem como um padrão na forma como as tabelas e figuras são apresentadas.
 
 ### Checklist Específico
 
-- **ID 0x:**
+- No Checklist Específico também não foram encontrado problemas, o documento apresenta como os princípios gerais serão utilizados no projeto e também apresenta uma análise bem estruturada sobre os princípios aplicáveis no projeto. 
 
   
 ## Bibliografia

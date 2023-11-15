@@ -37,17 +37,56 @@ O integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-N
 
 Nesta etapa, serão verificados os seguintes artefatos:
 
-- [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/principiosGerais/), na versão 1.6, de 21/10/2023.
+<div align="center">
+<p><b>Tabela 1:</b> Objetos de verificação da entrega 3.</p>
+  
+| Documento | Versão | Data | Link |
+| --- | --- | --- | --- |
+| Princípios Gerais do Projeto | 1.6 | 21/10/2023 |[Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/principiosGerais/) |
+| Características Gerais | 1.0 | 23/10/2023 | [Características Gerais](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/caracteristicasGerais/)  |
+| Metas de Usabilidade | 1.0 | 23/10/2023 | [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/metasUsabilidade/) |
+| Guias de Estilo | 1.0 | 23/10/2023 | [Guias de Estilo](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/guia-de-estilo/) |
 
-- [Características Gerais](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/caracteristicasGerais/), na versão 1.0, de 23/10/2023.
-
-- [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/metasUsabilidade/), na versão 1.0, de 23/10/2023.
-
-- [Guias de Estilo](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/guia-de-estilo/), na versão 1.0, de 23/10/2023.
-
+<p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
+</div>
 
 ## Cronograma
 
+
+A verificação será realizada no dia 10/11/2023 e no dia 11/11/2023, por [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), e os objetos verificados em determinada data estão visíveis na tabela 2:
+
+<div align="center">
+<p><b>Tabela 2:</b> Cronograma de verificação da etapa 3.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Artefato</th>
+      <th>Data de Verificação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/principiosGerais/">Princípios Gerais do Projeto</a></td>
+      <td>10/11/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/caracteristicasGerais/">Características Gerais</a></td>
+      <td>10/11/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/metasUsabilidade/">Metas de Usabilidade</a></td>
+      <td>11/11/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/guia-de-estilo/">Guias de Estilo</a></td>
+      <td>11/11/2023</td>
+    </tr>
+    
+  </tbody>
+</table>
+<p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
+</div>
 
 
 ## Checklists
@@ -62,10 +101,10 @@ Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino
 
 ### Checklist Geral
 
-Na tabela 2, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<p><b>Tabela 2:</b> Checklist de Verificação Geral.</p>
+<p><b>Tabela 3:</b> Checklist de Verificação Geral.</p>
 
   <table>
     <tr>
@@ -110,10 +149,10 @@ Na tabela 2, estão listados os critérios que devem ser verificados em todos os
 
 ### Checklist do artefato Principios Gerais do Projeto
 
-Na tabela 3, estão listados os critérios que devem ser verificados no [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/principiosGerais/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 4, estão listados os critérios que devem ser verificados no [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/principiosGerais/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <p><b>Tabela 3:</b> Checklist de Verificação para o artefato "Principios Gerais do Projeto"</p>
+  <p><b>Tabela 4:</b> Checklist de Verificação para o artefato "Principios Gerais do Projeto"</p>
   <table>
     <tr>
       <th>ID</th>
@@ -155,10 +194,10 @@ Na tabela 3, estão listados os critérios que devem ser verificados no [Princí
 
 ### Checklist do artefato Características Gerais
 
-Na tabela 4, estão listados os critérios que devem ser verificados no [Características Gerais](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/caracteristicasGerais/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 5, estão listados os critérios que devem ser verificados no [Características Gerais](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/caracteristicasGerais/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <p><b>Tabela 4:</b> Checklist de Verificação para o artefato "Características Gerais"</p>
+  <p><b>Tabela 5:</b> Checklist de Verificação para o artefato "Características Gerais"</p>
   <table>
     <tr>
       <th>ID</th>
@@ -200,10 +239,10 @@ Na tabela 4, estão listados os critérios que devem ser verificados no [Caracte
 
 ### Checklist do artefato Metas de Usabilidade
 
-Na tabela 5, estão listados os critérios que devem ser verificados no [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/metasUsabilidade/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 6, estão listados os critérios que devem ser verificados no [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/metasUsabilidade/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <p><b>Tabela 5:</b> Checklist de Verificação para o artefato "Metas de Usabilidade"</p>
+  <p><b>Tabela 6:</b> Checklist de Verificação para o artefato "Metas de Usabilidade"</p>
   <table>
     <tr>
       <th>ID</th>
@@ -247,10 +286,10 @@ Na tabela 5, estão listados os critérios que devem ser verificados no [Metas d
 
 ### Checklist do artefato Guia de Estilo
 
-Na tabela 6, estão listados os critérios que devem ser verificados no [Guia de Estilo](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/guia-de-estilo/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 7, estão listados os critérios que devem ser verificados no [Guia de Estilo](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/guia-de-estilo/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <p><b>Tabela 6:</b> Checklist de Verificação para o artefato "Guia de Estilo"</p>
+  <p><b>Tabela 7:</b> Checklist de Verificação para o artefato "Guia de Estilo"</p>
   <table>
     <tr>
       <th>ID</th>

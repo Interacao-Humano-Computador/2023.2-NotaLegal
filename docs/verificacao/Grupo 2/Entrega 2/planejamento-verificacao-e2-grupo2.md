@@ -142,32 +142,32 @@ A verificação será executada nos dias 13/11/2023 e 14/11/2023, as atividades 
     <tr>
         <td>  13/10/2023 </td>
         <td>  Planejamento da verificação </td>
-        <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> e Gabriel Rosa </td>
+        <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
     </tr>
     <tr>
         <td>  13/10/2023 </td>
-        <td>  Verificação do artefato "Ferramentas" </td>
-        <td> 	Gabriel Rosa </td>
+        <td>  Verificação do artefato "Aspectos éticos" </td>
+        <td> 	<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
     </tr>
     <tr>
         <td>  13/10/2023 </td>
-        <td>  Verificação do artefato "Ferramentas" </td>
-        <td> 	Gabriel Rosa </td>
+        <td>  Verificação do artefato "Perfil de usuário" </td>
+        <td> 	<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
     </tr>
     <tr>
         <td>  13/10/2023 </td>
-        <td>  Verificação do artefato "Ferramentas" </td>
-        <td> 	Gabriel Rosa </td>
+        <td>  Verificação do artefato "Persona" </td>
+        <td> 	<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
     </tr>
     <tr>
         <td> 13/10/2023 </td>
-        <td>  Verificação do artefato "Ferramentas" </td>
-        <td> 	Gabriel Rosa </td>
+        <td>  Verificação do artefato "Cenários" </td>
+        <td> 	<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
     </tr>
     <tr>
         <td>  13/10/2023 </td>
-        <td>  Verificação do artefato "Ferramentas" </td>
-        <td> 	Gabriel Rosa </td>
+        <td>  Verificação do artefato "Entrevistas" </td>
+        <td> 	<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
     </tr>
     <tr>
         <td>  13/10/2023 </td>
@@ -314,7 +314,7 @@ gravação?</td>
     </tr>
   </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="aaa">aa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Perfil de Usuário
@@ -525,10 +525,10 @@ Na tabela 7, estão listados os critérios que devem ser verificados no artefato
 
 ### Entrevista
 
-Na tabela 9, estão listados os critérios que devem ser verificados no artefato [9](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 9, estão listados os critérios que devem ser verificados no artefato [8](x) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist para o artefato de 9</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para o artefato de 8</p></font>
 
  <table>
   <thead>
@@ -604,10 +604,10 @@ Na tabela 9, estão listados os critérios que devem ser verificados no artefato
 
 ### Brainstorming
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 9, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de Brainstorming</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist para o artefato de Brainstorming</p></font>
 
 <table>
   <thead>
@@ -658,10 +658,10 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
 
 ### Introspecção
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/introspeccao/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 10, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/introspeccao/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de Introspecção</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 19:</b> Checklist para o artefato de Introspecção</p></font>
 
 <table>
   <thead>
@@ -691,10 +691,10 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
 
 ### Grupo de foco
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/GrupoDeFoco/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 11, estão listados os critérios que devem ser verificados no artefato [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/GrupoDeFoco/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de Grupo de Foco</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist para o artefato de Grupo de Foco</p></font>
 
 <table>
   <thead>
@@ -734,10 +734,10 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
 
 ### Análise Hierarquica de Tarefas (HTA)
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 12, estão listados os critérios que devem ser verificados no artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de Análise Hierárquica de Tarefas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Checklist para o artefato de Análise Hierárquica de Tarefas</p></font>
 
 <table>
   <thead>
@@ -782,10 +782,10 @@ Na tabela X, estão listados os critérios que devem ser verificados no artefato
 
 ### Concur Task Trees (CTT)
 
-Na tabela X, estão listados os critérios que devem ser verificados no artefato [ConcurTaskTrees (CTT)](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 13, estão listados os critérios que devem ser verificados no artefato [ConcurTaskTrees (CTT)](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela X:</b> Checklist para o artefato de ConcurTaskTrees (CTT)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 13:</b> Checklist para o artefato de ConcurTaskTrees (CTT)</p></font>
 
 <table>
   <thead>

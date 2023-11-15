@@ -318,7 +318,7 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 Na Tabela 5, estão listados os critérios que devem ser verificados no artefato de [Planejamento da Avaliação]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+  <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist Específico para o Artefato de Planejamento da Avaliação.</p></font>
 
   <table>
     <tr>
@@ -416,7 +416,7 @@ Na Tabela 6, estão listados os critérios que devem ser verificados no artefato
 Na Tabela 7, estão listados os critérios que devem ser verificados no artefato de [Metodologia]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+  <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist Específico para o Artefato de Metodologia.</p></font>
 
   <table>
     <tr>
@@ -465,7 +465,7 @@ Na Tabela 7, estão listados os critérios que devem ser verificados no artefato
 Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Política]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+  <font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist Específico para o Artefato de Política.</p></font>
 
   <table>
     <tr>
@@ -514,7 +514,7 @@ Na Tabela 8, estão listados os critérios que devem ser verificados no artefato
 Na Tabela 9, estão listados os critérios que devem ser verificados no artefato de [Processo de Design de IHC]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+  <font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist Específico para o Artefato de Processo de Design de IHC.</p></font>
 
   <table>
     <tr>
@@ -563,7 +563,7 @@ Na Tabela 9, estão listados os critérios que devem ser verificados no artefato
 Na Tabela 10, estão listados os critérios que devem ser verificados no artefato de [Site escolhido]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <font size="3"><p style="text-align: center"><b>Tabela 10:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+  <font size="3"><p style="text-align: center"><b>Tabela 10:</b> Checklist Específico para o Artefato de Site escolhido.</p></font>
 
   <table>
     <tr>
@@ -612,7 +612,7 @@ Na Tabela 10, estão listados os critérios que devem ser verificados no artefat
 Na Tabela 11, estão listados os critérios que devem ser verificados no artefato de [Sites avaliados]() da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
 <div align="center">
-  <font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+  <font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist Específico para o Artefato de Sites avaliados.</p></font>
 
   <table>
     <tr>
@@ -656,6 +656,55 @@ Na Tabela 11, estão listados os critérios que devem ser verificados no artefat
 
 </div>
 
+## Checklist Heatmap
+
+Na Tabela 12, estão listados os critérios que devem ser verificados no artefato de [Heatmap](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/planejamento/Heatmap.md#heatmap) da Entrega 1 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+  <font size="3"><p style="text-align: center"><b>Tabela 12:</b> Checklist Específico para o Artefato de Heatmap.</p></font>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>O objetivo da criação do Heatmap para agendamento de reuniões está claramente definido na introdução?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> A descrição do processo de preenchimento da tabela do Heatmap está apresentada de maneira clara e compreensível?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>A análise dos resultados do Heatmap, incluindo a escolha do dia e horário para as reuniões, é abordada de forma detalhada?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>A Figura 1, representando o Heatmap, está adequadamente inserida e referenciada no contexto do documento?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>A escolha do dia e horário para as reuniões é justificada de maneira satisfatória no documento?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>A referência bibliográfica ao trabalho de Miguel Mechi Naves Rocha et al. é pertinente e contribui para embasar a utilização do Heatmap?</td>
+      <td></td>
+    </tr>
+  </table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
+
 ## Bibliografia
 >
 >  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -670,3 +719,5 @@ Na Tabela 11, estão listados os critérios que devem ser verificados no artefat
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 14/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+| `1.1`  | 15/11/2023 | Check-list específico  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+

@@ -103,41 +103,41 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
     <tr>
         <td>Etapa 2 - Análise de Requisitos I.</td>
         <td>  Aspectos Éticos </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.1  </td>
+        <td> 	11/10/2023 </td>
+        <td> <a href="https://github.com/LimirioGuimaraes">Limirio Guimarães</a> </td>
         <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
         <td></td>
         <td> Perfil de Usuário </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.0  </td>
+        <td> 	14/10/2023 </td>
+        <td> <a href="https://github.com/Mayara-tech">Mayara Alves</a> </td>
         <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
         <td></td>
         <td>  Personas </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.0  </td>
+        <td> 14/10/2023	 </td>
+        <td><a href="https://github.com/Mayara-tech">Mayara Alves</a>  </td>
         <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
         <td></td>
         <td>  Cenários </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.0  </td>
+        <td> 13/10/2023	 </td>
+        <td> <a href="https://github.com/brenob6">Breno Queiroz</a> </td>
         <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
         <td></td>
         <td>  Entrevista </td>
-        <td>   </td>
-        <td> 	 </td>
-        <td>  </td>
+        <td> 1.0  </td>
+        <td> 	15/10/2023 </td>
+        <td> <a href="https://github.com/brenob6">Breno Queiroz</a> e <a href="https://github.com/Mayara-tech">Mayara Alves</a> </td>
         <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>

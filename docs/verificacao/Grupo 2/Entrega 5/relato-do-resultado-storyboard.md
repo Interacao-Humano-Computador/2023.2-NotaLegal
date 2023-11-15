@@ -1,4 +1,4 @@
-# Verificação do artefato "Relato dos resultados do Storyboard"
+# Verificação do artefato "Relato do Resultado - Storyboard"
 
 ## Introdução
 
@@ -12,7 +12,7 @@ A abordagem adotada neste documento consiste em uma inspeção por meio de check
 
 ## Apresentação dos dados
 
-Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verififcado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações em Problemas Encontrados mais adiante.
+Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações em Problemas Encontrados mais adiante.
 
 ### Checklist Geral
 
@@ -33,47 +33,47 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Não se aplica, não há referências bibliográficas no texto</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas?</td>
-      <td></td>
+      <td>Não se aplica, não há referências bibliográficas no texto</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica, não há figuras no texto</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica, não há figuras no texto</td>
     </tr>
   </tbody>
 </table>
@@ -86,17 +86,62 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
 Na tabela 2, encontram-se os resultados obtidos na verificação do checklist específico do artefato em estudo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Relato dos Resultados do Storyboard</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Relato dos Resultados do Storyboard</p></font>
 
 <table>
   <thead>
     <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
+      <th align="center">ID</th>
+      <th align="center">Descrição</th>
+      <th align="center">Avaliação</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>O artefato segue o planejamento proposto?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>A metodologia do relato é apresentada?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>O objetivo da avaliação é apresentado e analisado se foi atingido ou não?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>O sumário dos dados é apresentado?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Foram feitas análises com os resultados da entrevista?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>O artefato descreve os problemas encontrados nas entrevistas?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Existe sugestões e/ou planejamento de correção para os problemas?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>As entrevistas tiveram participação do usuário?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>As entrevistas foram gravadas e o vídeo disponibilizado?</td>
+      <td align="center"></td>
+    </tr>
   </tbody>
 </table>
 

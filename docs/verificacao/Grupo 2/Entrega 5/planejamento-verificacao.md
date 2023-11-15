@@ -63,12 +63,6 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
         <td>08/11/2023</td>
         <td><a href="https://github.com/brenob6">Breno Queiroz</a></td>
     </tr>
-    <tr>
-        <td>Storyboards</td>
-        <td>2.0</td>
-        <td>29/10/2023</td>
-        <td><a href="https://github.com/MilenaBaruc">Milena Baruc</a></td>
-    </tr>
 </tbody>
 </table>
 
@@ -109,11 +103,6 @@ A verificação será executada no dia 14/11/2023, as atividades desenvolvidas n
     <tr>
         <td align="center">14/11/2023</td>
         <td>  Relato do Resultado - Storyboard </td>
-        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></a> </td>
-    </tr>
-    <tr>
-        <td align="center">14/11/2023</td>
-        <td>  Storyboards </td>
         <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></a> </td>
     </tr>
 </tbody>
@@ -390,26 +379,84 @@ Na Tabela 6, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist do artefato Relato do Resultado - Storyboard
 
+Na Tabela 7, estão listados os critérios que devem ser verificados no artefato [Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/relatoDosResultados/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist Relato dos Resultados do Storyboard</p></font>
 
-### Checklist do artefato Storyboards
+<table>
+  <thead>
+    <tr>
+      <th align="center">ID</th>
+      <th align="center">Descrição</th>
+      <th align="center">Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>O artefato segue o planejamento proposto?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>A metodologia do relato é apresentada?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>O objetivo da avaliação é apresentado e analisado se foi atingido ou não?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>O sumário dos dados é apresentado?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Foram feitas análises com os resultados da entrevista?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>O artefato descreve os problemas encontrados nas entrevistas?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Existe sugestões e/ou planejamento de correção para os problemas?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>As entrevistas tiveram participação do usuário?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>As entrevistas foram gravadas e os vídeos disponibilizado?</td>
+      <td align="center"></td>
+    </tr>
+  </tbody>
+</table>
 
-
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
 ## Bibliografia
 
 > FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 >
-> VENTOY. [Planejamento da Avaliação do Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel2/prototipoDePapel/planejamento.md), FGA, GAMA, 2023. Acesso em: 14 de novembro de 2023.
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >
-> VENTOY. [Planejamento do Relato dos Resultados - Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel2/prototipoDePapel/plan_relato.md), FGA, GAMA, 2023. Acesso em: 14 de novembro de 2023.
+> Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 14 de novembro de 2023.
 >
-> VENTOY. [Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas.md), FGA, GAMA, 2023. Acesso em: 14 de novembro de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 10/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa) |
-| `1.1`  | 14/11/2023 | Adição de algumas tabelas de checklist | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Rosa](https://github.com/gabrielrosa) |
-| `1.2`  | 14/11/2023 | Adição da parte inicial do documento e alguns checklists  | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa) |
+| `1.1`  | 14/11/2023 | Adição das tabelas de checklist | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Rosa](https://github.com/gabrielrosa) |
+| `1.2`  | 14/11/2023 | Adição da parte inicial do documento | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa) |

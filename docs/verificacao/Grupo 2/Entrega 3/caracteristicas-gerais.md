@@ -34,32 +34,32 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>01</td>
       <td>O artefato possui um histórico de versões padronizado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato possui Bibliografia e Referências Bibliográficas usadas de forma correta?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Todas as tabelas e figuras possuem chamadas dentro do texto?</td>
-      <td></td>
+      <td>N/a</td>
     </tr>
     <tr>
       <td>05</td>
       <td>Existe um padrão na forma como tabelas e figuras são apresentadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>A estrutura do documento é bem definida?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -82,27 +82,27 @@ Na tabela 4, estão listados os critérios que devem ser verificados no [Caracte
     <tr>
       <td>01</td>
       <td>Existe uma introdução ao conceito abordado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O documento apresentada as características da plataforma para o projeto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>São apresentados os limites da Plataforma em questão?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>São apresentados os Entraves encontrados na Plataforma em questão?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>O documento segue o padrão estabelecido pelo grupo?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
      
   </table>
@@ -118,11 +118,11 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-- **ID 0x:** 
+- **ID 03:** O documento apresenta um erro nas "Referências Bibliográficas" onde não foi colocado o sistema numérico. As referências devem ser numeradas de acordo com a ordem sequencial em que aparecem no texto pela primeira vez e colocadas em lista nessa mesma ordem. Isso é importante porque facilita a localização da fonte original quando uma citação é verificada.
 
 ### Checklist Específico
 
-- **ID 0x:**
+- No Checklist Específico não foram encontrados problemas, o documento apresenta as características gerais da plataforma e também são apresentados os limites e entraves encontrados na plataforma em questão.
 
   
 ## Bibliografia

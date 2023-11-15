@@ -940,6 +940,92 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Relato
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
+## Entrega 6.1 - Verificação dos Artefatos I - Data de Entrega: 15/nov/2023
+
+Na tabela 6 encontram-se as datas do cronograma executado para a etapa de Verificação dos Artefatos I.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma executado para a etapa de Verificação dos Artefatos I</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Verificação dos artefatos 1<br> <br>
+            <font size="2">(**) As datas de execução e revisão parecem se sobrepor, mas na realidade, como foram vários documentos, as datas de execução e de revisão de cada um são datas em sequência que não se sobrepõem.</font></td>
+      <td>Início: 04/nov <br> Fim: 07/nov</td>
+      <td>Início: 09/nov <br> Fim: 15/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 08/nov <br> Fim: 09/nov</td>
+      <td>Início: 11/nov <br> Fim: 15/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Gravação 6.1</td>
+      <td>10/nov</td>
+      <td>15/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>11/nov</td>
+      <td>15/nov</td>
+      <td>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 6.1</td>
+      <td>10/nov</td>
+      <td>15/nov</td>
+      <td>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>10/nov</td>
+      <td>15/nov</td>
+      <td>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
+      </td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+
 ## Bibliografia
 
 > Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>. Acesso em 27 de setembro de 2023.
@@ -957,3 +1043,4 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Relato
 | `1.3`  | 23/10/2023 | Inclusão do cronograma executado da entrega 3               | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                       | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.4`  | 31/10/2023 | Inclusão do cronograma executado da entrega 4               | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                       |  [Gabriel Rosa](https://github.com/gabrielrosa09)  |
 | `1.5`  | 08/11/2023 | Inclusão do cronograma executado da entrega 5               | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                       |  [Lucas Victor](https://github.com/Lucas13032003)  |
+| `1.6`  | 15/11/2023 | Inclusão do cronograma executado da entrega 6.1             | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                       |  [Lucas Ribeiro](https://github.com/lucassouzs)  |

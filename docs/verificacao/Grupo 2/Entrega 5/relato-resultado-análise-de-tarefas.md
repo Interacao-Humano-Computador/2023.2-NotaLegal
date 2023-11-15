@@ -1,8 +1,8 @@
-# Verificação do Artefato "Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas"
+# Verificação do Artefato "Relato do Resultado da Análise de Tarefas"
 
 ## Introdução
 
-Este documento apresenta os resultados da inspeção realizada no artefato "[Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas.md)", desenvolvido pelo [Grupo 2](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main) como parte da disciplina de Interação Humano-Computador (IHC). A versão objeto de análise é a 1.0, datada de 30/10/2023, conforme registrada no histórico de versões.
+Este documento apresenta os resultados da inspeção realizada no artefato "[Relato do Resultado da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel1/AnaliseTarefas/resultado.md)", desenvolvido pelo [Grupo 2](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main) como parte da disciplina de Interação Humano-Computador (IHC). A versão objeto de análise é a 1.0, datada de 30/10/2023, conforme registrada no histórico de versões.
 
 ## Objetivo
 
@@ -18,7 +18,7 @@ Nesta etapa, os resultados serão expostos conforme o checklist empregado. Para 
 
 ### Checklist Geral
 
-Na Tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas" em relação ao checklist geral.
+Na Tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "Relato do Resultado da Análise de Tarefas" em relação ao checklist geral.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Geral</p></font>
@@ -65,7 +65,7 @@ Na Tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td align="center">7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td align="center">Sim</td>
+      <td align="center">Incompleto</td>
     </tr>
     <tr>
       <td align="center">8</td>
@@ -85,10 +85,10 @@ Na Tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 ### Checklist Específico
 
-Na Tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas" em relação ao checklist específico.
+Na Tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "Relato do Resultado da Análise de Tarefas" em relação ao checklist específico.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist do Relato do Resultado da Análise de Tarefas</p></font>
 
 <table>
   <thead>
@@ -106,28 +106,38 @@ Na Tabela 2, é possível visualizar os resultados obtidos na verificação do a
     </tr>
     <tr>
       <td align="center">2</td>
-      <td>A metodologia do relato é apresentada?</td>
-      <td align="center">Sim</td>
+      <td>Foi realizado teste piloto anteriormente à realização das entrevistas?</td>
+      <td align="center">Incompleto</td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>O sumário dos dados é apresentado?</td>
-      <td align="center">Não</td>
+      <td>O participante da entrevista leu e concordou com o termo de consentimento proposto?</td>
+      <td align="center">Incompleto</td>
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>Existe sugestões e/ou planejamento de correção para os problemas?	</td>
-      <td align="center">Não</td>
+      <td>As entrevistas foram gravadas e publicadas no artefato?</td>
+      <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>Foram feitas análises com os resultados da entrevista?</td>
-      <td align="center">Não</td>
+      <td>As tarefas foram apresentados ao usuário?</td>
+      <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">6</td>
+      <td>As tarefas estão consistentes com a aplicação analisada pelo grupo?</td>
+      <td align="center">Sim</td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>Foram feitas análises com os resultados da entrevista?</td>
+      <td align="center">Sim</td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
       <td>O artefato descreve os problemas encontrados nas entrevistas?</td>
-      <td align="center">Não</td>
+      <td align="center">Sim</td>
     </tr>
   </tbody>
 </table>
@@ -137,26 +147,26 @@ Na Tabela 2, é possível visualizar os resultados obtidos na verificação do a
 
 ## Problemas Encontrados
 
-Nesta seção, serão apresentados os problemas identificados durante a inspeção do artefato "Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas".
+Nesta seção, serão apresentados os problemas identificados durante a inspeção do artefato "Relato do Resultado da Análise de Tarefas".
 
 ### Checklist Geral
 
 - **ID 03**: As Referências Bibliográficas não estão sendo chamadas dentro do texto. Esse chamado é importante pois permite a rastreabilidade da pesquisa e ajuda a contextualizar o trabalho no contexto acadêmico.
 - **ID 04**: Nenhuma Referência Bibliográfica está sendo chamada. Esse chamado é importante pois permite a rastreabilidade da pesquisa e ajuda a contextualizar o trabalho no contexto acadêmico.
-- **ID 06**: A única tabela presente no artefato possui fonte legenda e fonte, porém os dois estão juntos, saíndo do padrão indicado pelo professor, e feito por eles em artefatos anteriores. É necessário manter um padrão para tabelas e figuras, ajudando na organização do artefato e na rastreabilidade da documento.
+- **ID 06**: Dentro do artefato, há 13 tabelas, mas algumas delas apresentam legendas duplicadas. Um exemplo disso é a presença de duas tabelas identificadas como Tabela 3, saíndo do padrão de organização.
+- **ID 07**: Com essa duplicação de algumas tabelas, acaba ficando um pouco confuso esse identificar a tabela exata que o chamado está indicando. 
 
 ### Checklist Específico
  
-- **ID 03**: No artefato, o sumário dos dados não é apresentado, essa inclusão do sumário de dados é essencial pois fornece uma visão geral rápida do conteúdo, permitindo que os usuários compreendam, de maneira eficiente, o escopo e a natureza das informações apresentadas,  facilitando a navegação no artefato.
-- **ID 04**: No artefato, não existe sugestões e/ou planejamento de correção para os problemas. Essas sugestões e e/ou planejamento de correção para os problemas é essencial pois fornecem uma abordagem prática para resolver os problemas identificados. Isso não apenas aponta os desafios, mas também oferece soluções concretas para melhorar o artefato.
-- **ID 05**: Não foram feitas análises com os resultados da entrevista no artefato. Essas análises com os resultados das entrevistas são essenciais pois proporcionam uma compreensão mais profunda dos dados coletados durante as entrevistas. Isso vai além da simples apresentação de informações, permitindo uma interpretação mais significativa dos resultados.
-- **ID 06**: O artefato não descreve os problemas encontrados nas entrevistas. Essa descrição dos problemas encontrados ajudam, pois fornecem uma identificação clara e específica dos desafios enfrentados pelos entrevistados. Isso ajuda a equipe a compreender exatamente quais são os pontos problemáticos e suas nuances.
+- **ID 02**: Na seção do Teste Piloto no arquivo, nota-se a presença, porém, não é possível confirmar a realização do teste devido a uma indisponibilidade no link do vídeo associado.
+- **ID 03**: Como o vídeo do Teste Piloto não pode ser acessado, torna-se impossível determinar se o termo de consentimento foi apresentado ao usuário e se este o leu.
+
 
 ## Bibliografia
 >
 > VIEIRA, Zenilda. [Planejamento de Verificação da Entrega 2](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo%202/Entrega%205/planejamento-verificacao.md), GAMA, FGA, 2023. Acesso em: 13 de novembro de 2023.
 >
-> VENTOY. [Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas.md), FGA, GAMA, 2023. Acesso em: 14 de novembro de 2023.
+> VENTOY. [Relato do Resultado da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel1/AnaliseTarefas/resultado.md), FGA, GAMA, 2023. Acesso em: 15 de novembro de 2023.
 
 ## Histórico de Versões
 
@@ -164,3 +174,4 @@ Nesta seção, serão apresentados os problemas identificados durante a inspeç�
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 13/11/2023 | Criação do documento  | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.1`  | 14/11/2023 | Conclusão do documento  | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 15/11/2023 | Correção do documento  | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/GZaranza) |

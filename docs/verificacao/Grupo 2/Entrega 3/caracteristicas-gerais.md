@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Características Gerais](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/caracteristicasGerais/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) na disciplina de Interação Humano; Computador. A versão que será analisada será a versão 1.6 do documento, adicionada ao histórico de versões com a data 21/10/2023.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Características Gerais](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/caracteristicasGerais/)" elaborado pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/) na disciplina de Interação Humano; Computador. A versão que será analisada será a versão 1.0 do documento, adicionada ao histórico de versões com a data 23/10/2023.
 
 ## Objetivo
 

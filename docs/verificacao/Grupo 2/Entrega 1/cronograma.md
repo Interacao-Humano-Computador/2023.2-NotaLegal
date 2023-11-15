@@ -145,8 +145,8 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 1. **ID: 1**
    - **Descrição:** Histórico de Versão Não Padronizado
-   - **Resposta:** O histórico de versão do artefato não está padronizado, faltando informações essenciais como data, descrição, autores e revisores.
-   - **Observação:** A falta de padronização no histórico de versão pode dificultar o acompanhamento das mudanças feitas no artefato ao longo do tempo, comprometendo a rastreabilidade e transparência do processo.
+   - **Resposta:** Incompleto
+   - **Observação:** As tabelas estão com títulos de colunas no singular, de forma que elas estão despadronizadas com os outros Artefatos.
 
 #### Checklist Cronograma
 

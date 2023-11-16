@@ -2,7 +2,7 @@
 
 
 
-Olhar os checklists que fizemos e, também, olhar os checklists que o grupo que verificou nossos artefatos fez.
+Olhar os checklists que fizemos e, também, olhar os checklists que o grupo que verificou nossos artefatos fez. Colocar link de cada item do checklist com referência bibliográfica.
 
 
 

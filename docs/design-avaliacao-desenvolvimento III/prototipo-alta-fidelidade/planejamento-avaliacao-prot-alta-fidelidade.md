@@ -191,6 +191,10 @@ Ao final da simulação de uso, algumas perguntas serão respondidas pelo avalia
 
 ## C - Escolher os métodos
 
+O método escolhido para esta avaliação será a entrevista. As entrevistas serão realizadas individualmente com os participantes, permitindo uma interação direta para obter informações detalhadas sobre suas experiências e percepções. O uso de entrevistas permitirá a coleta de dados qualitativos valiosos.
+
+As perguntas da entrevista foram projetadas para serem abertas e fechadas, permitindo que os participantes expressem suas opiniões de maneira livre, mas também fornecendo respostas estruturadas que facilitarão a análise.
+
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
@@ -295,13 +299,63 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
 
 ## D - Decidir como lidar com as questões éticas
 
+A ética na avaliação é um aspecto fundamental para garantir a qualidade e a confiabilidade da pesquisa, bem como o respeito pelos participantes e suas opiniões. Por isso, nesta avaliação, seguiremos rigorosamente os princípios éticos que orientam a prática científica.
+
+Um desses princípios é o respeito à privacidade e confidencialidade dos participantes. Todos os dados que coletarmos serão tratados com sigilo e usados apenas para os fins desta pesquisa. Em nenhum momento, divulgaremos ou compartilharemos esses dados com outras pessoas ou instituições.
+
+Outro princípio é o consentimento informado dos participantes. Antes de iniciar as entrevistas, explicaremos aos participantes os objetivos da pesquisa, os procedimentos que serão realizados, os benefícios e os riscos envolvidos, e as formas de contato com os pesquisadores. Os participantes terão a liberdade de aceitar ou recusar sua participação, e de retirar seu consentimento a qualquer momento, sem sofrer qualquer prejuízo ou penalidade.
+
+Além disso, todos os participantes deverão assinar o nosso Termo de Consentimento Livre e Esclarecido, que está descrito no nosso documento de Aspectos Éticos, adaptado especificamente para esta avaliação. Esse termo visa formalizar a autorização dos participantes para realizarmos as atividades necessárias para a elaboração deste artefato, assegurando o seu respeito durante e após a atividade.
+
+Esses princípios éticos são a base sobre a qual realizamos esta avaliação, buscando não apenas obter resultados válidos e confiáveis, mas também preservar os direitos e a dignidade de todos os envolvidos. Nosso Termo de Consentimento Livre e Esclarecido pode ser acessado em sua totalidade pelo link:  [Aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md). Abaixo temos nosso Termo de Consentimento Livre e Esclarecido: 
+
+Além disso, todos os participantes deverão concordar o nosso Termo de Consentimento Livre e Esclarecido, descrito no nosso documento de [Aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/aspectos-eticos.md), que foi modificado exatamente para a avaliação em questão e está descrito abaixo. O objetivo é obter a permissão dos participantes para realizar as atividades necessárias na criação desse artefato, garantindo o respeito por parte dos participantes durante e após a atividade.
+
+<div align="center"><p><strong>TERMO DE CONSENTIMENTO PARA PARTICIPAÇÃO</strong></p></div>
+
+**Título da Pesquisa:** Avaliação do Protótipo de Alta Fidelidade do Site "Nota Legal"
+
+**Instituição:** Faculdade do Gama - Universidade de Brasília (FGA/UNB)
+
+**Disciplina:** Interação Humano-Computador
+
+Prezado(a) participante,
+
+Você está sendo convidado(a) a participar de uma pesquisa acadêmica conduzida por estudantes da Faculdade do Gama - Universidade de Brasília (FGA/UNB), como parte da disciplina de Interação Humano-Computador. O objetivo desta pesquisa é avaliar o Protótipo de Alta Fidelidade do site "Nota Legal".
+
+**Duração:** A pesquisa deve levar em média 10 minutos para ser concluída.
+
+**Riscos e Benefícios:** Não são esperados riscos significativos ao participar desta pesquisa. Os benefícios incluem contribuir para a validação do protótipo de alta fidelidade do site "Nota Legal" e ajudar a melhorar sua usabilidade.
+
+**Confidencialidade:** Suas respostas serão mantidas em estrita confidencialidade. Os dados coletados serão usados apenas para fins acadêmicos e não serão compartilhados com terceiros não autorizados. Seus dados pessoais não serão divulgados em nenhum momento.
+
+**Participação Voluntária:** Sua participação nesta pesquisa é totalmente voluntária. Você tem o direito de recusar-se a participar ou de interromper sua participação a qualquer momento, sem penalizações.
+
+**Contato:**
+Se tiver alguma dúvida ou preocupação sobre esta pesquisa, entre em contato com [integrante da equipe responsável pelo protótipo de papel], responsável pela entrevista, pelo e-mail [email do integrante da equipe].
+
+**Consentimento:** Ao prosseguir com a pesquisa, você está indicando que leu este termo de consentimento, entendeu seus direitos e concorda em participar voluntariamente. Você pode retirar seu consentimento a qualquer momento, sem consequências negativas.
+
+Se você concorda em participar desta pesquisa, clique no botão "Concordo" abaixo.
+
+* [ ] Concordo em participar da pesquisa.
+
+* [ ] Não concordo em participar da pesquisa.
+
+Agradecemos sua disposição em contribuir para esta pesquisa acadêmica. Seu apoio é fundamental para o sucesso deste estudo.
 
 ## E - Avaliar, interpretar e apresentar os dados
 
+Após a conclusão da avaliação, todos os dados coletados serão cuidadosamente documentados em um relatório abrangente. Este relatório terá como foco principal a análise se os objetivos estabelecidos pelo grupo foram alcançados. Caso não tenham sido atendidos, o relatório fornecerá insights sobre as áreas que precisam ser aprimoradas e como essas melhorias podem ser implementadas.
+
+O planejamento detalhado sobre como os resultados serão apresentados está disponível no documento de [Planejamento de Relato dos Resultados do Protótipo de Alta Fidelidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md). Este plano garantirá que todas as descobertas sejam comunicadas de forma clara e eficaz, destacando não apenas as conquistas, mas também as oportunidades de melhoria identificadas durante o processo de avaliação.
 
 
 ## Planejamento do Teste Piloto
 
+Um teste piloto é, de acordo com Barbosa e Silva, no livro Interação Humano Computador [4], uma etapa cujo propósito reside na avaliação do planejamento em si. Além disso, busca-se analisar se a avaliação, conforme inicialmente delineada, gera os dados necessários para abordar as questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto de maneira análoga a uma sessão de avaliação convencional. Desse modo, ele tem a oportunidade de verificar se a linguagem utilizada nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para guiar o participante durante a avaliação.
+
+O objetivo desta avaliação foi verificar se os Protótipos de Alta Fidelidade elaboradas pelos integrantes do grupo estão corretos. Para isso, realizamos um teste piloto no dia X de Novembro de 2023, das Xh às Xh, com a participação do integrante Lucas Víctor como X e da integrante Zenilda Vieira como X. O mediador leu as perguntas da avaliação para o usuário e registrou as suas respostas. Com base no teste piloto, pudemos avaliar a validade dos Protótipos de alta Fidelidade e identificar possíveis erros e sugestões de melhoria. O vídeo 1 mostra o registro do teste piloto.
 
 
 ## Referência Bibliográfica
@@ -312,10 +366,11 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
 > 
 > [3] Sharp, H.; Rogers, Y.; Preece, J. Interaction design: beyond human-computer interaction, 2a edição. New York, NY: John Wiley & Sons, 2007.
 > 
-
+> [4] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0` | 16/11/2023 | Criação do documento | [Gabriel Zaranza](https://github.com/GZaranza) | [Izabella Alves](https://github.com/) |
+| `1.1` | 16/11/2023 | Adição das letras "D", "E", "C" e do planejamento do teste piloto | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/) |

@@ -4,8 +4,6 @@
 
 De acordo com Simone Barbosa e Bruno Diniz [1], a avaliação de IHC é um componente do desenvolvimento de sistemas interativos que visam proporcionar uma alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência do usuário durante o uso do sistema. Os métodos de observação permitem ao avaliador coletar dados sobre situações em que os participantes realizam suas atividades, com ou sem apoio de tecnologia computacional. O registro e a análise desses dados permitem identificar problemas reais que os participantes enfrentaram, e não apenas problemas potenciais previstos pelo avaliador como em uma avaliação por inspeção.
 
-O principal objetivo é comparar e avaliar ideias e alternativas de design através de um uso real pelos usuários, foi escolhido o método de avaliação de prototipação em papel, através de simulações de uso. Snyder [2] descreve que esse método avalia a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários.
-
 A Tabela 1 apresenta as tarefas a serem prototipadas e usadas durante a avaliação para o Nota Legal. 
 
 <div align="center">

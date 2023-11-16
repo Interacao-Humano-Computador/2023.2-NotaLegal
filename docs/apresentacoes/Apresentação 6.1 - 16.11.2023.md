@@ -10,7 +10,7 @@ O propósito desta página é hospedar a apresentação da Entrega 6.1 em format
 
 <p style="text-align: center"><a href="https://www.youtube.com/" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Apresentação 6.1</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="Apresentação 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="Apresentação 6.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassousz">Lucas Ribeiro</a>, 2023</p></font>
 </div>

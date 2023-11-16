@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse documento apresenta uma síntese do que foi planejado e produzido na entrega 6.1 - Verificação e Validação I da disciplina de Interação Humano-Computador. O objetivo dessa entrega é realizar a verificação de todos os artefatos produzidos pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) durante as etapas 1, 2, 3, 4 e 5, que abrange os temas Planejamento do Projeto, Elicitação e Modelagem de Requisitos.
+Esse documento apresenta uma síntese do que foi planejado e produzido na entrega 6.1 - Verificação e Validação I da disciplina de Interação Humano-Computador. O objetivo dessa entrega é realizar a verificação de todos os artefatos produzidos pelo [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) durante as etapas 1, 2, 3, 4 e 5, que abrange os temas Planejamento do Projeto, Análise de Requisitos e Design, Avaliaçao e Desenvolvimento.
 
 ## Metodologia
 

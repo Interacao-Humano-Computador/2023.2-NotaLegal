@@ -68,7 +68,7 @@ Foram confirmadas as datas de entrega das atividades de cada integrante do grupo
 
 ## Link da Gravação
 
-[Link da reunião 15.](https://youtu.be/)
+[Link da reunião 15.](https://youtu.be/IK_PufrtBoM?si=4k2oPZsQx8fwIhre)
 
 ## Histórico de Versão
 

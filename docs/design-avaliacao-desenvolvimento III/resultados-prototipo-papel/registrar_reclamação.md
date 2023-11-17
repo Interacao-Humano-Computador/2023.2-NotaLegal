@@ -30,7 +30,7 @@ Além disso, a equipe de avaliação chegou com antecedência para configurar os
 
 #### Cronograma final
 
-Inicialmente, a participante da avaliação seria Elaime Alves, porém, após um emprevisto com a participante, um novo participante foi escolhido, no caso, Gilmar P. dos Santos. Na tabela 1 é possível verificar o cronograma executado.
+Inicialmente, a realização da entrevista seria dia 11/11/2023, mas devido a indisponibilidade do entrevistado ficou para o dia 16/11/2023. Na tabela 1 é possível verificar o cronograma executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da entrevista.</p>

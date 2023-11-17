@@ -99,7 +99,7 @@ Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - pla
   <tr align="center">
     <td>1°</td>
     <td>2</td>
-    <td>Após simular o uso dessa tarefa (citar a tarefa) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
+    <td>Após simular o uso dessa tarefa (Consultar Extrato) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
     <td>Fechada</td>
     <td></td>
   </tr>

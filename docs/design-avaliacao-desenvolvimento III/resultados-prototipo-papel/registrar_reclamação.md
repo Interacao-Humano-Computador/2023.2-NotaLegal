@@ -75,18 +75,29 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 
 ### Avaliação e Apresentação dos Dados
 
-Transcrever perguntas, respostas e demais dados coletados como descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
-
 #### Vídeo da simulação de uso
 
-Incluir o vídeo da simulação de uso conforme descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+No vídeo 1, é possível ver a gravação da avaliação do protótipo de papel "Registrar uma reclamação".
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=YxMt8KLyUoA" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Registrar uma reclamação".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxMt8KLyUoA" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+
+</div>
 
 #### Respostas das perguntas
 
-Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+A avaliação realizada, que consistiu em um questionário composto por três perguntas fechadas e três perguntas abertas, obteve uma participação significativa, com todas as perguntas devidamente respondidas. É importante ressaltar que o participante demonstrarou um alto nível de conforto durante a participação na pesquisa e compreenderam claramente a linguagem utilizada nas perguntas, o que contribuiu para a qualidade das respostas.
+
+As perguntas fechadas foram estruturadas de forma a permitir análises quantitativas e facilitar a apresentação dos dados em formato tabular. Para uma visão mais detalhada das respostas às perguntas fechadas, consulte a Tabela 1 abaixo:
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Perguntas e respostas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Perguntas e respostas</p></font>
 
 <table>
   <tr align="center">
@@ -99,52 +110,66 @@ Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - pla
   <tr align="center">
     <td>1°</td>
     <td>2</td>
-    <td>Após simular o uso dessa tarefa (Consultar Extrato) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
+    <td>Após simular o uso dessa tarefa (Registrar uma Reclamação) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim, foi tranquilo fazer o registro da reclamação através do protótipo de papel.</td>
   </tr>
   <tr align="center">
     <td>2°</td>
     <td>2</td>
     <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Não, foi tudo fácil.</td>
   </tr>
   <tr align="center">
     <td>3°</td>
     <td>1</td>
     <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>1</td>
     <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Não</td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>1</td>
     <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>A parte de escolher o tipo de documento e enviar a nota é bem simples.</td>
   </tr>
   <tr align="center">
     <td>6°</td>
     <td>2</td>
     <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Não, acho que o passo a passo está bem fácil de executar essa tarefa.</td>
   </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 #### Consolidação e análise dos dados
 
-Descrever a análise dos dados como descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+Com base nas respostas do participante, podemos concluir o seguinte:
+
+1. O participante considerou a sequência de elementos de interação para executar a tarefa de registrar uma reclamação no site Nota Legal coerente. Ele mencionou que foi tranquilo fazer o registro da reclamação através do protótipo de papel.
+
+2. O participante não encontrou nenhuma questão de interface ou terminologia no site Nota Legal que o confundiu ou foi de difícil entendimento. Ele mencionou que tudo foi fácil.
+
+3. A disposição dos elementos de interação no site Nota Legal auxiliou na rapidez da execução da tarefa do participante.
+
+4. Em termos de layout e design do site Nota Legal, o participante não achou nenhuma parte estranha ou desconexa com o objetivo do site.
+
+5. As partes do site Nota Legal que o participante achou mais intuitivas e fáceis de usar foram a parte de escolher o tipo de documento e enviar a nota.
+
+6. O participante não imaginou nenhuma forma de melhorar a tarefa no site Nota Legal. Ele mencionou que o passo a passo está bem fácil de executar essa tarefa.
+
+Em resumo, o participante teve uma experiência positiva ao usar o site Nota Legal para registrar uma reclamação. Ele não encontrou nenhum problema significativo e achou o processo intuitivo e fácil de seguir. Isso sugere que o design atual do site é eficaz para essa tarefa específica. No entanto, é importante lembrar que essa é apenas a experiência de um único participante e pode não representar a experiência de todos os usuários.
 
 ## Bibliografia
 
@@ -155,4 +180,4 @@ Descrever a análise dos dados como descrito em [Avaliação e Apresentação do
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
-| `1.0`  | 16/11/2023 |  Criação do documento |  [Izabella Alves](https://github.com/izabellaalves)    |  [Gabriel Zaranza](https://github.com/GZaranza)|
+| `1.0`  | 16/11/2023 |  Criação do documento |  [Gabriel Rosa](https://github.com/gabrielrosa09)    |  [Gabriel Zaranza](https://github.com/GZaranza)|

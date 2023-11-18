@@ -17,6 +17,8 @@ O relato dos resultados da avaliação do protótipo de alta fidelidade deve inc
 
 ## Objetivos da Avaliação
 
+Nesta etapa, o redator deve descrever o objetivo da avaliação e qual a importância deste objetivo para o projeto em questão. Neste caso,o s aspectos a serem avaliados têm como objetivo identificar problemas na interação e na interface do sistema.
+
 ## Métodos Empregados na Avaliação
 
 Nesta etapa, o redator do documento deve descrever qual foi o método empregado na avaliação, neste caso, o método... 

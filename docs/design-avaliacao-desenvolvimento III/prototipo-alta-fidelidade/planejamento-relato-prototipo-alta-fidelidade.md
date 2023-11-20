@@ -21,7 +21,7 @@ Nesta etapa, o redator deve descrever o objetivo da avaliação e qual a import�
 
 ## Métodos Empregados na Avaliação
 
-Nesta etapa, o redator do documento deve descrever qual foi o método empregado na avaliação, neste caso, o método... 
+Nesta etapa, o redator do documento deve descrever qual foi o método empregado na avaliação, neste caso, o método utilizado será o Teste de Usabilidade, e o avaliador deve descrever os benefícios de se utilizar esse método para avaliar o protótipo de alta fidelidade.
 
 ## Aspectos Práticos da Avaliação
 ### Recrutamento

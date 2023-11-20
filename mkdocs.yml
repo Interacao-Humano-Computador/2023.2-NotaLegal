@@ -136,6 +136,20 @@ nav:
         - Protótipo de Papel:
           - Planejamento da Avaliação: verificacao/Grupo 2/Entrega 5/planejamento-avaliacao-prototipo-de-papel.md
           - Planejamento do Relato dos Resultados: verificacao/Grupo 2/Entrega 5/planejamento-relato-resultados-prototipo-de-papel.md
+  - D.A.D III:
+    - Resultado da Avaliação do Protótipo de Papel:
+      - Consultar extrato: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/consultar-extrato.md
+      - Consultar estabelecimento: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/consultar-estabelecimento.md
+      - Consultar sorteio: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/consultar-sorteio.md
+      - Desbloquear saldo: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/desbloquear_saldo.md
+      - Registrar reclamação: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/registrar_reclamação.md
+      - Visualizar recibo: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/visualizar-recibo.md
+    - Protótipo de Alta Fidelidade:
+      - Protótipos de Alta Fidelidade: design-avaliacao-desenvolvimento III/prototipo-alta-fidelidade/prototipos-alta-fidelidade.md
+      - Planejamento da Avaliação: design-avaliacao-desenvolvimento III/prototipo-alta-fidelidade/planejamento-avaliacao-prot-alta-fidelidade.md
+      - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md
+      - Modelo de Documento: design-avaliacao-desenvolvimento III/prototipo-alta-fidelidade/modelo-relato-prototipo-alta-fidelidade.md
+    
 theme:
   name: material
   features:

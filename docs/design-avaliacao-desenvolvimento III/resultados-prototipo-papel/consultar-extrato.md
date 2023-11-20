@@ -110,7 +110,7 @@ Nesta seção, exploraremos a funcionalidade "Consulta de Extrato" por meio da a
 <p style="text-align: center"><a href="https://youtu.be/nL3iu1ujtG0" target="blanket"><b>Vídeo 1:</b> Protótipo de Papel "Consultar Extrato"
 .</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/nL3iu1ujtG0" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nL3iu1ujtG0" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

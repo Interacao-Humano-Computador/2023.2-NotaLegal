@@ -59,7 +59,7 @@ Inicialmente, a participante da avaliação seria Elaime Alves, porém, após um
     <td>Izabella Alves</td>
     <td>Gilmar Pereira</td>
     <td>17:00</td>
-    <td>17:15</td>
+    <td>17:05</td>
     <td>16/11/2023</td>
     <td>Presencial</td>
   </tr>
@@ -75,15 +75,24 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 
 ### Avaliação e Apresentação dos Dados
 
-Transcrever perguntas, respostas e demais dados coletados como descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
 
 #### Vídeo da simulação de uso
 
-Incluir o vídeo da simulação de uso conforme descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+No vídeo 1, é possível ver a gravação da avaliaçãpo do protótipo de papel da tarefa "Consultar Estabelecimento" do site Nota Legal.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/vdrs8Pz8yi8" target="blanket"><b>Vídeo 1:</b> Avaliação do protótipo de papel "Consultar estabelecimento".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vdrs8Pz8yi8" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+
+</div>
 
 #### Respostas das perguntas
 
-Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+As respostas das perguntas foram registradas durante a avaliação e podem ser vistas na tabela 2.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Perguntas e respostas</p></font>
@@ -101,50 +110,60 @@ Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - pla
     <td>2</td>
     <td>Após simular o uso dessa tarefa (Consultar Extrato) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>2°</td>
     <td>2</td>
     <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Foi fácil.</td>
   </tr>
   <tr align="center">
     <td>3°</td>
     <td>1</td>
     <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim.</td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>1</td>
     <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Não.</td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>1</td>
     <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Todas as partes foram fáceis.</td>
   </tr>
   <tr align="center">
     <td>6°</td>
     <td>2</td>
     <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Não</td>
   </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 #### Consolidação e análise dos dados
 
-Descrever a análise dos dados como descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+Ao analisar a sequência de elementos de interação, o participante expressou que a mesma foi considerada coerente. Esse resultado sugere uma eficiência na disposição dos elementos, indicando que o usuário conseguiu seguir intuitivamente o fluxo proposto para a realização da tarefa.
+
+Em relação à interface e terminologia, as respostas indicam que o site Nota Legal conseguiu evitar confusões significativas. A linguagem utilizada foi percebida como acessível e compreensível, contribuindo para a fluidez na execução da tarefa.
+
+A disposição dos elementos de interação no site Nota Legal foi destacada como um ponto positivo, sendo percebida como facilitadora da rapidez na execução da tarefa. Esse aspecto é crucial para proporcionar uma experiência eficiente ao usuário, e os resultados sugerem que a abordagem atual atende a essa expectativa.
+
+No que diz respeito ao layout e design do site, a maioria do participante não identificou partes que pareciam estranhas ou desconexas com o objetivo do Nota Legal. Esse feedback indica uma coesão visual, onde os elementos estão alinhados ao propósito do site.
+
+Quando questionado sobre partes do site consideradas mais intuitivas e fáceis de usar, o participante respondeu de forma unânime, destacando que todas as partes foram percebidas como intuitivas. Esse é um indicativo positivo da consistência na experiência do usuário em diferentes seções do site.
+
+Em síntese, os resultados desta avaliação sugerem que a tarefa "Consultar Estabelecimento" no site Nota Legal proporcionou uma experiência globalmente positiva para o usuário. A coerência na sequência de interações, a eficácia na disposição dos elementos, a compreensibilidade da linguagem e a intuitividade geral do site contribuíram para uma experiência satisfatória. 
 
 ## Bibliografia
 

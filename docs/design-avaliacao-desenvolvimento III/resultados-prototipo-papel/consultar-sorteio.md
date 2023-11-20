@@ -101,32 +101,32 @@ A tabela 2 apresenta as perguntas e as respostas da usuária durante a simulaç�
   <tr align="center">
     <td>1°</td>
     <td>Após simular o uso dessa tarefa (citar a tarefa) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>2°</td>
     <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>3°</td>
     <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
-    <td></td>
+    <td>Não</td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
-    <td></td>
+    <td>O ícone de sorteio do menu principal</td>
   </tr>
   <tr align="center">
     <td>6°</td>
     <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>
-    <td></td>
+    <td>(ver observações)</td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
@@ -136,8 +136,9 @@ A tabela 2 apresenta as perguntas e as respostas da usuária durante a simulaç�
 
 As considerações feitas pela usuária foram as seguintes:
 
-1. asdas
-2. asdsd
+
+
+1. 
 
 ## Bibliografia
 

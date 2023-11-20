@@ -191,7 +191,7 @@ Ao final da simulação de uso, algumas perguntas serão respondidas pelo avalia
 
 ## C - Escolher os métodos
 
-O método escolhido para esta avaliação será a entrevista. As entrevistas serão realizadas individualmente com os participantes, permitindo uma interação direta para obter informações detalhadas sobre suas experiências e percepções. O uso de entrevistas permitirá a coleta de dados qualitativos valiosos.
+O método escolhido para esta avaliação será o Teste de Usabilidade. Serão realizadas individualmente com os participantes, permitindo uma interação direta para obter informações detalhadas sobre suas experiências e percepções. O uso do Teste de Usabilidade permitirá a coleta de dados qualitativos valiosos.
 
 As perguntas da entrevista foram projetadas para serem abertas e fechadas, permitindo que os participantes expressem suas opiniões de maneira livre, mas também fornecendo respostas estruturadas que facilitarão a análise.
 

@@ -31,7 +31,7 @@ Nesta verificação, chegaremos até a etapa de Correção e Reinspeção, pois 
 
 ## Participantes
 
-Os integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) responsáveis por fazer a verificação da Entrega 7 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) são [Izabella Alves](https://github.com/izabellaalves), [PESSOA 2](#) e [PESSOA 3](#). Estes participantes farão a verificação de todos os documentos produzidos na Entrega 3 e documentarão os resultados encontrados, que serão revisados pela [Zenilda Vieira](https://github.com/izabellaalves), também integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/). 
+Os integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) responsáveis por fazer a verificação da Entrega 7 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) são [Izabella Alves](https://github.com/izabellaalves), [PESSOA 2](#) e [PESSOA 3](#). Estes participantes farão a verificação de todos os documentos produzidos na Entrega 3 e documentarão os resultados encontrados, que serão revisados pela [Zenilda Vieira](https://github.com/zenildavieira), também integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/). 
 
 ## Objetos de verificação
 
@@ -182,7 +182,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados em todos os
 Na tabela X, estão listados os critérios que devem ser verificados no [Relato do Resultado do Protótipo de Papel "Registrar Reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
 
 <div align="center">
-  <p><b>Tabela X:</b> Checklist de Verificação para o artefato "Relato do Resultado do Protótipo de Papel "Registrar Reclamação""</p>
+  <p><b>Tabela X:</b> Checklist de Verificação para o artefato "Relato do Resultado do Protótipo de Papel "Registrar Reclamação"</p>
   <table>
     <tr>
       <th>ID</th>

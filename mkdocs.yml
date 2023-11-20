@@ -183,8 +183,8 @@ theme:
         name: Mudar para o modo claro
       primary: green
       accent: lime
-  favicon: imagens/logo-economida-df.png
-  logo: imagens/logo-economida-df.png
+  favicon: imagens/logo_nota_legal.png
+  logo: imagens/logo_nota_legal.png
 
 
   language: pt-BR

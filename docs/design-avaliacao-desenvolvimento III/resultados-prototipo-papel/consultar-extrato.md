@@ -155,34 +155,61 @@ Nesta seção, exploraremos a funcionalidade "Consulta de Extrato" por meio da a
     <td>1</td>
     <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Não</td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>1</td>
     <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Não</td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>1</td>
     <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Consulta de extrato</td>
   </tr>
   <tr align="center">
     <td>6°</td>
     <td>2</td>
     <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Melhoria do design do site, incluindo a substituição dos ícones atualmente utilizados.</td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 #### Consolidação e análise dos dados
+
+A avaliação do protótipo de papel para a consulta de extrato no site Nota Legal revela uma preocupação significativa expressa por um usuário em relação à representação visual dos ícones nos botões. Enquanto a maioria dos participantes considerou a sequência de elementos de interação coerente, um usuário específico destacou que os ícones utilizados não representam adequadamente as tarefas que executam, sugerindo uma lacuna na clareza visual e na usabilidade.
+
+Além disso, a resposta negativa à pergunta sobre a rapidez na execução da tarefa pode indicar que ajustes no design e na disposição dos elementos podem melhorar a eficiência da interação.
+
+A sugestão concreta de melhoria do design, incluindo a substituição dos ícones, oferece uma direção valiosa para o processo de redesign do protótipo.
+
+#### Tabela de Data de reprojeto
+
+Abaixo está a tabela com a data proposta para o reprojeto:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Data de reprojeto</p></font>
+
+<table>
+  <tr align="center">
+    <th>Reprojeto</th>
+    <th>Data da Proposta</th>
+  </tr>
+  <tr align="center">
+    <td>Melhorias e correções de interface</td>
+    <td>25/11/2023</td>
+  </tr>
+</table>
+</div>
+
+
 
 ## Referências Bibliográficas
 

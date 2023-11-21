@@ -79,12 +79,18 @@ Foram distribuídas as issues das entregas finais de IHC e RQS e foi definido qu
 
 ## Link da Gravação
 
-Essa reunião foi feita presencial em sala de aula, na oportunidade que o professor nos deu para desenvolvimento do projeto. Como era inviável a gravação, o grupo registrou o momento com uma foto.
+Essa reunião foi feita presencial em sala de aula, na oportunidade que o professor nos deu para desenvolvimento do projeto. Como era inviável a gravação, o grupo registrou o momento com uma foto (figura 3).
 
-![Foto dos integrantes na reunião 15.]()
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 3:</b> Artefatos da entrega final RQS</p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/Registro_reuniao16_IHCeRQS.jpeg?raw=true">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |15/11/2023| Criação da ata de reunião | [Zenilda Vieira](https://github.com/zenildavieira) |  [Lucas Ribeiro](https://github.com/lucassouzs) |
+| `1.0`  |21/11/2023| Criação da ata de reunião | [Zenilda Vieira](https://github.com/zenildavieira) |  [Lucas Ribeiro](https://github.com/lucassouzs) |

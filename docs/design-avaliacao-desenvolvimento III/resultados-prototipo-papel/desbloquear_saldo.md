@@ -79,9 +79,9 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=EbGp2qOW_U8" target="blanket"><b>Vídeo 1:</b> Simulação de uso - Avaliação do Protótipo de Papel "Desbloquear Saldo"</a></p>
+<p style="text-align: center"><a href="https://youtu.be/EbGp2qOW_U8" target="blanket"><b>Vídeo 1:</b> Simulação de uso - Avaliação do Protótipo de Papel "Desbloquear Saldo"</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/icXyOhsjgbg" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/EbGp2qOW_U8" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
@@ -106,42 +106,42 @@ Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - pla
     <td>2</td>
     <td>Após simular o uso dessa tarefa (Consultar Extrato) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>2°</td>
     <td>2</td>
     <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>"Não, bem tranquilo"</td>
   </tr>
   <tr align="center">
     <td>3°</td>
     <td>1</td>
     <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>1</td>
     <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>"Não"</td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>1</td>
     <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>"A primeira tela (tela inicial) e essa daqui(mensagem de aviso)"</td>
   </tr>
   <tr align="center">
     <td>6°</td>
     <td>2</td>
     <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Não</td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
@@ -149,7 +149,7 @@ Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - pla
 
 #### Consolidação e análise dos dados
 
-Descrever a análise dos dados como descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+Em termos gerais, as interação do usuário com os protótipos foi tranquila e sem muitos problemas. O usuário aparentou ter um pouco de dúvida no preenchimento do formulário no site da Secretaria da fazeneda do Distrito Federal, mas em relação ao resto da tarefa, não foi identificado problemas. As respostas do usuário demostraram que o protótipo cumpre com as expectativas sobre realizar a tarefa e os pontos positivos levantados pelo menos foram as partes em que o sistema deixa claro o que o usuário deve fazer/clicar.
 
 ## Bibliografia
 

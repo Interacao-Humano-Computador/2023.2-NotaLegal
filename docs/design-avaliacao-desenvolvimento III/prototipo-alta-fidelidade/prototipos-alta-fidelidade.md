@@ -62,7 +62,7 @@ Na Figura 2, apresentamos o protótipo de alta fidelidade que desenvolvemos com 
 
 <div align="center">
 
-<font size="3"><b>Figura 2</b>: Figma do protótipo de alta fidelidade</font>
+<font size="3"><b>Figura 2</b>: Figma do Protótipo de Alta Fidelidade</font>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/file/MJupUznpXWbcPgj9LDRoiw/Untitled?type=design&node-id=0-1&mode=design&t=E0yLl9CSAZrDVOTN-0" allowfullscreen></iframe>
 

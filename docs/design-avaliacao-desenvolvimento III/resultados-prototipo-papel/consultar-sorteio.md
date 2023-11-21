@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse documento apresenta os resultados da avalição do protótipo de baixa fidelidade da tarefa de "Consultar sorteio" do site Nota Legal. O objetivo dessa avaliação é comparar e avaliar ideias e alternativas de design através de um uso real pelo usuário, através de simulações de uso em um protótipo de papel.
+Esse documento apresenta os resultados da avaliação do protótipo de baixa fidelidade da tarefa "Consultar sorteio" do site Nota Legal. O objetivo dessa avaliação é comparar e avaliar ideias e alternativas de design através de um uso real pelo usuário, através de simulações de uso em um protótipo de papel.
 
 ## Metodologia
 
@@ -26,11 +26,11 @@ Para a criação de um ambiente adequado, a avaliação foi realizada em um ambi
 
 Em relação aos materiais, os protótipos de papel foram feitos em papel, proporcionando uma experiência próxima à de um aplicativo real. Para realizar a simulação de uso foram usadas três câmeras para gravar a simulação, a primeira com foco no usuário, a segunda com foco no entrevistador e a terceira com foco no protótipo de papel.
 
-A avaliação ocorreu na residência do entrevistado, que foi preparada previamente com mesas e cadeiras, proporcionando conforto tanto para o participante quanto para o avaliador. A escolha deste ambiente também garantiu a privacidade necessária para as sessões e minimizou distrações externas. Além disso, a entrevistadora chegou com antecedência para configurar os equipamentos, garantindo que tudo estivesse pronto para o início das sessões.
+A avaliação ocorreu na residência do entrevistado, que foi preparada previamente com mesas e cadeiras, proporcionando conforto tanto para o participante quanto para o avaliador. A escolha deste ambiente também garantiu a privacidade necessária para as sessões e minimizou distrações externas. Além disso, a entrevistadora chegou com antecedência para configurar os equipamentos, garantindo que tudo estivesse pronto para o início da sessão.
 
 #### Cronograma final
 
-Na tabela 1 encontra-se o cronograma executado e planejado da simulação de uso.
+Na tabela 1 encontra-se o cronograma planejado e executado da simulação de uso.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da simulação de uso.</p>
@@ -126,7 +126,7 @@ A tabela 2 apresenta as perguntas e as respostas da usuária durante a simulaç�
   <tr align="center">
     <td>6°</td>
     <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>
-    <td>(ver observações)</td>
+    <td>Sim</td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
@@ -136,7 +136,7 @@ A tabela 2 apresenta as perguntas e as respostas da usuária durante a simulaç�
 
 As considerações feitas pela usuária foram as seguintes:
 
-
+Ao acessar a página de resultado de sorteio do protótipo de baixa, a usuária teve uma certa dificuldade em encontrar a informação de qual foi o último sorteio realizado. Ela afirmou que as abas "Em andamento" e "Finalizados" podreiam seguir outra nomencalatura, pois o último sorteio consta na aba "Em andamento" sendo que ele já foi realizado. 
 
 1. 
 
@@ -155,3 +155,4 @@ As considerações feitas pela usuária foram as seguintes:
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 18/11/2023 | Criação do documento | [Zenilda Vieira](https://github.com/zenildavieira) | [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | `1.1`  | 19/11/2023 | Avaliação do protótipo de papel | [Zenilda Vieira](https://github.com/zenildavieira) | [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| `1.2`  | 20/11/2023 | Consolidação e análise dos dados | [Zenilda Vieira](https://github.com/zenildavieira) | [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |

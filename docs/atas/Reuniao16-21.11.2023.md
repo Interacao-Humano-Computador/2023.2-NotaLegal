@@ -75,7 +75,27 @@ Na figura 2 encontra-se a divisão dos artefatos da entrega final de RQS.
 
 ## Conclusão
 
-Foram distribuídas as issues das entregas finais de IHC e RQS e foi definido que cada integrante vai escolher um requisito não implementado para a execução do protótipo de alta para a validação (entrega 5.2 de RQS).
+Foram distribuídas as issues das entregas finais de IHC e RQS e foi definido que cada integrante vai escolher um requisito não implementado para a execução do protótipo de alta para a validação (entrega 5.2 de RQS). Foi confirmado também a divisão dos artefatos de Verificação das entregas de IHC 6.2 e RQS 5.1 que tinha sido feita pelo whatsapp.
+
+Na figura 4 encontra-se a divisão dos artefatos da entrega 6.2 de IHC.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 4:</b> Artefatos da entrega 6.2 IHC</p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/issues_IHC6.2.jpeg?raw=true">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+Na figura 5 encontra-se a divisão dos artefatos da entrega 5.2 de RQS.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 5:</b> Artefatos da entrega 5.2 RQS</p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/issues_RQS5.2.jpeg?raw=true">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
 ## Link da Gravação
 

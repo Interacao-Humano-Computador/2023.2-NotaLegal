@@ -1,4 +1,4 @@
-# Relato dos resultados da avaliação do Protótipo de Papel "Consultar Estabelecimento"
+# Relato dos resultados da avaliação do Protótipo de Papel "Consultar Reclamação"
 
 ## Introdução
 

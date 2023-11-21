@@ -33,8 +33,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
   <tbody>
     <tr>
       <td>Previsto</td>
-      <td>20:30</td>
-      <td>21:00</td>
+      <td>08:00</td>
+      <td>09:00</td>
     </tr>
     <tr>
       <td>Realizado</td>

@@ -2,7 +2,7 @@
 
 ## Local
 
-Reunião realizada no Microsoft Teams.
+Reunião realizada na sala de aula (presencial).
 Mesma reunião para IHC e RQS.
 
 ## Participantes

@@ -101,32 +101,32 @@ A tabela 2 apresenta as perguntas e as respostas da usuária durante a simulaç�
   <tr align="center">
     <td>1°</td>
     <td>Após simular o uso dessa tarefa (citar a tarefa) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
-    <td>Sim</td>
+    <td>Sim, até a escolha das abas "Em andamento" e "Finalizados", porque o nome dessas abas não estão muito coerentes com o conteúdo de cada uma.</td>
   </tr>
   <tr align="center">
     <td>2°</td>
     <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
-    <td>Sim</td>
+    <td>Sim, os termos "Em andamento" e "Finalizados" na primeira tela. Na tela de informação de um sorteio específico: "Data", "Habilitado: habilitado", "Data para contestação" e "Premiado".</td>
   </tr>
   <tr align="center">
     <td>3°</td>
     <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
-    <td>Sim</td>
+    <td>Sim.</td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
-    <td>Não</td>
+    <td>Não.</td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
-    <td>O ícone de sorteio do menu principal</td>
+    <td>O ícone de sorteio do menu principal.</td>
   </tr>
   <tr align="center">
     <td>6°</td>
     <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>
-    <td>Sim</td>
+    <td>Sim (resposta em detalhes na consolidação e análise dos dados).</td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
@@ -134,11 +134,9 @@ A tabela 2 apresenta as perguntas e as respostas da usuária durante a simulaç�
 
 #### Consolidação e análise dos dados
 
-As considerações feitas pela usuária foram as seguintes:
+Ao acessar a página de resultado de sorteio do protótipo de baixa fidelidade, a usuária teve uma certa dificuldade em encontrar a informação de qual foi o último sorteio realizado. Ela afirmou que as abas "Em andamento" e "Finalizados" poderiam seguir outra nomenclatura, pois o último sorteio consta na aba "Em andamento" sendo que ele já foi realizado. Ela sugeriu que renomeá-los para algo do tipo "Ainda não sorteados", "Já sorteados", "Sorteados e Finalizados". Na tela de informação de um sorteio específico: "Data" poderia ser "Data que foi realizado o sorteio", "Habilitado: habilitado" trocado por "Habilitado: Sim" e melhor esclarecido: habilitado em quê?. "Data para contestação" precisaria ser melhor explicado o que é possível contestar, porque a data é anterior à data de realização do sorteio. O termo "Premiado: não" gera uma certa ambiguidade: o usuário não foi premiado ou ninguém foi premiado? Dessa forma a usuária sugeriu que os termos fosse trocados por palavras mais claras e diretas, mais significativas. E se não fosse possível, que fosse colocado um pop-up de ajuda ao passar o mouse sobre o termo, ou um ícone ? para se clicar, por exemplo.
 
-Ao acessar a página de resultado de sorteio do protótipo de baixa, a usuária teve uma certa dificuldade em encontrar a informação de qual foi o último sorteio realizado. Ela afirmou que as abas "Em andamento" e "Finalizados" podreiam seguir outra nomencalatura, pois o último sorteio consta na aba "Em andamento" sendo que ele já foi realizado. 
-
-1. 
+Com o resultado dessa avaliação do protótipo de papel, utilizaremos essas ideias sugeridas pela entrevistada para a criação de um novo design para a tarefa de "consultar o resultado do sorteio" em um protótipo de alta fidelidade para a próxima entrega.
 
 ## Bibliografia
 

@@ -141,14 +141,14 @@ Nesta seção, exploraremos a funcionalidade "Consulta de Extrato" por meio da a
     <td>2</td>
     <td>Após simular o uso dessa tarefa (citar a tarefa) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>2°</td>
     <td>2</td>
     <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Sim, os ícones presentes nos botões de funcionalidade não representam adequadamente as tarefas que executam.</td>
   </tr>
   <tr align="center">
     <td>3°</td>
@@ -202,3 +202,4 @@ Nesta seção, exploraremos a funcionalidade "Consulta de Extrato" por meio da a
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 15/11/2023 | Criação do documento | |[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| `1.1`  | 21/11/2023 | Analise de dados     | |[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

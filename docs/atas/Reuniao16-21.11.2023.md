@@ -84,7 +84,7 @@ Essa reunião foi feita presencial em sala de aula, na oportunidade que o profes
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> Artefatos da entrega final RQS</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/Registro_reuniao16_IHCeRQS.jpeg?raw=true">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/Registro_reuniao16_IHCeRQS.jpeg?raw=true" style="width: 60%; height: auto;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>

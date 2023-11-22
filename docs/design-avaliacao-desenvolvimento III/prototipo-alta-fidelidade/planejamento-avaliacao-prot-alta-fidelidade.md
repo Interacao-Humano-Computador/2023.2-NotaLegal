@@ -350,13 +350,21 @@ Após a conclusão da avaliação, todos os dados coletados serão cuidadosament
 
 O planejamento detalhado sobre como os resultados serão apresentados está disponível no documento de [Planejamento de Relato dos Resultados do Protótipo de Alta Fidelidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md). Este plano garantirá que todas as descobertas sejam comunicadas de forma clara e eficaz, destacando não apenas as conquistas, mas também as oportunidades de melhoria identificadas durante o processo de avaliação.
 
-
-## Planejamento do Teste Piloto
+## Planejamento e realização do Teste Piloto
 
 Um teste piloto é, de acordo com Barbosa e Silva, no livro Interação Humano Computador [4], uma etapa cujo propósito reside na avaliação do planejamento em si. Além disso, busca-se analisar se a avaliação, conforme inicialmente delineada, gera os dados necessários para abordar as questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto de maneira análoga a uma sessão de avaliação convencional. Desse modo, ele tem a oportunidade de verificar se a linguagem utilizada nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para guiar o participante durante a avaliação.
 
-O objetivo desta avaliação foi verificar se os Protótipos de Alta Fidelidade elaboradas pelos integrantes do grupo estão corretos. Para isso, realizamos um teste piloto no dia X de Novembro de 2023, das Xh às Xh, com a participação do integrante Lucas Víctor como X e da integrante Zenilda Vieira como X. O mediador leu as perguntas da avaliação para o usuário e registrou as suas respostas. Com base no teste piloto, pudemos avaliar a validade dos Protótipos de alta Fidelidade e identificar possíveis erros e sugestões de melhoria. O vídeo 1 mostra o registro do teste piloto.
+O objetivo desta avaliação é verificar a usabilidade dos Protótipos de Alta Fidelidade elaborados pelos integrantes do grupo e se eles servem como uma nova proposta de design do site "Nota Legal". Para isso, realizamos um teste piloto no dia 20 de Novembro de 2023, das 12h às 12h20, com a participação do integrante [Lucas Victor](https://github.com/lucas13032203) como mediador e da integrante [Zenilda Veira](https://github.com/zenildavieira)  como usuária do site em estudo. O termo de consentimento livre e esclarecido foi lido para o participante, e ao aceite, o teste seguiu. O mediador explicou qual tarefa a usuária teria que realizar e foi iniciada a observação do uso do protótipo. Ao final, o mediador questionou alguns pontos para a usuária, para completar a observação do uso do protótipo. O vídeo 1 mostra o registro do teste piloto.
 
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/" target="blanket"><b>Vídeo 1:</b> Teste piloto do planejamento da avaliação do Protótipo de Alta Fidelidade</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032203">Lucas Victor</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+Após o fim do teste piloto, os dados coletados foram avaliados e concluiu-se que o planejamento da avaliação do protótipo de alta fidelidade pode ser usado para avaliar as tarefas de cada integrante do grupo.
 
 ## Referência Bibliográfica
 
@@ -374,3 +382,4 @@ O objetivo desta avaliação foi verificar se os Protótipos de Alta Fidelidade 
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0` | 16/11/2023 | Criação do documento | [Gabriel Zaranza](https://github.com/GZaranza) | [Izabella Alves](https://github.com/) |
 | `1.1` | 16/11/2023 | Adição das letras "D", "E", "C" e do planejamento do teste piloto | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/) |
+| `1.2` | 20/11/2023 | Adição do resultado do teste piloto | [Zenilda Vieira](https://github.com/zenildavieira) e <br>[Lucas Victor](https://github.com/lucas13032203)| [Izabella Alves](https://github.com/izabellaalves) |

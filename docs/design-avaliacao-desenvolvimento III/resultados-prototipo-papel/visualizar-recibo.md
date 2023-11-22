@@ -71,17 +71,11 @@ Na tabela 1 é possível verificar o cronograma executado.
 Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) foi devidamente lido e aceito pelo participante, para garantir que o participante estivesse completamente informado sobre os procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa antes de concordar em participar. 
 
 
-### Avaliação e Apresentação dos Dados
-
-Transcrever perguntas, respostas e demais dados coletados como descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
-
-#### Vídeo da simulação de uso
+#### Avaliação e Apresentação dos Dados
 
 Incluir o vídeo da simulação de uso conforme descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
 
 #### Respostas das perguntas
-
-Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Perguntas e respostas</p></font>
@@ -97,44 +91,44 @@ Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - pla
   <tr align="center">
     <td>1°</td>
     <td>2</td>
-    <td>Após simular o uso dessa tarefa (citar a tarefa) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
+    <td>Após simular o uso dessa tarefa (Visualizar Recibo de Indicação) no site Nota Legal, você considera a sequência de elementos de interação para executá-la coerente?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>2°</td>
     <td>2</td>
     <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Não, super fácil</td>
   </tr>
   <tr align="center">
     <td>3°</td>
     <td>1</td>
     <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>1</td>
     <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Não</td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>1</td>
     <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Todas são simples</td>
   </tr>
   <tr align="center">
     <td>6°</td>
     <td>2</td>
     <td>Você imagina alguma forma de melhorar esta tarefa no site Nota Legal?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Não</td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
@@ -142,7 +136,8 @@ Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - pla
 
 #### Consolidação e análise dos dados
 
-Descrever a análise dos dados como descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+Após uma análise minuciosa de todos os dados apresentados no teste de usabilidade feito com a participante Francinete Dias apresentamos a consolidação dos dados. Após simular o uso da tarefa a participante afirma que considera coerente a sequência de elementos de interação, também afirma que a terminologia do site é de fácil entendimento e a disposição dos elementos auxiliam na rapidez da execução da tarefa.
+Com esses dados apresentados podemos inferir que a tarefa "Visualizar Recibo de Indicação" no Site Nota Legal proporciona uma boa experiência para o usuário.
 
 ## Bibliografia
 

@@ -152,8 +152,12 @@ As respostas das perguntas foram registradas durante a avaliação e podem ser v
 
 ## Bibliografia
 
-> RIBEIRO, Lucas. ROSA, Gabriel. [Planejamento da Avaliação do Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_avaliacao_prototipo_papel.md). NOTA LEGAL, FGA, Gama, 2023. 
-> ZARANZA, Gabriel. ALVES, Izabella. VIEIRA, Zenilda. [Planejamento do Relato dos Resultados do Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md). NOTA LEGAL, FGA, Gama, 2023.
+> ROSA, Gabriel; RIBEIRO, Lucas. [Planejamento da Avaliação do Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_avaliacao_prototipo_papel.md). Disciplina de IHC, FGA, Gama, 2023.
+>
+> ALVES, Izabella; ZARANZA, Gabriel; VIEIRA, Zenilda. [Planejamento do Relato da Avaliação do Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md). Disciplina de IHC, FGA, Gama, 2023.
+>
+> ALVES, Izabella; VIEIRA, Zenilda. [Modelo do Relato da Avaliação do Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/modelo-relato-prototipo-papel.md). Disciplina de IHC, FGA, Gama, 2023.
+>
 
 ## Histórico de Versão
 

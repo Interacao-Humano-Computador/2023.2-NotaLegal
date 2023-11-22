@@ -1072,7 +1072,13 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Relato
       <td>Início: 11/nov <br> Fim: 14/nov</td>
       <td>Início: 16/nov <br> Fim: 20/nov</td>
       <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
       <td>Início: 21/nov <br> Fim: 22/nov</td>
@@ -1081,9 +1087,10 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Relato
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
         <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
         <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
         <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
-      </td>
+     </td>
     </tr>
     <tr>
       <td>Realizar e documentar o planejamento da Avaliação do protótipo de alta fidelidade</td>

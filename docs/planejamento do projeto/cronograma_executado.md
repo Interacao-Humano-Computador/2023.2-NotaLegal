@@ -888,7 +888,7 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Relato
       </td>
     </tr>
     <tr>
-      <td>Documentar o planejamento e relato dos resultados da avaliação do Protótipo de Papel.</td>
+      <td>Documentar o planejamento do relato dos resultados da avaliação do Protótipo de Papel.</td>
       <td>Início: 26/out <br> Fim: 29/out</td>
       <td>Início: 04/nov <br> Fim: 06/nov</td>
       <td>
@@ -1046,9 +1046,10 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Relato
   </thead>
   <tbody>
     <tr>
-      <td>Documentar o relato dos resultados do Protótipo de Papel</td>
+      <td>Documentar o relato dos resultados do Protótipo de Papel<br> <br>
+            <font size="2">(**) As datas de execução e revisão parecem se sobrepor, mas na realidade, como foram vários documentos, as datas de execução e de revisão de cada um são datas em sequência que não se sobrepõem.</font></td>
       <td>Início: 11/nov <br> Fim: 14/nov</td>
-      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 16/nov <br> Fim: 21/nov</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
@@ -1059,13 +1060,27 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Relato
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 17/nov <br> Fim: 22/nov</td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Criação do protótipo de alta fidelidade</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 16/nov <br> Fim: 20/nov</td>
+      <td>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+      </td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 21/nov <br> Fim: 22/nov</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
         <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
         <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
         <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
@@ -1073,41 +1088,49 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Relato
     <tr>
       <td>Realizar e documentar o planejamento da Avaliação do protótipo de alta fidelidade</td>
       <td>Início: 11/nov <br> Fim: 14/nov</td>
-      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 16/nov <br> Fim: 18/nov</td>
       <td>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
       </td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
-      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 19/nov <br> Fim: 20/nov</td>
       <td>
         <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Definir, planejar e executar o teste piloto e data para realização - protótipo de alta fidelidade</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 18/nov <br> Fim: 20/nov</td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 21/out <br> Fim: 22/out</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a>
       </td>
     </tr>
     <tr>
       <td>Documentar o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>
       <td>Início: 11/nov <br> Fim: 14/nov</td>
-      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 14/nov <br> Fim: 16/nov</td>
       <td>
         <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
       </td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
-      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 17/nov <br> Fim: 18/nov</td>
       <td>
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
       </td>
     </tr>
     <tr>
       <td>Gravação 7</td>
       <td>17/nov</td>
-      <td>17/nov</td>
+      <td>21/nov</td>
       <td>
         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
@@ -1118,22 +1141,22 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Relato
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>18/nov</td>
-      <td>18/nov</td>
+      <td>22/nov</td>
       <td>
-        <a href="https://github.com/izabellaalves">Izabella Alves</a>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 7</td>
       <td>17/nov</td>
-      <td>17/nov</td>
+      <td>22/nov</td>
       <td>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>17/nov</td>
-      <td>17/nov</td>
+      <td>22/nov</td>
       <td>
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
       </td>
     </tr>
   </tbody>

@@ -55,18 +55,19 @@ Na tabela 1 é possível verificar o membro responsável por cada protótipo de 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
-## Protótipos
+## Protótipo de Alta Fidelidade
 
-## Consultar estabelecimento
 
-Na tabela X, é possível ver o protótipo de alta fidelidade referente a tarefa "Consultar Estabelecimento".
+Na Figura 2, apresentamos o protótipo de alta fidelidade que desenvolvemos com base nos resultados apresentados no prototipo de papel, onde reflete não apenas funcionalidade, mas também estilo, resultado de iterações com feedbacks, explorando suas características e destacando como melhora a experiência do usuário.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Protótipo de alta fidelidade da tarefa Consultar estabelecimento</p></font>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/c470bdb78ed8fe549224e71acf5410da85b23cde/docs/imagens/pad-izabella.png" style="width: 65%;">
+<font size="3"><b>Figura 2</b>: Figma do Protótipo de Alta Fidelidade</font>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/file/MJupUznpXWbcPgj9LDRoiw/Untitled?type=design&node-id=0-1&mode=design&t=E0yLl9CSAZrDVOTN-0" allowfullscreen></iframe>
+
+<font size="3"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+
 </div>
 
 ## Bibliografia
@@ -79,3 +80,4 @@ Na tabela X, é possível ver o protótipo de alta fidelidade referente a tarefa
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|15/11/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.1`|21/11/2023|Adição do link para o figma|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|

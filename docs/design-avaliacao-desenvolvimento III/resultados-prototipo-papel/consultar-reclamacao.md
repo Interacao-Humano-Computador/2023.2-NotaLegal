@@ -1,8 +1,8 @@
-# Relato dos resultados da avaliação do Protótipo de Papel "Desbloquear Saldo"
+# Relato dos resultados da avaliação do Protótipo de Papel "Consultar Reclamação"
 
 ## Introdução
 
-Este documento apresenta os resultados da avaliação do protótipo de papel da tarefa "Desbloquear Saldo" do site Nota Legal. O objetivo desta avaliação é coletar informações dos interessados, principalmente dos usuários, sobre suas interações com o sistema Nota Legal. Além disso, busca-se identificar quaisquer problemas de interface que possam prejudicar a experiência do usuário e coletar feedback sobre a utilização do sistema. Serão levados em consideração critérios de qualidade como usabilidade, experiência do usuário, acessibilidade e comunicabilidade. Essas simulações de uso permitem identificar quais partes da interface estão funcionando bem e quais apresentam problemas de usabilidade. Os objetivos principais da avaliação podem ser resumidos nos seguintes tópicos:
+Este documento apresenta os resultados da avaliação do protótipo de papel da tarefa "Consultar Estabelecimento" do site Nota Legal. O objetivo desta avaliação é coletar informações dos interessados, principalmente dos usuários, sobre suas interações com o sistema Nota Legal. Além disso, busca-se identificar quaisquer problemas de interface que possam prejudicar a experiência do usuário e coletar feedback sobre a utilização do sistema. Serão levados em consideração critérios de qualidade como usabilidade, experiência do usuário, acessibilidade e comunicabilidade. Essas simulações de uso permitem identificar quais partes da interface estão funcionando bem e quais apresentam problemas de usabilidade. Os objetivos principais da avaliação podem ser resumidos nos seguintes tópicos:
 
 - Avaliar e comparar diferentes ideias e alternativas de design
 
@@ -10,7 +10,7 @@ Este documento apresenta os resultados da avaliação do protótipo de papel da 
 
 ## Metodologia
 
-A avaliação adotou a metodologia de "simulação de uso", uma abordagem altamente vantajosa para analisar protótipos de papel. Essa técnica proporciona aos avaliadores a oportunidade única de interagir diretamente com um modelo de papel do site, reproduzindo experiências autênticas de uso antes mesmo da fase de implementação digital, sendo assim, foi possível identificar possíveis problemas na interface e avaliar diferentes alternativas de design. Nesse sentido, os participantes foram convidados a simular a execução da tarefa "Desbloquear Saldo" no site Nota Legal, utilizando o protótipo de papel fornecido. Ao término da simulação, foram formuladas perguntas específicas, visando obter um amplo conjunto de feedbacks dos participantes. 
+A avaliação adotou a metodologia de "simulação de uso", uma abordagem altamente vantajosa para analisar protótipos de papel. Essa técnica proporciona aos avaliadores a oportunidade única de interagir diretamente com um modelo de papel do site, reproduzindo experiências autênticas de uso antes mesmo da fase de implementação digital, sendo assim, foi possível identificar possíveis problemas na interface e avaliar diferentes alternativas de design. Nesse sentido, os participantes foram convidados a simular a execução da tarefa "Consultar Estabelecimento" no site Nota Legal, utilizando o protótipo de papel fornecido. Ao término da simulação, foram formuladas perguntas específicas, visando obter um amplo conjunto de feedbacks dos participantes. 
 
 ### Aspectos Práticos da Avaliação
 
@@ -30,7 +30,7 @@ Além disso, a equipe de avaliação chegou com antecedência para configurar os
 
 #### Cronograma final
 
-A avaliação foi planejada para acontecer no dia 10/11/2023, porém, por motivos pessoais o participante pediu para remarcar para o dia 19/11/2023
+Inicialmente, a participante da avaliação seria Elaime Alves, porém, após um emprevisto com a participante, um novo participante foi escolhido, no caso, Gilmar P. dos Santos. Na tabela 1 é possível verificar o cronograma executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da entrevista.</p>
@@ -47,25 +47,25 @@ A avaliação foi planejada para acontecer no dia 10/11/2023, porém, por motivo
   </tr>
   <tr>
     <td>Cronograma Planejado</td>
-    <td>Gabriel Zaranza</td>
-    <td>Carlos Barreto</td>
-    <td>18:00</td>
-    <td>18:15</td>
+    <td>Izabella Alves</td>
+    <td>Elaime Alves</td>
+    <td>17:00</td>
+    <td>17:15</td>
     <td>10/11/2023</td>
     <td>Presencial</td>
   </tr>
   <tr>
     <td>Cronograma Executado</td>
-   <td>Gabriel Zaranza</td>
-    <td>Carlos Barreto</td>
-    <td>19:50</td>
-    <td>20:02</td>
-    <td>19/11/2023</td>
+    <td>Izabella Alves</td>
+    <td>Gilmar Pereira</td>
+    <td>17:00</td>
+    <td>17:05</td>
+    <td>16/11/2023</td>
     <td>Presencial</td>
   </tr>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 ### Aspectos Éticos
@@ -75,20 +75,24 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 
 ### Avaliação e Apresentação dos Dados
 
+
 #### Vídeo da simulação de uso
 
+No vídeo 1, é possível ver a gravação da avaliaçãpo do protótipo de papel da tarefa "Consultar Estabelecimento" do site Nota Legal.
+
 <div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/vdrs8Pz8yi8" target="blanket"><b>Vídeo 1:</b> Avaliação do protótipo de papel "Consultar estabelecimento".</a></p>
 
-<p style="text-align: center"><a href="https://youtu.be/EbGp2qOW_U8" target="blanket"><b>Vídeo 1:</b> Simulação de uso - Avaliação do Protótipo de Papel "Desbloquear Saldo"</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vdrs8Pz8yi8" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://youtu.be/EbGp2qOW_U8" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 #### Respostas das perguntas
 
-Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+As respostas das perguntas foram registradas durante a avaliação e podem ser vistas na tabela 2.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Perguntas e respostas</p></font>
@@ -113,28 +117,28 @@ Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - pla
     <td>2</td>
     <td>Alguma questão de interface ou terminologia do site Nota Legal o confundiu ou foi de difícil entendimento?</td>
     <td>Aberta</td>
-    <td>"Não, bem tranquilo"</td>
+    <td>Foi fácil.</td>
   </tr>
   <tr align="center">
     <td>3°</td>
     <td>1</td>
     <td>A disposição dos elementos de interação no site Nota Legal auxiliaram na rapidez da execução da sua tarefa?</td>
     <td>Fechada</td>
-    <td>Sim</td>
+    <td>Sim.</td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>1</td>
     <td>Em termos de layout e design do site Nota Legal, achou alguma parte estranha ou desconexa com o objetivo do site?</td>
     <td>Fechada</td>
-    <td>"Não"</td>
+    <td>Não.</td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>1</td>
     <td>Quais foram as partes do site Nota Legal que você achou mais intuitivas e fáceis de usar?</td>
     <td>Aberta</td>
-    <td>"A primeira tela (tela inicial) e essa daqui(mensagem de aviso)"</td>
+    <td>Todas as partes foram fáceis.</td>
   </tr>
   <tr align="center">
     <td>6°</td>
@@ -144,12 +148,22 @@ Usar a tabela modelo que consta em [Avaliação e Apresentação dos Dados - pla
     <td>Não</td>
   </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 #### Consolidação e análise dos dados
 
-Em termos gerais, as interação do usuário com os protótipos foi tranquila e sem muitos problemas. O usuário aparentou ter um pouco de dúvida no preenchimento do formulário no site da Secretaria da fazeneda do Distrito Federal, mas em relação ao resto da tarefa, não foi identificado problemas. As respostas do usuário demostraram que o protótipo cumpre com as expectativas sobre realizar a tarefa e os pontos positivos levantados pelo menos foram as partes em que o sistema deixa claro o que o usuário deve fazer/clicar.
+Ao analisar a sequência de elementos de interação, o participante expressou que a mesma foi considerada coerente. Esse resultado sugere uma eficiência na disposição dos elementos, indicando que o usuário conseguiu seguir intuitivamente o fluxo proposto para a realização da tarefa.
+
+Em relação à interface e terminologia, as respostas indicam que o site Nota Legal conseguiu evitar confusões significativas. A linguagem utilizada foi percebida como acessível e compreensível, contribuindo para a fluidez na execução da tarefa.
+
+A disposição dos elementos de interação no site Nota Legal foi destacada como um ponto positivo, sendo percebida como facilitadora da rapidez na execução da tarefa. Esse aspecto é crucial para proporcionar uma experiência eficiente ao usuário, e os resultados sugerem que a abordagem atual atende a essa expectativa.
+
+No que diz respeito ao layout e design do site, a maioria do participante não identificou partes que pareciam estranhas ou desconexas com o objetivo do Nota Legal. Esse feedback indica uma coesão visual, onde os elementos estão alinhados ao propósito do site.
+
+Quando questionado sobre partes do site consideradas mais intuitivas e fáceis de usar, o participante respondeu de forma unânime, destacando que todas as partes foram percebidas como intuitivas. Esse é um indicativo positivo da consistência na experiência do usuário em diferentes seções do site.
+
+Em síntese, os resultados desta avaliação sugerem que a tarefa "Consultar Estabelecimento" no site Nota Legal proporcionou uma experiência globalmente positiva para o usuário. A coerência na sequência de interações, a eficácia na disposição dos elementos, a compreensibilidade da linguagem e a intuitividade geral do site contribuíram para uma experiência satisfatória. 
 
 ## Bibliografia
 
@@ -160,4 +174,4 @@ Em termos gerais, as interação do usuário com os protótipos foi tranquila e 
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
-| `1.0`  | 19/11/2023 |  Criação do documento |  [Gabriel Zaranza](https://github.com/GZaranza)   | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.0`  | 16/11/2023 |  Criação do documento |  [Izabella Alves](https://github.com/izabellaalves)    |  [Gabriel Zaranza](https://github.com/GZaranza)|

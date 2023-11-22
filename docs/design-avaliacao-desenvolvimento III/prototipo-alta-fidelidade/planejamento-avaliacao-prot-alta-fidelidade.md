@@ -381,5 +381,6 @@ Após o fim do teste piloto, os dados coletados foram avaliados e concluiu-se qu
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0` | 16/11/2023 | Criação do documento | [Gabriel Zaranza](https://github.com/GZaranza) | [Izabella Alves](https://github.com/) |
-| `1.1` | 16/11/2023 | Adição das letras "D", "E", "C" e do planejamento do teste piloto | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/) |
-| `1.2` | 20/11/2023 | Adição do resultado do teste piloto | [Zenilda Vieira](https://github.com/zenildavieira) e <br>[Lucas Victor](https://github.com/lucas13032203)| [Izabella Alves](https://github.com/izabellaalves) |
+| `1.1` | 16/11/2023 | Adição das letras "D", "E", "C"  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/) |
+| `1.2` | 18/11/2023 | Adição das letras "I", "D", "E" e do planejamento do teste piloto | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/) |
+| `1.3` | 20/11/2023 | Adição do resultado do teste piloto | [Zenilda Vieira](https://github.com/zenildavieira) e <br>[Lucas Victor](https://github.com/lucas13032203)| [Izabella Alves](https://github.com/izabellaalves) |

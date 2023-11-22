@@ -218,7 +218,7 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
 <table>
     <thead>
         <tr>
-            <th>Protótipo de Papel</th>
+            <th>Protótipo de Alta Fidelidade</th>
             <th>Avaliador(a)</th>
             <th>Usuário(a)</th>
             <th>Horário de início</th>

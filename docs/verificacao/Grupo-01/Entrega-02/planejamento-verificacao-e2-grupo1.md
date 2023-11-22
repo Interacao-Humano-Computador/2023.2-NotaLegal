@@ -73,6 +73,42 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
         <td> 13/10/2023	 </td>
         <td> Todos </td>
     </tr>
+    <tr>
+        <td>  <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/requisitos-elicitados.md">Requisitos Elicitados</a> </td>
+        <td>  2.1 </td>
+        <td> 25/10/2023	 </td>
+        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta.md?plain=1">Análise Hierárquica de Tarefas</a> </td>
+        <td>  1.6 </td>
+        <td> 12/10/2023	 </td>
+        <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt.md">ConcurTaskTree</a> </td>
+        <td>  1.8 </td>
+        <td> 16/10/2023	 </td>
+        <td> <a href="https://github.com/Lucas13032003">Lucas Víctor</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-elicitacao/brainstorming.md">Brainstorming</a> </td>
+        <td>  2.0 </td>
+        <td> 10/10/2023	 </td>
+        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-elicitacao/instrospeccao.md">Instrospecção</a> </td>
+        <td>  1.2 </td>
+        <td> 10/10/2023	 </td>
+        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-elicitacao/observacao.md">Observação</a> </td>
+        <td>  1.4 </td>
+        <td> 13/10/2023	 </td>
+        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+    </tr>
          
 </tbody>
 </table>
@@ -101,7 +137,7 @@ A verificação será executada nos dias 17/11/2023 e 18/11/2023, as atividades 
     <tr>
         <td>  17/10/2023 </td>
         <td>  Planejamento da verificação </td>
-        <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
+        <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
     <tr>
         <td>  17/10/2023 </td>
@@ -137,6 +173,36 @@ A verificação será executada nos dias 17/11/2023 e 18/11/2023, as atividades 
         <td>  17/10/2023 </td>
         <td>  Verificação do artefato de "Cenários" </td>
         <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
+    </tr>
+    <tr>
+        <td>  17/10/2023 </td>
+        <td>  Verificação do artefato de "Brainstorming" </td>
+        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+    </tr>
+    <tr>
+        <td>  17/10/2023 </td>
+        <td>  Verificação do artefato de "Introspecção" </td>
+        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+    </tr>
+    <tr>
+        <td>  17/10/2023 </td>
+        <td>  Verificação do artefato de "Observação" </td>
+        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+    </tr>
+    <tr>
+        <td>  17/10/2023 </td>
+        <td>  Verificação do artefato de "Requisitos elicitados" </td>
+        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+    </tr>
+    <tr>
+        <td>  17/10/2023 </td>
+        <td>  Verificação do artefato de "Análise Hierárquica de tarefas" </td>
+       <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+    </tr>
+    <tr>
+        <td>  17/10/2023 </td>
+        <td>  Verificação do artefato de "ConcurTaskTree" </td>
+        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
 </tbody>
 </table>

@@ -73,7 +73,14 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 
 #### Avaliação e Apresentação dos Dados
 
-Incluir o vídeo da simulação de uso conforme descrito em [Avaliação e Apresentação dos Dados - planejamento_relato_prototipo_papel.md](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md#avalia%C3%A7%C3%A3o-e-apresenta%C3%A7%C3%A3o-dos-dados).
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/nL3iu1ujtG0" target="blanket"><b>Vídeo 1:</b> Protótipo de Papel "Visualizar Recibo de Indicação"
+.</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nL3iu1ujtG0" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 
 #### Respostas das perguntas
 
@@ -133,6 +140,8 @@ Incluir o vídeo da simulação de uso conforme descrito em [Avaliação e Apres
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
+
+
 
 #### Consolidação e análise dos dados
 

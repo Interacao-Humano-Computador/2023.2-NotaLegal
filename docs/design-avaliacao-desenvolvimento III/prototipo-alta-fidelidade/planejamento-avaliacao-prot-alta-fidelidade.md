@@ -220,7 +220,7 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
         <tr>
             <th>Protótipo de Papel</th>
             <th>Avaliador(a)</th>
-            <th>Usuáio(a)</th>
+            <th>Usuário(a)</th>
             <th>Horário de início</th>
             <th>Horário de fim</th>
             <th>Data</th>
@@ -231,65 +231,65 @@ O cronograma da avaliação está detalhado na Tabela 2, na qual cada sessão de
         <tr>
             <td>Registrar uma reclamação</td>
             <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-            <td></td>
-            <td></td>
-            <td>1</td>
-            <td></td>
+            <td>Wellington Rosa</td>
+            <td>18:00</td>
+            <td>18:15</td>
+            <td>25/11/2023</td>
             <td>Presencial</td>
         </tr>
         <tr>
             <td>Desbloquear saldo</td>
             <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-            <td></td>
-            <td></td>
-            <td>1</td>
-            <td></td>
+            <td>Carlos Barrto</td>
+            <td>18:00</td>
+            <td>18:15</td>
+            <td>25/11/2023</td>
             <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar estabelecimento</td>
             <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-            <td></td>
-            <td></td>
-            <td>1</td>
-            <td></td>
+            <td>Elaime Alves</td>
+            <td>17:00</td>
+            <td>17:15</td>
+            <td>25/11/2023</td>
             <td>Presencial</td>
         </tr>
         <tr>
             <td>Visualizar Recibo Fiscal</td>
             <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-           <td></td>
-            <td></td>
-            <td>1</td>
-            <td></td>
+            <td>Francinete de Oliveira Dias</td>
+            <td>20:30	</td>
+            <td>20:45	</td>
+            <td>25/11/2023</td>
             <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar reclamação</td>
             <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-            <td></td>
-            <td></td>
-            <td>1</td>
-            <td></td>
+            <td>Ana Clara</td>
+            <td>20:00</td>
+            <td>20:15</td>
+            <td>25/11/2023</td>
             <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar extrato</td>
             <td><a href="https://github.com/lucas13032003">Lucas Víctor</a></td>
-            <td></td>
-            <td></td>
-            <td>1</td>
-            <td></td>
+            <td>Alecsandra Araújo</td>
+            <td>20:15</td>
+            <td>20:30</td>
+            <td>25/11/2023</td>
             <td>Presencial</td>
         </tr>
         <tr>
             <td>Consultar resultado de sorteio</td>
             <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-            <td></td>
-            <td></td>
-            <td>1</td>
-            <td></td>
-            <td>Presencial</td>
+            <td>João Lucas</td>
+            <td>10:00</td>
+            <td>10:15</td>
+            <td>25/11/2023</td>
+            <td>presencial</td>
         </tr>
     </tbody>
 </table>
@@ -359,7 +359,7 @@ O objetivo desta avaliação é verificar a usabilidade dos Protótipos de Alta 
 <div align="center">
 <p style="text-align: center"><a href="https://youtu.be/" target="blanket"><b>Vídeo 1:</b> Teste piloto do planejamento da avaliação do Protótipo de Alta Fidelidade</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IevThFhYt48?si=M9JqkpB0zb3ZPSLR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032203">Lucas Victor</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>

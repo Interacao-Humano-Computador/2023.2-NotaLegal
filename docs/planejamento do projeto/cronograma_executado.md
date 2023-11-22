@@ -1025,6 +1025,122 @@ Na tabela 6 encontram-se as datas do cronograma executado para a etapa de Verifi
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
+## Entrega 7 - Relato dos resultados do Protótipo de Papel - Data de Entrega: 22/nov/2023
+
+Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Relato dos resultados do Protótipo de Papel.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Cronograma planejado para a etapa de Relato dos resultados do Protótipo de Papel</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Documentar o relato dos resultados do Protótipo de Papel</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Realizar e documentar o planejamento da Avaliação do protótipo de alta fidelidade</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+      </td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Documentar o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+      </td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Gravação 7</td>
+      <td>17/nov</td>
+      <td>17/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>18/nov</td>
+      <td>18/nov</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 7</td>
+      <td>17/nov</td>
+      <td>17/nov</td>
+      <td>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>17/nov</td>
+      <td>17/nov</td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
 ## Bibliografia
 
@@ -1044,3 +1160,4 @@ Na tabela 6 encontram-se as datas do cronograma executado para a etapa de Verifi
 | `1.4`  | 31/10/2023 | Inclusão do cronograma executado da entrega 4               | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                       |  [Gabriel Rosa](https://github.com/gabrielrosa09)  |
 | `1.5`  | 08/11/2023 | Inclusão do cronograma executado da entrega 5               | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                       |  [Lucas Victor](https://github.com/Lucas13032003)  |
 | `1.6`  | 15/11/2023 | Inclusão do cronograma executado da entrega 6.1             | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                       |  [Lucas Ribeiro](https://github.com/lucassouzs)  |
+| `1.7`  | 22/11/2023 | Inclusão do cronograma executado da entrega 7               | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                       |  [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |

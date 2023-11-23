@@ -19,6 +19,8 @@ nav:
     - Reunião 12: atas/Reuniao12-24.10.2023.md
     - Reunião 13: atas/Reuniao13-01.11.2023.md
     - Reunião 14: atas/Reuniao14-11.11.2023.md
+    - Reunião 15: atas/Reuniao15-15.11.2023.md
+    - Reunião 16: atas/Reuniao16-21.11.2023.md
   - Apresentações:
     - Apresentação 1: apresentacoes/Apresentação 1 - 29.09.2023.md
     - Apresentação 2: apresentacoes/Apresentação 2 - 13.10.2023.md
@@ -26,6 +28,7 @@ nav:
     - Apresentação 4: apresentacoes/Apresentação 4 - 31.10.2023.md
     - Apresentação 5: apresentacoes/Apresentação 5 - 09.11.2023.md
     - Apresentação 6.1: apresentacoes/Apresentação 6.1 - 16.11.2023.md
+    - Apresentação 7: apresentacoes/Apresentação 7 - 22.11.2023.md
   - Planejamento do Projeto:
     - Heatmap de disponibilidade: planejamento do projeto/heatmap-disponibilidade.md
     - Sites avaliados: planejamento do projeto/lista-sites-avaliados.md
@@ -144,6 +147,7 @@ nav:
       - Desbloquear saldo: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/desbloquear_saldo.md
       - Registrar reclamação: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/registrar_reclamação.md
       - Visualizar recibo: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/visualizar-recibo.md
+      - Consultar reclamação: design-avaliacao-desenvolvimento III/resultados-prototipo-papel/consultar-reclamacao.md
     - Protótipo de Alta Fidelidade:
       - Protótipos de Alta Fidelidade: design-avaliacao-desenvolvimento III/prototipo-alta-fidelidade/prototipos-alta-fidelidade.md
       - Planejamento da Avaliação: design-avaliacao-desenvolvimento III/prototipo-alta-fidelidade/planejamento-avaliacao-prot-alta-fidelidade.md

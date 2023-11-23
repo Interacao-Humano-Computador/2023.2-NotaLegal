@@ -27,7 +27,7 @@ Além disso, a equipe de avaliação chegou com antecedência para configurar os
 
 #### Cronograma final
 
-Inicialmente, a participante escolhida para a avaliação seria a Ana Clara S. de Araújo. No entanto, devido à não conformidade com o perfil de usuário desejado, optou-se por selecionar uma nova participante, no caso, a Gisele R. de Souza. O cronograma executado está detalhado na Tabela 1 para referência.
+Na Tabela 1 é possível verificar o cronograma executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da entrevista.</p>
@@ -54,7 +54,7 @@ Inicialmente, a participante escolhida para a avaliação seria a Ana Clara S. d
   <tr>
     <td>Cronograma Executado</td>
     <td>Lucas Ribeiro</td>
-    <td>Gisele Ribeiro</td>
+    <td>Ana Clara</td>
     <td>20:00</td>
     <td>20:15</td>
     <td>22/11/2023</td>

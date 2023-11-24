@@ -10,7 +10,7 @@ O propósito desta página é hospedar a apresentação da Entrega 7 em formato 
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=ADF9c1FIMKc" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Apresentação 7</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ADF9c1FIMKc" title="Apresentação 6.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ADF9c1FIMKc" title="Apresentação 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>

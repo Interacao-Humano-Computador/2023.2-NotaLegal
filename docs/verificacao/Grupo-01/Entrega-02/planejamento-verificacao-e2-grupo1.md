@@ -207,9 +207,335 @@ A verificação será executada nos dias 17/11/2023 e 18/11/2023, as atividades 
 </tbody>
 </table>
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+
+## Checklists
+
+Nesta etapa, será definido um checklist de verificação geral, que deve ser aplicado a todos os artefatos, e um checklist específico para cada artefato. As questões disponíveis no checklist devem ser respondidas com Sim, Não, Incompleto ou Não Se Aplica.
+
+Além disso, as observações devem ser registradas após a tabela, indicando o ID respectivo que gerou a observação.
+
+Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino da disciplina Interação Humano Computador [1], bem como na observação dos projetos dos semestres anteriores e dos feedbacks dados pelos monitores e pelo Professor após as apresentações.
+
+### Checklist Geral
+
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 2</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Todas as referências bibliográficas são chamadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O artefato possui introdução?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Todas as tabelas são referenciadas no texto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
+
+### Brainstorming
+
+Na tabela 9, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist para o artefato de Brainstorming</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Possui justificativa da quantidade de usuários presentes na sessão de brainstorming?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os usuários possuem o perfil definido pela equipe?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>A sessão possui um moderador?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>O moderador da sessão faz perguntas para guiar os participantes?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Todos os participantes falaram e se sentiram seguros para expor opiniões?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>No início da sessão, o moderador informou o objetivo e procedimento da atividade para os participantes?</td>
+      <td></td>
+    </tr>
+    
+   
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
+### Introspecção
+
+Na tabela 10, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/introspeccao/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 19:</b> Checklist para o artefato de Introspecção</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Foi definido o cenário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O cenário definido apresenta a motivação do usuário ?</td>
+      <td></td>
+    </tr>
+   
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
+### Grupo de foco
+
+Na tabela 11, estão listados os critérios que devem ser verificados no artefato [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/GrupoDeFoco/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist para o artefato de Grupo de Foco</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Possui justificativa/referência para o número de participantes?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>A sessão possui modereador?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O moderador incentivou os participantes a falarem suas opiniões?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Foram definidos os tópicos a serem explorados nas sessões?</td>
+      <td></td>
+    </tr>
+   
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
+### Requisitos elicitados
+
+Na tabela 9, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist para o artefato de Brainstorming</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Possui justificativa da quantidade de usuários presentes na sessão de brainstorming?</td>
+      <td></td>
+    </tr>
+   
+   
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
+### Análise Hierarquica de Tarefas (HTA)
+
+Na tabela 12, estão listados os critérios que devem ser verificados no artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Checklist para o artefato de Análise Hierárquica de Tarefas</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>A tarefa é organizada entre objetivos e operações?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os objetivos e operações estão sendo representados graficamente certos ?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O diagrama mostra as relações entre os subobjetivos?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>A tabela do HTA mostra os inputs,feedbacks, planos, problemas e recomendações?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Cada subobjetivo é alcançado por uma operação?</td>
+      <td></td>
+    </tr>
+   
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
+### Concur Task Trees (CTT)
+
+Na tabela 13, estão listados os critérios que devem ser verificados no artefato [ConcurTaskTrees (CTT)](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 13:</b> Checklist para o artefato de ConcurTaskTrees (CTT)</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>As tarefas são representadas por tarefas do usuário, do sistema, interatvias e abstratas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>As representações dos tipos de tarefas estão de acordo com o padrão?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Foram representadas as relações entre as tarefas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>As relações entre as tarefas foram bem representadas?</td>
+      <td></td>
+    </tr>
+   
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
 
 
 ## Bibliografia

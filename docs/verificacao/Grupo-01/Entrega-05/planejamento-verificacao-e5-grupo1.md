@@ -34,210 +34,246 @@ Os integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2
 
 ## Objetos de verificação
 
-Os artefatos serão verificados no dia XX/11/2023 e no dia XX/11/2023, e o detalhamento da verificação de cada artefato está disponível na tabela 1.
-
-<div align="center">
-<p><b>Tabela 1:</b> Cronograma de verificação da etapa 5.</p>
+A tabela 1 mostra os artefatos que serão inspecionados durante o processo de verificação.
 
 <table>
-  <thead>
+
+<thead>
     <tr>
-      <th>Artefato</th>
-      <th>Versão</th>
-      <th>Data da Versão</th>
-      <th>Autor</th>
-      <th>Data de Verificação</th>
-      <th>Verificado por</th>
+        <th>Artefato</th>
+        <th>Versão</th>
+        <th>Data</th>
+        <th>Autor</th>
     </tr>
-  </thead>
-  <tbody>
+</thead>
+<tbody>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/prototipos-de-papel/">Protótipos de Papel</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td>
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br>
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_avaliacao_prototipo_papel/">Planejamento da avaliação do protótipo de papel</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td>
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel/">Planejamento do relato dos resultados da avaliação do Protótipo de Papel</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td>
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/modelo-relato-prototipo-papel/">Documento Modelo - Relato dos resultados da avaliação do Protótipo de Papel</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td>
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar_extrato/">Relato dos resultados da avaliação da análise de tarefa "Consultar extrato"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-estabelecimento/">Relato dos resultados da avaliação da análise de tarefa "Consultar estabelecimento"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-sorteio/">Relato dos resultados da avaliação da Análise da Tarefa "Consultar Sorteio"</a></td>
       <td>1.1</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td>
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a>
-      </td>
      </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/desbloquear_saldo/">Relato dos resultados da avaliação do Storyboard "Desbloquear Saldo"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/registrar_reclamacao/">Relato dos resultados da avaliação da análise de tarefa "Registro de uma reclamação"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/visualizar_recibo/">Relato dos resultados da avaliação da análise de tarefa "Visualizar Recibo de Indicação"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-reclama%C3%A7%C3%A3o/">Relato dos resultados da avaliação da análise de tarefa "Consultar reclamação"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar_extrato/">Relato dos resultados da avaliação do Storyboard "Consultar Extrato"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/">Relato dos resultados da avaliação do Storyboard "Consultar Estabelecimento"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-sorteio/">Relato dos resultados da avaliação do Storyboard "Consultar Sorteio"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td>
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br>
-        <a href="https://github.com/izabellaalves">Izabella Alves</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/desbloquear_saldo/">Relato dos resultados da avaliação do Storyboard "Consultar Estabelecimento"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/registrar_reclama%C3%A7%C3%A3o/">Relato dos resultados da avaliação do Storyboard "Registrar uma reclamação"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/visualizar_recibo/">Relato dos resultados da avaliação do StoryBoard "Visualizar Recibo de Indicação"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-reclama%C3%A7%C3%A3o/">Relato dos resultados da avaliação do Storyboard "Consultar Reclamação"</a></td>
       <td>-</td>
       <td>XX/11/2023</td>
       <td>-</td>
-      <td>XX/11/2023</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
-      </td>
     </tr>
   </tbody>
+
+         
+</tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a> , 2023</p></font>
+</div>
+
+## Cronograma
+
+A verificação será executada nos dias 17/11/2023 e 18/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cronograma de verificação da etapa 5. </p></font>
+
+
+<table>
+
+<thead>
+    <tr>
+        <th>Data</th>
+        <th>Descrição</th>
+        <th>Responsável</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/prototipos-de-papel/">Protótipos de Papel</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_avaliacao_prototipo_papel/">Planejamento da avaliação do protótipo de papel</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel/">Planejamento do relato dos resultados da avaliação do Protótipo de Papel</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/modelo-relato-prototipo-papel/">Documento Modelo - Relato dos resultados da avaliação do Protótipo de Papel</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar_extrato/">Relato dos resultados da avaliação da análise de tarefa "Consultar extrato"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-estabelecimento/">Relato dos resultados da avaliação da análise de tarefa "Consultar estabelecimento"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-sorteio/">Relato dos resultados da avaliação da Análise da Tarefa "Consultar Sorteio"</a></td>
+      <td>-</td>
+     </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/desbloquear_saldo/">Relato dos resultados da avaliação do Storyboard "Desbloquear Saldo"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/registrar_reclamacao/">Relato dos resultados da avaliação da análise de tarefa "Registro de uma reclamação"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/visualizar_recibo/">Relato dos resultados da avaliação da análise de tarefa "Visualizar Recibo de Indicação"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-reclama%C3%A7%C3%A3o/">Relato dos resultados da avaliação da análise de tarefa "Consultar reclamação"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar_extrato/">Relato dos resultados da avaliação do Storyboard "Consultar Extrato"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/">Relato dos resultados da avaliação do Storyboard "Consultar Estabelecimento"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-sorteio/">Relato dos resultados da avaliação do Storyboard "Consultar Sorteio"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/desbloquear_saldo/">Relato dos resultados da avaliação do Storyboard "Consultar Estabelecimento"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/registrar_reclama%C3%A7%C3%A3o/">Relato dos resultados da avaliação do Storyboard "Registrar uma reclamação"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/visualizar_recibo/">Relato dos resultados da avaliação do StoryBoard "Visualizar Recibo de Indicação"</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>XX/11/2023</td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-reclama%C3%A7%C3%A3o/">Relato dos resultados da avaliação do Storyboard "Consultar Reclamação"</a></td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</tbody>
 </table>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a> , 2023</p></font>
@@ -252,74 +288,6 @@ Além disso, as observações devem ser registradas após a tabela, indicando o 
 Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino da disciplina Interação Humano Computador [1], bem como na observação dos projetos dos semestres anteriores, e dos feedbacks dados pelos monitores e pelo Professor após as apresentações.
 
 
-
-### Checklist Geral
-
-Na tabela 2, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
-
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para todos os artefatos da Entrega 5</p></font>
-
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>O artefato possui introdução? [2]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
-</div>
 
 ### Checklist do Relato dos Resultados da Análise de Tarefas
 

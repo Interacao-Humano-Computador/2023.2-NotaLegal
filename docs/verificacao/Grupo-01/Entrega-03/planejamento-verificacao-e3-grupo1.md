@@ -59,29 +59,24 @@ Os artefatos serão verificados no dia 10/11/2023, e o detalhamento da verifica�
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard/">Planejamento da Avaliação do Storyboard</a></td>
-      <td>1.5</td>
-      <td>XX/11/2023</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md">Características da plataforma </a></td>
+      <td>2.0</td>
+      <td>08/11/2023</td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento-relato_storyboard/">Planejamento do Relato dos Resultados da Avaliação do Storyboard</a></td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md">Guia de Estilo</a></td>
+      <td>1.5</td>
+      <td>20/10/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md">Metas de Usabilidade</a></td>
       <td>1.2</td>
-      <td>XX/11/2023</td>
+      <td>16/10/2023</td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/storyboards/">Storyboards</a></td>
-      <td>1.5</td>
-      <td>10/11/2023</td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/">Planejamento da Avaliação da Análise de Tarefas</a></td>
-      <td>1.4</td>
-      <td>XX/11/2023</td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md">Planejamento do Relato dos Resultados da Análise de Tarefas</a></td>
-      <td>1.3</td>
-      <td>XX/11/2023</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md">Princípios Gerais</a></td>
+      <td>1.9</td>
+      <td>20/10/2023</td>
     </tr>
   </tbody>
 </table>
@@ -180,4 +175,4 @@ Na tabela 2, estão listados os critérios que devem ser verificados em todos os
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
-| `1.0`  | 09/11/2023 | Criação do documento                | [Gabriel Zaranza](https://github.com/GZaranza) | [Lucas Ribeiro](https://github.com/lucassouzs)|
+| `1.0`  | 25/11/2023 | Criação do documento                | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)|

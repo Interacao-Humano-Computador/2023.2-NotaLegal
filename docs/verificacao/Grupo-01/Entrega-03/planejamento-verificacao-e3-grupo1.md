@@ -38,7 +38,7 @@ Nesta verificação, chegaremos até a etapa de Correção e Reinspeção, pois 
 
 ## Participantes
 
-O integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) responsável por fazer a verificação da Entrega 3 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) é [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira). Este participante fará a verificação de todos os documentos produzidos na Entrega 3 e documentará os resultados encontrados, que serão revisados pela [Zenilda Vieira](https://github.com/izabellaalves), também integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/). ALém disso, [Izabella Alves](https://github.com/izabellaalves), do mesmo grupo, participará como observador, acompanhando a verificação e auxiliando no processo. https://github.com/izabellaalves
+O integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) responsável por fazer a verificação da Entrega 3 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) é [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira). Este participante fará a verificação de todos os documentos produzidos na Entrega 3 e documentará os resultados encontrados, que serão revisados pela [Zenilda Vieira](https://github.com/izabellaalves), também integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/). Além disso, [Izabella Alves](https://github.com/izabellaalves), do mesmo grupo, participará como observador, acompanhando a verificação e auxiliando no processo. 
 
 
 
@@ -156,7 +156,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados em todos os
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="">Lucas de OLiveira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
 ## Referências Bibliográficas
@@ -170,6 +170,8 @@ Na tabela 2, estão listados os critérios que devem ser verificados em todos os
 > [4] PUC-PR. Comitê de Ética e Pesquisa – CEP. Paraná, 2017. Disponível em: <https://www.pucpr.br/estudante/graduacao/iniciacao-cientifica/cep/>. Acesso em: 20 de novembro de 2023.
 >
 > [5] Sharp, Helen & Rogers, Yvonne & Preece, Jennifer. (2007). Interaction Design. Beyond Human-Computer Interaction.
+>
+>
 ## Histórico de versões
 
 

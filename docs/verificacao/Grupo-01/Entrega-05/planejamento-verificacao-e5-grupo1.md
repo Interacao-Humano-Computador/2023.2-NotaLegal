@@ -287,6 +287,72 @@ Além disso, as observações devem ser registradas após a tabela, indicando o 
 
 Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino da disciplina Interação Humano Computador [1], bem como na observação dos projetos dos semestres anteriores, e dos feedbacks dados pelos monitores e pelo Professor após as apresentações.
 
+### Checklist Geral
+
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 5 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 5</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O artefato possui introdução? [2]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Todas as tabelas são referenciadas no texto? [2] </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+</div>
 
 
 ### Checklist do Relato dos Resultados da Análise de Tarefas
@@ -318,7 +384,7 @@ Na tabela 3, estão listados os critérios que devem ser verificados no Relato d
     </tr>
     <tr>
       <td>03</td>
-      <td>O artefato descreve as questões éticas da avaliação? [4]</td>
+      <td>O artefato descreve as questões éticas da avaliação? [3]</td>
       <td></td>
     </tr>
     <tr>
@@ -391,7 +457,7 @@ Na tabela 4, estão listados os critérios que devem ser verificados no Relato d
     </tr>
     <tr>
       <td>03</td>
-      <td>O artefato descreve as questões éticas da avaliação? [4]</td>
+      <td>O artefato descreve as questões éticas da avaliação? [3]</td>
       <td></td>
     </tr>
     <tr>
@@ -436,8 +502,13 @@ Na tabela 4, estão listados os critérios que devem ser verificados no Relato d
 </div>
 
 ## Referências Bibliográficas
->
+
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+> 
+> [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
+>
+> [3] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+>
 
 ## Histórico de versões
 

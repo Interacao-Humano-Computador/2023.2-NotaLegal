@@ -33,6 +33,10 @@ O relatório dos resultados da avaliação da Análise de Tarefas documentará o
 
 Neste tópico, o autor do documento deve fornecer uma explicação detalhada sobre o propósito subjacente à realização desta avaliação e os resultados que o grupo visa alcançar. É imperativo que o autor estabeleça com clareza as metas e os objetivos da avaliação da análise de tarefas do site Nota Legal. Além disso, é essencial definir para quem essa avaliação é relevante e justificar por que é de importância significativa. O autor também deve delinear o escopo e o enfoque da avaliação, levando em consideração quaisquer limitações impostas por fatores como tempo, recursos e questões éticas.
 
+Neste caso, os objetivos previamente estabelecidos são:
+
+- Identificar problemas de usabilidade nas tarefas do Nota Legal.
+
 ### Método
 
 Neste tópico, o autor do documento deverá descrever qual foi o procedimento adotado para coletar os dados necessários para a avaliação da análise de tarefas do site Nota Legal. O autor deverá explicar como a avaliação foi conduzida, quais foram os métodos utilizados, quem foram os participantes, quais foram as tarefas realizadas, etc. Além disso, para complementar as informações, deverá ser incluído o cronograma executado durante o processo de avaliação. Para padronizar a apresentação do cronograma, iremos utilizar a tabela 1, para colocarmos o cronograma executado.

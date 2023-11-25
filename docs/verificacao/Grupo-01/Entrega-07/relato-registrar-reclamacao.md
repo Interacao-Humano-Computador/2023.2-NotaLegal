@@ -17,7 +17,14 @@ A definição do método utilizado e o planejamento da verificação em questão
 
 ## Apresentação dos dados
 
-Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist utilizado. Para cada item do checklist, será apresentado o resultado obtido e, caso o resultado seja negativo, será apresentado também o problema encontrado.
+Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist utilizado. Para cada item do checklist, será apresentado o resultado obtido e, caso o resultado seja negativo, será apresentado também o problema encontrado. Além disso, a gravação desta verificação está disponível no vídeo 1.
+
+<p style="text-align: center"><a href="https://youtu.be/OWKH1ah0F5U" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Apresentação 5</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OWKH1ah0F5U" title="Apresentação 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+</div>
 
 ### Checklist Geral
 
@@ -39,47 +46,47 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -102,57 +109,57 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>01</td>
       <td>O artefato descreve os objetivos da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato descreve o método empregado na avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato descreve as questões práticas da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato descreve as questões éticas da avaliação? [4]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>O artefato apresenta o participante selecionado? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>O artefato possui um cronograma executado da avaliação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>07</td>
       <td>O artefato possui uma gravação da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>08</td>
       <td>O artefato possui um tópico para análise dos resultados? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>09</td>
       <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>10</td>
       <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -166,10 +173,11 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-
+Não foi encontrado nenhum problema no checklist geral.
 
 ### Checklist Específico
 
+Não foi encontrado nenhum problema no checklist específico.
 
 ## Resultados
 
@@ -182,7 +190,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação checklist geral.</p>
 
-  <img src="#" style="width: 45%;">
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/bb2fe9b5f946e163521c278e8138423c52da14c2/docs/imagens/verifcacao-cg-rrr.png" style="width: 45%;">
 
 <p><b>Fonte:</b> Izabella Alves, 2023.</p>
 </div>
@@ -194,7 +202,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="#" style="width: 45%;">
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/bb2fe9b5f946e163521c278e8138423c52da14c2/docs/imagens/verifcacao-ce-rrr.png" style="width: 45%;">
 
 <p><b>Fonte:</b> Izabella Alves, 2023.</p>
 

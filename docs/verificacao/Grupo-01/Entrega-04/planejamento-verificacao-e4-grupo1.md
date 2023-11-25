@@ -36,7 +36,7 @@ O integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-N
 
 ## Objetos de verificação
 
-Os artefatos serão verificados no dia XX/11/2023 e no dia XX/11/2023, e o detalhamento da verificação de cada artefato está disponível na tabela 1.
+Os artefatos serão verificados no dia 10/11/2023, e o detalhamento da verificação de cada artefato está disponível na tabela 1.
 
 <div align="center">
 <p><b>Tabela 2:</b> Cronograma de verificação da etapa 4.</p>
@@ -63,7 +63,7 @@ Os artefatos serão verificados no dia XX/11/2023 e no dia XX/11/2023, e o detal
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/storyboards/">Storyboards</a></td>
       <td>1.5</td>
-      <td>XX/11/2023</td>
+      <td>10/11/2023</td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/">Planejamento da Avaliação da Análise de Tarefas</a></td>

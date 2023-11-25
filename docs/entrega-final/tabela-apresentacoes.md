@@ -6,6 +6,8 @@ Esse documento apresenta uma tabela com os links de todos os vídeos das apresen
 
 ## Tabela de vídeo de Apresentações
 
+Na tabela 1 encontram-se os links de todos os vídeos gravados.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Apresentações das entregas das etapas do projeto</p></font>
 

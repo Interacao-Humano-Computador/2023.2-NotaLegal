@@ -3,17 +3,17 @@
 
 ## Introdução 
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Metas de Usabilidade]()" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.5 do documento, adicionada ao histórico de versões com a data 31/10/2023.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.5 do documento, adicionada ao histórico de versões com a data 31/10/2023.
 
 ## Objetivo
 
-O objetivo desta verificação é identificar possíveis problemas no artefato "[Metas de Usabilidade]()" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
+O objetivo desta verificação é identificar possíveis problemas no artefato "[Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
 
 ## Metodologia
 
 A metodologia seguida neste documento será a de inspeção por checklist, onde cada item do checklist será verificado e, caso seja identificado algum problema, o mesmo será registrado na seção de problemas encontrados. Ao todo, serão utilizados 2 checklists, sendo um checklist geral, que será aplicado em todos os artefatos, e um checklist específico, que será aplicado apenas no artefato em questão.
 
-A definição do método utilizado e o planejamento da verificação em questão foram definidos no documento de [Metas de Usabilidade]().
+A definição do método utilizado e o planejamento da verificação em questão foram definidos no documento de [Planejamento de Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1.md).
 
 ## Apresentação dos dados
 
@@ -21,7 +21,7 @@ Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist
 
 ### Checklist Geral
 
-Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Metas de Usabilidade]()" em relação ao checklist geral.
+Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md)" em relação ao checklist geral.
 
 
 <div align="center">
@@ -88,14 +88,35 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 </div>
 
 
-### Checklist Específico
+### Checklist de Metas de Usabilidade
 
+<Center>
+
+**Tabela 4** - Checklist Metas de Usabilidade.
+
+| ID  | Descrição                                                                                            | Avaliação |
+| --- | ---------------------------------------------------------------------------------------------------- | --------- | 
+| 14  | É mostrado quais metas de usabilidade foram utilizadas?                                              |   |
+| 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           |    |
+| 16  | As metas de usabilidade são explicadas?                                                             |    |
+| 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           |    |
+| 18  | É descrito como as metas serão avaliadas no projeto?                                                 |    |
+| 20  | São apresentadas questões condizentes com a meta de eficiência?                                      |    |
+| 22  | São apresentadas questões condizentes com a meta de segurança?                                       |    |
+| 23  | São apresentadas questões condizentes com a meta de utilidade?                                       |    |
+| 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    |    |
+| 25  | São apresentadas questões condizentes com a meta de memorabilidade?                                  |    |
+
+
+**Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
+
+</Center>
 
 
 
 ## Problemas encontrados
 
-Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Metas de Usabilidade]()".
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md)".
 
 ### Checklist Geral
 
@@ -107,14 +128,14 @@ Nenhum problema encontrado no checklist específico.
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Metas de Usabilidade]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
 
 ### Checklist geral
 
-No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Metas de Usabilidade]()" em relação ao checklist geral.
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md)" em relação ao checklist geral.
 
 <div align="center">
-  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Guia de Estilo" no checklist geral.</p>
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Metas de Usabilidade" no checklist geral.</p>
 
   <img src="" style="width: 45%;">
 
@@ -123,10 +144,10 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 
 ### Checklist específico
 
-No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Metas de Usabilidade]()" em relação ao checklist específico.
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md)" em relação ao checklist específico.
 
 <div align="center">
-  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Guia de Estilo" no checklist específico.</p>
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Metass de Usabilidade" no checklist específico.</p>
 
   <img src="" style="width: 45%;">
 
@@ -135,7 +156,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 </div>
 
 ## Bibliografia
-> Oliveira, Lucas. VIEIRA, Zenilda. [Metas de Usabilidade](). FGA, 2023.
+> Oliveira, Lucas. VIEIRA, Zenilda. [Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md). FGA, 2023.
 
 
 ## Histórico de Versões

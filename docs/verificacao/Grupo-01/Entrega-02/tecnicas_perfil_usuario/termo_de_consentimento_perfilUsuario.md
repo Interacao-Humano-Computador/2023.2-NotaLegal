@@ -35,47 +35,47 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -100,37 +100,37 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Termo de 
       <td>01</td>
       <td> A pesquisa foi descrita de maneira clara e compreensível, incluindo seu propósito, procedimentos, duração e o que se espera do participante?
 </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>Os potenciais riscos e benefícios da participação na pesquisa foram explicados?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>Foi garantido que as informações do participante serão mantidas em estrita confidencialidade e usadas apenas para fins de pesquisa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>Foi claramente indicado que a participação na pesquisa é voluntária e que o participante pode se recusar a participar ou interromper a participação a qualquer momento, sem penalidades?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>As informações de contato foram fornecidas para o participante caso ele tenha dúvidas ou preocupações sobre a pesquisa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>O termo inclui uma declaração de consentimento que indica que o participante leu e entendeu o termo e concorda em participar voluntariamente na pesquisa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>07</td>
       <td>Existem opções claras para o participante indicar se concorda ou não em participar da pesquisa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -141,7 +141,11 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Termo de 
 
 ### Checklist geral
 
+- Não foi possível identificar nenhum erro no documento.
+
 ### Checklist específico
+
+- Não foi possível identificar nenhum erro no documento.
 
 ## Referências Bibliográficas
 
@@ -149,7 +153,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Termo de 
 
 ## Bibliografia
 
-> NOTA LEGAL, [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/grupo_de_foco/), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
+> NOTA LEGAL, [Termo de Consentimento Livre e Esclarecido](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario/), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
 
 ## Histórico de Versões
 

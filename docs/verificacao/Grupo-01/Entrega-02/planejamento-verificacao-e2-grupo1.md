@@ -602,6 +602,97 @@ Na tabela 8, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
+### Checklist Específico para Personas
+
+Na tabela 9, estão listados os critérios que devem ser verificados no artefato [Personas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/personas/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist para o artefato de Personas</p></font>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Critério</th>
+    <th>Avaliação</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>As personas foram definidas a partir dos dados do perfil do usuário?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>As personas apresentam as situações em que serão utilizadas?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>O elenco de personas tem entre 3 a 12 personas?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>O elenco de personas e a razão da quantidade de personas é justificada?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>05</td>
+    <td>O projeto contém a anti-persona e persona primária?</td>
+    <td></td>
+  </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+### Checklist Específico para Cenários
+
+Na tabela 10, estão listados os critérios que devem ser verificados no artefato [Cenários](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/personas/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Checklist para o artefato de Cenários</p></font>
+
+<table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>O artefato possui a metodologia utilizada e sua respectiva descrição?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema?</td>
+      <td></td>
+    </tr>
+  </table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
 ### Checklist Específico para Brainstorming
 
 Na tabela 9, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).

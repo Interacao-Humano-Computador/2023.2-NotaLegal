@@ -159,6 +159,107 @@ Na tabela 2, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
+
+### Checklist de Guia de Estilo
+
+<Center>
+
+**Tabela 3** - Checklist Guia de Estilo
+
+| ID  | Descrição                                                                                           | Avaliação |
+| --- | --------------------------------------------------------------------------------------------------- | --------- | 
+| 01  | O guia de estilo construído é relevante para o site avaliado?                                        |   |
+| 02  | Possui um objetivo claro definido para o guia de estilo?                                              |    |
+| 03  | Existe um público-alvo específico para o guia de estilos?                                            |    |
+| 04  | Instrui sobre como utilizar e manter o guia de estilo de maneira eficaz?                              |    |
+| 05  | O guia de estilo do projeto é estruturado com base nos resultados da análise, incluindo uma descrição do ambiente de trabalho do usuário? |    |
+| 06  | O guia de estilo contém elementos de interface, como disposição espacial, grid, janelas, tipografia e cores? |    |
+| 07  | Existem elementos de interação no guia de estilo, como estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)? |    |
+| 08  | O guia de estilo inclui elementos de ação, como preenchimento de campos, seleção e ativação?       |    |
+| 09  | Há um vocabulário definido e padrões claros no guia de estilo, incluindo terminologia, tipos de tela para tarefas comuns e sequências de diálogos? |    |
+| 10  | São abordadas exceções e estados de erro no guia de estilo?                                          |    |
+
+
+**Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
+
+</Center>
+
+
+### Checklist de Metas de Usabilidade
+
+<Center>
+
+**Tabela 4** - Checklist Metas de Usabilidade.
+
+| ID  | Descrição                                                                                            | Avaliação |
+| --- | ---------------------------------------------------------------------------------------------------- | --------- | 
+| 14  | É mostrado quais metas de usabilidade foram utilizadas?                                              |   |
+| 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           |    |
+| 16  | As metas de usabilidade são explicadas?                                                             |    |
+| 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           |    |
+| 18  | É descrito como as metas serão avaliadas no projeto?                                                 |    |
+| 20  | São apresentadas questões condizentes com a meta de eficiência?                                      |    |
+| 22  | São apresentadas questões condizentes com a meta de segurança?                                       |    |
+| 23  | São apresentadas questões condizentes com a meta de utilidade?                                       |    |
+| 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    |    |
+| 25  | São apresentadas questões condizentes com a meta de memorabilidade?                                  |    |
+
+
+**Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
+
+</Center>
+
+### Checklist de Princípios Gerais do Projeto
+
+<Center>
+
+**Tabela 5** - Checklist Princípios Gerais do Projeto.
+
+| ID  | Descrição                                                                                              | Avaliação |
+| --- | ------------------------------------------------------------------------------------------------------ | --------- | 
+| 01   | O artefato possui Introdução?                                                                         |    |
+| 02   | O artefato possui bibliografia?                                                                       |    |
+| 03   | O artefato possui um histórico de versões correto?                                                    |    |
+| 04   | Como os Princípios Gerais do Projeto serão aplicados no projeto?                                      |    |
+| 05   | Existe uma descrição para cada um desses princípios?                                                  |    |
+| 06   | Contém Alinhamento com as expectativas dos usuários?                                                  |    |
+| 07   | Contém Simplificação nas estruturas das tarefas?                                                      |    |
+| 08   | Contém Equilíbrio entre controle e liberdade do usuário?                                              |    |
+| 09   | Contém Consistência e padronização; promoção da eficiência do usuário?                                |    |
+| 10  | Contém Antecipação das necessidades do usuário?                                                        |    |
+| 11  | Contém Visibilidade e reconhecimento?                                                                  |    |
+| 12  | Contém Conteúdo relevante e expressão apropriada?                                                      |    |
+| 13  | Contém Design para lidar com erros?   |   |
+
+
+**Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
+
+</Center>
+
+
+
+### Checklist de Características Gerais
+
+<Center>
+
+**Tabela 6** - Checklist Características Gerais
+
+| ID  | Descrição                                                                                              | Avaliação  |
+| --- | ------------------------------------------------------------------------------------------------------ | ---------- |
+| 01   | As características da plataforma para o projeto são identificadas?                                     |     |
+| 02   | As limitações são apresentadas?                                                                        |     |
+| 03   | A responsividade da página é discutida?                                                                |     |
+| 04  | São identificados pontos negativos do sistema?                                                          |     |
+| 05  | A metodologia utilizada é apresentada no artefato?                                                      |     |
+| 06  | São identificadas as tecnologias que foram utilizadas |  |
+
+
+**Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
+
+</Center>
+
+
+
 ## Referências Bibliográficas
 >
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.

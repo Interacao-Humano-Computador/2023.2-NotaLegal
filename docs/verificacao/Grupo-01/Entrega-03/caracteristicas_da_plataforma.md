@@ -1,19 +1,19 @@
-# Verificação do artefato características da Plataforma
+# Verificação do artefato Características da Plataforma
 
 
 ## Introdução 
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Características da Plataforma]()" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.5 do documento, adicionada ao histórico de versões com a data 31/10/2023.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Características da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 2.0 do documento, adicionada ao histórico de versões com a data 08/11/2023.
 
 ## Objetivo
 
-O objetivo desta verificação é identificar possíveis problemas no artefato "[Características da Plataforma]()" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
+O objetivo desta verificação é identificar possíveis problemas no artefato "[Características da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
 
 ## Metodologia
 
 A metodologia seguida neste documento será a de inspeção por checklist, onde cada item do checklist será verificado e, caso seja identificado algum problema, o mesmo será registrado na seção de problemas encontrados. Ao todo, serão utilizados 2 checklists, sendo um checklist geral, que será aplicado em todos os artefatos, e um checklist específico, que será aplicado apenas no artefato em questão.
 
-A definição do método utilizado e o planejamento da verificação em questão foram definidos no documento de [Características da Plataforma]().
+A definição do método utilizado e o planejamento da verificação em questão foram definidos no documento de [Planejamento de Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1.md).
 
 ## Apresentação dos dados
 
@@ -21,7 +21,7 @@ Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist
 
 ### Checklist Geral
 
-Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Características da Plataforma]()" em relação ao checklist geral.
+Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Características da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)" em relação ao checklist geral.
 
 
 <div align="center">
@@ -95,7 +95,7 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 ## Problemas encontrados
 
-Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Características da Plataforma]()".
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Características da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)".
 
 ### Checklist Geral
 
@@ -107,14 +107,14 @@ Nenhum problema encontrado no checklist específico.
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Característícas da Plataforma]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Característícas da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
 
 ### Checklist geral
 
-No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Características da Plataforma]()" em relação ao checklist geral.
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Características da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)" em relação ao checklist geral.
 
 <div align="center">
-  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Guia de Estilo" no checklist geral.</p>
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Características Gerais" no checklist geral.</p>
 
   <img src="" style="width: 45%;">
 
@@ -123,10 +123,10 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 
 ### Checklist específico
 
-No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Características da Plataforma]()" em relação ao checklist específico.
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Características da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)" em relação ao checklist específico.
 
 <div align="center">
-  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Guia de Estilo" no checklist específico.</p>
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Características Gerais" no checklist específico.</p>
 
   <img src="" style="width: 45%;">
 
@@ -135,7 +135,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 </div>
 
 ## Bibliografia
-> Oliveira, Lucas. VIEIRA, Zenilda. [Características da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md). FGA, 2023.
+> Oliveira, Lucas. VIEIRA, Zenilda. [Planejamento de Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1.md). FGA, 2023.
 
 
 ## Histórico de Versões

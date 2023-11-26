@@ -71,7 +71,7 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
         <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/cenarios/">Cenários</a> </td>
         <td>  1.10 </td>
         <td> 13/10/2023	 </td>
-        <td> Todos </td>
+        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> </td>
     </tr>
     <tr>
         <td>  <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/requisitos-elicitados.md">Requisitos Elicitados</a> </td>
@@ -286,7 +286,101 @@ Na tabela 3, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
-### Brainstorming
+### Checklist Específico para Aspectos Éticos
+
+Na tabela 4, estão listados os critérios que devem ser verificados no artefato "[Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/aspectos-eticos/)" do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/aspectos-eticos/).
+
+<div align="center">
+<p><b>Tabela 4:</b> Checklist de Verificação do artefato "Aspectos Éticos".</p>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td> Considera aspectos Éticos de Pesquisas Envolvendo Pessoas?
+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a
+gravação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O termo de consentimento livre e esclarecido dos participantes?</td>
+      <td></td>
+    </tr>
+  </table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+### Checklist Específico para Termo de Consentimento Livre e Esclarecido
+
+Na tabela 5, estão listados os critérios que devem ser verificados no artefato "[Termo de Consentimento Livre e Esclarecido](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario/)" do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/aspectos-eticos/).
+
+<div align="center">
+<p><b>Tabela 5:</b> Checklist de Verificação do artefato "Termo de Consentimento Livre e Esclarecido".</p>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td> A pesquisa foi descrita de maneira clara e compreensível, incluindo seu propósito, procedimentos, duração e o que se espera do participante?
+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Os potenciais riscos e benefícios da participação na pesquisa foram explicados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Foi garantido que as informações do participante serão mantidas em estrita confidencialidade e usadas apenas para fins de pesquisa?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Foi claramente indicado que a participação na pesquisa é voluntária e que o participante pode se recusar a participar ou interromper a participação a qualquer momento, sem penalidades?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>As informações de contato foram fornecidas para o participante caso ele tenha dúvidas ou preocupações sobre a pesquisa?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>O termo inclui uma declaração de consentimento que indica que o participante leu e entendeu o termo e concorda em participar voluntariamente na pesquisa?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>Existem opções claras para o participante indicar se concorda ou não em participar da pesquisa?</td>
+      <td></td>
+    </tr>
+  </table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+### Checklist Específico para Brainstorming
 
 Na tabela 9, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
@@ -340,7 +434,7 @@ Na tabela 9, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-### Introspecção
+### Checklist Específico para Introspecção
 
 Na tabela 10, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/introspeccao/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
@@ -373,7 +467,7 @@ Na tabela 10, estão listados os critérios que devem ser verificados no artefat
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-### Grupo de foco
+### Checklist Específico para Grupo de foco
 
 Na tabela 11, estão listados os critérios que devem ser verificados no artefato [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/GrupoDeFoco/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
@@ -416,7 +510,7 @@ Na tabela 11, estão listados os critérios que devem ser verificados no artefat
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-### Requisitos elicitados
+### Checklist Específico para Requisitos elicitados
 
 Na tabela 9, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
@@ -445,7 +539,7 @@ Na tabela 9, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-### Análise Hierarquica de Tarefas (HTA)
+### Checklist Específico para Análise Hierarquica de Tarefas (HTA)
 
 Na tabela 12, estão listados os critérios que devem ser verificados no artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 
@@ -493,7 +587,7 @@ Na tabela 12, estão listados os critérios que devem ser verificados no artefat
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-### Concur Task Trees (CTT)
+### Checklist Específico para Concur Task Trees (CTT)
 
 Na tabela 13, estão listados os critérios que devem ser verificados no artefato [ConcurTaskTrees (CTT)](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
 

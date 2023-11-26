@@ -1,13 +1,13 @@
-# Verificação do artefato Relato dos Resultados do Storyboard "Registrar reclamação"
+# Verificação do artefato Relato dos Resultados do Protótipo de Papel "Registrar reclamação"
 
 
 ## Introdução 
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Relato dos Resultados do Storyboard "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.2 do documento, adicionada ao histórico de versões com a data 28/10/2023.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Relato dos Resultados do Protótipo de Papel "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.2 do documento, adicionada ao histórico de versões com a data 28/10/2023.
 
 ## Objetivo
 
-O objetivo desta verificação é identificar possíveis problemas no artefato "[Relato dos Resultados do Storyboard "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
+O objetivo desta verificação é identificar possíveis problemas no artefato "[Relato dos Resultados do Protótipo de Papel "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
 
 ## Metodologia
 
@@ -28,7 +28,7 @@ Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist
 
 ### Checklist Geral
 
-Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Relato dos Resultados do Storyboard "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" em relação ao checklist geral.
+Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Relato dos Resultados do Protótipo de Papel "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" em relação ao checklist geral.
 
 
 <div align="center">
@@ -96,7 +96,7 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 ### Checklist Específico
 
-Na tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "[Relato dos Resultados do Storyboard "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" em relação ao checklist específico.
+Na tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "[Relato dos Resultados do Protótipo de Papel "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" em relação ao checklist específico.
 
 <div align="center">
   <p><b>Tabela X:</b> Checklist de Verificação para o artefato "Relato do Resultado do Protótipo de Papel "Registrar Reclamação"</p>
@@ -169,7 +169,7 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
 
 ## Problemas encontrados
 
-Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Relato dos Resultados do Storyboard "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)".
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Relato dos Resultados do Protótipo de Papel "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)".
 
 ### Checklist Geral
 
@@ -181,11 +181,11 @@ Não foi encontrado nenhum problema no checklist específico.
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Relato dos Resultados do Storyboard "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Relato dos Resultados do Protótipo de Papel "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
 
 ### Checklist geral
 
-No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Relato dos Resultados do Storyboard "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" em relação ao checklist geral.
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Relato dos Resultados do Protótipo de Papel "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" em relação ao checklist geral.
 
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação checklist geral.</p>
@@ -197,7 +197,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 
 ### Checklist específico
 
-No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Relato dos Resultados do Storyboard "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" em relação ao checklist específico.
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Relato dos Resultados do Protótipo de Papel "Registrar reclamação"](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/)" em relação ao checklist específico.
 
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>

@@ -36,7 +36,7 @@ O integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-N
 
 ## Objetos de verificação
 
-Os artefatos serão verificados no dia 10/11/2023, e o detalhamento da verificação de cada artefato está disponível na tabela 1.
+Os artefatos serão verificados no dia 25/11/2023, e o detalhamento da verificação de cada artefato está disponível na tabela 1.
 
 <div align="center">
 <p><b>Tabela 2:</b> Cronograma de verificação da etapa 4.</p>
@@ -53,27 +53,27 @@ Os artefatos serão verificados no dia 10/11/2023, e o detalhamento da verifica�
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard/">Planejamento da Avaliação do Storyboard</a></td>
       <td>1.5</td>
-      <td>XX/11/2023</td>
+      <td>25/11/2023</td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento-relato_storyboard/">Planejamento do Relato dos Resultados da Avaliação do Storyboard</a></td>
       <td>1.2</td>
-      <td>XX/11/2023</td>
+      <td>25/11/2023</td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/storyboards/">Storyboards</a></td>
       <td>1.5</td>
-      <td>10/11/2023</td>
+      <td>25/11/2023</td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/">Planejamento da Avaliação da Análise de Tarefas</a></td>
       <td>1.4</td>
-      <td>XX/11/2023</td>
+      <td>25/11/2023</td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md">Planejamento do Relato dos Resultados da Análise de Tarefas</a></td>
       <td>1.3</td>
-      <td>XX/11/2023</td>
+      <td>25/11/2023</td>
     </tr>
   </tbody>
 </table>

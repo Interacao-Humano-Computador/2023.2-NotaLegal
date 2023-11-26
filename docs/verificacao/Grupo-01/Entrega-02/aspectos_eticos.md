@@ -133,6 +133,20 @@ gravação?</td>
 
 - Não foi possível identificar nenhum na execução do documento.
 
+## Gravação do Documento de Verificação "Aspectos Éticos"
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Aspectos Éticos" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=CQL7OOsfzjQ" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Aspectos Éticos".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CQL7OOsfzjQ" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+
+</div>
+
 ## Referências Bibliográficas
 
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.

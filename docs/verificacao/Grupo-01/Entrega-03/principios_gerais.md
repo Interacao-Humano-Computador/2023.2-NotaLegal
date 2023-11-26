@@ -3,17 +3,17 @@
 
 ## Introdução 
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Princípios Gerais]()" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.5 do documento, adicionada ao histórico de versões com a data 31/10/2023.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Princípios Gerais](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.9 do documento, adicionada ao histórico de versões com a data 20/10/2023.
 
 ## Objetivo
 
-O objetivo desta verificação é identificar possíveis problemas no artefato "[Princípios Gerais]()" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
+O objetivo desta verificação é identificar possíveis problemas no artefato "[Princípios Gerais](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
 
 ## Metodologia
 
 A metodologia seguida neste documento será a de inspeção por checklist, onde cada item do checklist será verificado e, caso seja identificado algum problema, o mesmo será registrado na seção de problemas encontrados. Ao todo, serão utilizados 2 checklists, sendo um checklist geral, que será aplicado em todos os artefatos, e um checklist específico, que será aplicado apenas no artefato em questão.
 
-A definição do método utilizado e o planejamento da verificação em questão foram definidos no documento de [Princípios Gerais]().
+A definição do método utilizado e o planejamento da verificação em questão foram definidos no documento de [Planejamento de Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1.md).
 
 ## Apresentação dos dados
 
@@ -21,7 +21,7 @@ Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist
 
 ### Checklist Geral
 
-Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Princípios Gerais]()" em relação ao checklist geral.
+Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Princípios Gerais](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md)" em relação ao checklist geral.
 
 
 <div align="center">
@@ -88,14 +88,38 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 </div>
 
 
-### Checklist Específico
+### Checklist de Princípios Gerais do Projeto
 
+<Center>
+
+**Tabela 5** - Checklist Princípios Gerais do Projeto.
+
+| ID  | Descrição                                                                                              | Avaliação |
+| --- | ------------------------------------------------------------------------------------------------------ | --------- | 
+| 01   | O artefato possui Introdução?                                                                         |    |
+| 02   | O artefato possui bibliografia?                                                                       |    |
+| 03   | O artefato possui um histórico de versões correto?                                                    |    |
+| 04   | Como os Princípios Gerais do Projeto serão aplicados no projeto?                                      |    |
+| 05   | Existe uma descrição para cada um desses princípios?                                                  |    |
+| 06   | Contém Alinhamento com as expectativas dos usuários?                                                  |    |
+| 07   | Contém Simplificação nas estruturas das tarefas?                                                      |    |
+| 08   | Contém Equilíbrio entre controle e liberdade do usuário?                                              |    |
+| 09   | Contém Consistência e padronização; promoção da eficiência do usuário?                                |    |
+| 10  | Contém Antecipação das necessidades do usuário?                                                        |    |
+| 11  | Contém Visibilidade e reconhecimento?                                                                  |    |
+| 12  | Contém Conteúdo relevante e expressão apropriada?                                                      |    |
+| 13  | Contém Design para lidar com erros?   |   |
+
+
+**Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
+
+</Center>
 
 
 
 ## Problemas encontrados
 
-Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Princípios Gerais]()".
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Princípios Gerais](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md)".
 
 ### Checklist Geral
 
@@ -107,11 +131,11 @@ Nenhum problema encontrado no checklist específico.
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Princípios Gerais]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Princípios Gerais](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
 
 ### Checklist geral
 
-No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Princípios Gerais]()" em relação ao checklist geral.
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Princípios Gerais](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md)" em relação ao checklist geral.
 
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Princípios Gerais" no checklist geral.</p>
@@ -123,7 +147,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 
 ### Checklist específico
 
-No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Princípios Gerais]()" em relação ao checklist específico.
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Princípios Gerais](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md)" em relação ao checklist específico.
 
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Princípios Gerais" no checklist específico.</p>
@@ -135,7 +159,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 </div>
 
 ## Bibliografia
-> Oliveira, Lucas. VIEIRA, Zenilda. [Principios Gerais](). FGA, 2023.
+> Oliveira, Lucas. VIEIRA, Zenilda. [Principios Gerais](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/principios-gerais.md). FGA, 2023.
 
 
 ## Histórico de Versões

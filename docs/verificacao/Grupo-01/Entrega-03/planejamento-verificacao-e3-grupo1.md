@@ -89,7 +89,7 @@ Nesta etapa, será definido um checklist de verificação geral, que deve ser ap
 
 Além disso, as observações devem ser registradas após a tabela, indicando o ID respectivo que gerou a observação.
 
-Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino da disciplina Interação Humano Computador [1], bem como na observação dos projetos dos semestres anteriores, e dos feedbacks dados pelos monitores e pelo Professor após as apresentações.
+Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino da disciplina Interação Humano Computador [1], bem como no checlist feito pelo grupo 08 mais especificamente da integrante [Millena Queiroz](https://github.com/millenaqueiroz), que foi a responsável por fazer o checklist dessa etapa do projeto.
 
 ### Checklist Geral
 

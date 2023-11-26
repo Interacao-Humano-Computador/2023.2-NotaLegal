@@ -518,82 +518,62 @@ Na tabela 8, estão listados os critérios que devem ser verificados no artefato
     </tr>
     <tr>
       <td>4</td>
-      <td>Existe uma proporção calculada para os usuários em cada perfil identificado?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>5</td>
       <td>Os usuários foram categorizados em grupos considerando idade, experiência, atitudes e tarefas primárias?</td>
       <td></td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>O perfil de usuário identifica características relevantes?</td>
       <td></td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>O perfil de usuário inclui informações sobre cargos ocupados pelos usuários?</td>
       <td></td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>O perfil de usuário inclui informações sobre as atitudes desempenhadas pelos usuários?</td>
       <td></td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>O perfil de usuário abrange informações sobre a experiência dos usuários?</td>
       <td></td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?</td>
       <td></td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>O perfil de usuário descreve as atividades principais dos usuários?</td>
       <td></td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>O perfil de usuário considera a faixa etária dos usuários?</td>
       <td></td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>O perfil de usuário avalia a relação dos usuários com a tecnologia?</td>
       <td></td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>O perfil de usuário considera a relação dos usuários com o domínio do produto?</td>
       <td></td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?</td>
       <td></td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>As características identificadas nos perfis foram priorizadas?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>Foi designada uma responsabilidade específica para a elaboração do questionário?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>Foi estabelecido um cronograma para a elaboração do questionário?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>Foi definido um prazo para o preenchimento do questionário?</td>
       <td></td>
     </tr>
   </tbody>

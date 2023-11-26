@@ -117,12 +117,12 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Personas 
     <td>Sim</td>
   </tr>
   <tr>
-    <td>04</td>
+    <td>05</td>
     <td>O elenco de personas e a razão da quantidade de personas é justificada?</td>
     <td>Não</td>
   </tr>
   <tr>
-    <td>05</td>
+    <td>06</td>
     <td>O projeto contém a anti-persona e persona primária?</td>
     <td>Sim</td>
   </tr>

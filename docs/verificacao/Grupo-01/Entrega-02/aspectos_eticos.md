@@ -135,7 +135,7 @@ gravação?</td>
 
 ## Bibliografia
 
-> NOTA LEGAL, [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/grupo_de_foco/), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
+> NOTA LEGAL, [Aspéticos Éticos](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/aspectos-eticos/), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
 
 ## Histórico de Versões
 

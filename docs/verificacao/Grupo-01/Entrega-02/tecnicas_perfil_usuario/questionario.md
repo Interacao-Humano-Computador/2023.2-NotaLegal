@@ -161,7 +161,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Question�
 
 ## Bibliografia
 
-> NOTA LEGAL, [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/grupo_de_foco/), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
+> NOTA LEGAL, [Questionário](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/questionario/), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
 
 ## Histórico de Versões
 

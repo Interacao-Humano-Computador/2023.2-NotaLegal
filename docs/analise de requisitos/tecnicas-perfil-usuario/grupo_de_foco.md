@@ -10,6 +10,8 @@ A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma
 
 [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Lucas Victor](https://github.com/Lucas13032003) recrutaram os usuários, enquanto [Lucas Ribeiro](https://github.com/lucassouzs) preparou o roteiro da entrevista. [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) também atuou como moderador da reunião. A documentação foi realizada por [Gabriel Zaranza](https://github.com/GZaranza), e o documento final do grupo de foco foi elaborado por [Gabriel Rosa](https://github.com/gabrielrosa09). Os usuários do grupo de foco incluíram [Lucas Victor](https://github.com/Lucas13032003), [Zenilda Vieira](https://github.com/zenildavieira), Alecsandra Ferreira Araújo Souza e Ana Cristina Ferreira de Araújo. Tudo isso está contido na tabela 1.
 
+A escolha de quatro pessoas para o grupo de foco do site Nota Legal  primeiramente, devido a diversidade de experiências que cada indivíduo traz pode ajudar a identificar uma variedade de problemas e oportunidades. Além disso, com um grupo menor, cada participante tem mais tempo para compartilhar suas opiniões e experiências, o que pode levar a uma discussão mais aprofundada e a insights mais detalhados. Grupos menores também são mais fáceis de gerenciar, o que pode resultar em uma discussão mais focada e produtiva. Por fim, os participantes podem se sentir mais confortáveis para compartilhar suas opiniões em grupos menores, o que pode levar a um feedback mais honesto e útil.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Participantes do Grupo de Foco</p></font>
 

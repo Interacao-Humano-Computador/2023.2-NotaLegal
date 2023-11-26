@@ -64,22 +64,22 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -96,16 +96,16 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 | ID  | Descrição                                                                                            | Avaliação |
 | --- | ---------------------------------------------------------------------------------------------------- | --------- | 
-| 14  | É mostrado quais metas de usabilidade foram utilizadas?                                              |   |
-| 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           |    |
-| 16  | As metas de usabilidade são explicadas?                                                             |    |
-| 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           |    |
-| 18  | É descrito como as metas serão avaliadas no projeto?                                                 |    |
-| 20  | São apresentadas questões condizentes com a meta de eficiência?                                      |    |
-| 22  | São apresentadas questões condizentes com a meta de segurança?                                       |    |
-| 23  | São apresentadas questões condizentes com a meta de utilidade?                                       |    |
-| 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    |    |
-| 25  | São apresentadas questões condizentes com a meta de memorabilidade?                                  |    |
+| 14  | É mostrado quais metas de usabilidade foram utilizadas?                                              | Sim  |
+| 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           | Sim   |
+| 16  | As metas de usabilidade são explicadas?                                                             |  Sim  |
+| 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           | Sim   |
+| 18  | É descrito como as metas serão avaliadas no projeto?                                                 |  Não  |
+| 20  | São apresentadas questões condizentes com a meta de eficiência?                                      |  Sim  |
+| 22  | São apresentadas questões condizentes com a meta de segurança?                                       |  Sim  |
+| 23  | São apresentadas questões condizentes com a meta de utilidade?                                       | Sim   |
+| 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    | Sim   |
+| 25  | São apresentadas questões condizentes com a meta de memorabilidade?                                  | Sim   |
 
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
@@ -124,7 +124,7 @@ Nenhum problema encontrado no checklist geral.
 
 ### Checklist Específico
 
-Nenhum problema encontrado no checklist específico.
+ID 18: O artefato não descreve como as metas serão utilizadas no projeto.
 
 ## Resultados
 

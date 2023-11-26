@@ -3,7 +3,7 @@
 
 ## Introdução 
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.5 do documento, adicionada ao histórico de versões com a data 31/10/2023.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Metas de Usabilidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/metas_de_usabilidade.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.2 do documento, adicionada ao histórico de versões com a data 16/10/2023.
 
 ## Objetivo
 

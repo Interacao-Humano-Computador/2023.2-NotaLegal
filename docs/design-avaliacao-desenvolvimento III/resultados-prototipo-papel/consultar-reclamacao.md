@@ -13,7 +13,7 @@ A avaliação adotou a metodologia de "simulação de uso", uma abordagem altame
 
 #### Recrutamento
 
-A participante escolhida para esta avaliação foi a Gisele R. de Souza, selecionado principalmente por atender ao perfil de usuário almejado. O recrutamento da participante foi conduzido de maneira eficaz por meio de abordagens online. Durante esse processo, foram detalhados os objetivos da pesquisa, o escopo da avaliação e os benefícios da participação, assegurando uma compreensão clara por parte dos participantes. Destacamos, também, a confidencialidade das informações coletadas e obtivemos o consentimento informado de cada participante antes de sua inclusão na pesquisa.
+A participante escolhida para esta avaliação foi a Ana Clara, selecionado principalmente por atender ao perfil de usuário almejado. O recrutamento da participante foi conduzido de maneira eficaz por meio de abordagens online. Durante esse processo, foram detalhados os objetivos da pesquisa, o escopo da avaliação e os benefícios da participação, assegurando uma compreensão clara por parte dos participantes. Destacamos, também, a confidencialidade das informações coletadas e obtivemos o consentimento informado de cada participante antes de sua inclusão na pesquisa.
 
 #### Preparação
 

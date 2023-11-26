@@ -35,47 +35,47 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
   </tbody>
 </table>
@@ -99,32 +99,32 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Personas 
   <tr>
     <td>01</td>
     <td>As personas foram definidas a partir dos dados do perfil do usuário?</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr>
     <td>02</td>
     <td>As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)?</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr>
     <td>03</td>
     <td>As personas apresentam as situações em que serão utilizadas?</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr>
     <td>04</td>
     <td>O elenco de personas tem entre 3 a 12 personas?</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr>
     <td>04</td>
     <td>O elenco de personas e a razão da quantidade de personas é justificada?</td>
-    <td></td>
+    <td>Não</td>
   </tr>
   <tr>
     <td>05</td>
     <td>O projeto contém a anti-persona e persona primária?</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
 </table>
 
@@ -135,7 +135,13 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Personas 
 
 ### Checklist geral
 
+- **ID-08**: As imagens deveriam conter a legenda e a fonte de maneira padronizada.
+
+- **ID-09**: As imagens deveriam conter a legenda e a fonte de maneira padronizada e devem ser referenciadas no texto.
+
 ### Checklist específico
+
+- **ID-05**: Não foi falado no texto o motivo da escolha da quantidade de personas.
 
 ## Referências Bibliográficas
 
@@ -143,7 +149,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Personas 
 
 ## Bibliografia
 
-> NOTA LEGAL, [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/grupo_de_foco/), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
+> NOTA LEGAL, [Personas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/personas/), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
 
 ## Histórico de Versões
 

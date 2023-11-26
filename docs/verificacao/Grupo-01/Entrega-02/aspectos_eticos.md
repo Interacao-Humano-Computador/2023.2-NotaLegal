@@ -35,47 +35,47 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -100,23 +100,23 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Aspectos 
       <td>01</td>
       <td> Considera aspectos Éticos de Pesquisas Envolvendo Pessoas?
 </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
-      <td>Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)</td>
-      <td></td>
+      <td>Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade) estão presentes?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a
+      <td>Aprensenta a solicitação para a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a
 gravação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
-      <td>O termo de consentimento livre e esclarecido dos participantes?</td>
-      <td></td>
+      <td>Possui o termo de consentimento livre e esclarecido dos participantes?</td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -127,7 +127,11 @@ gravação?</td>
 
 ### Checklist geral
 
+- Não foi possível identificar nenhum na execução do documento.
+
 ### Checklist específico
+
+- Não foi possível identificar nenhum na execução do documento.
 
 ## Referências Bibliográficas
 

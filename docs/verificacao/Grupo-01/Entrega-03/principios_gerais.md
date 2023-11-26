@@ -96,19 +96,19 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 | ID  | Descrição                                                                                              | Avaliação |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | 
-| 01   | O artefato possui Introdução?                                                                         |    |
-| 02   | O artefato possui bibliografia?                                                                       |    |
-| 03   | O artefato possui um histórico de versões correto?                                                    |    |
-| 04   | Como os Princípios Gerais do Projeto serão aplicados no projeto?                                      |    |
-| 05   | Existe uma descrição para cada um desses princípios?                                                  |    |
-| 06   | Contém Alinhamento com as expectativas dos usuários?                                                  |    |
-| 07   | Contém Simplificação nas estruturas das tarefas?                                                      |    |
-| 08   | Contém Equilíbrio entre controle e liberdade do usuário?                                              |    |
-| 09   | Contém Consistência e padronização; promoção da eficiência do usuário?                                |    |
-| 10  | Contém Antecipação das necessidades do usuário?                                                        |    |
-| 11  | Contém Visibilidade e reconhecimento?                                                                  |    |
-| 12  | Contém Conteúdo relevante e expressão apropriada?                                                      |    |
-| 13  | Contém Design para lidar com erros?   |   |
+| 01   | O artefato possui Introdução?                                                                         | Sim   |
+| 02   | O artefato possui bibliografia?                                                                       | Não se aplica   |
+| 03   | O artefato possui um histórico de versões correto?                                                    | Sim   |
+| 04   | Como os Princípios Gerais do Projeto serão aplicados no projeto?                                      | Sim   |
+| 05   | Existe uma descrição para cada um desses princípios?                                                  | Sim   |
+| 06   | Contém Alinhamento com as expectativas dos usuários?                                                  | Sim   |
+| 07   | Contém Simplificação nas estruturas das tarefas?                                                      | Sim   |
+| 08   | Contém Equilíbrio entre controle e liberdade do usuário?                                              | Sim   |
+| 09   | Contém Consistência e padronização; promoção da eficiência do usuário?                                | Sim   |
+| 10  | Contém Antecipação das necessidades do usuário?                                                        | Sim   |
+| 11  | Contém Visibilidade e reconhecimento?                                                                  | Sim   |
+| 12  | Contém Conteúdo relevante e expressão apropriada?                                                      | Sim   |
+| 13  | Contém Design para lidar com erros?   | Sim   |
 
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).

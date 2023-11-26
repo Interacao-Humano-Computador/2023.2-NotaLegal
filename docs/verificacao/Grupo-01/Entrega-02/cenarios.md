@@ -136,6 +136,20 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Cenários
 
 - Não foi possível identificar nenhum erro no documento.
 
+## Gravação do Documento de Verificação "Cenários"
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Cenários" do site do Nota Legal.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=aQziv489CCo" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Cenários".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQziv489CCo" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+
+</div>
+
 ## Referências Bibliográficas
 
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.

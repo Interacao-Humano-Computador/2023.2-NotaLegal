@@ -221,7 +221,7 @@ Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino
 
 ### Checklist Geral
 
-Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 2</p></font>
@@ -288,7 +288,7 @@ Na tabela 3, estão listados os critérios que devem ser verificados em todos os
 
 ### Checklist Específico para Aspectos Éticos
 
-Na tabela 4, estão listados os critérios que devem ser verificados no artefato "[Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/aspectos-eticos/)" do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/aspectos-eticos/).
+Na tabela 4, estão listados os critérios que devem ser verificados no artefato "[Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/aspectos-eticos/)" do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
 
 <div align="center">
 <p><b>Tabela 4:</b> Checklist de Verificação do artefato "Aspectos Éticos".</p>
@@ -328,7 +328,7 @@ gravação?</td>
 
 ### Checklist Específico para Termo de Consentimento Livre e Esclarecido
 
-Na tabela 5, estão listados os critérios que devem ser verificados no artefato "[Termo de Consentimento Livre e Esclarecido](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario/)" do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/aspectos-eticos/).
+Na tabela 5, estão listados os critérios que devem ser verificados no artefato "[Termo de Consentimento Livre e Esclarecido](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario/)" do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
 
 <div align="center">
 <p><b>Tabela 5:</b> Checklist de Verificação do artefato "Termo de Consentimento Livre e Esclarecido".</p>
@@ -376,6 +376,228 @@ Na tabela 5, estão listados os critérios que devem ser verificados no artefato
       <td></td>
     </tr>
   </table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+### Checklist Específico para Grupo de foco
+
+Na tabela 6, estão listados os critérios que devem ser verificados no artefato [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/grupo_de_foco/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato de Grupo de Foco</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Possui justificativa/referência para o número de participantes?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>A sessão possui modereador?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O moderador incentivou os participantes a falarem suas opiniões?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Foram definidos os tópicos a serem explorados nas sessões?</td>
+      <td></td>
+    </tr>
+   
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
+### Checklist Específico para Questionário
+
+Na tabela 7, estão listados os critérios que devem ser verificados no artefato [Questionário](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/questionario/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de Questionário</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>A introdução fornece uma visão geral clara do propósito do questionário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>A metodologia está claramente explicada, incluindo quando e como o questionário foi realizado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O número de participantes e a taxa de resposta estão claramente indicados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td> O termo de consentimento está claramente definido?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td> As perguntas do questionário são claras e relevantes para o objetivo da pesquisa?</td>
+      <td></td>
+    </tr>
+   <tr>
+      <td>6</td>
+      <td> Os resultados do questionário são apresentados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td> O questionário contém dados demográficos: idade, sexo, status socioeconômico, cargo que ocupa, educação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td> Experiência com um produto específico ou ferramentas semelhantes?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+### Checklist Específico para Perfil do Usuário
+
+Na tabela 8, estão listados os critérios que devem ser verificados no artefato [Perfil do Usuário](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/perfil_usuario/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para o artefato de Perfil do Usuário</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Foram utilizados estudos, como entrevistas ou questionários, para coletar dados para o perfil de usuário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os dados coletados foram agrupados por faixas e grupos nos quais os usuários se encaixam?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Foi elaborado um perfil de usuários com base nos dados agregados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Existe uma proporção calculada para os usuários em cada perfil identificado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Os usuários foram categorizados em grupos considerando idade, experiência, atitudes e tarefas primárias?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O perfil de usuário identifica características relevantes?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>O perfil de usuário inclui informações sobre cargos ocupados pelos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>O perfil de usuário inclui informações sobre as atitudes desempenhadas pelos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>O perfil de usuário abrange informações sobre a experiência dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>O perfil de usuário descreve as atividades principais dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>O perfil de usuário considera a faixa etária dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>O perfil de usuário avalia a relação dos usuários com a tecnologia?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>O perfil de usuário considera a relação dos usuários com o domínio do produto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>As características identificadas nos perfis foram priorizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Foi designada uma responsabilidade específica para a elaboração do questionário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Foi estabelecido um cronograma para a elaboração do questionário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Foi definido um prazo para o preenchimento do questionário?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
@@ -458,49 +680,6 @@ Na tabela 10, estão listados os critérios que devem ser verificados no artefat
     <tr>
       <td>2</td>
       <td>O cenário definido apresenta a motivação do usuário ?</td>
-      <td></td>
-    </tr>
-   
-  </tbody>
-</table>
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
-</div>
-
-### Checklist Específico para Grupo de foco
-
-Na tabela 11, estão listados os critérios que devem ser verificados no artefato [Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/GrupoDeFoco/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist para o artefato de Grupo de Foco</p></font>
-
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Possui justificativa/referência para o número de participantes?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>A sessão possui modereador?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>O moderador incentivou os participantes a falarem suas opiniões?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Foram definidos os tópicos a serem explorados nas sessões?</td>
       <td></td>
     </tr>
    

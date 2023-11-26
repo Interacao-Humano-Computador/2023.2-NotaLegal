@@ -3,7 +3,7 @@
 
 ## Introdução 
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Guia de Estilo](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/guia_de_estilo.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.5 do documento, adicionada ao histórico de versões com a data 31/10/2023.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Guia de Estilo](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/guia_de_estilo.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano Computador. A versão que será analisada será a versão 1.5 do documento, adicionada ao histórico de versões com a data 20/10/2023.
 
 ## Objetivo
 

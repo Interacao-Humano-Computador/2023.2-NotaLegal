@@ -35,47 +35,47 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -98,57 +98,57 @@ Na tabela 2, estão listados os critérios que devem ser verificados no Relato d
     <tr>
       <td>01</td>
       <td>O artefato descreve os objetivos da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato descreve o método empregado na avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato descreve as questões práticas da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato descreve as questões éticas da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>O artefato apresenta o participante selecionado? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>O artefato possui um cronograma executado da avaliação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>07</td>
       <td>O artefato possui uma gravação da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>08</td>
       <td>O artefato possui um tópico para análise dos resultados? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>09</td>
       <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>10</td>
       <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
   </table>
 
@@ -161,7 +161,11 @@ Na tabela 2, estão listados os critérios que devem ser verificados no Relato d
 
 ### Checklist geral
 
-- **ID 06:** 
+- **ID 07:** A tabela 2 não está sendo referencidada no texto.
+
+### Checklist específico
+
+- **ID 10:** 
 
 ## Referências Bibliográficas
 

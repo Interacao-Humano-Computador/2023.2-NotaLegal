@@ -1,4 +1,4 @@
-
+# Relato dos resultados da avaliação do Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação"
 
 ## Introdução
 Neste documento, relatamos os achados da análise do protótipo de alta fidelidade "Visualizar Recibo de Indicação". 
@@ -84,7 +84,7 @@ Usar modelo recomendado descrito na tabela 1:
   </tr>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
 ## Aspectos Éticos

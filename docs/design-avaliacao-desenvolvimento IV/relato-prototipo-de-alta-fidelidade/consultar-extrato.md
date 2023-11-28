@@ -1,7 +1,7 @@
 # Relato dos resultados da avaliação do Protótipo de Alta Fidelidade "Consultar Extrato"
 
 ## Introdução
-Neste relato, apresentaremos os resultados da avaliação do protótipo de alta fidelidade "Consultar Extrato". O objetivo da avaliação foi obter feedback dos usuários sobre a usabilidade, funcionalidades e interface do protótipo. Utilizamos uma metodologia que envolveu a realização de tarefas relacionadas à funcionalidade "Consultar Extrato", observação das interações dos usuários e registro de feedback verbal. Os resultados mostraram pontos positivos em relação à usabilidade, interface e funcionalidades do protótipo, bem como algumas sugestões de melhoria. Essas sugestões serão consideradas para fazer ajustes no protótipo e oferecer uma experiência ainda melhor aos usuários. Agradecemos a participação dos usuários na avaliação e valorizamos seu feedback, que é essencial para aprimorar o produto final e atender às necessidades dos usuários.
+Neste relato, apresentaremos os resultados da avaliação do protótipo de alta fidelidade "Consultar Extrato". O objetivo da avaliação foi obter feedback dos usuários sobre a usabilidade, funcionalidades e interface do protótipo. Utilizamos uma metodologia que envolveu a realização de tarefas relacionadas à funcionalidade "Consultar Extrato", observação das interações dos usuários e registro de feedback verbal. Os resultados mostraram pontos positivos em relação à usabilidade, interface e funcionalidades do protótipo, bem como algumas sugestões de melhoria. Essas sugestões serão consideradas para fazer ajustes no protótipo e oferecer uma experiência ainda melhor aos usuários. Agradecemos a participação dos usuários na avaliação e valorizamos seu feedback, que é essencial para aprimorar o produto final e atender às necessidades dos usuários. [1]
 
 ## Metodologia
 
@@ -44,7 +44,7 @@ No geral, a preparação da avaliação levou em consideração a disponibiliza�
 
 ### Cronograma Final
 
-Usar modelo recomendado descrito na tabela 1:
+Cronograma, final tabela 1.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da avaliação do protótipo de alta fidelidade.</p>
@@ -53,7 +53,7 @@ Usar modelo recomendado descrito na tabela 1:
   <tr>
     <th></th>
     <th>Avaliador</th>
-    <th>Entrevistado</th>
+    <th>Entrevistados</th>
     <th>Horário de Início</th>
     <th>Horário de Término</th>
     <th>Data</th>
@@ -61,8 +61,8 @@ Usar modelo recomendado descrito na tabela 1:
   </tr>
   <tr>
     <td>Cronograma Planejado</td>
-    <td>-</td>
-    <td>-</td>
+    <td>Lucas Víctor</td>
+    <td>Alecsandra</td>
     <td>00:00</td>
     <td>00:00</td>
     <td>00/00/2023</td>
@@ -70,11 +70,11 @@ Usar modelo recomendado descrito na tabela 1:
   </tr>
   <tr>
     <td>Cronograma Executado</td>
-    <td>-</td>
-    <td>-</td>
-    <td>00:00</td>
-    <td>00:00</td>
-    <td>00/00/2023</td>
+    <td>Lucas Víctor</td>
+    <td>Alecsandra e Elicélio</td>
+    <td>20:35</td>
+    <td>20:45</td>
+    <td>26/11/2023</td>
     <td>Presencial</td>
   </tr>
 </table>
@@ -88,30 +88,83 @@ Respeitar a privacidade dos participantes é essencial. Deve ser garantido no re
 
 ## Tarefa Executada
 
-Descrever a tarefa executada pelo participante, como descrito em [Tarefa Executada do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#tarefa-executada-pelo-participante)
+Durante a validação do protótipo de alta fidelidade da funcionalidade de consultar extrato no site Nota Legal, conduzimos uma sessão de teste com os usuários Alecsandra e Elicélio. Para garantir a transparência e a conformidade com as práticas éticas, apresentamos o termo de consentimento aos usuários antes de iniciar a sessão.
 
+Inicialmente, solicitamos que ambos os usuários utilizassem o site atual do Nota Legal para estabelecer uma base de comparação, considerando que são usuários frequentes da plataforma. Isso nos permitiu entender como eles atualmente interagem com o sistema e identificar possíveis pontos de melhoria.
+
+Em seguida, apresentamos a proposta de melhoria, que consiste no nosso protótipo de alta fidelidade com um novo design para o site, destacando a aprimorada forma de acessar a funcionalidade de consultar extratos. Os usuários, um de cada vez devido à disponibilidade de apenas um computador, realizaram atividades no protótipo, seguindo as instruções fornecidas.
+
+Durante a interação com o protótipo, observamos atentamente o comportamento e as ações dos usuários, registrando suas experiências e eventuais dificuldades encontradas. Também encorajamos os usuários a expressar seus pensamentos em voz alta, compartilhando suas opiniões e impressões sobre a usabilidade e a experiência geral.
+
+Após a interação com o protótipo, conduzimos uma sessão de perguntas para obter feedback valioso dos usuários. Perguntamos sobre sua percepção do novo design, a facilidade de encontrar e utilizar a funcionalidade de consultar extratos e qualquer outra observação ou sugestão que eles tivessem.
+
+Todos os dados coletados durante a sessão de teste foram tratados com confidencialidade e utilizados apenas para fins de análise e aprimoramento do protótipo. As identidades dos usuários foram protegidas, e seus nomes e informações pessoais não foram divulgados em nenhum relatório ou documento relacionado à avaliação.
+
+A participação ativa dos usuários Alecsandra e Elicélio contribuiu significativamente para a validação e refinamento do projeto. Seus insights e feedback foram essenciais para a consolidação de dados e a contínua melhoria da usabilidade do site Nota Legal. Agradecemos a eles por sua participação e contribuição neste processo.
 ## Apresentação dos Dados
 
-Transcrever perguntas, respostas, vídeos demais dados coletados como descrito em [Avaliação e Apresentação dos Dados do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#apresenta%C3%A7%C3%A3o-dos-dados).
+Após a validação do protótipo de alta fidelidade para a funcionalidade de consulta de extrato, compilamos dados e feedback valiosos dos usuários:
+
+Os usuários expressaram grande satisfação com a proposta de melhoria, destacando que a consulta de extrato tornou-se mais intuitiva no novo design do site.
+
+Elicélio enfatizou a significativa melhoria na seleção de ícones para as funcionalidades, proporcionando uma compreensão mais clara e uma identificação mais fácil das ações a serem realizadas.
+
+Ambos os usuários elogiaram o novo design proposto pelo grupo, considerando-o mais moderno, atrativo e intuitivo.
+
+Durante a observação, notamos que os usuários enfrentaram alguma dificuldade em localizar o botão de retorno à tela inicial. Embora seja possível retornar de maneira eficaz, recomendamos tornar o botão de início mais proeminente para facilitar a navegação.
+
+Com base nos dados e feedback coletados, podemos concluir que a proposta de melhoria foi bem recebida pelos usuários. As alterações no design e na usabilidade foram percebidas como positivas, contribuindo para uma experiência mais satisfatória ao consultar extratos. Agradecemos aos usuários por sua participação ativa e valiosas contribuições para o aprimoramento do protótipo.
+
+### Vídeo validação  do Protótipo de Alta Fidelidade "Consultar Extrato"
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/HniMb38CUa4" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Consultar Extrato".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HniMb38CUa4?si=_67iWMZ1F8NThans" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
+
 
 ## Problemas Encontrados
 
-Descrever uma lista de problemas encontrados, como descrito em [Problemas Encontrados do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#problemas-encontrados).
+Durante a validação do protótipo de alta fidelidade da funcionalidade de consulta de extrato, foi observado que os usuários enfrentaram principalmente dificuldade em voltar para a tela inicial do site. Embora seja possível voltar à tela inicial de forma eficaz, alguns usuários não conseguiram identificar claramente a opção ou botão para realizar essa ação.
 
-## Cronograma de Correções
+Essa dificuldade pode ser atribuída à falta de destaque ou visibilidade do botão de início na interface do usuário. Para melhorar a usabilidade do site, é recomendado tornar o botão de início mais evidente, por meio de um posicionamento estratégico e do uso de elementos visuais que chamem a atenção dos usuários.
 
-Descrever um cronograma para as correções necessárias, como descrito em [Cronograma de Correções do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#cronograma-de-corre%C3%A7%C3%B5es).
+Ao abordar essa questão, será possível oferecer uma experiência de navegação mais intuitiva e fácil, permitindo que os usuários retornem à tela inicial de forma clara e sem esforço adicional. Essa melhoria proporcionará uma melhor usabilidade e satisfação geral aos usuários que utilizam a funcionalidade de consulta de extrato no site do Nota Legal.
 
 ## Planejamento para o Reprojeto do Sistema
 
 Com base nos resultados da avaliação e nos problemas identificados, será elaborado um plano de reprojeto do sistema. Esse plano incluirá as melhorias a serem implementadas, considerando as sugestões dos usuários e os objetivos do projeto.
+
+## Cronograma de Correções
+
+Cronograma de correção, tabela 2.
+
+<div align="center">
+<p><b>Tabela 2 -</b> Cronograma de correção do protótipo de alta fidelidade.</p>
+
+<table>
+  <tr>
+    <th>Corretor</th>
+    <th>Data</th>
+  </tr>
+  <tr>
+    <td> Lucas Víctor </td>
+    <td> 29/11/2023 </td>
+</table>    
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
 
 ## Referência:
 [1] Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano-Computador. Elsevier.
 
 ## Bibliografia
 
-> .
+> Planejamento de relato dos resultados do prototipo alta fidelidade < https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#cronograma-de-corre%C3%A7%C3%B5es >.
 >
 
 ## Histórico de Versão
@@ -119,3 +172,4 @@ Com base nos resultados da avaliação e nos problemas identificados, será elab
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 24/11/2023 | Criação do documento  |   <a href="https://github.com/Lucas13032003">Lucas Víctor</a>   | <a href="https://github.com/">Lucas Oliveira</a> |
+| `1.1`  | 28/11/2023 | Avaliaçaõ do documento  |   <a href="https://github.com/Lucas13032003">Lucas Víctor</a>   | <a href="https://github.com/">Lucas Oliveira</a> |

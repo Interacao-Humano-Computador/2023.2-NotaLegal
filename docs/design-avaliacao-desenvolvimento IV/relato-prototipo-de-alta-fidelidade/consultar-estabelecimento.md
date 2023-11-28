@@ -73,6 +73,16 @@ Durante a avaliação, a tarefa executada pelo usuário foi a de consultar esteb
 
 No vídeo 1, é possível ver a simulação de uso da tarefa "consultar estabelecimento".
 
+<div align="center">
+  
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=f9TXHqYhO7Y" target="blanket"><b>Vídeo 1:</b> Avaliação do protótipo de alta fidelidade da tarefa "Consultar Estabelecimento".</a></p>
+
+<iframe width="560" height="315" src="https://youtu.be/mhJp96dLWok" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Izabella Alves</a>, 2023</p></font>
+
+</div>
 
 Na tabela 2, é possível ver as respostas da avaliadora sobre a tarefa "consultar estabelecimento" após a simulação de uso feita pelo usuário.
 
@@ -91,54 +101,54 @@ Na tabela 2, é possível ver as respostas da avaliadora sobre a tarefa "consult
     <td>1</td>
     <td>O usuário consegue operar o sistema?</td>
     <td>Fechada</td>
-    <td>Sim </br>Não</br></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>2</td>
     <td>O usuário atingiu seu objetivo?</td>
     <td>Fechada</td>
-    <td>Sim </br>Não</br></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>3</td>
     <td>Caso a resposta anterior seja não, que problemas de IHC dificultaram ou impediram o usuário de alcançar seu objetivo?</td>
     <td>Aberta</td>
-    <td>Resposta Discursiva</td>
+    <td>-</td>
   </tr>
   <tr align="center">
     <td>4</td>
     <td>Quais barreiras o usuário encontrou para atingir seus objetivos?</td>
     <td>Aberta</td>
-    <td>Resposta Discursiva</td>
+    <td>O usuário não encontrou nenhuma barreira.</td>
   </tr>
   <tr align="center">
     <td>5</td>
-    <td>Onde esses problemas se manidestaram e quais são as suas gravidades?</td>
+    <td>Onde esses problemas se manifestaram e quais são as suas gravidades?</td>
     <td>Aberta</td>
-    <td>Resposta Discursiva</td>
+    <td>Nenhum problema manifestado.</td>
   </tr>
   <tr align="center">
     <td>6</td>
     <td>Caso o usuário conseguiu atingir o seu objetivo, em quanto tempo e aṕos quantos erros ele realizou a tarefa ?</td>
     <td>Aberta</td>
-    <td>Resposta discursiva</td>
+    <td>O usuário conseguiu realizar a tarefa em 1 minuto e nenhum erro foi realizado.</td>
   </tr>
   <tr align="center">
     <td>7</td>
     <td>Qual parte da interface ou da interação o usuário ficou se sentiu insastifeito?</td>
     <td>Aberta</td>
-    <td>Resposta discursiva</td>
+    <td>Nenhuma.</td>
   <tr align="center">
     <td>8</td>
     <td>O usuário entendeu o que significa e para que serve cada elemento de interface?</td>
     <td>Fechada</td>
-    <td>Sim </br>Não</br></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>9</td>
     <td>Caso a resposta anterior seja não, quais foram os elementos e o que o usuário não entedeu?</td>
     <td>Aberta</td>
-    <td>Resposta Discursiva</td>
+    <td>-</td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>
@@ -146,12 +156,11 @@ Na tabela 2, é possível ver as respostas da avaliadora sobre a tarefa "consult
   
 ## Problemas Encontrados
 
-Descrever uma lista de problemas encontrados, como descrito em [Problemas Encontrados do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#problemas-encontrados).
+No geral, nenhum problema foi encontrado durante a simulação de uso. Os bons resultados nesta atividade se dão principalmente pelas etapas anteriores, como o protótipo de baixa fidelidade, onde a ideia inicial de como seria a interface foi avaliada e corrigida após a sugestão do participante. 
 
 ## Cronograma de Correções
 
-Descrever um cronograma para as correções necessárias, como descrito em [Cronograma de Correções do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#cronograma-de-corre%C3%A7%C3%B5es).
-
+De acordo com a avaliação realizada, não se vê motivos para realizar uma correção visto que a tarefa foi bem realizada pelo usuário e o mesmo não encontrou nenhuma dificuldade.
 
 ## Bibliografia
 

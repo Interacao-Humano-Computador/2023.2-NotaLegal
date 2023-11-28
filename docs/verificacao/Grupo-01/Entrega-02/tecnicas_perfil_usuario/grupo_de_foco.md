@@ -141,6 +141,35 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Grupo de 
 
 - Não foi possível identificar nenhum erro no documento.
 
+## Resultados
+
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/grupo_de_foco/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
+
+### Checklist geral
+
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/grupo_de_foco/)" em relação ao checklist geral.
+
+<div align="center">
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Grupo de Foco" no checklist geral.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_rosa/Geral/Geral%20-%20Grupo%20de%20Foco.png" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+</div>
+
+### Checklist específico
+
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Grupo de Foco](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/grupo_de_foco/)" em relação ao checklist específico.
+
+<div align="center">
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Grupo de Foco" no checklist específico.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_rosa/Específico/Específico%20-%20Grupo%20de%20Foco.png" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+
+</div>
+
 ## Referências Bibliográficas
 
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.

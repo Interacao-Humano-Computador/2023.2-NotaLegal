@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[Questionário](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/questionario/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano-Computador. Será analisada a versão 1.1 do documento, de 25/10/2023, feito por [Zenilda Vieira](https://github.com/zenildavieira).
+Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[TCLE](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano-Computador. Será analisada a versão 1.1 do documento, de 25/10/2023, feito por [Zenilda Vieira](https://github.com/zenildavieira).
 
 ## Metodologia
 
@@ -146,6 +146,35 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Termo de 
 ### Checklist específico
 
 - Não foi possível identificar nenhum erro no documento.
+
+## Resultados
+
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/aspectos-eticos/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
+
+### Checklist geral
+
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[TCLE](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario/)" em relação ao checklist geral.
+
+<div align="center">
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "TCLE" no checklist geral.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_rosa/Geral/Geral%20-%20TCLE.png" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+</div>
+
+### Checklist específico
+
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[TCLE](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario/)" em relação ao checklist específico.
+
+<div align="center">
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "TCLE" no checklist específico.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_rosa/Específico/Especifico%20-%20TCLE.png" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+
+</div>
 
 ## Referências Bibliográficas
 

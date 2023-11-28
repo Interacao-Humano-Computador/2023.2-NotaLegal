@@ -162,17 +162,40 @@ A tabela 2 mostra as perguntas que foram respondidas pelo avaliador após o proc
     <td>Não se aplica</td>
   </tr>
 </table>
-<font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+<font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
 </div>
 
 ## Problemas Encontrados
 
-Descrever uma lista de problemas encontrados, como descrito em [Problemas Encontrados do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#problemas-encontrados).
+Em geral não foram encontrado problemas graves na interação do participante com o protótipo, um detalhe observado foi a interação do usuário com o botão desbloquear saldo na página que mostra as notas fiscais que tiveram seu saldo desbloqueado. O tamanho pequeno e o formato do botão, que é de um texto com hiperlink, dificulta a percepção do usuário que aquilo é um botão. A localização do elemento também não é adequada, em situações em que há vários documentos listados na página, o botão ficará fora da visão do usuário.
 
 ## Cronograma de Correções
 
-Descrever um cronograma para as correções necessárias, como descrito em [Cronograma de Correções do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#cronograma-de-corre%C3%A7%C3%B5es).
+A tabela 3 mostra o cronograma de correções do protótipo de alta fidelidade, baseado na avaliação do mesmo.
 
+<div align="center">
+<p><b>Tabela 3 -</b> Cronograma de correção da avaliação do protótipo de alta fidelidade.</p>
+  
+<table>
+  <tr>
+    <th></th>
+    <th>Problema</th>
+    <th>Ação a Ser Tomada</th>
+    <th>Responsável</th>
+    <th>Data da Correção</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Botão de redirecionar o usuário para o site da SEFAZ-DF com formato ruim e mal localizado</td>
+    <td>Mudar o formato do botão e coloca-lo ao lado da lista de notas fiscais</td>
+    <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    <td>30/11/2023</td>
+  </tr>
+</table>
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
 
 ## Bibliografia
 

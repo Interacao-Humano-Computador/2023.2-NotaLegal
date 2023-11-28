@@ -65,7 +65,7 @@ Usar modelo recomendado descrito na tabela 1:
   </tr>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Aspectos Éticos
@@ -92,19 +92,21 @@ Foi pedido ao usuário que navegasse e explorasse as diferentes telas do protót
 
 ## Problemas Encontrados
 
-Ao acessar a página de resultado de sorteio do protótipo de alta fidelidade, o usuário 
+Ao acessar a página de resultado de sorteio do protótipo de alta fidelidade, o usuário teve uma certa dificuldade em encontrar a informação de qual foi o último sorteio realizado. Ela afirmou que as abas "Em andamento" e "Finalizados" poderiam seguir outra nomenclatura, pois o último sorteio consta na aba "Em andamento" sendo que ele já foi realizado. Ela sugeriu que renomeá-los para algo do tipo "Ainda não sorteados", "Já sorteados", "Sorteados e Finalizados". Na tela de informação de um sorteio específico: "Data" poderia ser "Data que foi realizado o sorteio", "Habilitado: habilitado" trocado por "Habilitado: Sim" e melhor esclarecido: habilitado em quê?. "Data para contestação" precisaria ser melhor explicado o que é possível contestar, porque a data é anterior à data de realização do sorteio. O termo "Premiado: não" gera uma certa ambiguidade: o usuário não foi premiado ou ninguém foi premiado? Dessa forma a usuária sugeriu que os termos fosse trocados por palavras mais claras e diretas, mais significativas. E se não fosse possível, que fosse colocado um pop-up de ajuda ao passar o mouse sobre o termo, ou um ícone ? para se clicar, por exemplo.
 
-## Cronograma de Correções
-
-
+Com o resultado dessa avaliação do protótipo de papel, utilizaremos essas ideias sugeridas pela entrevistada para a criação de um novo design para a tarefa de "consultar o resultado do sorteio" em um protótipo de alta fidelidade para a próxima entrega.
 
 ## Bibliografia
 
-> .
+> ROSA, Gabriel; RIBEIRO, Lucas. [Planejamento da Avaliação do Protótipo de Alta](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_avaliacao_prototipo_papel.md). Disciplina de IHC, FGA, Gama, 2023.
+>
+> ALVES, Izabella; ZARANZA, Gabriel; VIEIRA, Zenilda. [Planejamento do Relato da Avaliação do Protótipo de Alta](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel.md). Disciplina de IHC, FGA, Gama, 2023.
+>
+> ALVES, Izabella; VIEIRA, Zenilda. [Modelo do Relato da Avaliação do Protótipo de Alta](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/modelo-relato-prototipo-papel.md). Disciplina de IHC, FGA, Gama, 2023.
 >
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
-| `1.0`  | xx/xx/xxxx |  |      |  |
+| `1.0`  | 28/11/2023 | Criação do documento | [Zenilda Vieira](https://github.com/zenildavieira) | [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |

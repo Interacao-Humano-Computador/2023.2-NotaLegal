@@ -86,7 +86,7 @@ No vídeo 1, é possível ver a gravação da avaliação do protótipo de alta 
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=f9TXHqYhO7Y" target="blanket"><b>Vídeo 1:</b> Avaliação do Storyboard "Desbloquear saldo".</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=f9TXHqYhO7Y" target="blanket"><b>Vídeo 1:</b> Avaliação do protótipo de alta fidelidade da tarefa "Desbloquear saldo".</a></p>
 
 <iframe width="560" height="315" src="https://youtu.be/DM2pf1TvwI8" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

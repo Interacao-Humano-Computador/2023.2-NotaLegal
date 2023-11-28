@@ -1,37 +1,32 @@
-# Relato dos resultados da avaliação do Protótipo de Alta Fidelidade "titulo do PAF"
+# Relato dos resultados da avaliação do Protótipo de Alta Fidelidade "Consultar Sorteio"
 
 ## Introdução
-Breve introdução do escopo do documento, especificando os objetivos gerais da avaliação, como especificado em [Objetivos Gerais do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#objetivos-da-avalia%C3%A7%C3%A3o).
+
+Esse documento apresenta os resultados da avaliação do protótipo de alta fidelidade da tarefa "Consultar sorteio" do site Nota Legal. O objetivo dessa avaliação é é coletar informações dos interessados, principalmente dos usuários, sobre suas interações com o sistema Nota Legal.
 
 ## Metodologia
 
-Descrição dos métodos empregados de acordo com [Métodos Empregados na Avaliação do documento de planejamento de relato dos resultados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#m%C3%A9todos-empregados-na-avalia%C3%A7%C3%A3o).
+A metodologia utilizada nessa avaliação é teste de usabilidade. Pede-se ao usuário que simule a realização de uma tarefa específica, nesse caso, a consulta do último sorteio realizado no site Nota Legal. Durante a simulação o usuário é orientado a usar a técnica _Think aloud_, falando tudo que ele está fazendo e pensando em voz alta. São feitas perguntas ao usuário sobre a usabilidade do site na tarefa em questão e sobre sugestões de melhoria que ele possa ter.
 
 ## Aspectos Práticos da Avaliação
 
-Descrever os aspectos práticos como descrito em [Aspectos Práticos da Avaliação do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#aspectos-pr%C3%A1ticos-da-avalia%C3%A7%C3%A3o)
-
 ### Recrutamento
 
-Usar modelo recomendado:
+A seleção do participante foi cuidadosamente conduzida com base no alinhamento aos critérios do perfil de usuário estabelecido no perfil de usuário. Os critérios específicos para a seleção foram idade entre 46 e 60 anos, atitude tecnófila, experiência em tecnologia de média a alta e ter como tarefa primária a realização de indicação de recebimento de créditos do programa Nota legal.
 
-A seleção dos participantes foi cuidadosamente conduzida com base no alinhamento aos critérios do perfil de usuário estabelecido no perfil de usuário. Os critérios específicos para a seleção foram [detalhar os critérios, por exemplo: experiência em determinada área, faixa etária, conhecimento técnico, etc.].
+Para o recrutamento do participante dessa tarefa, empregamos a abordagem direta ao usuário, garantindo que fosse a mais eficaz possível. Durante a abordagem, explicamos os objetivos da pesquisa, o escopo da avaliação e os benefícios da participação, a fim de garantir um entendimento claro por parte do participante. Adicionalmente, enfatizamos a confidencialidade das informações coletadas e obtivemos o consentimento informado antes de sua inclusão na pesquisa.
 
-Para o recrutamento dos participantes, empregamos [descrever a metodologia de recrutamento, por exemplo: redes sociais, fóruns específicos, e-mails diretos], garantindo que a abordagem fosse a mais eficaz possível. Durante a abordagem, explicamos os objetivos da pesquisa, o escopo da avaliação e os benefícios da participação, a fim de garantir um entendimento claro por parte dos participantes. Adicionalmente, enfatizamos a confidencialidade das informações coletadas e obtivemos o consentimento informado de cada participante antes de sua inclusão na pesquisa.
+Com base no levantado na etapa inicial do projeto, o usuário João Lucas foi escolhida para participar dessa avaliação. Apesar dele ter 28 anos, um pouco fora da faixa etária do perfil do usuário que foi traçado, ele foi escolhido por atender os demais critérios de seleção. Ele é do sexo masculino, tem experiência com tecnologia e sua principal tarefa no Site do Nota Legal é a indicação de recebimento dos créditos. Foi agendado com ele um encontro presencial, no dia 25/11/23 às 10h, conforme o cronograma planejado. Porém, devido a um imprevisto, a entrevista foi adiada para o dia 27/11/23 e foi realizada às 20h desse dia. Na tabela 1, no tópico Aspectos Práticos - Prazos é possível verificar o cronograma planejado e o executado da entrevista.
 
 ### Preparação
-Usar modelo recomendado:
 
 A avaliação do protótipo de alta fidelidade foi cuidadosamente planejada e preparada para garantir a eficácia do processo. Durante a preparação, foram considerados vários aspectos, incluindo os recursos necessários, materiais utilizados e o local de avaliação.
 
-Para a criação de um ambiente adequado, a avaliação foi realizada em [descrição do ambiente], escolhida para proporcionar um ambiente tranquilo e propício à interação entre os participantes e a equipe de avaliação. Além disso, garantimos que houvesse acesso à eletricidade para manter os equipamentos carregados e em funcionamento durante as sessões.
+Para a criação de um ambiente adequado, a avaliação foi realizada em um ambiente isolado e bem iluminado, escolhido para proporcionar um ambiente tranquilo e propício à interação entre o participante e o entrevistador. Além disso, garantimos que houvesse acesso à eletricidade para manter os equipamentos carregados e em funcionamento durante as sessões.
 
-Em relação aos materiais, os protótipos de alta fidelidade foram apresentados em notebooks, proporcionando uma experiência próxima à de um aplicativo real. Para permitir que o participante executasse a tarefa corretamente, as instruções foram passadas a ele de forma verbal e de forma escrita.
+Em relação aos materiais, o protótipos de alta fidelidade foi feito utilizando o aplicativo  figma, proporcionando uma experiência próxima à de um aplicativo real. Para realizar a simulação de uso foram usadas três câmeras para gravar a simulação, a primeira com foco no usuário, a segunda com foco no entrevistador e a terceira com foco no ambiente.
 
-A avaliação ocorreu na [local da avaliação], que foi preparada previamente com mesas e cadeiras, proporcionando conforto tanto para o participante quanto para o avaliador. A escolha deste ambiente também garantiu a privacidade necessária para as sessões e minimizou distrações externas.
-
-Além disso, a equipe de avaliação chegou com antecedência para configurar os equipamentos, garantindo que tudo estivesse pronto para o início das sessões.
-
+A avaliação ocorreu na residência do entrevistado, que foi preparada previamente com mesas e cadeiras, proporcionando conforto tanto para o participante quanto para o avaliador. A escolha deste ambiente também garantiu a privacidade necessária para as sessões e minimizou distrações externas. Além disso, a entrevistadora chegou com antecedência para configurar os equipamentos, garantindo que tudo estivesse pronto para o início da sessão.
 
 ### Cronograma Final
 
@@ -52,21 +47,21 @@ Usar modelo recomendado descrito na tabela 1:
   </tr>
   <tr>
     <td>Cronograma Planejado</td>
-    <td>-</td>
-    <td>-</td>
-    <td>00:00</td>
-    <td>00:00</td>
-    <td>00/00/2023</td>
-    <td>Presencial</td>
+            <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+            <td>João Lucas</td>
+            <td>10:00</td>
+            <td>10:15</td>
+            <td>25/11/2023</td>
+            <td>presencial</td>
   </tr>
   <tr>
     <td>Cronograma Executado</td>
-    <td>-</td>
-    <td>-</td>
-    <td>00:00</td>
-    <td>00:00</td>
-    <td>00/00/2023</td>
-    <td>Presencial</td>
+            <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+            <td>João Lucas</td>
+            <td>20:00</td>
+            <td>20:25</td>
+            <td>27/11/2023</td>
+            <td>presencial</td>
   </tr>
 </table>
 
@@ -75,23 +70,32 @@ Usar modelo recomendado descrito na tabela 1:
 
 ## Aspectos Éticos
 
-Descrever os aspectos éticos como descrito em [Aspectos Éticos do documento de planejamento de relato dos resultados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#aspectos-%C3%A9ticos-da-avalia%C3%A7%C3%A3o).
+No início da entrevista, o [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_avaliacao_prototipo_papel.md#d---decidir-como-lidar-com-as-quest%C3%B5es-%C3%A9ticas) que consta no planejamento dessa avaliação foi lido para a entrevistada e explicado em detalhes. Após o seu consentimento, deu-se início a explicação sobre a técnica de prototipação de papel e depois a simulação de uso foi realizada.
+
 
 ## Tarefa Executada
 
-Descrever a tarefa executada pelo participante, como descrito em [Tarefa Executada do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#tarefa-executada-pelo-participante)
+Foi pedido ao usuário que navegasse e explorasse as diferentes telas do protótipo relacionadas à funcionalidade "consultar sorteio". Em determinado momento, foi pedido que ele executasse tarefas específicas. Os comentários e os _feedbacks_ foram anotados e podem ser lidos mais adiante no tópico problemas encontrados. O usuário fezx comentários
 
 ## Apresentação dos Dados
 
-Transcrever perguntas, respostas, vídeos demais dados coletados como descrito em [Avaliação e Apresentação dos Dados do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#apresenta%C3%A7%C3%A3o-dos-dados).
+#### Vídeo da simulação de uso
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=https://youtu.be/njfyFXYthcw" target="blanket"><b>Vídeo 1:</b> teste de usabilidade - Avaliação do Protótipo de Alta Fidelidade "Consultar resultado de sorteio"</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/njfyFXYthcw" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
 ## Problemas Encontrados
 
-Descrever uma lista de problemas encontrados, como descrito em [Problemas Encontrados do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#problemas-encontrados).
+Ao acessar a página de resultado de sorteio do protótipo de alta fidelidade, o usuário 
 
 ## Cronograma de Correções
 
-Descrever um cronograma para as correções necessárias, como descrito em [Cronograma de Correções do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#cronograma-de-corre%C3%A7%C3%B5es).
 
 
 ## Bibliografia

@@ -29,7 +29,7 @@ Para testar o protótipo, empregamos uma abordagem orientada a tarefas. Os parti
 Nesta seção, descreveremos os aspectos práticos da avaliação do protótipo de alta fidelidade "Visualizar Recibo de Indicação".
 
 ### Recrutamento
-Selecionamos X usuários para avaliar o protótipo, de acordo com critérios de perfil que correspondem ao público-alvo do sistema. Buscamos diversificar os usuários em termos de experiência com sistemas similares e de características demográficas.
+Selecionamos 3 usuários para avaliar o protótipo, de acordo com critérios de perfil que correspondem ao público-alvo do sistema. Buscamos diversificar os usuários em termos de experiência com sistemas similares e de características demográficas.
 
 Para atrair os participantes, fizemos convites diretos pessoalmente. Abordamos indivíduos que se adequavam ao perfil desejado e os informamos sobre os propósitos da pesquisa e os convidamos a avaliar o protótipo "Visualizar Recibo de Indicação". Essa abordagem nos possibilitou ter uma interação mais direta com os possíveis participantes e fornecer esclarecimentos detalhados sobre o estudo.
 ### Preparação
@@ -66,20 +66,105 @@ Usar modelo recomendado descrito na tabela 1:
   </tr>
   <tr>
     <td>Cronograma Planejado</td>
-    <td>-</td>
-    <td>-</td>
-    <td>00:00</td>
-    <td>00:00</td>
-    <td>00/00/2023</td>
+    <td>Lucas de Oliveira</td>
+    <td>Francilene Oliveira</td>
+    <td>17:00</td>
+    <td>17:15</td>
+    <td>26/11/2023</td>
     <td>Presencial</td>
   </tr>
   <tr>
     <td>Cronograma Executado</td>
-    <td>-</td>
-    <td>-</td>
-    <td>00:00</td>
-    <td>00:00</td>
-    <td>00/00/2023</td>
+    <td>Lucas de Oliveira</td>
+    <td>Francilene Oliveira</td>
+    <td>18:00</td>
+    <td>18:25</td>
+    <td>26/11/2023</td>
+    <td>Presencial</td>
+  </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
+
+
+
+### Cronograma Final
+
+Usar modelo recomendado descrito na tabela 2:
+
+<div align="center">
+<p><b>Tabela 2 -</b> Cronograma planejado e executado da avaliação do protótipo de alta fidelidade.</p>
+  
+  <table>
+  <tr>
+    <th></th>
+    <th>Avaliador</th>
+    <th>Entrevistado</th>
+    <th>Horário de Início</th>
+    <th>Horário de Término</th>
+    <th>Data</th>
+    <th>Local</th>
+  </tr>
+  <tr>
+    <td>Cronograma Planejado</td>
+    <td>Lucas de Oliveira</td>
+    <td>Francinete Dias</td>
+    <td>10:00</td>
+    <td>10:15</td>
+    <td>27/11/2023</td>
+    <td>Presencial</td>
+  </tr>
+  <tr>
+    <td>Cronograma Executado</td>
+    <td>Lucas de Oliveira</td>
+    <td>Francinete Dias</td>
+    <td>19:00</td>
+    <td>19:15</td>
+    <td>27/11/2023</td>
+    <td>Presencial</td>
+  </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
+
+
+
+
+### Cronograma Final
+
+Usar modelo recomendado descrito na tabela 3:
+
+<div align="center">
+<p><b>Tabela 3 -</b> Cronograma planejado e executado da avaliação do protótipo de alta fidelidade.</p>
+  
+  <table>
+  <tr>
+    <th></th>
+    <th>Avaliador</th>
+    <th>Entrevistado</th>
+    <th>Horário de Início</th>
+    <th>Horário de Término</th>
+    <th>Data</th>
+    <th>Local</th>
+  </tr>
+  <tr>
+    <td>Cronograma Planejado</td>
+    <td>Lucas de Oliveira</td>
+    <td>Francineide Dias Pontes</td>
+    <td>18:00</td>
+    <td>18:15</td>
+    <td>28/11/2023</td>
+    <td>Presencial</td>
+  </tr>
+  <tr>
+    <td>Cronograma Executado</td>
+    <td>Lucas de Oliveira</td>
+    <td>Francineide Dias Pontes</td>
+    <td>18:00</td>
+    <td>18:17</td>
+    <td>28/11/2023</td>
     <td>Presencial</td>
   </tr>
 </table>
@@ -92,23 +177,57 @@ Usar modelo recomendado descrito na tabela 1:
 Preservar a intimidade dos envolvidos é fundamental. Deve-se assegurar no relatório que as identidades dos entrevistados e suas opiniões não serão expostas publicamente, resguardando assim sua confidencialidade. É imprescindível obter o consentimento dos envolvidos, esclarecendo-os sobre o objetivo da avaliação e como seus dados serão utilizados. Ao seguir essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso. No relatório dos resultados da avaliação é preciso explicar como foi feita essa solicitação de consentimento e se o entrevistado concordou ou não.
 ## Tarefa Executada
 
-Descrever a tarefa executada pelo participante, como descrito em [Tarefa Executada do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#tarefa-executada-pelo-participante)
+No teste de usabilidade do protótipo de papel, o participante foi apresentado ao protótipo que simula a interface do nosso sistema. A tarefa designada era "visualizar recibo de indicação", que envolve a visualização de um recibo de uma indicação feita anteriormente. Para isso, o participante iniciou a tarefa acessando a seção de indicações no protótipo. Em seguida, selecionou uma indicação específica da lista de indicações disponíveis. Após a seleção, foi aberto uma aba na tela que exibe os detalhes da indicação, incluindo o recibo. Finalmente, o participante visualizou o recibo da indicação. Durante todo o processo, o participante foi incentivado a compartilhar seus pensamentos e feedbacks, permitindo-nos entender melhor a experiência do usuário e identificar áreas de melhoria em nosso design. A tarefa foi concluída com sucesso por todos os participantes, indicando que nosso protótipo é intuitivo e fácil de usar.
 
 ## Apresentação dos Dados
 
-Transcrever perguntas, respostas, vídeos demais dados coletados como descrito em [Avaliação e Apresentação dos Dados do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#apresenta%C3%A7%C3%A3o-dos-dados).
+Após a conclusão da etapa de validação com os usuários, observou-se que o Protótipo de Alta Fidelidade foi bem recebido. De maneira geral, os entrevistados se sentiram confortáveis ao navegar pelo nosso protótipo. Os usuários expressaram satisfação com o design e a disposição dos elementos na tela. Eles relataram uma melhora significativa na facilidade de encontrar informações em nosso protótipo em comparação com o site Nota Legal. Em resumo, podemos concluir que nosso protótipo, e mais especificamente a tarefa de visualizar o recibo de indicações, está alinhado com a satisfação dos usuários. Além disso, de acordo com a nossa amostra de usuários, essa tarefa é fácil de ser realizada. As nossas entrevistadas nessaa etapa foram as Participantes: Francinete Dias, Francilene Oliveira e Francineide Dias Pontes. Abaixo segue o link dos vídeos do teste de usabilidade de cada uma das participantes.
+
+
+### Vídeo validação  do Protótipo de Alta Fidelidade "Visualizar Recibo" Entrevistada 01
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/HniMb38CUa4" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
+
+<iframe width="560" height="315" src="https://youtu.be/LM6LWyc1A8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
+
+### Vídeo validação  do Protótipo de Alta Fidelidade "Visualizar Recibo" Entrevistada 02
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/HniMb38CUa4" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
+
+<iframe width="560" height="315" src="https://youtu.be/p6aUKu16Ukw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
+
+### Vídeo validação  do Protótipo de Alta Fidelidade "Visualizar Recibo" Entrevistada 03
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/HniMb38CUa4" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
+
+<iframe width="560" height="315" src="https://youtu.be/DEG3bAdm6iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
 
 ## Problemas Encontrados
 
-Descrever uma lista de problemas encontrados, como descrito em [Problemas Encontrados do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#problemas-encontrados).
+Durante a fase de testes do nosso protótipo, não foram identificados problemas específicos relacionados à realização da tarefa em questão. Todas as entrevistadas conseguiram concluir a tarefa com sucesso, o que é um indicativo positivo da eficácia do nosso design.
 
-## Cronograma de Correções
+Os feedbacks recebidos foram extremamente positivos, reforçando a aceitação do nosso protótipo pelos usuários. Isso é um reflexo do nosso compromisso em criar uma interface intuitiva e fácil de usar, que atenda às necessidades dos usuários e facilite a realização das tarefas.
 
-Descrever um cronograma para as correções necessárias, como descrito em [Cronograma de Correções do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#cronograma-de-corre%C3%A7%C3%B5es).
+A tarefa de visualizar o recibo de indicações, em particular, foi realizada com facilidade por todas as entrevistadas. Isso demonstra que o nosso protótipo está alinhado com as expectativas dos usuários e que conseguimos simplificar um processo que antes poderia ser considerado complexo.
 
-## Planejamento para o Reprojeto do Sistema
+Continuaremos a coletar e analisar feedbacks para fazer melhorias contínuas no nosso protótipo. Agradecemos a todos os usuários que participaram dos testes e nos forneceram feedbacks valiosos. Seu apoio é fundamental para o sucesso do nosso projeto.
 
-Uma proposta de reprojeto do sistema será desenvolvida com base nos problemas encontrados na avaliação e nas necessidades dos usuários. Essa proposta contemplará as ações de melhoria que deverão ser realizadas, levando em conta as recomendações dos usuários e as metas do projeto.
+
 ## Referência:
 [1] Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano-Computador. Elsevier.
 
@@ -122,3 +241,4 @@ Uma proposta de reprojeto do sistema será desenvolvida com base nos problemas e
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 24/11/2023 | Criação do documento  |   <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>   | <a href="https://github.com/Lucas13032003">Lucas Víctor</a> |
+| `1.0`  | 24/11/2023 | Adição dos links dos testes de cada entrevistada  |   <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>   | <a href="https://github.com/Lucas13032003">Lucas Víctor</a> |

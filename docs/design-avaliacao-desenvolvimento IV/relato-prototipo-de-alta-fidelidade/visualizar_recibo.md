@@ -96,10 +96,6 @@ Descrever a tarefa executada pelo participante, como descrito em [Tarefa Executa
 
 ## Apresentação dos Dados
 
-v
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HniMb38CUa4?si=_67iWMZ1F8NThans" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 Transcrever perguntas, respostas, vídeos demais dados coletados como descrito em [Avaliação e Apresentação dos Dados do documento de planejamento de relato dos resultados.](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md#apresenta%C3%A7%C3%A3o-dos-dados).
 
 ## Problemas Encontrados

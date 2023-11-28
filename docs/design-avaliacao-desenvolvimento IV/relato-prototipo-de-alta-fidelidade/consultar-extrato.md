@@ -23,7 +23,7 @@ Nesta seção, descreveremos os aspectos práticos da avaliação do protótipo 
 
 ### Recrutamento
 
-A avaliação contou com a participação de X usuários, selecionados com base em critérios de perfil que representam o público-alvo do sistema. Procuramos incluir usuários com diferentes níveis de familiaridade com sistemas similares e com diferentes perfis demográficos.
+A avaliação contou com a participação dos usuários Alecsandra e Elicélio., selecionados com base em critérios de perfil que representam o público-alvo do sistema. Procuramos incluir usuários com diferentes níveis de familiaridade com sistemas similares e com diferentes perfis demográficos.
 
 Para o recrutamento dos participantes, fizemos convites diretos pessoalmente. Identificamos indivíduos que se encaixavam no perfil desejado e os abordamos pessoalmente, explicando os objetivos da pesquisa e convidando-os a participar da avaliação do protótipo "Consultar Extrato". Essa abordagem nos permitiu ter um contato mais direto com os potenciais participantes e fornecer explicações detalhadas sobre o estudo.
 

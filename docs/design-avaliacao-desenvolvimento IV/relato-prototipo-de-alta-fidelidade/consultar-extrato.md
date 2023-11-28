@@ -63,9 +63,9 @@ Cronograma, final tabela 1.
     <td>Cronograma Planejado</td>
     <td>Lucas Víctor</td>
     <td>Alecsandra</td>
-    <td>00:00</td>
-    <td>00:00</td>
-    <td>00/00/2023</td>
+    <td>20:00</td>
+    <td>20:20</td>
+    <td>25/11/2023</td>
     <td>Presencial</td>
   </tr>
   <tr>

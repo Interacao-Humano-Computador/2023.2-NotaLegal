@@ -188,7 +188,7 @@ Após a conclusão da etapa de validação com os usuários, observou-se que o P
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://youtu.be/HniMb38CUa4" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/LM6LWyc1A8s" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
 
 <iframe width="560" height="315" src="https://youtu.be/LM6LWyc1A8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -199,7 +199,7 @@ Após a conclusão da etapa de validação com os usuários, observou-se que o P
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://youtu.be/HniMb38CUa4" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/p6aUKu16Ukw" target="blanket"><b>Vídeo 2:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
 
 <iframe width="560" height="315" src="https://youtu.be/p6aUKu16Ukw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -210,7 +210,7 @@ Após a conclusão da etapa de validação com os usuários, observou-se que o P
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://youtu.be/HniMb38CUa4" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/DEG3bAdm6iA" target="blanket"><b>Vídeo 3:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
 
 <iframe width="560" height="315" src="https://youtu.be/DEG3bAdm6iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

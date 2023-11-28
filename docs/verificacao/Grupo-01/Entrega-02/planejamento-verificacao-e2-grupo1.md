@@ -675,7 +675,7 @@ Na tabela 10, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Brainstorming
 
-Na tabela 11, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 11, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist para o artefato de Brainstorming</p></font>
@@ -729,7 +729,7 @@ Na tabela 11, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Introspecção
 
-Na tabela 12, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/introspeccao/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 12, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/introspeccao/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 12:</b> Checklist para o artefato de Introspecção</p></font>
@@ -762,7 +762,7 @@ Na tabela 12, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Requisitos elicitados
 
-Na tabela 13, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 13, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 13:</b> Checklist para o artefato de Brainstorming</p></font>
@@ -791,7 +791,7 @@ Na tabela 13, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Análise Hierarquica de Tarefas (HTA)
 
-Na tabela 14, estão listados os critérios que devem ser verificados no artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 14, estão listados os critérios que devem ser verificados no artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 14:</b> Checklist para o artefato de Análise Hierárquica de Tarefas</p></font>
@@ -839,7 +839,7 @@ Na tabela 14, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Concur Task Trees (CTT)
 
-Na tabela 15, estão listados os critérios que devem ser verificados no artefato [ConcurTaskTrees (CTT)](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees/) do [Grupo 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/).
+Na tabela 15, estão listados os critérios que devem ser verificados no artefato [ConcurTaskTrees (CTT)](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 15:</b> Checklist para o artefato de ConcurTaskTrees (CTT)</p></font>
@@ -855,32 +855,76 @@ Na tabela 15, estão listados os critérios que devem ser verificados no artefat
   <tbody>
     <tr>
       <td>1</td>
-      <td>As tarefas são representadas por tarefas do usuário, do sistema, interatvias e abstratas?</td>
+      <td>As tarefas são representadas por tarefas do usuário, do sistema, interatvias e abstratas (Figura X)?[1]</td>
       <td></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>As representações dos tipos de tarefas estão de acordo com o padrão?</td>
+      <td>As representações dos tipos de tarefas (Figura X) estão de acordo com o padrão?[1]</td>
       <td></td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Foram representadas as relações entre as tarefas?</td>
+      <td>Foram representadas as relações entre as tarefas (Figura X)?[1]</td>
       <td></td>
     </tr>
     <tr>
       <td>4</td>
-      <td>As relações entre as tarefas foram bem representadas?</td>
+      <td>As relações entre as tarefas foram bem representadas (Figura x)?[1]</td>
       <td></td>
     </tr>
    
   </tbody>
 </table>
 
+
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 
+
+<div align="center">
+  <p><b>Figura X:</b> Tipos de tarefas.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/69390d49-f8d4-421c-a531-dbadc22ea630" style="width: 45%;">
+
+<p><b>Fonte:</b> Simone Barbosa, 2010.</p>
+
+</div>
+
+<div align="center">
+  <p><b>Figura X:</b> Representações dos tipos de tarefas no CTT.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/619ede95-b5a8-49d9-a47d-5b49e87da35f" style="width: 45%;">
+
+<p><b>Fonte:</b> Simone Barbosa, 2010.</p>
+
+</div>
+
+<div align="center">
+  <p><b>Figura X:</b> Relações entre tarefas.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/baca3c7b-ebc9-4fac-a9fe-cb3a75a19a30" style="width: 45%;">
+
+<p><b>Fonte:</b> Simone Barbosa, 2010.</p>
+
+</div>
+
+
+<div align="center">
+  <p><b>Figura X:</b> Representação das relações entre tarefas.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/9761c37a-6c05-419c-93ae-d93678f7ebbf" style="width: 45%;">
+
+<p><b>Fonte:</b> Simone Barbosa, 2010.</p>
+
+</div>
+
+
+## Referências Bibliográficas
+>
+>[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Bibliografia
 >

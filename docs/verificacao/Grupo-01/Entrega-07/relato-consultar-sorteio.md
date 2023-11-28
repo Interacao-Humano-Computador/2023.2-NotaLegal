@@ -143,7 +143,7 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>09</td>
       <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
-      <td>Não</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>10</td>

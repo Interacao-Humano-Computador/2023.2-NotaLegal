@@ -1,4 +1,4 @@
-# Relato dos resultados da avaliação do Protótipo de Alta Fidelidade "titulo do PAF"
+# Relato dos resultados da avaliação do Protótipo de Alta Fidelidade "Desbloquear Saldo"
 
 ## Introdução
 Neste documento, relatamos os achados da análise do protótipo de alta fidelidade "Desbloquear saldo". O propósito da análise foi coletar opiniões dos usuários sobre a usabilidade, funcionalidades e interface do protótipo. Empregamos uma metodologia que compreendeu a execução de tarefas relacionadas à funcionalidade "Desbloquear saldo", observação das ações dos usuários e registro de feedback verbal. Os achados revelaram aspectos positivos em relação à usabilidade interface e funcionalidades do protótipo, assim como algumas propostas de aperfeiçoamento. Essas propostas serão levadas em conta para fazer modificações no protótipo e proporcionar uma experiência ainda melhor aos usuários. Agradecemos a colaboração dos usuários na análise e valorizamos seu feedback, que é fundamental para melhorar o produto final e satisfazer às necessidades dos usuários.

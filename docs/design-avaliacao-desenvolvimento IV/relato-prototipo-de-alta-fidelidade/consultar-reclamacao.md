@@ -178,10 +178,15 @@ As perguntas fechadas foram estruturadas de forma a permitir análises quantitat
 </div>
 
 
-### Consolidação e análise dos dados
-
-
 ## Problemas Encontrados
+
+Durante a fase de testes do nosso protótipo, não foram identificados problemas específicos relacionados à realização da tarefa em questão. Todas as entrevistadas conseguiram concluir a tarefa com sucesso, o que é um indicativo positivo da eficácia do nosso design.
+
+Os feedbacks recebidos foram extremamente positivos, reforçando a aceitação do nosso protótipo pelos usuários. Isso é um reflexo do nosso compromisso em criar uma interface intuitiva e fácil de usar, que atenda às necessidades dos usuários e facilite a realização das tarefas.
+
+A tarefa de visualizar o recibo de indicações, em particular, foi realizada com facilidade por todas as entrevistadas. Isso demonstra que o nosso protótipo está alinhado com as expectativas dos usuários e que conseguimos simplificar um processo que antes poderia ser considerado complexo.
+
+Continuaremos a coletar e analisar feedbacks para fazer melhorias contínuas no nosso protótipo. Agradecemos a todos os usuários que participaram dos testes e nos forneceram feedbacks valiosos. Seu apoio é fundamental para o sucesso do nosso projeto.
 
 
 ## Referência:

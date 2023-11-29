@@ -217,6 +217,81 @@ Após a conclusão da etapa de validação com os usuários, observou-se que o P
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
+
+#### Respostas das perguntas
+
+A avaliação realizada, que consistiu em um questionário composto por três perguntas fechadas e seis perguntas abertas, o avaliador [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) foi o responsável por responder todas essas questões.
+
+As perguntas fechadas foram estruturadas de forma a permitir análises quantitativas e facilitar a apresentação dos dados em formato tabular. Para uma visão mais detalhada das respostas às perguntas fechadas, consulte a Tabela 1 abaixo:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Respostas da avaliação do protótipo de alta fidelidade.</p></font>
+
+<table>
+  <tr align="center">
+    <th>Ordem das Perguntas</th>
+    <th>Perguntas</th>
+    <th>Tipo de pergunta</th>
+    <th>Resposta</th>
+  </tr>
+  <tr align="center">
+    <td>1°</td>
+    <td>O usuário consegue operar o sistema?</td>
+    <td>Fechada</td>
+    <td>Sim</td>
+  </tr>
+  <tr align="center">
+    <td>2°</td>
+    <td>O usuário atingiu seu objetivo?</td>
+    <td>Fechada</td>
+    <td>Sim</td>
+  </tr>
+  <tr align="center">
+    <td>3°</td>
+    <td>Caso a resposta anterior seja não, que problemas de IHC dificultaram ou impediram o usuário de alcançar seu objetivo?</td>
+    <td>Aberta</td>
+    <td>Não se aplica.</td>
+  </tr>
+  <tr align="center">
+    <td>4°</td>
+    <td>Quais barreiras o usuário encontrou para atingir seus objetivos?</td>
+    <td>Aberta</td>
+    <td>O usuário não obteve nenhum problema pra atingir o seu objetivo. </td>
+  </tr>
+  <tr align="center">
+    <td>5°</td>
+    <td>Onde esses problemas se manifestaram e quais são as suas gravidades?</td>
+    <td>Aberta</td>
+    <td>Não se aplica.</td>
+  </tr>
+  <tr align="center">
+    <td>6°</td>
+    <td>Caso o usuário conseguiu atingir o seu objetivo, em quanto tempo e aṕos quantos erros ele realizou a tarefa ?</td>
+    <td>Aberta</td>
+    <td>O usuário levou em média 1 minuto para realizar a tarefa. </td>
+  </tr>
+  <tr align="center">
+    <td>7°</td>
+    <td>Qual parte da interface ou da interação o usuário ficou se sentiu insastifeito?</td>
+    <td>Aberta</td>
+    <td>Os usuários não se sentiu insatisfeito em nenhuma parte.</td>
+  <tr align="center">
+    <td>8°</td>
+    <td>O usuário entendeu o que significa e para que serve cada elemento de interface?</td>
+    <td>Fechada</td>
+    <td>Sim</td>
+  </tr>
+  <tr align="center">
+    <td>9°</td>
+    <td>Caso a resposta anterior seja não, quais foram os elementos e o que o usuário não entedeu?</td>
+    <td>Aberta</td>
+    <td>Não se aplica</td>
+  </tr>
+</table>
+<font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>
+</div>
+
+
 ## Problemas Encontrados
 
 Durante a fase de testes do nosso protótipo, não foram identificados problemas específicos relacionados à realização da tarefa em questão. Todas as entrevistadas conseguiram concluir a tarefa com sucesso, o que é um indicativo positivo da eficácia do nosso design.

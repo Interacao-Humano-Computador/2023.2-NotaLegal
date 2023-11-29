@@ -124,54 +124,54 @@ As perguntas fechadas foram estruturadas de forma a permitir análises quantitat
     <td>1°</td>
     <td>O usuário consegue operar o sistema?</td>
     <td>Fechada</td>
-    <td>Sim</td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>2°</td>
     <td>O usuário atingiu seu objetivo?</td>
     <td>Fechada</td>
-    <td>Sim</td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>3°</td>
     <td>Caso a resposta anterior seja não, que problemas de IHC dificultaram ou impediram o usuário de alcançar seu objetivo?</td>
     <td>Aberta</td>
-    <td>Não se aplica.</td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>Quais barreiras o usuário encontrou para atingir seus objetivos?</td>
     <td>Aberta</td>
-    <td>O usuário não obteve nenhum problema pra atingir o seu objetivo. </td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>Onde esses problemas se manifestaram e quais são as suas gravidades?</td>
     <td>Aberta</td>
-    <td>Não se aplica.</td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>6°</td>
     <td>Caso o usuário conseguiu atingir o seu objetivo, em quanto tempo e aṕos quantos erros ele realizou a tarefa ?</td>
     <td>Aberta</td>
-    <td>O usuário levou em média 1 minuto para realizar a tarefa. </td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>7°</td>
     <td>Qual parte da interface ou da interação o usuário ficou se sentiu insastifeito?</td>
     <td>Aberta</td>
-    <td>Os usuários não se sentiu insatisfeito em nenhuma parte.</td>
+    <td></td>
   <tr align="center">
     <td>8°</td>
     <td>O usuário entendeu o que significa e para que serve cada elemento de interface?</td>
     <td>Fechada</td>
-    <td>Sim</td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>9°</td>
     <td>Caso a resposta anterior seja não, quais foram os elementos e o que o usuário não entedeu?</td>
     <td>Aberta</td>
-    <td>Não se aplica</td>
+    <td></td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Ribeiro</a>
@@ -179,15 +179,6 @@ As perguntas fechadas foram estruturadas de forma a permitir análises quantitat
 
 
 ## Problemas Encontrados
-
-Durante a fase de testes do nosso protótipo, não foram identificados problemas específicos relacionados à realização da tarefa em questão. Todas as entrevistadas conseguiram concluir a tarefa com sucesso, o que é um indicativo positivo da eficácia do nosso design.
-
-Os feedbacks recebidos foram extremamente positivos, reforçando a aceitação do nosso protótipo pelos usuários. Isso é um reflexo do nosso compromisso em criar uma interface intuitiva e fácil de usar, que atenda às necessidades dos usuários e facilite a realização das tarefas.
-
-A tarefa de visualizar o recibo de indicações, em particular, foi realizada com facilidade por todas as entrevistadas. Isso demonstra que o nosso protótipo está alinhado com as expectativas dos usuários e que conseguimos simplificar um processo que antes poderia ser considerado complexo.
-
-Continuaremos a coletar e analisar feedbacks para fazer melhorias contínuas no nosso protótipo. Agradecemos a todos os usuários que participaram dos testes e nos forneceram feedbacks valiosos. Seu apoio é fundamental para o sucesso do nosso projeto.
-
 
 ## Referência:
 > [1] Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano-Computador. Elsevier.

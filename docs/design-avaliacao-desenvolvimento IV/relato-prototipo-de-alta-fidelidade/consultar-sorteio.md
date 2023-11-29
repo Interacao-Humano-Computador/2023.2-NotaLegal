@@ -190,7 +190,7 @@ As correções foram realizadas e podem ser vistas na figura 1.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Página do Sorteio no protótipo de alta fidelidade alterada</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/correcao_prototipo_alta_consultar_sorteio.jpg?raw=true">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/correcao_prototipo_alta_consultar_sorteio.jpg?raw=true">
 
 </div>
 

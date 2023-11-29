@@ -69,8 +69,8 @@ A avaliação foi conduzida pelo integrante do grupo [Lucas Ribeiro](https://git
     <td>Cronograma Executado</td>
     <td>Lucas Ribeiro</td>
     <td>Ana Clara</td>
-    <td></td>
-    <td></td>
+    <td>23:30</td>
+    <td>23:45</td>
     <td>28/11/2023</td>
     <td>Presencial</td>
   </tr>

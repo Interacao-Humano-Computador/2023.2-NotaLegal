@@ -83,7 +83,7 @@ Foi pedido ao usuário que navegasse e explorasse as diferentes telas do protót
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=njfyFXYthcw" target="blanket"><b>Vídeo 1:</b> teste de usabilidade - Avaliação do Protótipo de Alta Fidelidade "Consultar resultado de sorteio"</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=njfyFXYthcw" target="blanket"><b>Vídeo 1:</b> Teste de usabilidade - Avaliação do Protótipo de Alta Fidelidade "Consultar resultado de sorteio"</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njfyFXYthcw" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

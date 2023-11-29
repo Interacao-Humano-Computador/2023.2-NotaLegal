@@ -153,6 +153,15 @@ nav:
       - Planejamento da Avaliação: design-avaliacao-desenvolvimento III/prototipo-alta-fidelidade/planejamento-avaliacao-prot-alta-fidelidade.md
       - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md
       - Modelo de Documento: design-avaliacao-desenvolvimento III/prototipo-alta-fidelidade/modelo-relato-prototipo-alta-fidelidade.md
+  - D.A.D IV:
+    - Resultado da Avaliação do Protótipo de Alta Fidelidade:
+      - Consultar extrato: design-avaliacao-desenvolvimento IV/relato-prototipo-de-alta-fidelidade/consultar-extrato.md
+      - Consultar estabelecimento: design-avaliacao-desenvolvimento IV/relato-prototipo-de-alta-fidelidade/consultar-estabelecimento.md
+      - Consultar sorteio: design-avaliacao-desenvolvimento IV/relato-prototipo-de-alta-fidelidade/consultar-sorteio.md
+      - Desbloquear saldo: design-avaliacao-desenvolvimento IV/relato-prototipo-de-alta-fidelidade/desbloquear_saldo.md
+      - Registrar reclamação: design-avaliacao-desenvolvimento IV/relato-prototipo-de-alta-fidelidade/registrar_reclamação.md
+      - Visualizar recibo: design-avaliacao-desenvolvimento IV/relato-prototipo-de-alta-fidelidade/visualizar_recibo.md
+      - Consultar reclamação: design-avaliacao-desenvolvimento IV/relato-prototipo-de-alta-fidelidade/consultar-reclamacao.md
     
 theme:
   name: material

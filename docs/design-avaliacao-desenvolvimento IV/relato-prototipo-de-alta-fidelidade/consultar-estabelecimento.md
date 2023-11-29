@@ -24,7 +24,7 @@ Além disso, a equipe de avaliação chegou com antecedência para configurar os
 
 ### Cronograma Final
 
-O cronograma de execução da avaliação está descrito na tabela 1. Como é visível, nenhuma alteração foi necessária e ele se manteu conforme o planejado.
+O cronograma de execução da avaliação está descrito na tabela 1. Como é visível, uma mudança foi feita em relação ao cronograma planejado, pois a avaliação foi realizada com a participante Elaime Alves, pois o participante Gilmar P. Santos não pôde comparecer no dia da avaliação.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da avaliação do protótipo de alta fidelidade.</p>
@@ -51,9 +51,9 @@ O cronograma de execução da avaliação está descrito na tabela 1. Como é vi
   <tr>
     <td>Cronograma Executado</td>
     <td>Izabella Alves</td>
-    <td>Gilmar P. Santos</td>
+    <td>Elaime Rodrigues</td>
     <td>18:00</td>
-    <td>18:15</td>
+    <td>18:10</td>
     <td>27/11/2023</td>
     <td>Presencial</td>
   </tr>
@@ -75,9 +75,9 @@ No vídeo 1, é possível ver a simulação de uso da tarefa "consultar estabele
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=f9TXHqYhO7Y" target="blanket"><b>Vídeo 1:</b> Avaliação do protótipo de alta fidelidade da tarefa "Consultar Estabelecimento".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/FzvLVMsnBfI" target="blanket"><b>Vídeo 1:</b> Avaliação do protótipo de alta fidelidade da tarefa "Consultar Estabelecimento".</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/mhJp96dLWok" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FzvLVMsnBfI" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Izabella Alves</a>, 2023</p></font>

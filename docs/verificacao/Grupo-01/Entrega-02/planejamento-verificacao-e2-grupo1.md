@@ -783,7 +783,17 @@ Na tabela 13, estão listados os critérios que devem ser verificados no artefat
   <tbody>
     <tr>
       <td>1</td>
-      <td>Possui justificativa da quantidade de usuários presentes na sessão de brainstorming?</td>
+      <td>Os requisitos foram elicitados a partir de uma técnica de elicitação, por exemplo, entrevistas, grupo de foco, questionários etc. ? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+    <td>Os requisitos foram classificados como "funcionais" e "não funcionais"? </td>
+      <td></td>
+    </tr>
+   <tr>
+      <td>3</td>
+    <td>Foram identificados quais requisitos estão implementados no site? </td>
       <td></td>
     </tr>
    

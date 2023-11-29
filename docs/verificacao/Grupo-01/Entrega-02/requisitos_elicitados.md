@@ -1,4 +1,4 @@
-# Verificação do artefato "ConcurTaskTree"
+# Verificação do artefato "Requisitos Elicitados"
 
 ## Introdução
 
@@ -6,7 +6,7 @@ Este documento tem como objetivo relatar os resultados da verificação por insp
 
 ## Metodologia
 
-A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 2 do Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1.md) [2].
+A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 2 do Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1.md) [1].
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de checklist. Cada elemento do checklist será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos do planejamento da verificação, e outro específico, direcionado exclusivamente a esse artefato em foco.
 
@@ -35,47 +35,47 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -83,9 +83,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-### Checklist do ConcurTaskTree
+### Checklist do Requisitos Elicitados
 
-Na tabela 2, estão listados os critérios que devem ser verificados o ConcurTaskTree dos integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+Na tabela 2, estão listados os critérios que devem ser verificados o Requisitos Elicitados dos integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Requisitos elicitados</p></font>
@@ -103,17 +103,25 @@ Na tabela 2, estão listados os critérios que devem ser verificados o ConcurTas
     <tr>
       <td>1</td>
       <td>Os requisitos foram elicitados a partir de uma técnica de elicitação, por exemplo, entrevistas, grupo de foco, questionários etc. ? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
-      <td> </td>
-      <td></td>
+    <td>Os requisitos foram classificados como "funcionais" e "não funcionais"? </td>
+      <td>Sim</td>
+    </tr>
+   <tr>
+      <td>3</td>
+    <td>Foram identificados quais requisitos estão implementados no site? </td>
+      <td>Sim</td>
     </tr>
    
    
   </tbody>
 </table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
 
 
 ## Problemas encontrados
@@ -128,37 +136,37 @@ Na tabela 2, estão listados os critérios que devem ser verificados o ConcurTas
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[ConcurTaskTree](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/requisitos-elicitados/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Requisitos Elicitados](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/requisitos-elicitados/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
 
 ### Checklist geral
 
-No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[ConcurTaskTree](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/requisitos-elicitados/)" em relação ao checklist geral.
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Requisitos Elicitados](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/requisitos-elicitados/)" em relação ao checklist geral.
 
 <div align="center">
-  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "ConcurTaskTree" no checklist geral.</p>
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Requisitos Elicitados" no checklist geral.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Geral/Geral%20-%20ConcurTaskTree.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Geral/Geral%20-%20Requisitos Elicitados.png" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 </div>
 
 ### Checklist específico
 
-No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[ConcurTaskTree](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/requisitos-elicitados/)" em relação ao checklist específico.
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Requisitos Elicitados](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/requisitos-elicitados/)" em relação ao checklist específico.
 
 <div align="center">
-  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "ConcurTaskTree" no checklist específico.</p>
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Requisitos Elicitados" no checklist específico.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Específico/Específico%20-%20ConcurTaskTree.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Específico/Específico%20-%20Requisitos Elicitados.png" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 
 </div>
 
 ## Referências Bibliográficas
->[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-> [2] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+
+> [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
 ## Bibliografia
 
-> NOTA LEGAL, [ConcurTaskTree](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/requisitos-elicitados//), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
+> NOTA LEGAL, [Requisitos Elicitados](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/requisitos-elicitados//), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.

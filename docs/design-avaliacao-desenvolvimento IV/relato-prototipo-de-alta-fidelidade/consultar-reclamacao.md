@@ -95,10 +95,9 @@ No vídeo 1, é possível ver a gravação da avaliação do protótipo de alta 
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://youtu.be/3L5VB7sTdMk" target="blanket"><b>Vídeo 1:</b> Avaliação do Protótipo de Alta Fidelidade "Consultar reclamação".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/5VQG24LngiA" target="blanket"><b>Vídeo 1:</b> Avaliação do Protótipo de Alta Fidelidade "Consultar reclamação".</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/3L5VB7sTdMk" title="Avaliação do Protótipo de Alta Fidelidade Consultar reclamação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://youtu.be/5VQG24LngiA" title="Avaliação do Protótipo de Alta Fidelidade Consultar reclamação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 
@@ -124,61 +123,66 @@ As perguntas fechadas foram estruturadas de forma a permitir análises quantitat
     <td>1°</td>
     <td>O usuário consegue operar o sistema?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>2°</td>
     <td>O usuário atingiu seu objetivo?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>3°</td>
     <td>Caso a resposta anterior seja não, que problemas de IHC dificultaram ou impediram o usuário de alcançar seu objetivo?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>-</td>
   </tr>
   <tr align="center">
     <td>4°</td>
     <td>Quais barreiras o usuário encontrou para atingir seus objetivos?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>O usuário não encontrou nenhuma barreira para atingir o objetivo da tarefa.</td>
   </tr>
   <tr align="center">
     <td>5°</td>
     <td>Onde esses problemas se manifestaram e quais são as suas gravidades?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Não houve nenhum problema encontrado.</td>
   </tr>
   <tr align="center">
     <td>6°</td>
     <td>Caso o usuário conseguiu atingir o seu objetivo, em quanto tempo e aṕos quantos erros ele realizou a tarefa ?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>Por volta de 1 minuto e 15 segundos.</td>
   </tr>
   <tr align="center">
     <td>7°</td>
     <td>Qual parte da interface ou da interação o usuário ficou se sentiu insastifeito?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>O usuário não se sentiu insatisfeito com nenhuma parte da interface ou da interação.</td>
   <tr align="center">
     <td>8°</td>
     <td>O usuário entendeu o que significa e para que serve cada elemento de interface?</td>
     <td>Fechada</td>
-    <td></td>
+    <td>Sim</td>
   </tr>
   <tr align="center">
     <td>9°</td>
     <td>Caso a resposta anterior seja não, quais foram os elementos e o que o usuário não entedeu?</td>
     <td>Aberta</td>
-    <td></td>
+    <td>-</td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b> Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Ribeiro</a>
 </div>
 
-
 ## Problemas Encontrados
+
+No decorrer da simulação de uso, não foram identificados quaisquer problemas significativos. Os resultados positivos obtidos nesta atividade podem ser atribuídos, em grande parte, às fases anteriores do processo, notadamente ao protótipo de baixa fidelidade. Nessa etapa, a concepção inicial da interface foi submetida à avaliação e ajustes, beneficiando-se das valiosas sugestões da participante.
+
+## Cronograma de Correções
+
+De acordo com a avaliação realizada, não se vê motivos para realizar uma correção visto que a tarefa foi bem realizada pelo usuário e o mesmo não encontrou nenhuma dificuldade.
 
 ## Referência:
 > [1] Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano-Computador. Elsevier.

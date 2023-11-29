@@ -70,7 +70,7 @@ Na tabela 1 encontra-se o cronograma planejado e executado.
 
 ## Aspectos Éticos
 
-No início da entrevista, o [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_avaliacao_prototipo_papel.md#d---decidir-como-lidar-com-as-quest%C3%B5es-%C3%A9ticas) que consta no planejamento dessa avaliação foi lido para a entrevistada e explicado em detalhes. Após o seu consentimento, deu-se início a explicação sobre a técnica de prototipação de papel e depois a simulação de uso foi realizada.
+No início da entrevista, o [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-avaliacao-prot-alta-fidelidade.md#d---decidir-como-lidar-com-as-quest%C3%B5es-%C3%A9ticas) que consta no planejamento dessa avaliação foi lido para a entrevistada e explicado em detalhes. Após o seu consentimento, deu-se início a explicação sobre a técnica de prototipação de papel e depois a simulação de uso foi realizada.
 
 ## Tarefa Executada
 

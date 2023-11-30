@@ -105,54 +105,54 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>01</td>
       <td> É mostrado quais metas de usabilidade foram utilizadas? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>02</td>
       <td> Possui a descrição das metas de usabilidade a serem alcançadas no projeto? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>03</td>
       <td>As metas de usabilidade são explicadas?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>04</td>
       <td> Explica o motivo para escolha dessas metas de usabilidade?     </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>05</td>
       <td>É descrito como as metas serão avaliadas no projeto?  ?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>06</td>
       <td>São apresentadas questões condizentes com a meta de eficiência?     </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>07</td>
       <td>São apresentadas questões condizentes com a meta de segurança?  td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>08</td>
       <td> São apresentadas questões condizentes com a meta de utilidade?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>09</td>
       <td> São apresentadas questões condizentes com a meta de aprendizagem?   </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
      <tr>
       <td>10</td>
       <td> São apresentadas questões condizentes com a meta de memorabilidade?   </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -172,7 +172,7 @@ Nenhum problema encontrado no checklist geral.
 
 ### Checklist Específico
 
-ID 18: O artefato não descreve como as metas serão utilizadas no projeto.
+**ID 08:** O artefato não descreve como as metas serão utilizadas no projeto.
 
 ## Resultados
 
@@ -185,7 +185,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Metas de Usabilidade" no checklist geral.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Checklist%20Geral%20-%20Metas%20de%20Usabilidade.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de OLiveira, 2023.</p>
 </div>
@@ -197,7 +197,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Metass de Usabilidade" no checklist específico.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Checklist%20Especifico-%20Metas%20de%20Usabilidade.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 

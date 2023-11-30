@@ -90,6 +90,61 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 ### Checklist Específico
 
+### Checklist de Características Gerais
+
+<Center>
+
+**Tabela 6** - Checklist Características Gerais
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 06:</b> Checklist Características Gerais do Projeto</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td> As características da plataforma para o projeto são identificadas? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>As limitações são apresentadas? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>A responsividade da página é discutida?  </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td> São identificados pontos negativos do sistema?    </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>A metodologia utilizada é apresentada no artefato? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>São identificadas as tecnologias que foram utilizadas    </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
+
+
 
 
 

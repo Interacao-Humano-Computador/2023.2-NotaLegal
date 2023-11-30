@@ -6,7 +6,7 @@ Este documento apresenta a síntese das avaliações dos protótipos desenvolvid
 
 ## Metodologia
 
-Cada membro da equipe foi atribuído à responsabilidade de conduzir a análise do mesmo documento em todas as etapas do processo avaliativo, conforme detalhado na Tabela 1. Esta abordagem garantiu uma consistência rigorosa nas avaliações, permitindo uma comparação direta das análises individuais de cada membro. A designação contínua do mesmo documento proporcionou uma visão aprofundada e abrangente, possibilitando uma compreensão mais completa dos diversos aspectos envolvidos. Dessa forma, a Tabela 1 serve como um guia, evidenciando o comprometimento individual de cada membro ao longo do ciclo de avaliação.
+Cada membro da equipe foi atribuído à responsabilidade de conduzir a análise da mesma tarefa em todas as etapas do processo avaliativo, conforme detalhado na Tabela 1. Esta abordagem garantiu uma consistência rigorosa nas avaliações, permitindo uma comparação direta das análises individuais de cada membro. A designação contínua do mesmo documento proporcionou uma visão aprofundada e abrangente, possibilitando uma compreensão mais completa dos diversos aspectos envolvidos. Dessa forma, a Tabela 1 serve como um guia, evidenciando o comprometimento individual de cada membro ao longo do ciclo de avaliação.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Atribuições das Tarefas.</p></font>

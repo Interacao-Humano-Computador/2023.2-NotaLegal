@@ -89,29 +89,80 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 
 
+
+
+
 ### Checklist de Guia de Estilo
 
-<Center>
+**Tabela 3** - Checklist Guia de Estilo                   
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist Guia de Estilo</p></font>
 
-**Tabela 3** - Checklist Guia de Estilo
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td> O guia de estilo construído é relevante para o site avaliado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> Possui um objetivo claro definido para o guia de estilo?                                               </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Existe um público-alvo específico para o guia de estilos? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Instrui sobre como utilizar e manter o guia de estilo de maneira eficaz? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O guia de estilo do projeto é estruturado com base nos resultados da análise, incluindo uma descrição do ambiente de trabalho do usuário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O guia de estilo contém elementos de interface, como disposição espacial, grid, janelas, tipografia e cores?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td> Existem elementos de interação no guia de estilo, como estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td> O guia de estilo inclui elementos de ação, como preenchimento de campos, seleção e ativação? </td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>10</td>
+      <td>  São abordadas exceções e estados de erro no guia de estilo? </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-| ID  | Descrição                                                                                           | Avaliação |
-| --- | --------------------------------------------------------------------------------------------------- | --------- | 
-| 01  | O guia de estilo construído é relevante para o site avaliado?                                        |   |
-| 02  | Possui um objetivo claro definido para o guia de estilo?                                              |    |
-| 03  | Existe um público-alvo específico para o guia de estilos?                                            |    |
-| 04  | Instrui sobre como utilizar e manter o guia de estilo de maneira eficaz?                              |    |
-| 05  | O guia de estilo do projeto é estruturado com base nos resultados da análise, incluindo uma descrição do ambiente de trabalho do usuário? |    |
-| 06  | O guia de estilo contém elementos de interface, como disposição espacial, grid, janelas, tipografia e cores? |    |
-| 07  | Existem elementos de interação no guia de estilo, como estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)? |    |
-| 08  | O guia de estilo inclui elementos de ação, como preenchimento de campos, seleção e ativação?       |    |
-| 09  | Há um vocabulário definido e padrões claros no guia de estilo, incluindo terminologia, tipos de tela para tarefas comuns e sequências de diálogos? |    |
-| 10  | São abordadas exceções e estados de erro no guia de estilo?                                          |    |
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
 
-
-**Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
-
-</Center>
 
 
 

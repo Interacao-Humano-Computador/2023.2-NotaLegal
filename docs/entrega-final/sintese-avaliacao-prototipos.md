@@ -106,6 +106,10 @@ Através das avaliações realizadas, conseguimos obter uma compreensão mais cl
 
 Além disso, as avaliações proporcionaram uma rica experiência para a equipe, permitindo o contato direto com os usuários e a aplicação prática dos métodos de "Entrevista" e "Teste de Usabilidade" propostos na disciplina. Em resumo, as avaliações conduzidas nos protótipos e modelos conceituais não apenas forneceram informações cruciais, mas também desempenharam um papel significativo na evolução contínua do projeto.
 
+## Conclusão
+
+Em resumo, as avaliações desempenharam um papel integral, não apenas fornecendo informações cruciais para refinamento, mas também promovendo uma interação valiosa entre a equipe e os usuários. Esse ciclo de avaliação contínua não só validou nossas decisões de design, mas também estabeleceu uma base sólida para a inovação contínua e a entrega de um produto final mais alinhado às necessidades do usuário.
+
 ## Bibliografia
 
 > Nota Legal. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main. Acesso em 30 de novembro de 2023.

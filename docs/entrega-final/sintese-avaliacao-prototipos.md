@@ -2,6 +2,8 @@
 
 ## Introdução
 
+## Síntese das Avaliações
+
 ## Bibliografia
 
 ## Histórico de Versões

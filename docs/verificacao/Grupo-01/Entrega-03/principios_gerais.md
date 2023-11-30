@@ -43,42 +43,42 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     </tr>
     <tr>
       <td>2</td>
-      <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
+      <td>O artefato possui bibliografia e/ou referência bibliográfica?  </td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
+      <td>As referências bibliográficas seguem a ordem de chamada do texto? </td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
+      <td>Todas as referências bibliográficas são chamadas no texto? </td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>O artefato possui introdução? [2]</td>
+      <td>O artefato possui introdução? </td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
+      <td>Todas as tabelas possuem legendas e fontes padronizadas? </td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Todas as tabelas são referenciadas no texto? [2] </td>
+      <td>Todas as tabelas são referenciadas no texto?  </td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?  </td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
+      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?  </td>
       <td>Sim</td>
     </tr>
   </tbody>
@@ -199,9 +199,9 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Princípios Gerais" no checklist geral.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Checklist%20Geral-%20Principios%20Gerais.png?raw=true" style="width: 45%;">
 
-<p><b>Fonte:</b> Lucas de OLiveira, 2023.</p>
+<p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 </div>
 
 ### Checklist específico
@@ -211,7 +211,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Princípios Gerais" no checklist específico.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Checklist%20especifico%20-%20Principios%20Gerais.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 
@@ -226,3 +226,5 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 25/11/2023 | Criação do documento  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Zaranza](https://github/GZaranza)  |
+| `1.1`  | 30/11/2023 | Adição dos links dos graficos  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Zaranza](https://github/GZaranza)  |
+

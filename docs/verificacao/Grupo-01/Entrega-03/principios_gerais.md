@@ -88,32 +88,91 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 </div>
 
 
+
 ### Checklist de Princípios Gerais do Projeto
+**Tabela 5**: - Checklist de Princípios Gerais do Projeto
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist Princípios Gerais do Projeto</p></font>
 
-<Center>
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td> O artefato possui Introdução?    </td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> O artefato possui bibliografia?</td>
+      <td>Não se aplica</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O artefato possui um histórico de versões correto?  </td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td> Como os Princípios Gerais do Projeto serão aplicados no projeto?  </td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Existe uma descrição para cada um desses princípios? </td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Contém Alinhamento com as expectativas dos usuários?  </td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Contém Simplificação nas estruturas das tarefas?  td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td> Contém Equilíbrio entre controle e liberdade do usuário?  </td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td> Contém Consistência e padronização; promoção da eficiência do usuário?    </td>
+      <td>Sim</td>
+    </tr>
+     <tr>
+      <td>10</td>
+      <td>Contém Antecipação das necessidades do usuário?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Contém Visibilidade e reconhecimento?  </td>
+      <td>Sim </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Contém Conteúdo relevante e expressão apropriada?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Contém Design para lidar com erros?</td>
+      <td>Sim</td>
+    </tr>
+  </tbody>
+</table>
 
-**Tabela 5** - Checklist Princípios Gerais do Projeto.
-
-| ID  | Descrição                                                                                              | Avaliação |
-| --- | ------------------------------------------------------------------------------------------------------ | --------- | 
-| 01   | O artefato possui Introdução?                                                                         | Sim   |
-| 02   | O artefato possui bibliografia?                                                                       | Não se aplica   |
-| 03   | O artefato possui um histórico de versões correto?                                                    | Sim   |
-| 04   | Como os Princípios Gerais do Projeto serão aplicados no projeto?                                      | Sim   |
-| 05   | Existe uma descrição para cada um desses princípios?                                                  | Sim   |
-| 06   | Contém Alinhamento com as expectativas dos usuários?                                                  | Sim   |
-| 07   | Contém Simplificação nas estruturas das tarefas?                                                      | Sim   |
-| 08   | Contém Equilíbrio entre controle e liberdade do usuário?                                              | Sim   |
-| 09   | Contém Consistência e padronização; promoção da eficiência do usuário?                                | Sim   |
-| 10  | Contém Antecipação das necessidades do usuário?                                                        | Sim   |
-| 11  | Contém Visibilidade e reconhecimento?                                                                  | Sim   |
-| 12  | Contém Conteúdo relevante e expressão apropriada?                                                      | Sim   |
-| 13  | Contém Design para lidar com erros?   | Sim   |
-
-
-**Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
-
-</Center>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
 
 
 

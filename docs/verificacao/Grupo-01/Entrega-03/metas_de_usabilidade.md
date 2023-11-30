@@ -90,27 +90,75 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 ### Checklist de Metas de Usabilidade
 
-<Center>
+**Tabela 2** - Checklist Metas de Usabilidade.
 
-**Tabela 4** - Checklist Metas de Usabilidade.
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Metas de Usabilidade</p></font>
 
-| ID  | Descrição                                                                                            | Avaliação |
-| --- | ---------------------------------------------------------------------------------------------------- | --------- | 
-| 14  | É mostrado quais metas de usabilidade foram utilizadas?                                              | Sim  |
-| 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           | Sim   |
-| 16  | As metas de usabilidade são explicadas?                                                             |  Sim  |
-| 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           | Sim   |
-| 18  | É descrito como as metas serão avaliadas no projeto?                                                 |  Não  |
-| 20  | São apresentadas questões condizentes com a meta de eficiência?                                      |  Sim  |
-| 22  | São apresentadas questões condizentes com a meta de segurança?                                       |  Sim  |
-| 23  | São apresentadas questões condizentes com a meta de utilidade?                                       | Sim   |
-| 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    | Sim   |
-| 25  | São apresentadas questões condizentes com a meta de memorabilidade?                                  | Sim   |
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td> É mostrado quais metas de usabilidade foram utilizadas? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> Possui a descrição das metas de usabilidade a serem alcançadas no projeto? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As metas de usabilidade são explicadas?  </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td> Explica o motivo para escolha dessas metas de usabilidade?     </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>É descrito como as metas serão avaliadas no projeto?  ?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>São apresentadas questões condizentes com a meta de eficiência?     </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>São apresentadas questões condizentes com a meta de segurança?  td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td> São apresentadas questões condizentes com a meta de utilidade?  </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td> São apresentadas questões condizentes com a meta de aprendizagem?   </td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>10</td>
+      <td> São apresentadas questões condizentes com a meta de memorabilidade?   </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-
-**Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
-
-</Center>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
 
 
 

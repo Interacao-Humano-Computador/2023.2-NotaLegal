@@ -43,17 +43,17 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     </tr>
     <tr>
       <td>2</td>
-      <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
+      <td>O artefato possui bibliografia e/ou referência bibliográfica?  </td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
+      <td>As referências bibliográficas seguem a ordem de chamada do texto? </td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
+      <td>Todas as referências bibliográficas são chamadas no texto?</td>
       <td>Sim</td>
     </tr>
     <tr>
@@ -63,13 +63,13 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     </tr>
     <tr>
       <td>6</td>
-      <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td>Sim</td>
+      <td>Todas as tabelas possuem legendas e fontes padronizadas? </td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td>Sim</td>
+      <td>Todas as tabelas são referenciadas no texto?  </td>
+      <td>Não se aplica </td>
     </tr>
     <tr>
       <td>8</td>
@@ -108,54 +108,54 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>01</td>
       <td> O guia de estilo construído é relevante para o site avaliado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>02</td>
       <td> Possui um objetivo claro definido para o guia de estilo?                                               </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>03</td>
       <td>Existe um público-alvo específico para o guia de estilos? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>04</td>
       <td>Instrui sobre como utilizar e manter o guia de estilo de maneira eficaz? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>05</td>
       <td>O guia de estilo do projeto é estruturado com base nos resultados da análise, incluindo uma descrição do ambiente de trabalho do usuário?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>06</td>
       <td>O guia de estilo contém elementos de interface, como disposição espacial, grid, janelas, tipografia e cores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>07</td>
       <td> Existem elementos de interação no guia de estilo, como estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>08</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>09</td>
       <td> O guia de estilo inclui elementos de ação, como preenchimento de campos, seleção e ativação? </td>
-      <td></td>
+      <td>Não</td>
     </tr>
      <tr>
       <td>10</td>
       <td>  São abordadas exceções e estados de erro no guia de estilo? </td>
-      <td></td>
+      <td>Não</td>
     </tr>
   </tbody>
 </table>
@@ -176,7 +176,10 @@ Nenhum problema encontrado no checklist geral.
 
 ### Checklist Específico
 
-Nenhum problema encontrado no checklist específico.
+**ID 09**: O guia de estilo não inclui elementos de ação, como preenchimento de campos, seleção e ativação;
+
+
+**ID 10**:  Não são abordadas exceções e estados de erro no guia de estilo.
 
 ## Resultados
 
@@ -189,9 +192,9 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Guia de Estilo" no checklist geral.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Checklist%20Geral-%20Guia%20de%20Estilo.png?raw=true" style="width: 45%;">
 
-<p><b>Fonte:</b> Lucas de OLiveira, 2023.</p>
+<p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 </div>
 
 ### Checklist específico
@@ -201,7 +204,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Guia de Estilo" no checklist específico.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Checklist%20especifico-%20Guia%20de%20Estilo.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 

@@ -22,30 +22,78 @@ O projeto foi submetido a avaliações tanto de protótipos quanto de modelos co
   <tr>
     <td>Avaliação do Storyboard	</td>
     <td align="center">Entrevista</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>,
+    <a href="https://github.com/GZaranza">Gabriel Zaranza</a>,
+    <a href="https://github.com/izabellaalves">Izabella Alves</a>,
+    <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>,
+    <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>,
+    <a href="https://github.com/Lucas13032003">Lucas Victor</a>,
+    <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    <td align="center">7</td>
+    <td align="center"><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar_extrato/">Consultar Extrato</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/">Consultar Estabelecimento</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-sorteio/">Consultar Sorteio</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/desbloquear_saldo/">Desbloquear Saldo</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/registrar_reclama%C3%A7%C3%A3o/">Registrar Reclamação</a>,
+      <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/visualizar_recibo/">Visualizar Recibo</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-reclama%C3%A7%C3%A3o/">Consultar Reclamação</a></td>
   </tr>
   <tr>
     <td>Avaliação da Análise de Tarefas	</td>
     <td align="center">Entrevista</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>,
+    <a href="https://github.com/GZaranza">Gabriel Zaranza</a>,
+    <a href="https://github.com/izabellaalves">Izabella Alves</a>,
+    <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>,
+    <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>,
+    <a href="https://github.com/Lucas13032003">Lucas Victor</a>,
+    <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    <td align="center">7</td>
+    <td align="center"><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar_extrato/">Consultar Extrato</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-estabelecimento/">Consultar Estabelecimento</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-sorteio/">Consultar Sorteio</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/desbloquear_saldo/">Desbloquear Saldo</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/registrar_reclamacao/">Registrar Reclamação</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/visualizar_recibo/">Visualizar Recibo</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-reclama%C3%A7%C3%A3o/">Consultar Reclamação</a></td>
   </tr>
   <tr>
     <td>Avaliação do Protótipo de Papel	</td>
     <td align="center">Entrevista</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>,
+    <a href="https://github.com/GZaranza">Gabriel Zaranza</a>,
+    <a href="https://github.com/izabellaalves">Izabella Alves</a>,
+    <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>,
+    <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>,
+    <a href="https://github.com/Lucas13032003">Lucas Victor</a>,
+    <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    <td align="center">7</td>
+    <td align="center"><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/consultar-extrato/">Consultar Extrato</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/consultar-estabelecimento/">Consultar Estabelecimento</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/consultar-sorteio/">Consultar Sorteio</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/desbloquear_saldo/">Desbloquear Saldo</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/registrar_reclama%C3%A7%C3%A3o/">Registrar Reclamação</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/visualizar-recibo/">Visualizar Recibo</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/resultados-prototipo-papel/consultar-reclamacao/">Consultar Reclamação</a></td>
   </tr>
   <tr>
     <td>Avaliação do Protótipo de Alta Fidelidade	</td>
     <td align="center">Teste de Usabilidade	</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>,
+    <a href="https://github.com/GZaranza">Gabriel Zaranza</a>,
+    <a href="https://github.com/izabellaalves">Izabella Alves</a>,
+    <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>,
+    <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>,
+    <a href="https://github.com/Lucas13032003">Lucas Victor</a>,
+    <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    <td align="center">8</td>
+    <td align="center"><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-extrato/">Consultar Extrato</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-estabelecimento/">Consultar Estabelecimento</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-sorteio/">Consultar Sorteio</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/desbloquear_saldo/">Desbloquear Saldo</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/registrar_reclama%C3%A7%C3%A3o/">Registrar Reclamação</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/visualizar_recibo/">Visualizar Recibo</a>,
+    <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-reclamacao/">Consultar Reclamação</a></td>
   </tr>
 </table>
 
@@ -59,6 +107,8 @@ Através das avaliações realizadas, conseguimos obter uma compreensão mais cl
 Além disso, as avaliações proporcionaram uma rica experiência para a equipe, permitindo o contato direto com os usuários e a aplicação prática dos métodos de "Entrevista" e "Teste de Usabilidade" propostos na disciplina. Em resumo, as avaliações conduzidas nos protótipos e modelos conceituais não apenas forneceram informações cruciais, mas também desempenharam um papel significativo na evolução contínua do projeto.
 
 ## Bibliografia
+
+> Nota Legal. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main. Acesso em 30 de novembro de 2023.
 
 ## Histórico de Versões
 

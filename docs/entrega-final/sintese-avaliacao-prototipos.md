@@ -86,7 +86,7 @@ O projeto foi submetido a avaliações tanto de protótipos quanto de modelos co
     <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>,
     <a href="https://github.com/Lucas13032003">Lucas Victor</a>,
     <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    <td align="center">8</td>
+    <td align="center">10</td>
     <td align="center"><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-extrato/">Consultar Extrato</a>,
     <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-estabelecimento/">Consultar Estabelecimento</a>,
     <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-sorteio/">Consultar Sorteio</a>,

@@ -64,7 +64,7 @@ Na Figura 2, apresentamos o protótipo de alta fidelidade que desenvolvemos com 
 
 <font size="3"><b>Figura 2</b>: Figma do Protótipo de Alta Fidelidade</font>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/file/MJupUznpXWbcPgj9LDRoiw/Untitled?type=design&node-id=0-1&mode=design&t=E0yLl9CSAZrDVOTN-0" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/file/zo5bHUhy7xPGbnOlXXu7Zo/Copia_PA_NotaLegal?type=design&node-id=0%3A1&mode=design&t=Y3uU4nmutRmk62oJ-1" allowfullscreen></iframe>
 
 <font size="3"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 

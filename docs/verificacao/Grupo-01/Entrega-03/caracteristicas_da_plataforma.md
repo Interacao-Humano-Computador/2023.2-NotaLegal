@@ -49,12 +49,12 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
@@ -109,34 +109,34 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>01</td>
       <td> As características da plataforma para o projeto são identificadas? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>02</td>
       <td>As limitações são apresentadas? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>03</td>
       <td>A responsividade da página é discutida?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>04</td>
       <td> São identificados pontos negativos do sistema?    </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>05</td>
       <td>A metodologia utilizada é apresentada no artefato? </td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>06</td>
       <td>São identificadas as tecnologias que foram utilizadas    </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -158,11 +158,24 @@ Nenhum problema encontrado no checklist geral.
 
 ### Checklist Específico
 
-Nenhum problema encontrado no checklist específico.
+**ID 05**: A metodologia não é apresentada no artefato.
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Característícas da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Característícas da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação. Também a gravação da verificação desse artefato, bem como a gravação de consolidação que também se faz necessária.
+
+## Video de Verificação artefato Características da Plataforma
+
+Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist utilizado. Para cada item do checklist, será apresentado o resultado obtido e, caso o resultado seja negativo, será apresentado também o problema encontrado. Além disso, a gravação desta verificação está disponível no vídeo 1.
+
+<p style="text-align: center"><a href="https://youtu.be/j8luLnP1szU" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Verificação</a></p>
+
+<iframe width="560" height="315" src="https://youtu.be/j8luLnP1szU" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
+
+
 
 ### Checklist geral
 
@@ -171,7 +184,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Características Gerais" no checklist geral.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Checklist%20Geral%20-%20Caracteristicas%20da%20plataforma.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de OLiveira, 2023.</p>
 </div>
@@ -183,7 +196,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Características Gerais" no checklist específico.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Checklist%20Especifico-%20Caracteristicas%20da%20Plataforma.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 

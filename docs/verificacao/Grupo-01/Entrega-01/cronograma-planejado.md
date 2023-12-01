@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Cronograma Planejado](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md) desenvolvido pelo [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main) como parte da disciplina de Interação Humano e Computador. Analisaremos a versão 1.6 desse documento, incluída no histórico em 08/11/2023.
+Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Cronograma Planejado](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md) desenvolvido pelo [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main) como parte da disciplina de Interação Humano e Computador. Analisaremos a versão 1.3 desse documento, incluída no histórico em 27/09/2023.
 
 ## Objetivo
 
@@ -38,47 +38,47 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
 </table>
 
@@ -102,32 +102,32 @@ Na Tabela 2, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td>1</td>
       <td>Possui cronograma planejado e executado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td> O cronograma planejado possui datas de todas atividades de todas as etapas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>O cronograma planejado possui período de correção pós-entrega?</td>
-      <td>Não</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>O Cronograma Planejado possui datas de execução e revisão das atividades de cada etapa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O cronograma prevê atividades de teste e validação após a implementação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>O artefato passou por revisão por parte dos membros da equipe?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 

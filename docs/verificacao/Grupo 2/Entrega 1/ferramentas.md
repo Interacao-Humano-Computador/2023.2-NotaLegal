@@ -42,42 +42,42 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
     <tr>
       <td>2</td>
-      <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
+      <td>O artefato possui bibliografia e/ou referência bibliográfica? [2]</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
+      <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Todas as referências bibliográficas são chamadas?</td>
+      <td>Todas as referências bibliográficas são chamadas? [2]</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>O artefato possui introdução?</td>
+      <td>O artefato possui introdução? [2]</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
+      <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Todas as tabelas são referenciadas no texto?</td>
+      <td>Todas as tabelas são referenciadas no texto? [2]</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
       <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
       <td>Não se aplica</td>
     </tr>
 </table>

@@ -304,8 +304,11 @@ Em resumo, as avaliações desempenharam um papel integral, não apenas fornecen
 ## Bibliografia
 
 > Nota Legal. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main. Acesso em 30 de novembro de 2023.
+> 
 > Storyboard. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/storyboards.md. Acesso em 01 de dezembro de 2023.
+> 
 > Protótipo de Papel. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20II/prototipo_papel/prototipos-de-papel.md. Acesso em 01 de dezembro de 2023.
+> 
 > Protótipo de Alta Fidelidade. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/prototipos-alta-fidelidade.md. Acesso em 01 de dezembro de 2023.
 
 ## Histórico de Versões

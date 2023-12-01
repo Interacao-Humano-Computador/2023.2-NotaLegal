@@ -52,6 +52,8 @@ A Tabela 1 desempenha um papel crucial ao sintetizar de maneira abrangente todo 
 
 ## Conclusão
 
+A execução do ciclo de vida do projeto é um processo fundamental para o seu sucesso. Através de uma documentação e comunicação transparente, é possível promover transparência, facilitar a comunicação, gerenciar riscos de maneira eficaz, estimular aprendizado contínuo e realizar avaliações de desempenho. Recomenda-se que as organizações incentivem a participação das partes interessadas no processo de documentação e que atualizem a documentação regularmente. Essas ações podem melhorar a eficácia da execução do ciclo de vida do projeto.
+
 ## Referências Bibliográficas
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Site Avaliados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md) desenvolvido pelo [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main) como parte da disciplina de Interação Humano e Computador. Analisaremos a versão 1.1 desse documento, incluída no histórico em 10/10/2023.
+Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Site Avaliados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md) desenvolvido pelo [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main) como parte da disciplina de Interação Humano e Computador. Analisaremos a versão 1.10 desse documento, incluída no histórico em 11/10/2023.
 
 ## Objetivo
 
@@ -38,22 +38,22 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
@@ -63,22 +63,22 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
 </table>
 
@@ -102,32 +102,32 @@ Na Tabela 2, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td>1</td>
       <td>A apresentação dos sites avaliados é clara e intuitiva?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O resultado global das avaliações de todos os sites é apresentado de forma abrangente?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Cada sítio possui uma avaliação individual detalhada?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>São claramente destacadas as heurísticas violadas em cada sítio avaliado?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Foi identificado e comunicado o problema principal em cada sítio avaliado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>O método de avaliação de cada sítio é explicado de maneira compreensível e transparente</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
   </table>
 
@@ -142,26 +142,18 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 ### Checklist Geral
 
-1. **ID: 1**
-   - **Descrição:** Histórico de Versão Não Padronizado
-   - **Resposta:** Incompleto
-   - **Observação:** As tabelas estão com títulos de colunas no singular, de forma que elas estão despadronizadas com os outros Artefatos.
+Dentro do Checklist Geral não foi identificado problemas.
 
 ### Checklist Site Avaliados
 
-1. **ID: 3**
-   - **Descrição:** Avaliação Individual Incompleta
-   - **Avaliação:** Incompleto
-   - **Observação:** A avaliação individual detalhada de cada sítio ainda não foi concluída, podendo afetar a compreensão completa das análises.
-
-2. **ID: 4**
+1. **ID: 4**
    - **Descrição:** Heurísticas Não Destacadas
    - **Avaliação:** Não
    - **Observação:** As heurísticas violadas em cada sítio avaliado não foram claramente destacadas, o que pode dificultar a identificação e correção de problemas específicos.
 
-3. **ID: 6**
+1. **ID: 6**
    - **Descrição:** Método de Avaliação Não Explicado
-   - **Avaliação:** Não
+   - **Avaliação:** Incompleto
    - **Observação:** O método de avaliação de cada sítio não foi explicado de maneira compreensível e transparente, o que pode impactar a confiança nos resultados apresentados.
 
 ### Observação:
@@ -169,6 +161,20 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 A conclusão das avaliações individuais, a clara identificação das heurísticas violadas e a explicação transparente dos métodos de avaliação são cruciais para a eficácia do artefato de Sites Avaliados. Recomenda-se a pronta correção desses pontos para garantir a qualidade e utilidade do trabalho desenvolvido pelo [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main).
 
 
+
+## Gravação do Documento de Verificação "Site Avaliados"
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Site Avaliados" do Nota Legal.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/W8GgvhgV6k8" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Site Avaliados".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W8GgvhgV6k8?si=TqSMdrC-toMgsEW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
 
 ## Resultados
 

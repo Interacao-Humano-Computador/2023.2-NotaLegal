@@ -313,3 +313,4 @@ Em resumo, as avaliações desempenharam um papel integral, não apenas fornecen
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 30/11/2023 | Criação do documento | [Lucas Ribeiro](https://github.com/lucassouzs)  |  [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
+| `1.1`  | 01/12/2023 | Conslusão do documento | [Lucas Ribeiro](https://github.com/lucassouzs)  |  [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |

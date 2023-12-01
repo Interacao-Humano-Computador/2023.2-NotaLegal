@@ -182,9 +182,9 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Processo de Design de IHC" no checklist geral.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Verifica%C3%A7%C3%A3o_LV/Processo-de-desing.png?raw=true" style="width: 45%;">
 
-<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 ### Checklist específico
@@ -194,9 +194,9 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Processo de Design de IHC" no checklist específico.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Verifica%C3%A7%C3%A3o_LV/Processo-de-desing_1.png?raw=true" style="width: 45%;">
 
-<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 </div>
 

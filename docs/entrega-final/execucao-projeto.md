@@ -16,7 +16,7 @@ A Tabela 1 desempenha um papel crucial ao sintetizar de maneira abrangente todo 
     <tr align="center">
       <th>Fases</th>
       <th colspan="3">Definição</th>
-      <th>Artefatos</th>
+      <th>Artefato(s) Produzido(s)</th>
     </tr>
   </thead>
   <tbody>

@@ -35,47 +35,47 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -102,27 +102,27 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Análise 
     <tr>
       <td>1</td>
       <td>A tarefa é organizada entre objetivos e operações?</td>
-      <td>  </td>
+      <td> Incompleto </td>
     </tr>
     <tr>
       <td>2</td>
       <td>Os objetivos e operações estão sendo representados graficamente certos ?</td>
-      <td>  </td>
+      <td> Incompleto </td>
     </tr>
     <tr>
       <td>3</td>
       <td>O diagrama mostra as relações entre os subobjetivos?</td>
-      <td></td>
+      <td> Incompleto</td>
     </tr>
     <tr>
       <td>4</td>
       <td>A tabela do HTA mostra os inputs,feedbacks, planos, problemas e recomendações?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Cada subobjetivo é alcançado por uma operação?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
    
   </tbody>
@@ -139,7 +139,23 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Análise 
 
 ### Checklist específico
 
-- Não foi possível identificar nenhum erro no documento.
+- **ID01 E ID02:** O diagrama da tarefa "Registrar uma reclamação" não mostra as operações, por isso não é possível identificar se há operações. Ficou faltando a "barra" embaixo das operações.
+- **ID03:**  O diagrama da tarefa "Registrar uma reclamação" não mostra as relações entre os objetivos e subobjetivos e o diagrama da tarefa "Visualizar Recibo Fiscal" não mostra a relação entre o objetivo 0 e os subobjetivos 2, 3, 4 e 5.
+-  **ID05:** Não foi possível identificar as operações do diagrama da tarefa "Registrar uma reclamação", por isso não é possível saber se os objetivos terminam em operação.
+
+## Gravação do Documento de Verificação "Análise Hierarquica de Tarefas"
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Análise Hierarquica de Tarefas" do site do Nota Legal.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/L1hu5nCrAXs" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Aspectos Éticos".</a></p>
+
+<iframe width="560" height="315" src="https://youtu.be/L1hu5nCrAXs" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b>  <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+
+</div>
 
 ## Resultados
 
@@ -152,7 +168,8 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Análise Hierarquica de Tarefas" no checklist geral.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Geral/Geral%20-%20Análise Hierarquica de Tarefas.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/6ff8fc99-1382-40ca-a41c-32e6e6cba17d" style="width: 45%;">
+
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 </div>
@@ -164,7 +181,8 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Análise Hierarquica de Tarefas" no checklist específico.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Específico/Específico%20-%20Análise Hierarquica de Tarefas.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/21fcc203-85eb-4e69-ba29-64bba17fd69f" style="width: 45%;">
+
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 

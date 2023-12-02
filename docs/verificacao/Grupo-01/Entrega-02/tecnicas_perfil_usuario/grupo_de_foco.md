@@ -152,7 +152,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Grupo de Foco" no checklist geral.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_rosa/Geral/Geral%20-%20Grupo%20de%20Foco.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_rosa/Geral/Geral%20-%20Grupo%20de%20Foco.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
 </div>
@@ -164,7 +164,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Grupo de Foco" no checklist específico.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_rosa/Específico/Específico%20-%20Grupo%20de%20Foco.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_rosa/Específico/Específico%20-%20Grupo%20de%20Foco.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
 

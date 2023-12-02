@@ -103,7 +103,7 @@ O site Nota Legal oferece um design responsivo, mas em algumas situações, espe
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Tela 1 responsiva com erro.</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Tela%201.png" style="width: 80%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Tela%201.png?raw=true" style="width: 80%;height=auto;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></p></font>
 </div>
@@ -111,7 +111,7 @@ O site Nota Legal oferece um design responsivo, mas em algumas situações, espe
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Tela 2 responsiva com erro.</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Tela%202.png" style="width: 80%;height=auto;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Tela%202.png?raw=true" style="width: 80%;height=auto;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></p></font>
 </div>

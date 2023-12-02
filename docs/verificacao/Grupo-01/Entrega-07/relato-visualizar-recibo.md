@@ -190,7 +190,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação checklist geral.</p>
 
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/bb2fe9b5f946e163521c278e8138423c52da14c2/docs/imagens/verifcacao-cg-rrr.png" style="width: 45%;">
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/bb2fe9b5f946e163521c278e8138423c52da14c2/docs/imagens/verifcacao-cg-rrr.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Izabella Alves, 2023.</p>
 </div>
@@ -202,7 +202,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/bb2fe9b5f946e163521c278e8138423c52da14c2/docs/imagens/verifcacao-ce-rrr.png" style="width: 45%;">
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/bb2fe9b5f946e163521c278e8138423c52da14c2/docs/imagens/verifcacao-ce-rrr.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Izabella Alves, 2023.</p>
 

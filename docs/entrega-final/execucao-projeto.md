@@ -68,6 +68,8 @@ A execução do ciclo de vida do projeto é um processo fundamental para o seu s
 > Design Avaliação Desenvolvimento 2. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main/docs/design-avaliacao-desenvolvimento%20II. Acesso em 01 de dezembro de 2023.
 > 
 > Design Avaliação Desenvolvimento 3. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main/docs/design-avaliacao-desenvolvimento%20III. Acesso em 01 de dezembro de 2023.
+>
+> Processo de Design. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/processo-de-design.md#ciclo-de-vida-de-mayhew. Acesso em 02 de dezembro de 2023.
 
 ## Histórico de Versões
 

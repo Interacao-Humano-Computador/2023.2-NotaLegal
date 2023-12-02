@@ -10,7 +10,7 @@ A metodologia e o planejamento da verificação desse artefato foram definidos n
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de checklist. Cada elemento do checklist será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos do planejamento da verificação, e outro específico, direcionado exclusivamente a esse artefato em foco.
 
-Nesse documento específico, a verificação foi feita em dupla por [Lucas Ribeiro](https://github.com/lucassouzs) e [Zenilda Vieira](https://github.com/zenildavieira). O link do vídeo dessa verificação encontra-se no final do documento, após a análise dos problemas encontrados. Foi feita também a consolidação da inspeção e correção com o autor do documento, [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), e um dos responsáveis pela inspeção, [Lucas Ribeiro](https://github.com/lucassouzs).
+Nesse documento específico, a verificação foi feita em dupla por [Lucas Ribeiro](https://github.com/lucassouzs) e [Zenilda Vieira](https://github.com/zenildavieira). O link do vídeo dessa verificação encontra-se no final do documento (vídeo 1), após a análise dos problemas encontrados. Foi feita também a consolidação da inspeção e correção com o autor do documento, [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), e um dos responsáveis pela inspeção, [Lucas Ribeiro](https://github.com/lucassouzs) (vídeo 2).
 
 ## Apresentação dos dados
 
@@ -35,47 +35,47 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td>Não se aplica</td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td>Não se aplica</td>
+      <td></td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td>Incompleto</td>
+      <td></td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td>Não se aplica</td>
+      <td></td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td>Não se aplica</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -98,57 +98,57 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
     <tr>
       <td>01</td>
       <td>O artefato descreve os objetivos da avaliação? [3]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato descreve o método empregado na avaliação? [3]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato descreve as questões práticas da avaliação? [3]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato descreve as questões éticas da avaliação? [3]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>04</td>
       <td>O artefato apresenta o participante selecionado? [3]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>05</td>
       <td>O artefato possui um cronograma executado da avaliação?</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>06</td>
       <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>07</td>
       <td>O artefato possui uma gravação da avaliação? [3]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>08</td>
       <td>O artefato possui um tópico para análise dos resultados? [3]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>09</td>
       <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
-      <td>Não</td>
+      <td></td>
     </tr>
     <tr>
       <td>10</td>
       <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
-      <td>Incompleto</td>
+      <td></td>
     </tr>
   </table>
 
@@ -168,7 +168,7 @@ No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relaç
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do checklist geral.</p>
 
-  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_Zenilda/Cenarios_CheckGeral.jpg" style="width: 45%;">
+  <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -182,7 +182,7 @@ No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relaç
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_Zenilda/Cenarios_CheckEsp.jpg" style="width: 45%;">
+  <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -230,5 +230,5 @@ No vídeo 2 é possível assistir a consolidação da inspeção do artefato com
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 25/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira)| [Izabella Alves](https://github.com/izabellaalves) |
-| `1.1`  | 02/12/2023 | Preenchimento dos checklists e problemas encontrados  | [Lucas Ribeiro](https://github.com/lucassouzs)| [Izabella Alves](https://github.com/izabellaalves) |
+| `1.0`  | 25/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira)| [Gabriel Rosa](https://github.com/gabrielrosa09) |
+| `1.1`  | 02/12/2023 | Preenchimento dos checklists e problemas encontrados  | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Rosa](https://github.com/gabrielrosa09) |

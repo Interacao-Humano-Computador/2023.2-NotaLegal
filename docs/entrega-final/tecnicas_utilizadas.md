@@ -189,6 +189,12 @@ Na tabela 1 é possíver as técnicas utilizadas de acordo com a entrega e o art
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
+## Referências Bibliográficas
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+>
+> [2] Nielsen, J. Usability Engineering. New York, NY: Academic Press, 1993.
+
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |

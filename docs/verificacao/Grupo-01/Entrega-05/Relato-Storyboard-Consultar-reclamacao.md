@@ -157,6 +157,14 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 O artefato...
 
+2 de novembro para 8 de novembro, das 20:00 _*(para)*_ às 23:30,
+não foi coemntado que a entrevistada mudou
+o título do vído falat um a - Storybord
+
+É relevante destacar que os participantes demonstraram um elevado grau de conforto durante sua participação na pesquisa e mostraram clara compreensão da linguagem utilizada nas perguntas
+
+entrevista mais elaborada
+
 ### Checklist geral
 
 - **ID xx:** 

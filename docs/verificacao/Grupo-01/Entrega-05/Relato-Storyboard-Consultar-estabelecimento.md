@@ -163,6 +163,18 @@ Na tabela 2, estão listados os critérios que devem ser verificados no Relato d
 
 - **ID 06:** 
 
+## Vídeo da Consolidação da Inspeção e da Correção
+
+No vídeo 2 é possível assistir a consolidação da inspeção do artefato com o integrante do grupo [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=GrWg2NFjubo" target="blanket"><b>Vídeo 2:</b> Consolidação da Inspeção e da Correção</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GrWg2NFjubo" title="Consolidação da Inspeção" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
 
 
 ## Referências Bibliográficas

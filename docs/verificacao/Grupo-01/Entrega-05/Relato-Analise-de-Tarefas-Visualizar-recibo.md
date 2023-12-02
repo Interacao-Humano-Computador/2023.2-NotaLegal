@@ -10,7 +10,7 @@ A metodologia e o planejamento da verificação desse artefato foram definidos n
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de checklist. Cada elemento do checklist será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos do planejamento da verificação, e outro específico, direcionado exclusivamente a esse artefato em foco.
 
-Nesse documento específico, a verificação foi feita em dupla por [Lucas Ribeiro](https://github.com/lucassouzs) e [Zenilda Vieira](https://github.com/zenildavieira). O link do vídeo dessa verificação encontra-se no final do documento (vídeo 1), após a análise dos problemas encontrados. Foi feita também a consolidação da inspeção e correção com o autor do documento, [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), e um dos responsáveis pela inspeção, [Lucas Ribeiro](https://github.com/lucassouzs) (vídeo 2).
+Nesse documento específico, a verificação foi feita por [Zenilda Vieira](https://github.com/zenildavieira). O link do vídeo dessa verificação encontra-se no final do documento (vídeo 1), após a análise dos problemas encontrados. 
 
 ## Apresentação dos dados
 
@@ -80,7 +80,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ### Checklist Específico
@@ -152,7 +152,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
     </tr>
   </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Problemas encontrados
@@ -170,7 +170,7 @@ No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relaç
 
   <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ### Checklist específico
@@ -184,33 +184,20 @@ No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relaç
 
   <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Vídeo da Verificação do Artefato
 
-No vídeo 1 a seguir é possível assistir a verificação do artefato que foi feita pela dupla [Zenilda Vieira](https://github.com/zenildavieira) e [Lucas Ribeiro](https://github.com/lucassouzs).
+No vídeo 1 a seguir é possível assistir a verificação do artefato que foi feita por [Zenilda Vieira](https://github.com/zenildavieira).
 
 <div align="center">
 
-<p style="text-align: center"><a href="" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=GrWg2NFjubo" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
 
-<iframe width="560" height="315" src="" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GrWg2NFjubo" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
-</div>
-
-## Vídeo da Consolidação da Inspeção e da Correção
-
-No vídeo 2 é possível assistir a consolidação da inspeção do artefato com o integrante do grupo [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).
-
-<div align="center">
-
-<p style="text-align: center"><a href="" target="blanket"><b>Vídeo 2:</b> Consolidação da Inspeção e da Correção</a></p>
-
-<iframe width="560" height="315" src="" title="Consolidação da Inspeção" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Referências Bibliográficas

@@ -76,7 +76,7 @@ Nessa tarefa, o usuário possui como principal objetivo realizar uma reclamaçã
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Diagrama HTA da tarefa registrar uma reclamação</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/HTA%20-%20Registrar%20Reclamação.jpg?raw=true" class="usecaseElement">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/HTA%20-%20Registrar%20Reclamaçao.jpg?raw=true" class="usecaseElement">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
@@ -89,10 +89,10 @@ Nessa tarefa, o usuário possui como principal objetivo realizar uma reclamaçã
 
 | **Objetivos/Operações**                                     | **Problemas e Recomendações**                       |
 | --------------------------------------------- | --------------------------------------------------- |
-| Tarefa 0: Registrar uma reclamação no site do Nota Legal |    Nenhum problema ou recomendação listados.   |
+| Tarefa 0: Registrar uma reclamação no site do Nota Legal 1 > 2 > 3 > 4 > 5 |    Nenhum problema ou recomendação listados.   |
 | Tarefa 1: Navegar até a seção de "Reclamações" no menu principal | Nenhum problema ou recomendação listados. |
 | Tarefa 2: Clicar no botão "Registrar nova reclamação" | **feedback**: ser redirecionado para a página de registro de reclamação.      |
-| Tarefa 3: Detalhar a reclamação | Nenhum problema ou recomendação listados.      |
+| Tarefa 3: Detalhar a reclamação 1 + 2 + 3 + 5 + 6 + 7 | Nenhum problema ou recomendação listados.      |
 | Subtarefa 3.1: Anexar o documento fiscal | **input**: documento jpg ou png do documento fiscal de interesse.      |
 | Subtarefa 3.2: Selecionar o tipo da nota | **input**: o usuário deve selecionar o tipo da nota, se é uma NF-E, NFC-E, NFS-E ou RPS.      |
 | Subtarefa 3.3: Inserir a chave de acesso | **input**: o usuário deve inserir a chave de acesso que contém na nota.     |
@@ -322,3 +322,4 @@ O objetivo principal da tarefa a seguir é consultar o resultado dos sorteios qu
 |`1.4`|12/10/2023|Adição do hta de consultar resultado de sorteio|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 |`1.5`|12/10/2023|Adição do hta de consultar extrato|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 |`1.6`|12/10/2023|Adição do hta de visualizar recibo fiscal|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
+|`1.7`|03/12/2023|Correção após a inspeção|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Víctor](https://github.com/Lucas13032003)|

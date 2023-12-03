@@ -396,6 +396,160 @@ Na tabela X, estão listados os critérios que devem ser verificados no [Relato 
 <p><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p>
 </div>
 
+
+
+### Checklist Específico do Relato do Resultado do Protótipo de Papel "Consultar Extrato"
+
+Na tabela X, estão listados os critérios que devem ser verificados no [Relato do Resultado do Protótipo de Papel "Consultar Reclamação"](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-extrato.md) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+  <p><b>Tabela X:</b> Checklist de Verificação para o artefato "Relato do Resultado do Protótipo de Papel "Consultar Extrato"</p>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>O artefato descreve os objetivos da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>O artefato descreve o método empregado na avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve as questões práticas da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve as questões éticas da avaliação? [4]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O artefato apresenta o participante selecionado? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O artefato possui um cronograma executado da avaliação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>O artefato possui uma gravação da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>O artefato possui um tópico para análise dos resultados? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
+      <td></td>
+    </tr>
+  </table>
+
+
+<p><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p>
+</div>
+
+
+### Checklist Específico do Relato do Resultado do Protótipo de Papel "Consultar Estabelecimento"
+
+Na tabela X, estão listados os critérios que devem ser verificados no [Relato do Resultado do Protótipo de Papel "Consultar Estabelecimento"](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-estabelecimento.md) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+  <p><b>Tabela X:</b> Checklist de Verificação para o artefato "Relato do Resultado do Protótipo de Papel "Consultar Estabelecimento"</p>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>O artefato descreve os objetivos da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>O artefato descreve o método empregado na avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve as questões práticas da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve as questões éticas da avaliação? [4]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O artefato apresenta o participante selecionado? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O artefato possui um cronograma executado da avaliação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>O artefato possui uma gravação da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>O artefato possui um tópico para análise dos resultados? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
+      <td></td>
+    </tr>
+  </table>
+
+
+<p><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p>
+</div>
+
+
+
+
+
+
 ## Referências Bibliográficas
 >
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
@@ -412,3 +566,4 @@ Na tabela X, estão listados os critérios que devem ser verificados no [Relato 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
 | `1.0`  | 09/11/2023 | Criação do documento                | [Izabella Alves](https://github.com/izabellaalves) | [Zenilda Vieira](https://github.com/zenildavieira)|
+| `1.1`  | 02/12/2023 | Adição checklists               | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Zenilda Vieira](https://github.com/zenildavieira)|

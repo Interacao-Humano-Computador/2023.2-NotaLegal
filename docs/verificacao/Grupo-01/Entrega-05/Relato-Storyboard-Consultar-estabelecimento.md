@@ -158,7 +158,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Problemas encontrados
 
-De um modo geral, o documento está bem feito, bem organizado e formatado. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação do storyboard. Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: _*das 17:00 às 19:15*_ ao invés de _*das 17:00 para às 19:15*_, em _*procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa*_ "objetivos" aparecem duas vezes, _*demonstrarou*_ ao invés de _*demonstrou*_, _*compreenderam*_ ao invés de _*compreendeu*_, _*aos participantes*_ ao invés de _*ao participante*_. 
+De um modo geral, o documento está bem feito, bem organizado e formatado. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação do storyboard. Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: _*das 17:00 às 19:15*_ ao invés de _*das 17:00 para às 19:15*_, em _*procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa*_ "objetivos" aparece duas vezes, _*demonstrarou*_ ao invés de _*demonstrou*_, _*compreenderam*_ ao invés de _*compreendeu*_, _*aos participantes*_ ao invés de _*ao participante*_. 
 
 Além disso, na questão 4 "Você consegue entender o storyboard e as ações desenvolvidas nele?", que o entrevistado respondeu "Mais ou Menos", a resposta dele poderia ter sido explorada melhor após a questão aberta e até obtida sugestões para aprimoramento do storyboard feito.
 

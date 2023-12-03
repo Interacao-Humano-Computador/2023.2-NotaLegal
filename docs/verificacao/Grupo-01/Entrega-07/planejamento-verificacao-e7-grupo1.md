@@ -859,3 +859,4 @@ Na tabela X, estão listados os critérios que devem ser verificados no [Planeja
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
 | `1.0`  | 09/11/2023 | Criação do documento                | [Izabella Alves](https://github.com/izabellaalves) | [Zenilda Vieira](https://github.com/zenildavieira)|
 | `1.1`  | 02/12/2023 | Adição checklists               | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Zenilda Vieira](https://github.com/zenildavieira)|
+| `1.2`  | 03/12/2023 | Adição checklists               | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Zenilda Vieira](https://github.com/zenildavieira)|

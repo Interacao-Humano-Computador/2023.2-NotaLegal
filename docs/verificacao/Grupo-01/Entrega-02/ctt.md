@@ -214,3 +214,8 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 ## Bibliografia
 
 > NOTA LEGAL, [ConcurTaskTree](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt//), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
+
+
+| Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
+| ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
+| `1.0`  | 29/11/2023 | Criação do documento                | [Gabriel Zaranza](https://github.com/gabrielrosa09) | [Lucas Ribeiro](https://github.com/lucassouzs)|

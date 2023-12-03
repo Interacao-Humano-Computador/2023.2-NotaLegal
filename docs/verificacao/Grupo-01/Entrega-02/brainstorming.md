@@ -80,9 +80,6 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
-</div>
-
 ### Checklist do Brainstorming
 
 Na tabela 2, estão listados os critérios que devem ser verificados o Brainstorming dos integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).

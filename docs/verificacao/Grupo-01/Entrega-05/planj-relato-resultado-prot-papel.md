@@ -200,6 +200,8 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 > NOTA LEGAL, [Planejamento do relato dos resultado da avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel//), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
 
 
+##Histórico de Versão
+
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
 | `1.0`  | 03/11/2023 | Criação do documento                | [Gabriel Zaranza](https://github.com/gabrielrosa09) | [Lucas Ribeiro](https://github.com/lucassouzs)|

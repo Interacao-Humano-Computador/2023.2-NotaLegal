@@ -90,7 +90,38 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Introspec
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Introspecção</p></font>
 
-
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Foi definido o cenário para o processo de introspecção?</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O cenário definido apresenta a motivação do usuário?</td>
+      <td>Sim</td>
+    </tr>
+     <tr>
+      <td>3</td>
+      <td>O cenário foi utilizado na sessão de introspecção?</td>
+      <td>Sim</td>
+    </tr>
+      <tr>
+      <td>4</td>
+      <td>Os participantes se colocaram no papel do usuário?</td>
+      <td>Sim</td>
+    </tr>
+   
+  </tbody>
+</table>
 
 
 
@@ -119,7 +150,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Introspecção" no checklist geral.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Geral/Geral%20-%20Introspecção.png?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/02f57957-60b3-428b-81b7-d1de8d02571b" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 </div>
@@ -131,7 +162,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Introspecção" no checklist específico.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Específico/Específico%20-%20Introspecção.png?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/6515f684-1986-4b0a-b067-9e6adbe05493" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 

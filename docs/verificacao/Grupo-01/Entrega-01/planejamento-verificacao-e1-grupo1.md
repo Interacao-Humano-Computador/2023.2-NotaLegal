@@ -433,11 +433,6 @@ Na Tabela 8, estão listados os critérios que devem ser verificados no artefato
 <div align="center">
   <font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist Específico para o Artefato de Protótipo de Papel .</p></font>
 
-  Na Tabela 1, estão listados os critérios que devem ser verificados nos protótipos de papel apresentados pela equipe.
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Específico para os Protótipos de Papel.</p></font>
-
 <table>
     <thead>
         <tr>

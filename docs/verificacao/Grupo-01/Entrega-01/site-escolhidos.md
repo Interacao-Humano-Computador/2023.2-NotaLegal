@@ -162,7 +162,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Site Escolhido" no checklist geral.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Verifica%C3%A7%C3%A3o_LV/Site%20Escolhido.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
@@ -174,7 +174,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Site Escolhido" no checklist específico.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Verifica%C3%A7%C3%A3o_LV/Site%20Escolhido_1.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 

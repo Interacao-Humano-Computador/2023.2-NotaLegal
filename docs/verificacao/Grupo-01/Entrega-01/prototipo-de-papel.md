@@ -106,112 +106,112 @@ Na Tabela 8, estão listados os critérios que devem ser verificados no artefato
             <td rowspan="3">Registrar nova reclamação</td>
             <td>1</td>
             <td>O layout geral do protótipo está claro e organizado?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>2</td>
             <td>A navegação entre telas é intuitiva e compreensível?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>3</td>
             <td>As interações básicas foram simuladas adequadamente?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
                 <tr>
             <td rowspan="3">Desbloquear saldo</td>
             <td>4</td>
             <td>O layout geral do protótipo está claro e organizado?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>5</td>
             <td>A navegação entre telas é intuitiva e compreensível?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>6</td>
             <td>As interações básicas foram simuladas adequadamente?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
                 <tr>
             <td rowspan="3">Consultar estabelecimento</td>
             <td>7</td>
             <td>O layout geral do protótipo está claro e organizado?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>8</td>
             <td>A navegação entre telas é intuitiva e compreensível?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>9</td>
             <td>As interações básicas foram simuladas adequadamente?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
                 <tr>
             <td rowspan="3">Visualizar recibo fiscal</td>
             <td>10</td>
             <td>O layout geral do protótipo está claro e organizado?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>11</td>
             <td>A navegação entre telas é intuitiva e compreensível?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>12</td>
             <td>As interações básicas foram simuladas adequadamente?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
                 <tr>
             <td rowspan="3">Consultar reclamação</td>
             <td>13</td>
             <td>O layout geral do protótipo está claro e organizado?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>14</td>
             <td>A navegação entre telas é intuitiva e compreensível?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>15</td>
             <td>As interações básicas foram simuladas adequadamente?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
                 <tr>
             <td rowspan="3">Consultar extrato</td>
             <td>16</td>
             <td>O layout geral do protótipo está claro e organizado?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>17</td>
             <td>A navegação entre telas é intuitiva e compreensível?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>18</td>
             <td>As interações básicas foram simuladas adequadamente?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
             <td rowspan="3">Consultar resultado de sorteio</td>
             <td>19</td>
             <td>O layout geral do protótipo está claro e organizado?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>20</td>
             <td>A navegação entre telas é intuitiva e compreensível?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>21</td>
             <td>As interações básicas foram simuladas adequadamente?</td>
-            <td></td>
+            <td>Sim</td>
         </tr>
     </tbody>
 </table>

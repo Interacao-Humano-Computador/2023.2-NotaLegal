@@ -35,47 +35,47 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -101,23 +101,23 @@ Na tabela 2, estão listados os critérios que devem ser verificados o ConcurTas
   <tbody>
     <tr>
       <td>1</td>
-      <td>As tarefas são representadas por tarefas do usuário, do sistema, interatvias e abstratas (Figura X)?[1]</td>
-      <td></td>
+      <td>As tarefas são representadas por tarefas do usuário, do sistema, interatvias e abstratas (Figura 1)?[1]</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>As representações dos tipos de tarefas (Figura X) estão de acordo com o padrão?[1]</td>
-      <td></td>
+      <td>As representações dos tipos de tarefas (Figura 2) estão de acordo com o padrão?[1]</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Foram representadas as relações entre as tarefas (Figura X)?[1]</td>
-      <td></td>
+      <td>Foram representadas as relações entre as tarefas (Figura 3)?[1]</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>As relações entre as tarefas foram bem representadas (Figura x)?[1]</td>
-      <td></td>
+      <td>As relações entre as tarefas foram bem representadas (Figura 4)?[1]</td>
+      <td>Sim</td>
     </tr>
    
   </tbody>
@@ -131,7 +131,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o ConcurTas
 
 
 <div align="center">
-  <p><b>Figura X:</b> Tipos de tarefas.</p>
+  <p><b>Figura 1:</b> Tipos de tarefas.</p>
 
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/69390d49-f8d4-421c-a531-dbadc22ea630" style="width: 45%;">
 
@@ -140,7 +140,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o ConcurTas
 </div>
 
 <div align="center">
-  <p><b>Figura X:</b> Representações dos tipos de tarefas no CTT.</p>
+  <p><b>Figura 2:</b> Representações dos tipos de tarefas no CTT.</p>
 
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/619ede95-b5a8-49d9-a47d-5b49e87da35f" style="width: 45%;">
 
@@ -149,7 +149,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o ConcurTas
 </div>
 
 <div align="center">
-  <p><b>Figura X:</b> Relações entre tarefas.</p>
+  <p><b>Figura 3:</b> Relações entre tarefas.</p>
 
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/baca3c7b-ebc9-4fac-a9fe-cb3a75a19a30" style="width: 45%;">
 
@@ -159,7 +159,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o ConcurTas
 
 
 <div align="center">
-  <p><b>Figura X:</b> Representação das relações entre tarefas.</p>
+  <p><b>Figura 4:</b> Representação das relações entre tarefas.</p>
 
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/9761c37a-6c05-419c-93ae-d93678f7ebbf" style="width: 45%;">
 
@@ -189,7 +189,9 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "ConcurTaskTree" no checklist geral.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Geral/Geral%20-%20ConcurTaskTree.png?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/6331a897-71d6-4d85-a20d-6f3cefee1f1f" style="width: 45%;">
+
+
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 </div>
@@ -201,7 +203,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "ConcurTaskTree" no checklist específico.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Específico/Específico%20-%20ConcurTaskTree.png?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/e6b4dff8-481a-4817-8205-59f0b6dd4672" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 

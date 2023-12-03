@@ -433,6 +433,42 @@ Na Tabela 8, estão listados os critérios que devem ser verificados no artefato
 <div align="center">
   <font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist Específico para o Artefato de Protótipo de Papel .</p></font>
 
+  Na Tabela 1, estão listados os critérios que devem ser verificados nos protótipos de papel apresentados pela equipe.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Específico para os Protótipos de Papel.</p></font>
+
+<table>
+    <thead>
+        <tr>
+            <th>Protótipo</th>
+            <th>ID</th>
+            <th>Descrição</th>
+            <th>Avaliação</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3">Para todos os protótipo</td>
+            <td>1</td>
+            <td>O layout geral do protótipo está claro e organizado?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>A navegação entre telas é intuitiva e compreensível?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>As interações básicas foram simuladas adequadamente?</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 </div>

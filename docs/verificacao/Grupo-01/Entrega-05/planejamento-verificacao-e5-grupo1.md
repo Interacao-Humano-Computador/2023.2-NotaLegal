@@ -212,17 +212,17 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
       </td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar_extrato/">Relato dos resultados da avaliação da análise de tarefa "Consultar extrato"</a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-estabelecimento/">Relato dos resultados da avaliação da análise de tarefa "Consultar estabelecimento"</a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-sorteio/">Relato dos resultados da avaliação da Análise da Tarefa "Consultar Sorteio"</a></td>
       <td>
         <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
@@ -230,7 +230,7 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
       </td>
      </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/desbloquear_saldo/">Relato dos resultados da avaliação de análise de tarefa "Desbloquear Saldo"</a></td>
       <td>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br>
@@ -238,29 +238,29 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
       </td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/registrar_reclamacao/">Relato dos resultados da avaliação da análise de tarefa "Registro de uma reclamação"</a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>25/11/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/visualizar_recibo/">Relato dos resultados da avaliação da análise de tarefa "Visualizar Recibo de Indicação"</a></td>
       <td>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-reclama%C3%A7%C3%A3o/">Relato dos resultados da avaliação da análise de tarefa "Consultar reclamação"</a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar_extrato/">Relato dos resultados da avaliação do Storyboard "Consultar Extrato"</a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/">Relato dos resultados da avaliação do Storyboard "Consultar Estabelecimento"</a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
@@ -272,7 +272,7 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>24/11/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/desbloquear_saldo/">Relato dos resultados da avaliação do Storyboard "Consultar Estabelecimento"</a></td>
       <td>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
@@ -280,19 +280,19 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
       </td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/registrar_reclama%C3%A7%C3%A3o/">Relato dos resultados da avaliação do Storyboard "Registrar uma reclamação"</a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/visualizar_recibo/">Relato dos resultados da avaliação do StoryBoard "Visualizar Recibo de Indicação"</a></td>
       <td>
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-reclama%C3%A7%C3%A3o/">Relato dos resultados da avaliação do Storyboard "Consultar Reclamação"</a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
@@ -541,4 +541,4 @@ Na tabela 4, estão listados os critérios que devem ser verificados no Relato d
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
 | `1.0`  | 09/11/2023 | Criação do documento                | [Izabella Alves](https://github.com/izabellaalves) | [Gabriel Rosa](https://github.com/gabrielrosa09)|
 | `1.1`  | 24/11/2023 | Objetos de verificação               | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa09)|
-| `1.2`  | 03/12/2023 | Imagens de referências do checklist geral               | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa09)|
+| `1.2`  | 03/12/2023 | Imagens de referências do checklist geral e datas | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa09)|

@@ -87,7 +87,7 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 ## Checklist Site Avaliados
 
-Na Tabela 2, estão listados os critérios que devem ser verificados no artefato de [Site Avaliados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md) da Entrega 1 do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main).
+Na Tabela 2, estão listados os critérios que devem ser verificados no artefato de [Site Avaliados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md) da Entrega 2 do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main).
 
 
 <div align="center">

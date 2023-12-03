@@ -91,7 +91,7 @@ Na Tabela 2, estão listados os critérios que devem ser verificados no artefato
 
 
 <div align="center">
-  <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
+  <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Específico para o Artefato de Cronograma.</p></font>
 
   <table>
     <tr>

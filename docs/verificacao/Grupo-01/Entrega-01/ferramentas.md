@@ -90,7 +90,7 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
 Na Tabela 2, estão listados os critérios que devem ser verificados no artefato de [Ferramentas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/ferramentas.md) da Entrega 2 do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main).
 
 <div align="center">
-  <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist Específico para o Artefato de Ferramentas.</p></font>
+  <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Específico para o Artefato de Ferramentas.</p></font>
 
   <table>
     <tr>

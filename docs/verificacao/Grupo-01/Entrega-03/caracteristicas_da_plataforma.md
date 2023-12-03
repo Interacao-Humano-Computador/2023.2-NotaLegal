@@ -92,8 +92,6 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 ### Checklist de Características Gerais
 
-<Center>
-
 **Tabela 6** - Checklist Características Gerais
 
 <div align="center">
@@ -144,10 +142,6 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
-
-
-
-
 ## Problemas encontrados
 
 Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Características da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)".
@@ -167,6 +161,8 @@ Nesta seção, serão apresentados os resultados obtidos na verificação do art
 ## Video de Consolidação artefato Características da Plataforma
 
 Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist utilizado. Para cada item do checklist, será apresentado o resultado obtido e, caso o resultado seja negativo, será apresentado também o problema encontrado. Além disso, a gravação desta verificação está disponível no vídeo 1.
+
+<div align="center">
 
 <p style="text-align: center"><a href="https://youtu.be/xF8VmhaLWHk" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Verificação</a></p>
 

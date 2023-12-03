@@ -211,9 +211,9 @@ No vídeo 2 é possível assistir a consolidação da inspeção do artefato com
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=xxx" target="blanket"><b>Vídeo 2:</b> Consolidação da Inspeção e da Correção</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=gfrOEo6Lf9E" target="blanket"><b>Vídeo 2:</b> Consolidação da Inspeção e da Correção</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxx" title="Consolidação da Inspeção" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfrOEo6Lf9E" title="Consolidação da Inspeção" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[Relato dos Resultados da Análise de Tarefas Visualizar Recibo de Indicação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-reclama%C3%A7%C3%A3o/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano-Computador. Será analisada a versão 1.1 do documento, de 06/11/2023, feito por [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira). 
+Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[Relato dos Resultados da Análise de Tarefas Visualizar Recibo de Indicação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/visualizar_recibo/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano-Computador. Será analisada a versão 1.1 do documento, de 06/11/2023, feito por [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira). 
 
 ## Metodologia
 
@@ -217,7 +217,7 @@ No vídeo 1 a seguir é possível assistir a verificação do artefato que foi f
 
 ## Bibliografia
 
-> NOTA LEGAL, [Relato dos Resultados da Análise de Tarefas Visualizar Recibo de Indicação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/visualizar_recibo/#sugestoes-de-melhoria), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
+> NOTA LEGAL, [Relato dos Resultados da Análise de Tarefas Visualizar Recibo de Indicação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/visualizar_recibo/), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
 
 ## Histórico de Versões
 

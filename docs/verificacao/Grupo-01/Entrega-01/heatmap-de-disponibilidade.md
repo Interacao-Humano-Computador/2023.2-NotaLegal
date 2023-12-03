@@ -38,47 +38,47 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 </table>
 
@@ -100,32 +100,32 @@ Na Tabela 2, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td>1</td>
       <td>O objetivo da criação do Heatmap para agendamento de reuniões está claramente definido na introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td> A descrição do processo de preenchimento da tabela do Heatmap está apresentada de maneira clara e compreensível?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>A análise dos resultados do Heatmap, incluindo a escolha do dia e horário para as reuniões, é abordada de forma detalhada?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>A Figura 1, representando o Heatmap, está adequadamente inserida e referenciada no contexto do documento?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>A escolha do dia e horário para as reuniões é justificada de maneira satisfatória no documento?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>A referência bibliográfica ao trabalho de Miguel Mechi Naves Rocha et al. é pertinente e contribui para embasar a utilização do Heatmap?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -147,20 +147,6 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 1. **Nenhum problema identificado:**
    - O Checklist Específico para o Artefato de Heatmap também foi integralmente atendido sem a identificação de problemas. A equipe demonstrou conformidade com todos os critérios estabelecidos para esta fase do projeto.
-
-## Gravação do Documento de Verificação "Heatmap"
-
-No vídeo 1, é possível ver a gravação da avaliação da verificação do "Heatmap" do Nota Legal.
-
-<div align="center">
-  
-<p style="text-align: center"><a href="#" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Heatmap".</a></p>
-
-
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
-
-</div>
 
 ## Resultados
 

@@ -551,7 +551,7 @@ Na tabela X, estão listados os critérios que devem ser verificados no [Relato 
 Na tabela X, estão listados os critérios que devem ser verificados no [Planejamento Relato Protótipo de alta fidelidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
 
 <div align="center">
-  <p><b>Tabela X:</b> Checklist de Verificação para o artefato "Relato do Resultado do Protótipo de Papel "Consultar Estabelecimento"</p>
+  <p><b>Tabela X:</b> Checklist de Verificação para o artefato Planejamento Relato Protótipo de alta fidelidade</p>
   <table>
     <tr>
       <th>ID</th>

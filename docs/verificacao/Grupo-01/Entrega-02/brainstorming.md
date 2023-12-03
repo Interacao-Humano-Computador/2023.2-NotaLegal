@@ -80,6 +80,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   </tbody>
 </table>
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
 ### Checklist do Brainstorming
 
 Na tabela 2, estão listados os critérios que devem ser verificados o Brainstorming dos integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
@@ -186,3 +189,9 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 ## Bibliografia
 
 > NOTA LEGAL, [Brainstorming](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/brainstorming//), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
+
+##Histórico de Versão
+
+| Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
+| ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
+| `1.0`  | 01/11/2023 | Criação do documento                | [Gabriel Zaranza](https://github.com/gabrielrosa09) | [Lucas Ribeiro](https://github.com/lucassouzs)|

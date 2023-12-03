@@ -157,7 +157,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Problemas encontrados
 
-De um modo geral, o documento está bem feito, bem organizado e formatado. Alguns parágrafos estão longos, recomenda-se reescrevê-los em frases mais curtas. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação do storyboard. Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: _*vídeo x*_ ao invés de _*vídeo 1*_ em dois lugares no documento.
+De um modo geral, o documento está bem feito, bem organizado e formatado. Alguns parágrafos estão longos, recomenda-se reescrevê-los em frases mais curtas. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação da análise da tarefa (em grande parte). Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: _*vídeo x*_ ao invés de _*vídeo 1*_ em dois lugares no documento.
 
 A resposta da questão 16 ("Sim") não foi registrada e faltou dar mais ênfase a tarefa específica "Visualizar recibo".
 
@@ -165,7 +165,7 @@ A resposta da questão 16 ("Sim") não foi registrada e faltou dar mais ênfase 
 
 - **ID 02:** Há uma bibliografia que não é utilizada e pode ser retirada.
 
-- **ID 07:** A tabela 2 não está sendo referenciada no texto.
+- **ID 07:** A tabela 2 não está referenciada no texto.
 
 No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relação ao checklist geral.
 

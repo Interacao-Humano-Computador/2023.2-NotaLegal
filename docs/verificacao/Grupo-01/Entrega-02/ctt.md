@@ -6,7 +6,7 @@ Este documento tem como objetivo relatar os resultados da verificação por insp
 
 ## Metodologia
 
-A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 2 do Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1.md) [2].
+A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 2 do Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1.md) .
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de checklist. Cada elemento do checklist será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos do planejamento da verificação, e outro específico, direcionado exclusivamente a esse artefato em foco.
 
@@ -212,7 +212,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 ## Referências Bibliográficas
 >[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >
-> [2] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+
 
 ## Bibliografia
 

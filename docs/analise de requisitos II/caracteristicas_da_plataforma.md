@@ -4,6 +4,10 @@
 
 O site Nota Legal é um portal online que busca atender às necessidades dos usuários de forma eficaz, proporcionando uma experiência de aprendizagem natural e rápida. A fim de alcançar esse objetivo, o site é projetado com base em princípios gerais de Interação Humano-Computador (IHC) e metas de usabilidade. Neste documento, destacaremos as principais características gerais do site Nota Legal, com base nos princípios e diretrizes de IHC e nas metas de usabilidade.
 
+## Metodologia
+
+Para a realização do documento de característica da plataforma, será necessário ter como base os documentos de [Principios Gerais](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/principios-gerais/) e [Metas de Usuabilidade](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/metas_de_usabilidade/), pois tendo em base esses dois documentos, será realizado uma pequena conclusão do que foi falado nesses dois documentos e inserir informações de como acessar o "Nota Legal" e os entraves e limites da plataforma. 
+
 ## Acesso ao Nota Legal
 
 Em relação a requisitos de acesso de software, o usuário só precisa ter acesso a internet, um computador ou dispositivo móvel e um sistema operacional básico. Além disso, para acessar a plataforma em si, é necessário seguir os seguintes passos: 

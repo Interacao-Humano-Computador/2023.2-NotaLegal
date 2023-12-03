@@ -28,64 +28,57 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <th>ID</th>
       <th>Descrição</th>
-      <th>Fonte</th>
-      <th>Foto</th>
+      <th>Avaliação</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td>Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-1.png?raw=true"></td>
+      <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td>Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-1.png?raw=true"></td>
+      <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td>Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-1.png?raw=true"></td>
+      <td>Todas as referências bibliográficas são chamadas no texto?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>O artefato possui introdução? [2]</td>
-      <td>Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-2.png?raw=true"></td>
+      <td>O artefato possui introdução?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td>Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-4.png?raw=true"></td>
+      <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td>Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-5.png?raw=true"></td>
+      <td>Todas as tabelas são referenciadas no texto?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td>Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 18 de novembro de 2023.</td>
-     <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-4.png?raw=true"></td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td>Não se aplica</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
-</div>
 
 ### Checklist do Brainstorming
 

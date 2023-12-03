@@ -680,7 +680,7 @@ Na tabela 10, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Brainstorming
 
-Na tabela 11, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
+Na tabela 11, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/brainstorming/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist para o artefato de Brainstorming</p></font>
@@ -696,7 +696,7 @@ Na tabela 11, estão listados os critérios que devem ser verificados no artefat
   <tbody>
     <tr>
       <td>1</td>
-      <td>Possui justificativa da quantidade de usuários presentes na sessão de brainstorming?</td>
+      <td>Possui de 8 a 12 usuários finais presentes na sessão de brainstorming?</td>
       <td></td>
     </tr>
     <tr>
@@ -734,7 +734,7 @@ Na tabela 11, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Introspecção
 
-Na tabela 12, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/introspeccao/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
+Na tabela 12, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/instrospeccao/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 12:</b> Checklist para o artefato de Introspecção</p></font>
@@ -750,12 +750,22 @@ Na tabela 12, estão listados os critérios que devem ser verificados no artefat
   <tbody>
     <tr>
       <td>1</td>
-      <td>Foi definido o cenário?</td>
+      <td>Foi definido o cenário para o processo de introspecção?</td>
       <td></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>O cenário definido apresenta a motivação do usuário ?</td>
+      <td>O cenário definido apresenta a motivação do usuário?</td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>3</td>
+      <td>O cenário foi utilizado na sessão de introspecção?</td>
+      <td></td>
+    </tr>
+      <tr>
+      <td>4</td>
+      <td>Os participantes se colocaram no papel do usuário?</td>
       <td></td>
     </tr>
    
@@ -767,7 +777,7 @@ Na tabela 12, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Requisitos elicitados
 
-Na tabela 13, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/Brainstorming/#resultados) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
+Na tabela 13, estão listados os critérios que devem ser verificados no artefato [Brainstorming](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/requisitos-elicitados/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 13:</b> Checklist para o artefato de Brainstorming</p></font>
@@ -806,7 +816,7 @@ Na tabela 13, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Análise Hierarquica de Tarefas (HTA)
 
-Na tabela 14, estão listados os critérios que devem ser verificados no artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
+Na tabela 14, estão listados os critérios que devem ser verificados no artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 14:</b> Checklist para o artefato de Análise Hierárquica de Tarefas</p></font>
@@ -854,7 +864,7 @@ Na tabela 14, estão listados os critérios que devem ser verificados no artefat
 
 ### Checklist Específico para Concur Task Trees (CTT)
 
-Na tabela 15, estão listados os critérios que devem ser verificados no artefato [ConcurTaskTrees (CTT)](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
+Na tabela 15, estão listados os critérios que devem ser verificados no artefato [ConcurTaskTrees (CTT)](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt/) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/)
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 15:</b> Checklist para o artefato de ConcurTaskTrees (CTT)</p></font>

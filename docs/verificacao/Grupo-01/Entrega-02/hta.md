@@ -151,7 +151,7 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "A
   
 <p style="text-align: center"><a href="https://youtu.be/L1hu5nCrAXs" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Aspectos Éticos".</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/L1hu5nCrAXs" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/L1hu5nCrAXs" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b>  <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 

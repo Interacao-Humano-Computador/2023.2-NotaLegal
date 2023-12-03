@@ -45,12 +45,12 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td>Não se aplica</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto?</td>
-      <td>Não se aplica</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
@@ -102,33 +102,33 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Brainstor
   <tbody>
     <tr>
       <td>1</td>
-      <td>Possui justificativa da quantidade de usuários presentes na sessão de brainstorming?</td>
-      <td></td>
+      <td>Possui de 8 a 12 usuários finais presentes na sessão de brainstorming?</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Os usuários possuem o perfil definido pela equipe?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>3</td>
       <td>A sessão possui um moderador?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>O moderador da sessão faz perguntas para guiar os participantes?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Todos os participantes falaram e se sentiram seguros para expor opiniões?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>No início da sessão, o moderador informou o objetivo e procedimento da atividade para os participantes?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     
    
@@ -148,7 +148,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Brainstor
 
 ### Checklist específico
 
-- Não foi possível identificar nenhum erro no documento.
+- **ID 1/ ID 2:** Não foram utilizados usuários finais do site Nota Legal, mas sim os próprios integrantes da equipe.
 
 ## Resultados
 
@@ -161,7 +161,9 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Brainstorming" no checklist geral.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Geral/Geral%20-%20Brainstorming.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/31a51532-83ac-437d-8cef-a23ec6efefb0" style="width: 45%;">
+
+
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 </div>
@@ -173,7 +175,8 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Brainstorming" no checklist específico.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Específico/Específico%20-%20Brainstorming.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/450821bc-6770-48a1-81c8-5042ba22ccb3" style="width: 45%;">
+
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 

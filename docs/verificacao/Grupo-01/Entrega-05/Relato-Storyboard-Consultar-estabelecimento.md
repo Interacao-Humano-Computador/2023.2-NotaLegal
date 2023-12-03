@@ -10,18 +10,19 @@ A metodologia e o planejamento da verificação desse artefato foram definidos n
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de checklist. Cada elemento do checklist será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos do planejamento da verificação, e outro específico, direcionado exclusivamente a esse artefato em foco.
 
+Nesse documento específico, a verificação foi feita em dupla por [Gabriel Rosa](https://github.com/gabrielrosa09) e [Zenilda Vieira](https://github.com/zenildavieira). O link do vídeo dessa verificação encontra-se no final do documento (Vídeo 1), após a análise dos problemas encontrados. Foi feita também a consolidação da inspeção e correção com o autor do documento, [Izabella Alves](https://github.com/izabellaalves) (Vídeo 2).
+
 ## Apresentação dos dados
 
-Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
-
+Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica", onde "Sim" e "Não" significam que o artefato está em conformidade ou não com o item do checklist. Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
 
 ### Checklist Geral
 
-Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 5 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+Na tabela 1, encontram-se os resultados obtidos na verificação do checklist geral do artefato em estudo.
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para todos os artefatos da Entrega 5</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 5</p></font>
 
 <table>
   <thead>
@@ -80,15 +81,15 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ### Checklist do Relato dos Resultados do Storyboard
 
-Na tabela 2, estão listados os critérios que devem ser verificados no Relato dos Resultados dos Storyboards de todos os integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+Na tabela 2, encontram-se os resultados obtidos na verificação do checklist específico do artefato em estudo.
 
 <div align="center">
-  <p><b>Tabela 4:</b> Checklist de Verificação para o artefato Relato dos Resultados dos Storyboards</p>
+  <p><b>Tabela 2:</b> Checklist de Verificação para o artefato Relato dos Resultados dos Storyboards</p>
   <table>
     <tr>
       <th>ID</th>
@@ -152,22 +153,75 @@ Na tabela 2, estão listados os critérios que devem ser verificados no Relato d
     </tr>
   </table>
 
-
-<p><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Problemas encontrados
 
+De um modo geral, o documento está bem feito, bem organizado e formatado. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação do storyboard. Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: _*das 17:00 às 19:15*_ ao invés de _*das 17:00 para às 19:15*_, em _*procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa*_ "objetivos" aparecem duas vezes, _*demonstrarou*_ ao invés de _*demonstrou*_, _*compreenderam*_ ao invés de _*compreendeu*_, _*aos participantes*_ ao invés de _*ao participante*_. 
+
+Além disso, na questão 4 "Você consegue entender o storyboard e as ações desenvolvidas nele?", que o entrevistado respondeu "Mais ou Menos", a resposta dele poderia ter sido explorada melhor após a questão aberta e até obtida sugestões para aprimoramento do storyboard feito.
+
+No entanto, cabe ressaltar que a análise dos dados foi muito bem escrita e detalhada e as conclusões foram pertinentes à entrevista realizada. Como sugestão, após o cronograma de correção, seria interessante incluir o storyboard corrigido.
 
 ### Checklist geral
 
-- **ID 06:** 
+Desconsiderando os itens que não se aplicam a esse artefato, todos os itens do checklist geral foram contemplados.
 
+No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relação ao checklist geral.
+
+<div align="center">
+  <p><b>Gráfico 1:</b> Resultados da verificação do checklist geral.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_Zenilda/Consultar_estab_SB_CheckGeral.jpg?raw=true" style="width: 45%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+### Checklist específico
+
+Todos os itens do checklist específico foram contemplados.
+
+No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relação ao checklist específico.
+
+<div align="center">
+  <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
+
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_Zenilda/Consultar_estab_SB_CheckEsp.jpg?raw=true" style="width: 45%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+## Vídeo da Verificação do Artefato
+
+No vídeo 1 a seguir é possível assistir a verificação do artefato que foi feita pela dupla [Zenilda Vieira](https://github.com/zenildavieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=uTNcUKYq9lY" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uTNcUKYq9lY" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+## Vídeo da Consolidação da Inspeção e da Correção
+
+No vídeo 2 é possível assistir a consolidação da inspeção do artefato com a integrante do grupo [Izabella Alves](https://github.com/izabellaalves).
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=xxx" target="blanket"><b>Vídeo 2:</b> Consolidação da Inspeção e da Correção</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxx" title="Consolidação da Inspeção" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
 
 ## Referências Bibliográficas
 
-> [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+> [1] ALVES, Izabella; VIEIRA, Zenilda. [Planejamento da Verificação da Etapa 5 do Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1.md), GAMA, FGA, 2023. Acesso em: 22 de novembro de 2023.
 > 
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
@@ -183,3 +237,4 @@ Na tabela 2, estão listados os critérios que devem ser verificados no Relato d
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 24/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira)| [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.1`  | 02/12/2023 | Preenchimento dos checklists e problemas encontrados  | [Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|

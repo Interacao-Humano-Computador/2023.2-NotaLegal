@@ -38,47 +38,47 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
 </table>
 
@@ -102,32 +102,32 @@ Na Tabela 2, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td>1</td>
       <td>Possui cronograma planejado e executado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td> O cronograma planejado possui datas de todas atividades de todas as etapas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>O cronograma planejado possui período de correção pós-entrega?</td>
-      <td>Não</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>O cronograma executado possui datas de execução e revisão das atividades de cada etapa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O cronograma prevê atividades de teste e validação após a implementação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>O artefato passou por revisão por parte dos membros da equipe?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -155,20 +155,6 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
    - **Resposta:** O cronograma planejado não inclui um período específico de correção após a entrega.
    - **Observação:** A ausência de um período dedicado à correção pós-entrega pode impactar a capacidade da equipe em ajustar e aprimorar o artefato com base em feedbacks recebidos, comprometendo a qualidade final do projeto.
 
-
-## Gravação do Documento de Verificação "Cronograma Executado"
-
-No vídeo 1, é possível ver a gravação da avaliação da verificação do "Cronograma Executado" do Nota Legal.
-
-<div align="center">
-  
-<p style="text-align: center"><a href="#" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Cronograma Executado".</a></p>
-
-
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
-
-</div>
 
 ## Resultados
 

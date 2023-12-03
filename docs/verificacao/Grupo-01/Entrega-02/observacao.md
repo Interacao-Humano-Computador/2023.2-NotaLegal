@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[Observação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/observacao/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano-Computador. Será analisada a versão 1.2 do documento, de 10/10/2023, feito por [Izabella Alves](https://github.com/izabellaalves).
+Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[Observação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-elicitacao/observacao/)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na disciplina de Interação Humano-Computador. Será analisada a versão 1.4 do documento, de 13/10/2023, feito por [Gabriel Zaranza](https://github.com/GZaranza).
 
 ## Metodologia
 
@@ -132,7 +132,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Observaç
     <tr>
       <td align="center">7</td>
       <td>A observação foi realizada com mais de uma pessoa?</td>
-      <td align="center">Sim</td>
+      <td align="center">Não</td>
     </tr>
 </table>
 
@@ -150,7 +150,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Observaç
 
 ### Checklist específico
 
-- Não foi possível identificar nenhum erro no documento.
+- **ID07:** A observação foi realizada com apenas um usuários, trazendo apenas a visão de uma pessoa. Seria interessante ter mais de um usuário para ter mais de uma visão sobre o produto.
 
 ## Resultados
 
@@ -163,7 +163,9 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Observação" no checklist geral.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Geral/Geral%20-%20Observação.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/79cb69e5-1f36-4dca-aee4-a226063fc5d6" style="width: 45%;">
+
+
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 </div>
@@ -175,7 +177,9 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Observação" no checklist específico.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Específico/Específico%20-%20Observação.png" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/00f774d7-a709-48fa-b751-0dd84da363c8" style="width: 45%;">
+
+
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 

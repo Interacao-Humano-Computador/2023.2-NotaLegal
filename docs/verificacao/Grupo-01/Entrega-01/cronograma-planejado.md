@@ -224,3 +224,6 @@ A verificação identificou alguns pontos que requerem atenção e melhorias no 
 | `1.1`  | 29/11/2023 | Analise do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
 
 
+
+
+

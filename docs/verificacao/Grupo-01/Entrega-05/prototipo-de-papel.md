@@ -86,11 +86,11 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
 </div>
 
 ### Protótipo de Papel
-Na Tabela 8, estão listados os critérios que devem ser verificados no artefato de [Protótipo de Papel](#) da Entrega 2 do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main).
+Na Tabela 2, estão listados os critérios que devem ser verificados no artefato de [Protótipo de Papel](#) da Entrega 2 do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main).
 
 
 <div align="center">
-  <font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist Específico para o Artefato de Protótipo de Papel .</p></font>
+  <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Específico para o Artefato de Protótipo de Papel .</p></font>
 
 <table>
     <thead>

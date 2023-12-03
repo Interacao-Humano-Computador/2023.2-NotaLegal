@@ -172,7 +172,7 @@ No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relaç
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do checklist geral.</p>
 
-  <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_Zenilda/Visualizar_Recibo_AT_CheckGeral.jpg?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
@@ -188,7 +188,7 @@ No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relaç
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_Zenilda/Visualizar_Recibo_AT_CheckEsp.jpg?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>

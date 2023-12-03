@@ -35,47 +35,47 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim></td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -99,47 +99,47 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Planejame
     <tr>
       <td>01</td>
       <td>O planejamento da avaliação segue o Framework DECIDE? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato descreve os objetivos da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato descreve os métodos a serem utilizados? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
       <td>O artefato descreve os aspectos práticos da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
       <td>O artefato descreve os aspectos éticos da avaliação? [4]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
       <td>O artefato descreve as perguntas a serem feitas na avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>07</td>
       <td>O artefato possui um cronograma planejado para a execução da avaliação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>08</td>
       <td>O artefato apresenta o teste piloto do planejamento da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>09</td>
       <td>O artefato apresenta o motivo do número da escolha dos participantes? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -170,7 +170,8 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Planejamento da avaliação do Protótipo de Papel" no checklist geral.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Geral/Geral%20-%20Planejamento da avaliação do Protótipo de Papel.png?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/b7cdb386-8f74-4082-94a7-f2f98f158494" style="width: 45%;">
+
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 </div>
@@ -182,7 +183,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Planejamento da avaliação do Protótipo de Papel" no checklist específico.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_gabriel_Zaranza/Específico/Específico%20-%20Planejamento da avaliação do Protótipo de Papel.png?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/fb8e200b-4c69-4c9b-8dcc-0573303c2b7b" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
 

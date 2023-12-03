@@ -27,7 +27,51 @@ Este método pode ser dividido em 5 etapas:
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de artefatos da verificação da Entrega 1</p></font>
 
+<table>
 
+<thead>
+    <tr>
+        <th>Artefato</th>
+        <th>Responsável</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1/">Planejamento da verificação Etapa 1</a></td>
+        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+    </tr>
+    <tr>
+        <td> <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/cronograma-planejado/#checklist-especifico"> Verificação do artefato Cronograma planejado </a></td>
+        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/cronograma-executado/">Verificação do artefato de Cronograma executado </a></td>
+        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/ferramentas/">Verificação do artefato Ferramentas </a></td>
+        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/processo-de-desing/">Verificação do artefato de Processo de design </a></td>
+        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/heatmap-de-disponibilidade/">Verificação do artefato de Heatmap </a></td>
+        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/sites-avaliados/">Verificação do artefato de Sites avaliados </a></td>
+        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/site-escolhidos/">Verificação do artefato de Site escolhido</a> </td>
+        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+    </tr>
+   
+    
+</tbody>
+</table>
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
@@ -51,7 +95,7 @@ Este método pode ser dividido em 5 etapas:
 </thead>
 <tbody>
     <tr>
-        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1/">Planejamento da verificação </a></td>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1/">Planejamento da verificação Etapa 2</a></td>
         <td> <a href="">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
     <tr>

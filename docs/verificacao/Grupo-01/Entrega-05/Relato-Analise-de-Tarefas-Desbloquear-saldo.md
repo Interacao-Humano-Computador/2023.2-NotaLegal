@@ -35,47 +35,47 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -98,57 +98,57 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
     <tr>
       <td>01</td>
       <td>O artefato descreve os objetivos da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>02</td>
       <td>O artefato descreve o método empregado na avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>03</td>
       <td>O artefato descreve as questões práticas da avaliação? [3]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>O artefato descreve as questões éticas da avaliação? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>04</td>
-      <td>O artefato apresenta o participante selecionado? [3]</td>
-      <td></td>
+      <td>O artefato descreve as questões éticas da avaliação? [3]</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>05</td>
-      <td>O artefato possui um cronograma executado da avaliação?</td>
-      <td></td>
+      <td>O artefato apresenta o participante selecionado? [3]</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>06</td>
-      <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
-      <td></td>
+      <td>O artefato possui um cronograma executado da avaliação?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>07</td>
-      <td>O artefato possui uma gravação da avaliação? [3]</td>
-      <td></td>
+      <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>08</td>
-      <td>O artefato possui um tópico para análise dos resultados? [3]</td>
-      <td></td>
+      <td>O artefato possui uma gravação da avaliação? [3]</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>09</td>
-      <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
-      <td></td>
+      <td>O artefato possui um tópico para análise dos resultados? [3]</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>10</td>
+      <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
+      <td>Não se aplica</td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
   </table>
 
@@ -157,32 +157,32 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Problemas encontrados
 
-O artefato...
+O artefato, de maneira geral, apresenta poucos problemas; no entanto, foram identificadas algumas questões menores, as quais podem ser detalhadas nos próximos tópicos.
 
 ### Checklist geral
 
-- **ID xx:** 
+- **ID 07:** O artefato possui 2 tabelas ao todo, porém apenas a tabela 2 esta sendo chamada, ou seja, a tabela 1 não está sendo chamada, por isso a avaliação como "Incompleto". 
 
 No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relação ao checklist geral.
 
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do checklist geral.</p>
 
-  <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/gerallucas.png" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ### Checklist específico
 
-- **ID xx:** 
+- **ID 11:** Em geral, pode ser considerado que o artefato segue sim o planejamento proposto pelo grupo, porém, em alguns tópicos, o artefato peca nesse seguimento.
 
 No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relação ao checklist específico.
 
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/esplucas.png" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -193,9 +193,9 @@ No vídeo 1 a seguir é possível assistir a verificação do artefato que foi f
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=xxxx" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
+<p style="text-align: center"><a href="https://youtu.be/Pf27QGInKoE" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxx" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pf27QGInKoE" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -232,3 +232,4 @@ No vídeo 2 é possível assistir a consolidação da inspeção do artefato com
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 25/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira)| [Gabriel Rosa](https://github.com/gabrielrosa09)  |
 | `1.1`  | 02/12/2023 | Preenchimento dos checklists e problemas encontrados  | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Rosa](https://github.com/gabrielrosa09) |
+| `1.2`  | 03/12/2023 | Conclusão do documento  | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Rosa](https://github.com/gabrielrosa09)  |

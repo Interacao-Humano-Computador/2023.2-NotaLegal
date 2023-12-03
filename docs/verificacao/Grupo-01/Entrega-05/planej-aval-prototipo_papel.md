@@ -6,7 +6,7 @@ Este documento tem como objetivo relatar os resultados da verificação por insp
 
 ## Metodologia
 
-A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 2 do Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1.md) [2].
+A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 5 do Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1.md) [2].
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de checklist. Cada elemento do checklist será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos do planejamento da verificação, e outro específico, direcionado exclusivamente a esse artefato em foco.
 
@@ -17,11 +17,11 @@ Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item ve
 
 ### Checklist Geral
 
-Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 5 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 5</p></font>
 
 <table>
   <thead>
@@ -80,7 +80,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ### Checklist do Planejamento da avaliação do Protótipo de Papel
@@ -144,7 +144,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Planejame
   </table>
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 
@@ -173,7 +173,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/b7cdb386-8f74-4082-94a7-f2f98f158494" style="width: 45%;">
 
 
-<p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
+<p><b>Fonte:</b> Gabriel Zaranza e Lucas Ribeiro, 2023.</p>
 </div>
 
 ### Checklist específico
@@ -185,7 +185,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/fb8e200b-4c69-4c9b-8dcc-0573303c2b7b" style="width: 45%;">
 
-<p><b>Fonte:</b> Gabriel Zaranza, 2023.</p>
+<p><b>Fonte:</b> Gabriel Zaranza e Lucas Ribeiro, 2023.</p>
 
 </div>
 

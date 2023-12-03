@@ -147,29 +147,10 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
    - **Resposta:** Incompleto
    - **Observação:** As tabelas estão com títulos de colunas no singular, de forma que elas estão despadronizadas com os outros Artefatos.
 
-2. **ID: 9**
-   - **Descrição:** Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?
-   - **Resposta:** Não
-   - **Observação:** As figuras não foram referenciadas. 
-
 ### Checklist Processo de Design de IHC
 
 1. **Nenhum problema identificado:**
    - O Checklist Específico para o Artefato de Processo de Design de IHC foi integralmente atendido sem a identificação de problemas. A equipe demonstrou conformidade com todos os critérios estabelecidos para esta fase do projeto.
-
-## Gravação do Documento de Verificação "Processo de Design de IHC"
-
-No vídeo 1, é possível ver a gravação da avaliação da verificação do "Processo de Design de IHC" do Nota Legal.
-
-<div align="center">
-  
-<p style="text-align: center"><a href="#" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Processo de Design de IHC".</a></p>
-
-
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
-
-</div>
 
 ## Resultados
 

@@ -217,7 +217,7 @@ No vídeo 1 a seguir é possível assistir a verificação do artefato que foi f
 
 ## Bibliografia
 
-> NOTA LEGAL, [Relato dos Resultados da Análise de Tarefas Visualizar Recibo de Indicação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-reclama%C3%A7%C3%A3o/), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
+> NOTA LEGAL, [Relato dos Resultados da Análise de Tarefas Visualizar Recibo de Indicação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/visualizar_recibo/#sugestoes-de-melhoria), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
 
 ## Histórico de Versões
 

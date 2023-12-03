@@ -408,42 +408,42 @@ Na tabela 3, estão listados os critérios que devem ser verificados no Relato d
       <td></td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>04</td>
       <td>O artefato descreve as questões éticas da avaliação? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>04</td>
+      <td>05</td>
       <td>O artefato apresenta o participante selecionado? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>05</td>
+      <td>06</td>
       <td>O artefato possui um cronograma executado da avaliação?</td>
       <td></td>
     </tr>
     <tr>
-      <td>06</td>
+      <td>07</td>
       <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>07</td>
+      <td>08</td>
       <td>O artefato possui uma gravação da avaliação? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>08</td>
+      <td>09</td>
       <td>O artefato possui um tópico para análise dos resultados? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>09</td>
+      <td>10</td>
       <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
       <td></td>
     </tr>
@@ -480,42 +480,42 @@ Na tabela 4, estão listados os critérios que devem ser verificados no Relato d
       <td></td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>04</td>
       <td>O artefato descreve as questões éticas da avaliação? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>04</td>
+      <td>05</td>
       <td>O artefato apresenta o participante selecionado? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>05</td>
+      <td>06</td>
       <td>O artefato possui um cronograma executado da avaliação?</td>
       <td></td>
     </tr>
     <tr>
-      <td>06</td>
+      <td>07</td>
       <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>07</td>
+      <td>08</td>
       <td>O artefato possui uma gravação da avaliação? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>08</td>
+      <td>09</td>
       <td>O artefato possui um tópico para análise dos resultados? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>09</td>
+      <td>10</td>
       <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
       <td></td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
       <td></td>
     </tr>

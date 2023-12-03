@@ -158,45 +158,49 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Problemas encontrados
 
-O artefato...
+De um modo geral, o documento está bem feito, bem organizado e formatado. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação do storyboard. Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: _*das 17:00 às 19:15*_ ao invés de _*das 17:00 para às 19:15*_, em _*procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa*_ "objetivos" aparecem duas vezes, _*demonstrarou*_ ao invés de _*demonstrou*_, _*compreenderam*_ ao invés de _*compreendeu*_, _*aos participantes*_ ao invés de _*ao participante*_. 
+
+Além disso, na questão 4 "Você consegue entender o storyboard e as ações desenvolvidas nele?", que o entrevistado respondeu "Mais ou Menos", a resposta dele poderia ter sido explorada melhor após a questão aberta e até obtida sugestões para aprimoramento do storyboard feito.
+
+No entanto, cabe ressaltar que a análise dos dados foi muito bem escrita e detalhada e as conclusões foram pertinentes à entrevista realizada. Como sugestão, após o cronograma de correção, seria interessante incluir o storyboard corrigido.
 
 ### Checklist geral
 
-- **ID xx:** 
+Desconsiderando os itens que não se aplicam a esse artefato, todos os itens do checklist geral foram contemplados.
 
 No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relação ao checklist geral.
 
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do checklist geral.</p>
 
-  <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_Zenilda/Consultar_estab_SB_CheckGeral.jpg?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ### Checklist específico
 
-- **ID xx:** 
+Todos os itens do checklist específico foram contemplados.
 
 No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relação ao checklist específico.
 
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="https://caminho/nome.jpg?raw=true" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_Zenilda/Consultar_estab_SB_CheckEsp.jpg?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Vídeo da Verificação do Artefato
 
-No vídeo 1 a seguir é possível assistir a verificação do artefato que foi feita pela dupla [Zenilda Vieira](https://github.com/zenildavieira) e [Lucas Ribeiro](https://github.com/lucassouzs).
+No vídeo 1 a seguir é possível assistir a verificação do artefato que foi feita pela dupla [Zenilda Vieira](https://github.com/zenildavieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=xxxx" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=uTNcUKYq9lY" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxx" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uTNcUKYq9lY" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
@@ -217,7 +221,7 @@ No vídeo 2 é possível assistir a consolidação da inspeção do artefato com
 
 ## Referências Bibliográficas
 
-> [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+> [1] ALVES, Izabella; VIEIRA, Zenilda. [Planejamento da Verificação da Etapa 5 do Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1.md), GAMA, FGA, 2023. Acesso em: 22 de novembro de 2023.
 > 
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
@@ -233,3 +237,4 @@ No vídeo 2 é possível assistir a consolidação da inspeção do artefato com
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 24/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira)| [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.1`  | 02/12/2023 | Preenchimento dos checklists e problemas encontrados  | [Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|

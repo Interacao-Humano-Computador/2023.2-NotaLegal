@@ -188,7 +188,7 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
       </td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>03/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_avaliacao_prototipo_papel/">Planejamento da avaliação do protótipo de papel</a></td>
       <td>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
@@ -196,16 +196,8 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
       </td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>03/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/planejamento_relato_prototipo_papel/">Planejamento do relato dos resultados da avaliação do Protótipo de Papel</a></td>
-      <td>
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
-      </td>
-    </tr>
-    <tr>
-      <td>XX/11/2023</td>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/modelo-relato-prototipo-papel/">Documento Modelo - Relato dos resultados da avaliação do Protótipo de Papel</a></td>
       <td>
         <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>
@@ -525,6 +517,129 @@ Na tabela 4, estão listados os critérios que devem ser verificados no Relato d
 <p><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p>
 </div>
 
+### Checklist do Planejamento da avaliação do Protótipo de Papel
+
+Na tabela 6, estão listados os critérios que devem ser verificados no Planejamento da avaliação do Protótipo de Papel do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+  <p><b>Tabela 6:</b> Checklist de Verificação para o artefato Planejamento da avaliação do Protótipo de Papel</p>
+ 
+<table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>O planejamento da avaliação segue o Framework DECIDE? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>O artefato descreve os objetivos da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve os métodos a serem utilizados? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O artefato descreve os aspectos práticos da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O artefato descreve os aspectos éticos da avaliação? [4]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>O artefato descreve as perguntas a serem feitas na avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>O artefato possui um cronograma planejado para a execução da avaliação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>O artefato apresenta o teste piloto do planejamento da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>O artefato apresenta o motivo do número da escolha dos participantes? [3]</td>
+      <td></td>
+    </tr>
+  </table>
+
+<p><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p>
+</div>
+
+### Checklist do Planejamento do relato dos resultados da avaliação do Protótipo de Papel
+
+Na tabela 6, estão listados os critérios que devem ser verificados no Planejamento do relato dos resultados da avaliação do Protótipo de Papel do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+  <p><b>Tabela 6:</b> Checklist de Verificação para o artefato Planejamento do relato dos resultados da avaliação do Protótipo de Papel</p>
+ 
+<table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>O artefato descreve os objetivos do relato dos resultados da avaliação? [3] </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>O artefato descreve os métodos utilizados? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve como devem ser apresentados os aspectos práticos do relato dos resultados da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O artefato descreve como devem ser apresentados os aspectos éticos do relato dos resultados da avaliação? [4]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O artefato descreve como devem ser apresentados os resultados da avaliação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>O artefato descreve como devem ser apresentadas as conclusões da avaliação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>O artefato apresenta o modelo do cronograma executado da avaliação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>O artefato apresenta a estrutura do relatório a ser utilizado no relato dos resultados?</td>
+      <td></td>
+    </tr>
+  </table>
+
+<p><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p>
+</div>
+
+
+
 ## Referências Bibliográficas
 
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
@@ -533,6 +648,7 @@ Na tabela 4, estão listados os critérios que devem ser verificados no Relato d
 >
 > [3] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >
+> [4] PUC-PR. Comitê de Ética e Pesquisa – CEP. Paraná, 2017. Disponível em: <https://www.pucpr.br/estudante/graduacao/iniciacao-cientifica/cep/>. Acesso em: 20 de novembro de 2023.
 
 ## Histórico de versões
 

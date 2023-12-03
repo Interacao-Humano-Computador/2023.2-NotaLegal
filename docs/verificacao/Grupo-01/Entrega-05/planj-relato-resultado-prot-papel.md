@@ -17,11 +17,11 @@ Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item ve
 
 ### Checklist Geral
 
-Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 5 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 5</p></font>
 
 <table>
   <thead>

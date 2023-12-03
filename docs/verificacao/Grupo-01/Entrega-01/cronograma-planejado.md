@@ -85,7 +85,7 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-## Checklist Cronograma
+## Checklist Cronograma Planejado
 
 Na Tabela 2, estão listados os critérios que devem ser verificados no artefato de [Cronograma Planejado](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md)  da Entrega 1 do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main).
 
@@ -150,10 +150,8 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 #### Checklist Cronograma
 
-1. **ID: 3**
-   - **Descrição:** Período de Correção Pós-Entrega Ausente
-   - **Resposta:** O cronograma planejado não inclui um período específico de correção após a entrega.
-   - **Observação:** A ausência de um período dedicado à correção pós-entrega pode impactar a capacidade da equipe em ajustar e aprimorar o artefato com base em feedbacks recebidos, comprometendo a qualidade final do projeto.
+Checklist Cronograma
+Todos os itens do Checklist foram atendidos.
 
 
 ## Gravação do Documento de Verificação "Cronograma Planejado"
@@ -162,9 +160,9 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "C
 
 <div align="center">
   
-<p style="text-align: center"><a href="#" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Cronograma Planejado".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/xxynZJXPGwM" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Cronograma Planejado".</a></p>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxynZJXPGwM?si=_TbPc_0SFH2vKI9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 

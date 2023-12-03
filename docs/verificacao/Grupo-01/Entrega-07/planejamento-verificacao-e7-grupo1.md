@@ -31,7 +31,7 @@ Nesta verificação, chegaremos até a etapa de Correção e Reinspeção, pois 
 
 ## Participantes
 
-Os integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) responsáveis por fazer a verificação da Entrega 7 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) são [Izabella Alves](https://github.com/izabellaalves), [PESSOA 2](#) e [PESSOA 3](#). Estes participantes farão a verificação de todos os documentos produzidos na Entrega 3 e documentarão os resultados encontrados, que serão revisados pela [Zenilda Vieira](https://github.com/zenildavieira), também integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/). 
+Os integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) responsáveis por fazer a verificação da Entrega 7 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) são [Izabella Alves](https://github.com/izabellaalves), [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [PESSOA 3](#). Estes participantes farão a verificação de todos os documentos produzidos na Entrega 3 e documentarão os resultados encontrados, que serão revisados pela [Zenilda Vieira](https://github.com/zenildavieira), também integrante do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/). 
 
 ## Objetos de verificação
 
@@ -546,6 +546,152 @@ Na tabela X, estão listados os critérios que devem ser verificados no [Relato 
 </div>
 
 
+### Checklist Específico do Planejamento Relato Protótipo de alta fidelidade
+
+Na tabela X, estão listados os critérios que devem ser verificados no [Planejamento Relato Protótipo de alta fidelidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade.md) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+  <p><b>Tabela X:</b> Checklist de Verificação para o artefato "Relato do Resultado do Protótipo de Papel "Consultar Estabelecimento"</p>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>O artefato descreve os objetivos da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>O artefato descreve o método empregado na avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve as questões práticas da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve as questões éticas da avaliação? [4]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O artefato apresenta o participante selecionado? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O artefato possui um cronograma executado da avaliação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>O artefato possui uma gravação da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>O artefato possui um tópico para análise dos resultados? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
+      <td></td>
+    </tr>
+  </table>
+
+
+<p><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p>
+</div>
+
+
+### Checklist Específico do Planejamento avaliação Prototipo de Alta Fidelidade
+
+Na tabela X, estão listados os critérios que devem ser verificados no [Planejamento avaliação Prototipo de Alta Fidelidade](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-avaliacao-prot-alta-fidelidade.md) do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+
+<div align="center">
+  <p><b>Tabela X:</b> Checklist de Verificação para o artefato Planejamento avaliação Prototipo de Alta Fidelidade</p>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Critério</th>
+      <th>Avaliação</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>O artefato descreve os objetivos da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>O artefato descreve o método empregado na avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve as questões práticas da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>O artefato descreve as questões éticas da avaliação? [4]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>O artefato apresenta o participante selecionado? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>O artefato possui um cronograma executado da avaliação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>O artefato possui uma gravação da avaliação? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>O artefato possui um tópico para análise dos resultados? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
+      <td></td>
+    </tr>
+  </table>
+
+
+<p><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p>
+</div>
 
 
 

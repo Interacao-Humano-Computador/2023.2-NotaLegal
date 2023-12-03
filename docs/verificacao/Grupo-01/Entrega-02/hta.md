@@ -140,9 +140,11 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Análise 
 ### Checklist específico
 
 - **ID01 E ID02:** O diagrama da tarefa "Registrar uma reclamação" não mostra as operações, por isso não é possível identificar se há operações. Ficou faltando a "barra" embaixo das operações.
+    > Correção feita dia 03/12/2023 pelo [Gabriel Rosa](https://github.com/gabrielrosa09)
 - **ID03:**  O diagrama da tarefa "Registrar uma reclamação" não mostra as relações entre os objetivos e subobjetivos e o diagrama da tarefa "Visualizar Recibo Fiscal" não mostra a relação entre o objetivo 0 e os subobjetivos 2, 3, 4 e 5.
+    > Correção feita dia 03/12/2023 pelo [Gabriel Rosa](https://github.com/gabrielrosa09)
 -  **ID05:** Não foi possível identificar as operações do diagrama da tarefa "Registrar uma reclamação", por isso não é possível saber se os objetivos terminam em operação.
-
+    > Correção feita dia 03/12/2023 pelo [Gabriel Rosa](https://github.com/gabrielrosa09)
 ## Gravação do Documento de Verificação "Análise Hierarquica de Tarefas"
 
 No vídeo 1, é possível ver a gravação da avaliação da verificação do "Análise Hierarquica de Tarefas" do site do Nota Legal.

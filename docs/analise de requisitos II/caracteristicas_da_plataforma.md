@@ -145,5 +145,6 @@ O site Nota Legal incorpora princípios gerais de IHC e metas de usabilidade par
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|15/10/2023|Criação do documento|[Gabriel Rosa](https://github.com/gzaranza)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|`2.0`|08/11/2023|Correção do documento|[Gabriel Rosa](https://github.com/gzaranza)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|15/10/2023|Criação do documento|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.1`|08/11/2023|Correção do documento|[Gabriel Rosa](https://github.com/gabrielrosa)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.2`|03/12/2023|Correção do documento pós inspeção|[Gabriel Rosa](https://github.com/gabrielrosa)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

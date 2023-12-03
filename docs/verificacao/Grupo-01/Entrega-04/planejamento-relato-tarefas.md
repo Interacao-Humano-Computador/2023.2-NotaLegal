@@ -184,6 +184,20 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 
 </div>
 
+## Consolidação dos Resultados
+
+O vídeo 1 apresenta a consolidação dos resultados gravada com o participante Lucas Victor.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/nl26_xeKVac" target="blanket"><b>Vídeo 1:</b> Consolidação dos Resultados.</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nl26_xeKVac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+
+</div>
+
 ## Bibliografia
 > ALVES, Izabella. VIEIRA, Zenilda. [Planejamento da Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md). FGA, 2023.
 

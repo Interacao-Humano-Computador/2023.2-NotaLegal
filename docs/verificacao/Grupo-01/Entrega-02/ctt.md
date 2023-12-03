@@ -211,12 +211,14 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 
 ## Referências Bibliográficas
 >[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+>
 > [2] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
 ## Bibliografia
 
 > NOTA LEGAL, [ConcurTaskTree](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt//), FGA, GAMA, 2023. Acesso em: 26 de novembro de 2023.
 
+## Histórico de versão
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |

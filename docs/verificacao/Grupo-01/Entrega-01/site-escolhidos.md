@@ -38,47 +38,47 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
 </table>
 
@@ -102,32 +102,32 @@ Na Tabela 2, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td>1</td>
       <td>O artefato possui o motivo da escolha?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>A metodologia utilizada no artefato é explicitamente descrita?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>São apresentados critérios fundamentais para a escolha do site no artefato?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>A justificativa para a escolha do site é devidamente abordada no artefato?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato oferece uma introdução adequada ao site selecionado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>O site apresenta termos de uso disponíveis para serem utilizados na disciplina, sendo um site do governo ou de software livre?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </table>
 
@@ -143,40 +143,13 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 ### Checklist Geral
 
-1. **ID: 1**
-   - **Descrição:** Histórico de Versão Não Padronizado
-   - **Resposta:** Incompleto
-   - **Observação:** As tabelas estão com títulos de colunas no singular, de forma que elas estão despadronizadas com os outros Artefatos.
-
-### Checklist Site Escolhido
-
-1. **ID: 2**
-   - **Descrição:** Metodologia Não Explicitamente Descrita
-   - **Avaliação:** Não
-   - **Observação:** A metodologia utilizada no artefato de Site Escolhido não está explicitamente descrita, o que pode impactar a compreensão do processo de escolha.
-
-### Observação:
-
-É essencial abordar prontamente os problemas identificados para garantir a qualidade e conformidade dos artefatos da Entrega 1. A correção destes aspectos contribuirá para a consistência e credibilidade do trabalho desenvolvido pelo [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main).
+1. **Nenhum problema identificado:**
+   - O Checklist geral para o Artefato de Site Escolhido foi integralmente atendido sem a identificação de problemas. A equipe demonstrou conformidade com todos os critérios estabelecidos para esta fase do projeto.
 
 ### Checklist Site Escolhido
 
 1. **Nenhum problema identificado:**
    - O Checklist Específico para o Artefato de Site Escolhido foi integralmente atendido sem a identificação de problemas. A equipe demonstrou conformidade com todos os critérios estabelecidos para esta fase do projeto.
-
-## Gravação do Documento de Verificação "Site Escolhido"
-
-No vídeo 1, é possível ver a gravação da avaliação da verificação do "Site Escolhido" do Nota Legal.
-
-<div align="center">
-  
-<p style="text-align: center"><a href="#" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Site Escolhido".</a></p>
-
-
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
-
-</div>
 
 ## Resultados
 
@@ -209,7 +182,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 
 ### Conclusão
 
-A verificação identificou alguns pontos que requerem atenção e melhorias no artefato [Site Escolhido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/site-escolhido.md) elaborado pelo [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main). Recomenda-se uma revisão e ajustes conforme os problemas relatados.
+A verificação não identificou  pontos que requerem atenção e melhorias no artefato [Site Escolhido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/site-escolhido.md) elaborado pelo [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/tree/main). 
 
 
 ## Referências Bibliográficas

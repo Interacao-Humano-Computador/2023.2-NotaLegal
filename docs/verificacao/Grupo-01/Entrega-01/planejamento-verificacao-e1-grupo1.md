@@ -73,13 +73,7 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
         <td> 20/09/2023	 </td>
         <td> <a href="https://github.com/Lucas13032003">Lucas Víctor</a> </td>
     </tr>
-    <tr>
-        <td>  <a href="#">Protótipo de papel</a> </td>
-        <td>  2.4 </td>
-        <td> 25/10/2023	 </td>
-        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
-    </tr>
-   
+
          
 </tbody>
 </table>

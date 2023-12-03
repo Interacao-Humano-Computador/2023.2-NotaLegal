@@ -520,7 +520,7 @@ Na Tabela 10, estão listados os critérios que devem ser verificados no artefat
     <tr>
       <td>4</td>
       <td>São claramente destacadas as heurísticas violadas em cada sítio avaliado?</td>
-      <td>Não</td>
+      <td></td>
     </tr>
     <tr>
       <td>5</td>

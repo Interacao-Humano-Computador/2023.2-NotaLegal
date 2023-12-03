@@ -38,7 +38,7 @@ Na Tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>2</td>
@@ -150,10 +150,7 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 #### Checklist Cronograma
 
-1. **ID: 3**
-   - **Descrição:** Período de Correção Pós-Entrega Ausente
-   - **Resposta:** O cronograma planejado não inclui um período específico de correção após a entrega.
-   - **Observação:** A ausência de um período dedicado à correção pós-entrega pode impactar a capacidade da equipe em ajustar e aprimorar o artefato com base em feedbacks recebidos, comprometendo a qualidade final do projeto.
+Todos os itens do Checklist foram atendidos.
 
 
 ## Resultados
@@ -167,7 +164,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Cronograma Executado" no checklist geral.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Verifica%C3%A7%C3%A3o_LV/Cronograma%20Executado.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
@@ -179,7 +176,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Cronograma Executado" no checklist específico.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Verifica%C3%A7%C3%A3o_LV/Cronograma%20Executado_1.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 

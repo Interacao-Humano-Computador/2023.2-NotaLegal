@@ -157,6 +157,19 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "A
 
 </div>
 
+## Vídeo da Consolidação da Inspeção e da Correção
+
+No vídeo 2 é possível assistir a consolidação da inspeção do artefato com a integrante do grupo [Gabriel Rosa](https://github.com/gabrielrosa09).
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=gfrOEo6Lf9E" target="blanket"><b>Vídeo 2:</b> Consolidação da Inspeção e da Correção</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aSuStdtXbTs?si=RuJKKo-UweE-vMKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
 ## Resultados
 
 Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Análise Hierarquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.

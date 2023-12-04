@@ -182,6 +182,19 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
+## Vídeo da Verificação do Artefato
+
+No vídeo 1 a seguir é possível assistir a verificação do artefato.
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://youtu.be/TQk1I3h4i7k" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TQk1I3h4i7k" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
 ## Referências Bibliográficas
 >[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >

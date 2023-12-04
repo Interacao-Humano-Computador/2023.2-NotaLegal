@@ -1,12 +1,12 @@
-# Relato dos resultados da avaliação do Storyboard "Desbloquear Saldo"
+# Relato dos resultados da avaliação do Análise de tarefas "Desbloquear Saldo"
 ## Introdução
 
 Este documento apresenta os resultados da avaliação realizada na análise de tarefa da atividade "Desbloquear saldo" do site Nota Legal.
 
 Os objetivos desta avaliação podem ser resumidos em três principais tópicos:
-* Avaliar se a análise de tarefa está de acordo com a tarefa executada pelo usuário no site do Nota Legal;
-* Avaliar se as motivações e satisfações do usuário estão representadas na análise de tarefa;
-* Encontrar erros ou pontos de mudança na análise de tarefa
+- Avaliar se a análise de tarefa está de acordo com a tarefa executada pelo usuário no site do Nota Legal;
+- Avaliar se as motivações e satisfações do usuário estão representadas na análise de tarefa;
+- Encontrar erros ou pontos de mudança na análise de tarefa
 
 
 ## Metodologia
@@ -16,7 +16,7 @@ Foi utilizada o método de investigação, através de uma entrevista guiada a [
 
 ### Aspectos Práticos da Avaliação
 
-A avaliação foi realiza pelo integrante do grupo [Gabriel Zaranza](https://github.com/GZaranza) e o partivipante Carlos Barreto no dia 05/11/2023 às 17:20h, não foi possível realizar a avaliação no dia planejado por indisponibilidade do participante. A entrevista foi realizada presencialmente e foram necessários o diagrama análise de tarefa, computador e uma camêra para a gravação.
+A avaliação foi realiza pelo integrante do grupo [Gabriel Zaranza](https://github.com/GZaranza) e o participante Carlos Barreto no dia 05/11/2023 às 17:20h (tabela 1), não foi possível realizar a avaliação no dia planejado por indisponibilidade do participante. A entrevista foi realizada presencialmente e foram necessários o diagrama análise de tarefa, computador e uma camêra para a gravação.
 
 
 <div align="center">

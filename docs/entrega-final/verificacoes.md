@@ -349,6 +349,61 @@ Este método pode ser dividido em 5 etapas:
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Tabela de artefatos da verificação da Entrega 7</p></font>
 
+<table>
+  <thead>
+    <tr>
+        <th>Artefato</th>
+        <th>Responsável</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/planejamento-verificacao-e7-grupo1/">Planejamento da verificação Etapa 7 </a></td>
+      <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br> <a href="https://github.com/izabellaalves">Izabella Alves</a><br><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a><br></td>
+    </tr>
+    <tr>
+      <td><a href="">Verificação do artefato Protótipo de alta fidelidade FALTA COLOCAR O LINK </a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="">Verificação do artefato Planejamento da avaliação do protótipo de alta fidelidade FALTA COLOCAR O LINK</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="">Verificação do artefato Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade FALTA COLOCAR O LINK</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/relato-consultar-extrato/">Verificação do artefato Relato dos resultados da avaliação do protótipo de papel "Consultar Extrato"</a></td>
+      <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/relato-consultar-estabelecimento.md">Verificação do artefato Relato dos resultados da avaliação do protótipo de papel "Consultar estabelecimento"</a></td>
+      <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/relato-consultar-sorteio/">Verificação do artefato Relato dos resultados da avaliação do protótipo de papel "Consultar sorteio"</a></td>
+      <td>  <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/relato-desbloquear-saldo/">Verificação do artefato Relato dos resultados do protótipo de papel "Desbloquear Saldo"</a></td>
+      <td>  
+             <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/relato-registrar-reclamacao/">Verificação do artefato Relato dos resultados da avaliação do protótipo de papel "Registrar reclamação"</a></td>
+      <td> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/relato-visualizar-recibo/">Verificação do artefato Relato dos resultados da avaliação do protótipo de papel "Visualizar recibo"</a></td>
+      <td>  <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/relato-consultar-reclamacao/">Verificação do artefato Relato dos resultados da avaliação do protótipo de papel "Consultar reclamação"</a></td>
+      <td>  <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 

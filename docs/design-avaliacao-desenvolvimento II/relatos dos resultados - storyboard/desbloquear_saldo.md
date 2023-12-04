@@ -5,6 +5,7 @@
 Este documento apresenta os resultados da avaliação realizada no storyboard da tarefa "Desbloquear saldo" do site Nota Legal.
 
 Os objetivos desta avaliação podem ser resumidos em três principais tópicos:
+
 * Avaliar se os Storyboards estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal;
 * Avaliar se as motivações e satisfações do usuário estão representadas nos storyboards;
 * Encontrar erros ou pontos de mudança nos Storyboards
@@ -12,12 +13,12 @@ Os objetivos desta avaliação podem ser resumidos em três principais tópicos:
 
 ## Metodologia
 
-Foi utilizada o método de investigação, através de uma entrevista guiada a [8 perguntas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#roteiro-de-entrevista-e), sobre o storyboard feito pelo integrante da equipe. Primeiramente,foi mostrado o [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) e após o participante aceitar, o entrevistador pediu para que o participante lê-se o storyboard. Após a leitura, o entrevistador fez as perguntas para que o participante responde-se.
+Foi utilizada o método de investigação, através de uma entrevista guiada a [8 perguntas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#roteiro-de-entrevista-e), sobre o storyboard feito pelo integrante da equipe. Primeiramente,foi mostrado o [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) e após o participante aceitar, o entrevistador pediu para que o participante lese o storyboard. Após a leitura, o entrevistador fez as perguntas para que o participante respondesse.
 
 
 ### Aspectos Práticos da Avaliação
 
-A avaliação foi realiza pelo integrante do grupo [Gabriel Zaranza](https://github.com/GZaranza) e o partivipante Carlos Barreto no dia 05/11/2023 às 17:20h, não foi possível realizar a avaliação no dia planejado por indisponibilidade do participante. A entrevista foi realizada presencialmente e foram necessários o storyboard impresso, computador e uma camêra para a gravação.
+A avaliação foi realiza pelo integrante do grupo [Gabriel Zaranza](https://github.com/GZaranza) e o participante Carlos Barreto no dia 05/11/2023 às 17:20h, não foi possível realizar a avaliação no dia planejado por indisponibilidade do participante. A entrevista foi realizada presencialmente e foram necessários o storyboard impresso, computador e uma câmera para a gravação. O cronograma planejado e executado consta na tabela 1.
 
 
 <div align="center">
@@ -59,12 +60,12 @@ A avaliação foi realiza pelo integrante do grupo [Gabriel Zaranza](https://git
 
 ### Aspectos Éticos
 
-Antes de começar a entrevista foi lido ao participante o [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) e aṕos o aceite, prosegui-se com a avaliação.
+Antes de começar a entrevista foi lido ao participante o [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) e aṕos o aceite, prosseguiu-se com a avaliação.
  
 
 ### Avaliação e Apresentação dos Dados
 
-As perguntas e respostas dadas pelo participantes estão presentes no vídeo 1 e estão detalhadas na tabela 2:
+As perguntas e respostas dadas pelo participante estão presentes no vídeo 1 e estão detalhadas na tabela 2:
 
 <div align="center">
   
@@ -153,3 +154,4 @@ As respostas obtidas pelas perguntas, mostram que o storyboard está de acordo c
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 31/10/2023 | Criação do documento |  [Gabriel Zaranza](https://github.com/GZaranza)    | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.1`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Zenilda Vieira](https://github.com/zenildavieira)    |[Izabella Alves](https://github.com/izabellaalves) |

@@ -155,17 +155,13 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
-O artefato...
+## Problemas encontrados
 
-2 de novembro para 8 de novembro, das 20:00 _*(para)*_ às 23:30,
-não foi coemntado que a entrevistada mudou
-o título do vídeo está com grafia da palavra storyboard errada.
+Foram encontrados alguns erros de digitação no documento, tais como: _*20:00 às 23:30*_, que seria _*20:00 para às 23:30*_ e algumas palavras no plural que deviam estar no singular. O título do vídeo também deve ser revisto, a palavra storyboard está com a letra "a" faltando.
 
-É relevante destacar que os participantes demonstraram um elevado grau de conforto durante sua participação na pesquisa e mostraram clara compreensão da linguagem utilizada nas perguntas
+Não foi comentado que a entrevistada mudou e nem os motivos para essa mudança. Não foi feita também a relação do perfil do usuário do projeto com a entrevistada.
 
-entrevista mais elaborada, sem direcionair as respostas da entrevistada.
-
-A consolidação e análise dos dados deve ser reescrita para que os dados e as análises sejam coerentes com as respostas da entrevistada.
+A entrevista poderia ter sido mais elaborada, sem direcionar as respostas da entrevistada e sem pressionar o resultado. As respostas das perguntas fechadas poderiam ser exploradas após a pergunta aberta, para esclarecer pontos como, por exemplo: porque o stroyboard não apresenta uma ordem sequencial? Assim, seria possível obter mais dados e sugestões de melhoria do storyboard. Além disso, a consolidação e análise dos dados deve ser reescrita para que os dados e as análises sejam coerentes com as respostas da entrevistada.
 
 ### Checklist geral
 
@@ -190,7 +186,7 @@ No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relaç
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="[https://caminho/nome.jpg?raw=true](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_Zenilda/Consultar_reclam_SB_CheckEsp.jpg?raw=true)" style="width: 45%;">
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/verificacao_Zenilda/Consultar_reclam_SB_CheckEsp.jpg?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>

@@ -163,6 +163,8 @@ A formatação dos tópicos na Introdução poderia ter sido feita em forma de l
 
 Na entrevista, era possível explorar melhor as respostas da entrevistada, incentivando-a a falar sobre as respostas fechadas após a pergunta aberta. As duas respostas "Mais ou menos" poderiam ter sido esclarecidas e sugestões poderiam ter sido obtidas para melhoria do storyboard.
 
+Como sugestão, após o cronograma de correção, seria interessante incluir o storyboard corrigido.
+
 ### Checklist geral
 
 - **ID 07:** A tabela 3 não foi referenciada no texto.

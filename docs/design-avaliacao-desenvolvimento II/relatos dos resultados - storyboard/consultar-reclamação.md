@@ -16,7 +16,7 @@ Nesta avaliação, adotamos uma abordagem de investigação, utilizando a técni
 
 ### Aspectos Práticos da Avaliação
 
-A avaliação foi conduzida por [Lucas Ribeiro](https://github.com/lucassouzs), membro do grupo, e contou com a participação da Ana Clara Silva de Araújo como entrevistada. Não houve envolvimento de outras pessoas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem incorrer em custos adicionais. Os materiais utilizados incluíram papel, lápis e um computador para gravar tanto o áudio quanto o vídeo da entrevista. O cronograma original para a entrevista presencial foi ajustado de 2 de novembro para 8 de novembro, das 20:00 às 23:30, para acomodar a disponibilidade da entrevistada. Na Tabela 1, é possível comparar o cronograma planejado com o cronograma efetivamente executado.
+A avaliação foi conduzida por [Lucas Ribeiro](https://github.com/lucassouzs), membro do grupo, e contou com a participação da Ana Clara Silva de Araújo como entrevistada. Não houve envolvimento de outras pessoas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem incorrer em custos adicionais. Os materiais utilizados incluíram papel, lápis e um computador para gravar tanto o áudio quanto o vídeo da entrevista. O cronograma original para a entrevista presencial foi ajustado de 2 de novembro para 8 de novembro, das 20:00 para às 23:30, para acomodar a disponibilidade da entrevistada. Na Tabela 1, é possível comparar o cronograma planejado com o cronograma efetivamente executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da entrevista.</p>
@@ -183,3 +183,4 @@ Em resumo, o storyboard é amplamente compreendido e aceito, mas requer ajustes 
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 07/11/2023 | Criação do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.1`  | 08/11/2023 | Conclusão do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Zenilda Vieira](https://github.com/zenildavieira)    | [Gabriel Zaranza](https://github.com/GZaranza) |

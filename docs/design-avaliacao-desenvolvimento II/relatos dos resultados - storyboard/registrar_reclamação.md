@@ -13,7 +13,7 @@ Os principais objetivos desta avaliação podem ser resumidos em três pontos:
 
 ## Metodologia
 
-Nesta avaliação, tivemos como metodologia a investigação, e a técnica utilizada foi a entrevista. Como é possível ver no Vídeo 1, a entrevista foi realizada de forma presencial, e o início dela foi marcado com a apresentação do nosso participante, após isso, o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) foi lido ao participante, e após o aceite do mesmo, seguimos com a avaliação, onde primeiramente demos um tempo ao participante para que ele pudesse ler o storyboard em questão e se preparar para responder as perguntas, que foram devidamente feitas e respondidas em seguida.  
+Nesta avaliação, tivemos como metodologia a investigação e a técnica utilizada foi a entrevista. Como é possível ver no Vídeo 1, a entrevista foi realizada de forma presencial, e o início dela foi marcado com a apresentação do nosso participante, após isso, o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) foi lido ao participante, e após o aceite do mesmo, seguimos com a avaliação, onde primeiramente demos um tempo ao participante para que ele pudesse ler o storyboard em questão e se preparar para responder as perguntas, que foram devidamente feitas e respondidas em seguida.  
 
 ### Aspectos Práticos da Avaliação
 
@@ -58,7 +58,7 @@ A avaliação foi conduzida pelo integrante do grupo [Gabriel Rosa](https://gith
 
 ### Aspectos Éticos
 
-Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) foi devidamente lido e aceito pelo participante, para garantir que o participante estivesse completamente informado sobre os procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa antes de concordar em participar. 
+Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) foi devidamente lido e aceito pelo participante, para garantir que o participante estivesse completamente informado sobre os procedimentos, objetivos, riscos e benefícios da pesquisa antes de concordar em participar. 
 
 ### Avaliação e Apresentação dos Dados
 
@@ -75,7 +75,7 @@ No vídeo 1, é possível ver a gravação da avaliação do storyboard "Registr
 
 </div>
 
-A avaliação realizada, que consistiu em um questionário composto por sete perguntas fechadas e uma pergunta aberta, obteve uma participação significativa, com todas as perguntas devidamente respondidas. É importante ressaltar que o participante demonstrarou um alto nível de conforto durante a participação na pesquisa e compreenderam claramente a linguagem utilizada nas perguntas, o que contribuiu para a qualidade das respostas.
+A avaliação realizada, que consistiu em um questionário composto por sete perguntas fechadas e uma pergunta aberta, obteve uma participação significativa, com todas as perguntas devidamente respondidas. É importante ressaltar que o participante demonstrou um alto nível de conforto durante a participação na pesquisa e compreendeu claramente a linguagem utilizada nas perguntas, o que contribuiu para a qualidade das respostas.
 
 As perguntas fechadas foram estruturadas de forma a permitir análises quantitativas e facilitar a apresentação dos dados em formato tabular. Para uma visão mais detalhada das respostas às perguntas fechadas, consulte a Tabela 2 abaixo:
 
@@ -132,7 +132,7 @@ As perguntas fechadas foram estruturadas de forma a permitir análises quantitat
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
-Além disso, a pergunta aberta permitiu aos participantes expressar suas opiniões e insights de forma mais livre e abrangente. Sua resposta pode ser vista abaixo:
+Além disso, a pergunta aberta permitiu ao participante expressar suas opiniões e insights de forma mais livre e abrangente. Sua resposta pode ser vista abaixo:
 
 8. Houve algum elemento que você não compreendeu no storyboard?
 
@@ -196,3 +196,4 @@ Em resumo, os resultados sugerem que o storyboard está alinhado com muitos dos 
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 31/10/2023 | Criação do documento |  [Gabriel Rosa](https://github.com/gabrielrosa09)    | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.1`  | 02/10/2023 | Adicionando gravação e analise dos dados |  [Gabriel Rosa](https://github.com/gabrielrosa09)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Zenilda Vieira](https://github.com/zenildavieira)    |[Gabriel Zaranza](https://github.com/GZaranza) |

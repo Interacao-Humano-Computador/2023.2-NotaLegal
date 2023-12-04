@@ -548,7 +548,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
           </td>
         <td> 88%  </td>
-        <td>   </td>
+        <td> 100%  </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação do Storyboard "Consultar Estabelecimento" </td>
@@ -614,8 +614,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a> 
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td> 100%  </td>
+        <td> 100%  </td>
     </tr>
     <tr>
       <td rowspan="10">Etapa 7 - Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>

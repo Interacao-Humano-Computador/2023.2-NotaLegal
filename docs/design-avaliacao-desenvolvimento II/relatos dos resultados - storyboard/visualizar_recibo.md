@@ -4,7 +4,7 @@
 Este documento detalha os resultados da avaliação feita pelo usuário do StoryBoard “Visualizar recibo fiscal” no site Nota Legal. O propósito desta avaliação é avaliar junto com o usuário se esse StoryBoard condiz com a realidade e expectativas dos mesmos. Nosso foco é compreender como os usuários utilizam essa funcionalidade e checar possíveis erros no nosso StoryBoard para que assim possamos fazer as mudanças necessárias.
 ## Metodologia
 
-Para esta avaliação, utilizamos a metodologia de pesquisa, e a técnica empregada foi a entrevista. No Vídeo x, podemos observar que a entrevista ocorreu de maneira presencial, e que a participante se apresentou no início. Em seguida, lemos o nosso termo de consentimento livre e esclarecido para ela, e após a sua concordância, prosseguimos com a avaliação, na qual todas as questões foram respondidas.
+Para esta avaliação, utilizamos a metodologia de pesquisa, e a técnica empregada foi a entrevista. No Vídeo 1, podemos observar que a entrevista ocorreu de maneira presencial, e que a participante se apresentou no início. Em seguida, lemos o nosso termo de consentimento livre e esclarecido para ela, e após a sua concordância, prosseguimos com a avaliação, na qual todas as questões foram respondidas.
 ### Aspectos Práticos da Avaliação
 O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  realizou a avaliação com a entrevistada, Francinete de Oliveira Dias. Não houve custos adicionais nem outras pessoas envolvidas no processo, e a avaliação foi feita dentro do orçamento planejado. A entrevista foi gravada em áudio e vídeo por meio de um Smartphone. A tabela 1 mostra o cronograma planejado e o cronograma realizado.
 
@@ -47,7 +47,7 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
 
 ### Aspectos Éticos
 
- A participante da pesquisa foi orientada sobre as características, finalidades, riscos e benefícios do estudo, conforme o [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas) que ela leu e concordou. O Vídeo x mostra que o estudo seguiu os princípios éticos de pesquisas científicas envolvendo pessoas, respeitando a autonomia e a dignidade da participante.
+ A participante da pesquisa foi orientada sobre as características, finalidades, riscos e benefícios do estudo, conforme o [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas) que ela leu e concordou. O Vídeo 1 mostra que o estudo seguiu os princípios éticos de pesquisas científicas envolvendo pessoas, respeitando a autonomia e a dignidade da participante.
 
 ### Apresentação dos Dados
 
@@ -61,6 +61,9 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 
 </div>
+
+Na tabela 2 a seguir estão as perguntas e as respostas da entrevista.
+
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 2 - </b> Perguntas respondidas na avaliação.</p></font>
@@ -137,11 +140,11 @@ As respostas obtidas nessa entrevista mostra que o StoryBoard está de acordo co
 
 
 ## Bibliografia
-> ROSA, Gabriel. [Planejamento da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md). Disciplina de IHC, FGA, Gama, 2023.
->
+
+> ZARANZA, Gabriel; ALVES, Izabella. [Planejamento da Avaliação do Storyboard](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md). Disciplina de IHC, FGA, Gama, 2023.
+> 
 > VIEIRA, Zenilda; RIBEIRO, Lucas. [Planejamento do Relato dos Resultados do Storyboard](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#planejamento-do-relato-dos-resultados-da-avalia%C3%A7%C3%A3o-do-storyboard). Disciplina de IHC, FGA, Gama, 2023.
 >
-> VICTOR, Lucas; OLIVEIRA, Lucas. [Planejamento do Relato dos Resultados da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md). Disciplina de IHC, FGA, Gama, 2023.
 
 ## Histórico de Versão
 
@@ -149,3 +152,4 @@ As respostas obtidas nessa entrevista mostra que o StoryBoard está de acordo co
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 05/11/2023 | Criação do documento |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.1`  | 06/11/2023 | Adição das respostas da entrevistada |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Zenilda Vieira](https://github.com/zenildavieira)    |[Gabriel Zaranza](https://github.com/GZaranza) |

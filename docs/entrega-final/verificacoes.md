@@ -596,27 +596,27 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1/">Planejamento da verificação Etapa 4 </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-verificacao/">Planejamento da verificação Etapa 4 </a></td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-04/planejamento-avaliacao-storyboards/">Verificação do artefato Planejamento da Avaliação do Storyboard </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-avaliacao-storyboard/">Verificação do artefato Planejamento da Avaliação do Storyboard </a></td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-04/planejamento-relato-storyboards/">Verificação do artefato Planejamento do Relato dos Resultados da Avaliação do Storyboard</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-relato-storyboard/">Verificação do artefato Planejamento do Relato dos Resultados da Avaliação do Storyboard</a></td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-04/storyboards/">Verificação do artefato Storyboards</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/storyboard/">Verificação do artefato Storyboards</a></td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-04/planejamento-avaliacao-tarefas/">Verificação do artefato Planejamento da Avaliação da Análise de Tarefas</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-avaliacao-analise-tarefas/">Verificação do artefato Planejamento da Avaliação da Análise de Tarefas</a></td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-04/planejamento-relato-tarefas/">Verificação do artefato Planejamento do Relato dos Resultados da Análise de Tarefas</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-relato-analise-tarefas/">Verificação do artefato Planejamento do Relato dos Resultados da Análise de Tarefas</a></td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
   </tbody>

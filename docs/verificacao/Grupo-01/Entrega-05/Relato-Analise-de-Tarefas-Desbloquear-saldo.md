@@ -200,6 +200,19 @@ No vídeo 1 a seguir é possível assistir a verificação do artefato que foi f
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
+## Vídeo da Consolidação da Verificação do Artefato
+
+No vídeo 2 é possível assistir a consolidação da inspeção do artefato com o integranto do grupo [Gabriel Zaranza](https://github.com/GZaranza).
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=Z_R4X9df09c" target="blanket"><b>Vídeo 2:</b> Consolidação da Verificação do Artefato</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_R4X9df09c?si=RuJKKo-UweE-vMKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
 ## Referências Bibliográficas
 
 > [1] ALVES, Izabella; VIEIRA, Zenilda. [Planejamento da Verificação da Etapa 5 do Grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1.md), GAMA, FGA, 2023. Acesso em: 22 de novembro de 2023.

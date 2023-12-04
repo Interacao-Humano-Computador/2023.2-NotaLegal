@@ -24,7 +24,7 @@ A Tabela 1 desempenha um papel crucial ao sintetizar de maneira abrangente todo 
   <tbody>
   <tr>
     <th align="center">Instalação</th>
-    <td colspan="3">Nesta fase, são definidos os objetivos para o produto ou serviço, juntamente com os requisitos de usabilidade e informações sobre os usuários. Os objetivos estabelecem as metas e para quem o produto ou serviço é destinado, desempenhando um papel crucial para assegurar a adequação às necessidades dos usuários. Por sua vez, os requisitos de usabilidade especificam as características necessárias para tornar o produto ou serviço intuitivo e agradável, alinhando-se aos objetivos estipulados e às exigências dos usuários.</td>
+    <td colspan="3">Nesta fase, são estabelecidos de maneira abrangente os objetivos a serem alcançados pelo produto ou serviço. Paralelamente, são detalhados os requisitos de usabilidade, visando assegurar uma experiência intuitiva e eficiente para os usuários. Além disso, são coletadas e analisadas informações fundamentais sobre o perfil dos usuários, proporcionando insights valiosos para orientar o desenvolvimento e aprimoramento contínuo do produto ou serviço.</td>
     <td align="center"></td>
   </tr>
   <tr>

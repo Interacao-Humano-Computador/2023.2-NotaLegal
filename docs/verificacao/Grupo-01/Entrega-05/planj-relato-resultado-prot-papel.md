@@ -167,7 +167,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/prapp.png" style="width: 45%;">
 
-<p><b>Fonte:</b> Gabriel Zaranza e Lucas Ribeiro, 2023.</p>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ### Checklist específico
@@ -179,9 +179,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/f2440690-2b24-488b-8443-61a4a0963936" style="width: 45%;">
 
-
-<p><b>Fonte:</b> Gabriel Zaranza e Lucas Ribeiro, 2023.</p>
-
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ## Referências Bibliográficas
@@ -202,4 +200,5 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
-| `1.0`  | 03/11/2023 | Criação do documento                | [Gabriel Zaranza](https://github.com/gabrielrosa09) | [Lucas Ribeiro](https://github.com/lucassouzs)|
+| `1.0`  | 03/12/2023 | Criação do documento                | [Gabriel Zaranza](https://github.com/gabrielrosa09) | [Lucas Ribeiro](https://github.com/lucassouzs)|
+| `1.1`  | 04/12/2023 | Correção do documento                | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/gabrielrosa09) |

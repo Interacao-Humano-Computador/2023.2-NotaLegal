@@ -641,80 +641,25 @@ Este método pode ser dividido em 5 etapas:
   <tbody>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Planejamento da verificação Etapa 5 </a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a><br><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-      <td><a href="">Verificação do artefato Protótipo de papel </a></td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-            <a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Relato dos resultados do Storyboard </a></td>
+      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Relato dos resultados da Análise de tarefas </a></td>
+      <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planej-aval-prototipo_papel/">Verificação do artefato Planejamento da avaliação do protótipo de papel</a></td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-            <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Planejamento da avaliação do Protótipo de papel </a></td>
+      <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planj-relato-resultado-prot-papel/">Verificação do artefato Planejamento do relato da avaliação do protótipo de papel</a></td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-            <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Planejamento do relato dos resultados da avaliação do Protótipo de papel </a></td>
+      <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Consultar-extrato/">Verificação do artefato Relato dos resultados da avaliação da análise de tarefa "Consultar Extrato"</a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Consultar-estabelecimento/">Verificação do artefato Relato dos resultados da avaliação da análise de tarefa "Consultar estabelecimento"</a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Consultar-sorteio.md">Verificação do artefato Relato dos resultados da avaliação da análise de tarefa "Consultar sorteio"</a></td>
-      <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Desbloquear-saldo/">Verificação do artefato Relato dos resultados da avaliação da análise de tarefa "Desbloquear Saldo"</a></td>
-      <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-            <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Registrar-reclamacao/">Verificação do artefato Relato dos resultados da avaliação da análise de tarefa "Registrar reclamação"</a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Visualizar-recibo/">Verificação do artefato Relato dos resultados da avaliação da análise de tarefa "Visualizar recibo"</a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Consultar-reclamacao/">Verificação do artefato Relato dos resultados da avaliação da análise de tarefa "Consultar reclamação"</a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Storyboard-Consultar-extrato/">Verificação do artefato Relato dos resultados da avaliação do Storyboard "Consultar Extrato"</a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Storyboard-Consultar-estabelecimento/">Verificação do artefato Relato dos resultados da avaliação do Storyboard "Consultar estabelecimento"</a></td>
-      <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-            <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Storyboard-Consultar-sorteio/">Verificação do artefato Relato dos resultados da avaliação do Storyboard "Consultar sorteio"</a></td>
-      <td>  <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Storyboard-Desbloquear-saldo/">Verificação do artefato Relato dos resultados da avaliação do Storyboard "Desbloquear Saldo"</a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Storyboard-Registrar-reclamacao/">Verificação do artefato Relato dos resultados da avaliação do Storyboard "Registrar reclamação"</a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Storyboard-Visualizar-recibo/">Verificação do artefato Relato dos resultados da avaliação do Storyboard "Visualizar recibo"</a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/Relato-Storyboard-Consultar-reclamacao/">Verificação do artefato Relato dos resultados da avaliação do Storyboard "Consultar reclamação"</a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
+    
   </tbody>
 </table>
 

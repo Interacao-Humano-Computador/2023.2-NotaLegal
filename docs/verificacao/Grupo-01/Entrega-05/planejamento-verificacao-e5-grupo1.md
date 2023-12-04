@@ -220,7 +220,7 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
       <td>02/12/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20analise%20de%20tarefas/consultar-sorteio/">Relato dos resultados da avaliação da Análise da Tarefa "Consultar Sorteio"</a></td>
       <td>
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasmarquesFerreira">Lucas Oliveira</a> <br> 
         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
       </td>
      </tr>
@@ -260,7 +260,7 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>XX/11/2023</td>
+      <td>02/11/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-sorteio/">Relato dos resultados da avaliação do Storyboard "Consultar Sorteio"</a></td>
       <td>
         <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 

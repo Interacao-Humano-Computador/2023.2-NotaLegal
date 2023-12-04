@@ -109,8 +109,8 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>6.1</td>
-      <td></td>
+      <td>6.2</td>
+      <td><iframe width="560" height="315" src="https://www.youtube.com/embed/7X5ug9GIApk" title="Apresentação 6.2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
           <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 

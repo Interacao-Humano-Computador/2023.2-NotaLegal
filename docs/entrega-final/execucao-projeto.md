@@ -22,7 +22,7 @@ A Tabela 1 desempenha um papel crucial ao sintetizar de maneira abrangente todo 
     </tr>
   </thead>
   <tbody>
-    <tr>
+  <tr>
     <th align="center">Análise de Requisitos</th>
     <td colspan="3">Nesta etapa, as metas de usabilidade são estabelecidas levando em consideração o perfil dos usuários, a análise de tarefas, a plataforma e os princípios de design de Interação Humano-Computador (IHC). Essas metas são documentadas em guias de estilo, que abrangem diretrizes para os elementos da interface do usuário.</td>
     <td align="center"><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/perfil_usuario/">Perfil de Usuário</a>, <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta/">Análise Hierárquica de Tarefas (HTA)</a>, <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt/">Árvore de Tarefas Concorrentes (CTT)</a>, <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/guia_de_estilo/">Guia de Estilo</a>, <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/metas_de_usabilidade/">Metas de Usabilidade</a>, <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/caracteristicas_da_plataforma/">Características da Plataforma</a>, <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/principios-gerais/">Princípios Gerais</a></td>
@@ -46,6 +46,11 @@ A Tabela 1 desempenha um papel crucial ao sintetizar de maneira abrangente todo 
     <th align="center">Nível 3</th>
     <td>Nesta etapa, o designer realiza a concepção completa da interface em alta fidelidade, levando em consideração elementos visuais como cores, fontes, ícones e layout. Geralmente, esses projetos são elaborados por meio de softwares de design gráfico ou de interface do usuário, oferecendo uma representação precisa e final da interface. Esses designs detalhados servem como base para a implementação subsequente.</td>
     <td align="center"><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/prototipos-alta-fidelidade/">Protótipos de Alta Fidelidade</a>, <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-avaliacao-prot-alta-fidelidade/">Planejamento da Avaliação do Protótipo de Alta Fidelidade</a>, <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade/">Planejamento do Relato dos Resultados do Prótótipo de Alta Fidelidade</a></td>
+  </tr>
+  <tr>
+    <th align="center">Instalação</th>
+    <td colspan="3"></td>
+    <td align="center"></td>
   </tr>
   </tbody>
 </table>

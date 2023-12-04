@@ -469,8 +469,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td> 88%  </td>
+        <td> 82%  </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação da análise de tarefa "Consultar estabelecimento" </td>
@@ -514,8 +514,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td> 88%  </td>
+        <td> 91%  </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação da análise de tarefa "Visualizar Recibo de Indicação" </td>

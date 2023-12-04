@@ -10,7 +10,7 @@ Nesta avaliação, tivemos como metodologia a investigação, e a técnica utili
 
 ### Aspectos Práticos da Avaliação
 
-A avaliação foi conduzida pela integrante do grupo [Lucas Víctor](https://github.com/Lucas13032003) e contou com a participação da entrevistada, Alecsandra Araújo Souza. Não houve outras pessoas envolvidas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem custos adicionais. Os equipamentos utilizados incluíram apenas um celular para gravação do áudio e do vídeo da entrevista. O cronograma planejado para a entrevista presencial foi ajustado do dia 2 de novembro para o dia 5 de novembro, das 21:00  às 21:06 , para acomodar a disponibilidade do entrevistado. Na tabela 1 é possível ver o cronograma planejado e o cronograma executado.
+A avaliação foi conduzida pelo integrante do grupo [Lucas Víctor](https://github.com/Lucas13032003) e contou com a participação da entrevistada, Alecsandra Araújo Souza. Não houve outras pessoas envolvidas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem custos adicionais. Os equipamentos utilizados incluíram apenas um celular para gravação do áudio e do vídeo da entrevista. O cronograma planejado para a entrevista presencial foi ajustado do dia 2 de novembro para o dia 5 de novembro, das 21:00  às 21:06 , para acomodar a disponibilidade do entrevistado. Na tabela 1 é possível ver o cronograma planejado e o cronograma executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da entrevista.</p>
@@ -51,7 +51,7 @@ A avaliação foi conduzida pela integrante do grupo [Lucas Víctor](https://git
 
 ### Aspectos Éticos
 
-Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas) foi devidamente lido e aceito pelo participante, para garantir que o participante estivesse completamente informado sobre os procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa antes de concordar em participar. 
+Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas) foi devidamente lido e aceito pelo participante, para garantir que o participante estivesse completamente informado sobre os procedimentos, objetivos, riscos, benefícios da pesquisa antes de concordar em participar. 
 
 ### Apresentação dos Dados
 
@@ -65,6 +65,8 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
+
+Na tabela 2 a seguir estão as perguntas e as respostas da entrevista.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 2 - Perguntas respondidas na avaliação.</b></p></font>
@@ -194,8 +196,6 @@ Essas ações podem contribuir para uma experiência mais positiva no site Nota 
 ## Bibliografia
 > ROSA, Gabriel. [Planejamento da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md). Disciplina de IHC, FGA, Gama, 2023.
 >
-> VIEIRA, Zenilda; RIBEIRO, Lucas. [Planejamento do Relato dos Resultados do Storyboard](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#planejamento-do-relato-dos-resultados-da-avalia%C3%A7%C3%A3o-do-storyboard). Disciplina de IHC, FGA, Gama, 2023.
->
 > VICTOR, Lucas; OLIVEIRA, Lucas. [Planejamento do Relato dos Resultados da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md). Disciplina de IHC, FGA, Gama, 2023.
 
 ## Histórico de Versão
@@ -204,4 +204,4 @@ Essas ações podem contribuir para uma experiência mais positiva no site Nota 
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 05/11/2023 | Criação do documeto  | [Lucas Víctor](https://github.com/Lucas13032003)   | [Gabriel Zaranza](https://github.com/GZaranza)   |
 | `1.1`  | 06/11/2023 | Análise de dados     | [Lucas Víctor](https://github.com/Lucas13032003)   | [Gabriel Zaranza](https://github.com/GZaranza)   |
-
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Izabella Alves](https://github.com/izabellaalves)    | [Gabriel Zaranza](https://github.com/GZaranza) |

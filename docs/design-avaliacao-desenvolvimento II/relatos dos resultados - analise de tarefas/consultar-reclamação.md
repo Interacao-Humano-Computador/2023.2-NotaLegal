@@ -10,7 +10,7 @@ Nesta avaliação, adotamos uma abordagem de investigação, utilizando a técni
 
 ### Aspectos Práticos da Avaliação
 
-A avaliação foi conduzida por [Lucas Ribeiro](https://github.com/lucassouzs), membro do grupo, e contou com a participação da Ana Clara Silva de Araújo como entrevistada. Não houve envolvimento de outras pessoas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem incorrer em custos adicionais. O material utilizado inclui apenas um computador, mas especificamente, um notebook, para gravar tanto o áudio quanto o vídeo da entrevista. O cronograma original para a entrevista presencial foi ajustado de 2 de novembro para 8 de novembro, das 20:00 às 23:30, para acomodar a disponibilidade da entrevistada. Na Tabela 1, é possível comparar o cronograma planejado com o cronograma efetivamente executado.
+A avaliação foi conduzida por [Lucas Ribeiro](https://github.com/lucassouzs), membro do grupo, e contou com a participação da Ana Clara Silva de Araújo como entrevistada. Não houve envolvimento de outras pessoas no processo, e a avaliação foi realizada dentro do orçamento planejado, sem incorrer em custos adicionais. O material utilizado inclui apenas um computador, mas especificamente, um notebook, para gravar tanto o áudio quanto o vídeo da entrevista. O cronograma original para a entrevista presencial foi ajustado de 2 de novembro para 8 de novembro, das 20:00 para às 23:30, para acomodar a disponibilidade da entrevistada. Na Tabela 1, é possível comparar o cronograma planejado com o cronograma efetivamente executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado da entrevista.</p>
@@ -65,6 +65,8 @@ No vídeo 1, é possível ver a gravação do relato da análise de tarefas "Con
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 
 </div>
+
+Na tabela 2 a seguir estão as perguntas e as respostas da entrevista.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 2 - </b> Perguntas respondidas na avaliação.</p></font>
@@ -196,8 +198,6 @@ Em resumo, a entrevista realizada com os usuários do site Nota Legal enfatizou 
 ## Bibliografia
 > ROSA, Gabriel. [Planejamento da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md). Disciplina de IHC, FGA, Gama, 2023.
 >
-> VIEIRA, Zenilda; RIBEIRO, Lucas. [Planejamento do Relato dos Resultados do Storyboard](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#planejamento-do-relato-dos-resultados-da-avalia%C3%A7%C3%A3o-do-storyboard). Disciplina de IHC, FGA, Gama, 2023.
->
 > VICTOR, Lucas; OLIVEIRA, Lucas. [Planejamento do Relato dos Resultados da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md). Disciplina de IHC, FGA, Gama, 2023.
 
 ## Histórico de Versão
@@ -206,3 +206,4 @@ Em resumo, a entrevista realizada com os usuários do site Nota Legal enfatizou 
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 08/11/2023 | Criação do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.1`  | 08/11/2023 | Conclusão do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Izabella Alves](https://github.com/izabellaalves)    | [Gabriel Zaranza](https://github.com/GZaranza) |

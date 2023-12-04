@@ -16,7 +16,6 @@ Nesse documento específico, a verificação foi feita por [Zenilda Vieira](http
 
 Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica", onde "Sim" e "Não" significam que o artefato está em conformidade ou não com o item do checklist. Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
 
-
 ### Checklist Geral
 
 Na tabela 1, encontram-se os resultados obtidos na verificação do checklist geral do artefato em estudo.
@@ -158,7 +157,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Problemas encontrados
 
-De um modo geral, o documento está bem feito, bem organizado e formatado. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação da análise da tarefa (em grande parte). Foi encontrado um pequeno erro de digitação que passou despercebidos na revisão final em _*procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa*_ "objetivos" aparece duas vezes.
+De um modo geral, o documento está bem feito, bem organizado e formatado. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação da análise da tarefa (em grande parte). Foi encontrado um pequeno erro de digitação que passou despercebido na revisão final em _*procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa*_ "objetivos" aparece duas vezes.
 
 ### Checklist geral
 
@@ -180,7 +179,7 @@ No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relaç
 
 - **ID 10:** Não há um cronograma de correção, mas também não há como o grupo corrigir o que o usuário apontou como necessidade de melhoria do site.
 
-- **ID 11:** O documento está de acordo com o planejamneto do relato em sua grande maioria dos tópicos pedidos. Faltou falar se o perfil do usuário foi levado em conta ao selecionar o participante da entrevista.
+- **ID 11:** O documento está de acordo com o planejamento do relato em sua grande maioria dos tópicos pedidos. Faltou falar se o perfil do usuário foi levado em conta ao selecionar o participante da entrevista.
 
 No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relação ao checklist específico.
 

@@ -51,7 +51,7 @@ A avaliação foi conduzida pela integrante do grupo [Izabella Alves](https://gi
 
 ### Aspectos Éticos
 
-Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas) foi devidamente lido e aceito pelo participante, para garantir que o participante estivesse completamente informado sobre os procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa antes de concordar em participar. 
+Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md#d---decidir-as-quest%C3%B5es-%C3%A9ticas) foi devidamente lido e aceito pelo participante, para garantir que o participante estivesse completamente informado sobre os procedimentos, objetivos, riscos, benefícios da pesquisa antes de concordar em participar. 
 
 ### Apresentação dos Dados
 
@@ -64,6 +64,8 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 
 </div>
+
+Na tabela 2 a seguir estão as perguntas e as respostas da entrevista.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 2 - </b> Perguntas respondidas na avaliação.</p></font>
@@ -193,8 +195,6 @@ Em resumo, a entrevista com o usuário do site Nota Legal destacou a importânci
 ## Bibliografia
 > ROSA, Gabriel. [Planejamento da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md). Disciplina de IHC, FGA, Gama, 2023.
 >
-> VIEIRA, Zenilda; RIBEIRO, Lucas. [Planejamento do Relato dos Resultados do Storyboard](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#planejamento-do-relato-dos-resultados-da-avalia%C3%A7%C3%A3o-do-storyboard). Disciplina de IHC, FGA, Gama, 2023.
->
 > VICTOR, Lucas; OLIVEIRA, Lucas. [Planejamento do Relato dos Resultados da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md). Disciplina de IHC, FGA, Gama, 2023.
 
 ## Histórico de Versão
@@ -203,3 +203,4 @@ Em resumo, a entrevista com o usuário do site Nota Legal destacou a importânci
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 31/10/2023 | Criação do documento |  [Izabella Alves](https://github.com/izabellaalves)    | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.1`  | 02/11/2023 | Adição da gravação e analise dos dados |  [Izabella Alves](https://github.com/izabellaalves)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Izabella Alves](https://github.com/izabellaalves)    | [Gabriel Zaranza](https://github.com/GZaranza) |

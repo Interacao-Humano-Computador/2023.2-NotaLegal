@@ -84,7 +84,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
-### Checklist do Relato dos Resultados do Storyboard
+### Checklist Específico
 
 Na tabela 2, encontram-se os resultados obtidos na verificação do checklist específico do artefato em estudo.
 
@@ -112,42 +112,42 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
       <td>Sim</td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>04</td>
       <td>O artefato descreve as questões éticas da avaliação? [3]</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>04</td>
+      <td>05</td>
       <td>O artefato apresenta o participante selecionado? [3]</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>05</td>
+      <td>06</td>
       <td>O artefato possui um cronograma executado da avaliação?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>06</td>
+      <td>07</td>
       <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>07</td>
+      <td>08</td>
       <td>O artefato possui uma gravação da avaliação? [3]</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>08</td>
+      <td>09</td>
       <td>O artefato possui um tópico para análise dos resultados? [3]</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>09</td>
+      <td>10</td>
       <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
       <td>Sim</td>
     </tr>

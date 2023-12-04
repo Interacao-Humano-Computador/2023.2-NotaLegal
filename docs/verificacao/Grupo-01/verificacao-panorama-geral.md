@@ -536,8 +536,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td>  88% </td>
+        <td>  82% </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação do Storyboard "Consultar Extrato" </td>
@@ -547,7 +547,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
           </td>
-        <td>   </td>
+        <td> 88%  </td>
         <td>   </td>
     </tr>
     <tr>

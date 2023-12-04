@@ -5,6 +5,7 @@
 Este relatório apresenta os resultados da avaliação conduzida no storyboard da tarefa "Consulta de Extrato" no site Nota Legal. O objetivo central dessa análise foi examinar a representação visual das interações do usuário nesse contexto específico. Por meio de uma avaliação criteriosa, procuramos determinar se o storyboard reflete com precisão as ações realizadas pelos usuários ao consultar o extrato no site Nota Legal e se consegue capturar de maneira fiel as motivações e satisfações dos usuários. Além disso, identificamos e documentamos eventuais falhas e áreas que necessitam de aprimoramento no storyboard, com o intuito de contribuir para uma experiência do usuário mais eficiente e satisfatória.
 
 Os objetivos desta avaliação podem ser resumidos em três principais tópicos:
+
 * Avaliar se os Storyboards estão de acordo com as tarefas executadas pelo usuário no site do Nota Legal;
 * Avaliar se as motivações e satisfações do usuário estão representadas nos storyboards;
 * Encontrar erros ou pontos de mudança nos Storyboards
@@ -57,7 +58,7 @@ A avaliação foi conduzida pelo integrante do grupo [Lucas Víctor](https://git
 
 ### Aspectos Éticos
 
-Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) foi devidamente lido e aceito pelo participante, para garantir que o participante estivesse completamente informado sobre os procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa antes de concordar em participar. 
+Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md#aspectos-%C3%A9ticos-d) foi devidamente lido e aceito pelo participante, para garantir que o participante estivesse completamente informado sobre os procedimentos, objetivos, riscos e benefícios da pesquisa antes de concordar em participar. 
 
 ### Avaliação e Apresentação dos Dados
 
@@ -75,7 +76,7 @@ No vídeo 1, é possível ver a gravação da avaliação do storyboard "Consult
 
 </div>
 
-A avaliação realizada, que consistiu em um questionário composto por sete perguntas fechadas e uma pergunta aberta, obteve uma participação significativa, com todas as perguntas devidamente respondidas. É importante ressaltar que o participante demonstrarou um alto nível de conforto durante a participação na pesquisa e compreenderam claramente a linguagem utilizada nas perguntas, o que contribuiu para a qualidade das respostas.
+A avaliação realizada, que consistiu em um questionário composto por sete perguntas fechadas e uma pergunta aberta, obteve uma participação significativa, com todas as perguntas devidamente respondidas. É importante ressaltar que o participante demonstrou um alto nível de conforto durante a participação na pesquisa e compreendeu claramente a linguagem utilizada nas perguntas, o que contribuiu para a qualidade das respostas.
 
 As perguntas fechadas foram estruturadas de forma a permitir análises quantitativas e facilitar a apresentação dos dados em formato tabular. Para uma visão mais detalhada das respostas às perguntas fechadas, consulte a Tabela 2 abaixo:
 
@@ -132,7 +133,7 @@ As perguntas fechadas foram estruturadas de forma a permitir análises quantitat
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-Além disso, a pergunta aberta permitiu aos participantes expressar suas opiniões e insights de forma mais livre e abrangente. Sua resposta pode ser vista abaixo:
+Além disso, a pergunta aberta permitiu ao participante expressar suas opiniões e insights de forma mais livre e abrangente. Sua resposta pode ser vista abaixo:
 
 8. Houve algum elemento que você não compreendeu no storyboard?
 
@@ -152,6 +153,7 @@ Além das perguntas fechadas, a pergunta aberta (Pergunta 8) permitiu aos partic
 
 Esses resultados fornecem uma visão geral das percepções dos participantes em relação ao storyboard, destacando áreas de concordância e aquelas que podem exigir revisão ou esclarecimento.
 
+Na tabela 3 a seguir, pode-se observar o cronograma de correção.
 
 <div align="center">
     <p><b>Tabela 3</b> - Cronograma de correção.</p>
@@ -187,5 +189,5 @@ Esses resultados fornecem uma visão geral das percepções dos participantes em
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 05/11/2023 | Criação do documento |  [Lucas Víctor](https://github.com/Lucas13032003)    | [Gabriel Zaranza](https://github.com/GZaranza) |
-| `1.0`  | 06/11/2023 | Análise de dados     |  [Lucas Víctor](https://github.com/Lucas13032003)    | [Gabriel Zaranza](https://github.com/GZaranza) |
-
+| `1.1`  | 06/11/2023 | Análise de dados     |  [Lucas Víctor](https://github.com/Lucas13032003)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Zenilda Vieira](https://github.com/zenildavieira)    | [Gabriel Zaranza](https://github.com/GZaranza) |

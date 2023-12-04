@@ -159,7 +159,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 De um modo geral, o documento está bem feito, bem organizado e formatado. Alguns parágrafos estão longos, recomenda-se reescrevê-los em frases mais curtas. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação da análise da tarefa (em grande parte). Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: _*vídeo x*_ ao invés de _*vídeo 1*_ em dois lugares no documento.
 
-Na entrevista, faltou dar mais ênfase a tarefa específica "Visualizar recibo".
+Na entrevista, faltou dar mais ênfase a tarefa específica "Visualizar recibo" e incentivar a entrevistada a falar mais, principalmente na resposta 'Mais ou Menos".
 
 ### Checklist geral
 

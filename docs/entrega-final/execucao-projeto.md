@@ -25,7 +25,7 @@ A Tabela 1 desempenha um papel crucial ao sintetizar de maneira abrangente todo 
   <tr>
     <th align="center">Instalação</th>
     <td colspan="3">Nesta fase, são estabelecidos de maneira abrangente os objetivos a serem alcançados pelo produto ou serviço. Paralelamente, são detalhados os requisitos de usabilidade, visando assegurar uma experiência intuitiva e eficiente para os usuários. Além disso, são coletadas e analisadas informações fundamentais sobre o perfil dos usuários, proporcionando insights valiosos para orientar o desenvolvimento e aprimoramento contínuo do produto ou serviço.</td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md">Sites avaliados</a>, <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/site-escolhido.md">Site Escolhido</a></td>
   </tr>
   <tr>
     <th align="center">Análise de Requisitos</th>

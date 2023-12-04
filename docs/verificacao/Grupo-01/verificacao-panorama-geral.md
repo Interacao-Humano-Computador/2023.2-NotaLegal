@@ -1,4 +1,4 @@
-# Verificação dos artefatos entregues pelo Grupo 1
+# Panorama Geral - Verificação dos artefatos entregues pelo Grupo 1
 
 ## Introdução
 
@@ -491,8 +491,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td> 100%  </td>
+        <td> 100%  </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação da Análise da Tarefa "Desbloquear Saldo" </td>
@@ -581,8 +581,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td> 88%  </td>
+        <td> 91%  </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação do Storyboard "Registrar uma reclamação" </td>
@@ -592,8 +592,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td>  100% </td>
+        <td>  100% </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação do StoryBoard "Visualizar Recibo de Indicação" </td>
@@ -603,8 +603,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td> 88%  </td>
+        <td> 100%  </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação do Storyboard "Consultar Reclamação" </td>
@@ -618,7 +618,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td> 100%  </td>
     </tr>
     <tr>
-      <td rowspan="10">Etapa 7 - Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>
+      <td rowspan="9">Etapa 7 - Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>
         <td>  Relato dos resultados da avaliação do Protótipo de Papel "Consultar Extrato" </td>
         <td>
             <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
@@ -626,8 +626,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
           </td>
-        <td>  </td>
-        <td>   </td>
+        <td> 89% </td>
+        <td> 100%  </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação do Protótipo de Papel "Consultar Estabelecimento" </td>
@@ -637,8 +637,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td> 100%  </td>
+        <td> 100%  </td>
     </tr>
     <tr>
         <td>  Relato dos resultados da avaliação do Protótipo de Papel "Consultar resultado de sorteio" </td>
@@ -696,18 +696,6 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td> 100%  </td>
     </tr>
     <tr>
-        <td>  Protótipos de Alta Fidelidade </td>
-        <td>
-            <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-            <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        </td>
-        <td>
-            <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-          </td>
-        <td>   </td>
-        <td>   </td>
-    </tr>
-    <tr>
         <td>  Planejamento da avaliação do protótipo de alta fidelidade </td>
         <td>
             <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
@@ -718,8 +706,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td> 100%  </td>
+        <td> 100%  </td>
     </tr>
     <tr>
         <td>  Planejamento do Relato dos Resultados do Prótótipo de Alta Fidelidade </td>
@@ -730,8 +718,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         <td>
             <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
           </td>
-        <td>   </td>
-        <td>   </td>
+        <td> 100%  </td>
+        <td> 100%  </td>
     </tr>
   </tbody>
 </table>

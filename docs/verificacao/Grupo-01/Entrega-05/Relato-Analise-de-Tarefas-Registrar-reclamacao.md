@@ -159,8 +159,6 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 De um modo geral, o documento está bem feito, bem organizado e formatado. O documento seguiu tanto o planejamento da avaliação, quanto o planejamento do relato da avaliação da análise da tarefa (em grande parte). Foi encontrado um pequeno erro de digitação que passou despercebido na revisão final em _*procedimentos, objetivos, riscos, benefícios e objetivos da pesquisa*_ "objetivos" aparece duas vezes.
 
-O item "Sugestões de melhoria" foi escrito de forma muito genérica, aconselha-se reescrevê-lo com foco na tarefa em estudo e nas respostas da entrevista. É preciso também rever as respostas da entrevistada e adequar a análise dos dados e as conclusões ao que a entrevistada respondeu.
-
 ### Checklist geral
 
 - **ID 02:** Há uma bibliografia que não é utilizada e pode ser retirada.

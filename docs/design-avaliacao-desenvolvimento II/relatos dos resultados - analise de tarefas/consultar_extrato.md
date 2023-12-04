@@ -204,4 +204,4 @@ Essas ações podem contribuir para uma experiência mais positiva no site Nota 
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 05/11/2023 | Criação do documeto  | [Lucas Víctor](https://github.com/Lucas13032003)   | [Gabriel Zaranza](https://github.com/GZaranza)   |
 | `1.1`  | 06/11/2023 | Análise de dados     | [Lucas Víctor](https://github.com/Lucas13032003)   | [Gabriel Zaranza](https://github.com/GZaranza)   |
-| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Izabella Alves](https://github.com/izabellaalves)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Zenilda Vieira](https://github.com/zenildavieira)    | [Gabriel Zaranza](https://github.com/GZaranza) |

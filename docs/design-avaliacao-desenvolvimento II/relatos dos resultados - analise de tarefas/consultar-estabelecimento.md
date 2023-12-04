@@ -203,4 +203,4 @@ Em resumo, a entrevista com o usuário do site Nota Legal destacou a importânci
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 31/10/2023 | Criação do documento |  [Izabella Alves](https://github.com/izabellaalves)    | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.1`  | 02/11/2023 | Adição da gravação e analise dos dados |  [Izabella Alves](https://github.com/izabellaalves)    | [Gabriel Zaranza](https://github.com/GZaranza) |
-| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Izabella Alves](https://github.com/izabellaalves)    | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Zenilda Vieira](https://github.com/zenildavieira)    | [Gabriel Zaranza](https://github.com/GZaranza) |

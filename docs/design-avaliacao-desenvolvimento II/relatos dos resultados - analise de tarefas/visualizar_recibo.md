@@ -61,6 +61,8 @@ O integrante do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMa
 
 </div>
 
+Na tabela 2 a seguir estão as perguntas e as respostas da entrevista.
+
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 2 - </b> Perguntas respondidas na avaliação.</p></font>
     <table>
@@ -182,8 +184,6 @@ Após a coleta minuciosa dos dados percebe-se que a aréa em que mais precisa de
 ## Bibliografia
 > ROSA, Gabriel. [Planejamento da Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_analise_tarefas.md). Disciplina de IHC, FGA, Gama, 2023.
 >
-> VIEIRA, Zenilda; RIBEIRO, Lucas. [Planejamento do Relato dos Resultados do Storyboard](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento-relato_storyboard.md#planejamento-do-relato-dos-resultados-da-avalia%C3%A7%C3%A3o-do-storyboard). Disciplina de IHC, FGA, Gama, 2023.
->
 > VICTOR, Lucas; OLIVEIRA, Lucas. [Planejamento do Relato dos Resultados da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/design-avaliacao-desenvolvimento/planejamento_relato_tarefas2.md). Disciplina de IHC, FGA, Gama, 2023.
 
 ## Histórico de Versão
@@ -192,3 +192,4 @@ Após a coleta minuciosa dos dados percebe-se que a aréa em que mais precisa de
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 05/11/2023 | Criação do documento |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    | [Gabriel Rosa](https://github.com/gabrielrosa09) |
 | `1.1`  | 06/11/2023 | Adição do link da entrevista |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    | [Gabriel Rosa](https://github.com/gabrielrosa09) |
+| `1.2`  | 04/12/2023 | Correção de parte do artefato - Verificação e Validação |  [Zenilda Vieira](https://github.com/zenildavieira)    | [Gabriel Rosa](https://github.com/gabrielrosa09)  |

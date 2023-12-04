@@ -65,7 +65,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>8</td>
@@ -148,8 +148,8 @@ Na tabela 2, estão listados os critérios que devem ser verificados o Planejame
 
 ### Checklist geral
 
-- Não foi possível identificar nenhum erro no documento.
-
+- **ID 07**: No artefato, é possível ver 2 tabelas, porém, apenas a tabela 2 está sendo chamada.
+  
 ### Checklist específico
 
 - Não foi possível identificar nenhum erro no documento.
@@ -165,9 +165,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Planejamento do relato dos resultado da avaliação do Protótipo de Papel" no checklist geral.</p>
 
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/assets/116514986/1ed207b5-1e2b-4241-ab91-45a5f85f5087" style="width: 45%;">
-
-
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/prapp.png" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Zaranza e Lucas Ribeiro, 2023.</p>
 </div>

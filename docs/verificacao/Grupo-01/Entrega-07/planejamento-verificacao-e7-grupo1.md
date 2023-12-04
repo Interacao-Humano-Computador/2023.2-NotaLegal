@@ -780,57 +780,57 @@ Na tabela X, estão listados os critérios que devem ser verificados no [Planeja
     </tr>
     <tr>
       <td>01</td>
-      <td>O artefato descreve os objetivos da avaliação? [3]</td>
+      <td>O documento possui os objetivos do planejamento?</td>
       <td></td>
     </tr>
     <tr>
       <td>02</td>
-      <td>O artefato descreve o método empregado na avaliação? [3]</td>
+      <td>O planejamento segue o framework DECIDE?</td>
       <td></td>
     </tr>
     <tr>
       <td>03</td>
-      <td>O artefato descreve as questões práticas da avaliação? [3]</td>
+      <td>O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?</td>
       <td></td>
     </tr>
     <tr>
       <td>03</td>
-      <td>O artefato descreve as questões éticas da avaliação? [4]</td>
+      <td>O documento possui os participantes da avaliação?</td>
       <td></td>
     </tr>
     <tr>
       <td>04</td>
-      <td>O artefato apresenta o participante selecionado? [3]</td>
+      <td>O documento possui um cronograma com data, hora e local da realização da avaliação?</td>
       <td></td>
     </tr>
     <tr>
       <td>05</td>
-      <td>O artefato possui um cronograma executado da avaliação?</td>
+      <td>O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?</td>
       <td></td>
     </tr>
     <tr>
       <td>06</td>
-      <td>O artefato possui um tópico para a apresentação dos dados obtidos? [3]</td>
+      <td>O documento apresenta quais são os custos?</td>
       <td></td>
     </tr>
     <tr>
       <td>07</td>
-      <td>O artefato possui uma gravação da avaliação? [3]</td>
+      <td>O documento possui uma seção sobre como as questões éticas são lidadas? </td>
       <td></td>
     </tr>
     <tr>
       <td>08</td>
-      <td>O artefato possui um tópico para análise dos resultados? [3]</td>
+      <td>O documento possui uma seção sobre os dados (interpretação e apresentação)?</td>
       <td></td>
     </tr>
     <tr>
       <td>09</td>
-      <td>Caso necessário, o artefato possui um cronograma para a correção? [3]</td>
+      <td>O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?</td>
       <td></td>
     </tr>
     <tr>
       <td>10</td>
-      <td>O artefato segue o padrão definido no "Planejamento do Relato dos Resultados" proposto pelo grupo? </td>
+      <td>As entrevistas serão presenciais?</td>
       <td></td>
     </tr>
   </table>

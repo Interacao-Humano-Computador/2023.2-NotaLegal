@@ -36,6 +36,9 @@ Os integrantes do [Grupo 1](https://interacao-humano-computador.github.io/2023.2
 
 A tabela 1 mostra os artefatos que serão inspecionados durante o processo de verificação.
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Artefatos que serão verificados. </p></font>
+
 <table>
 
 <thead>
@@ -180,7 +183,7 @@ A verificação será executada entre os dias 18/11/2023 e 03/12/2023, as ativid
 </thead>
 <tbody>
     <tr>
-      <td>XX/11/2023</td>
+      <td>03/11/2023</td>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/prototipo_papel/prototipos-de-papel/">Protótipos de Papel</a></td>
       <td>
         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 

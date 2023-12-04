@@ -147,9 +147,8 @@ nav:
         - Cronograma planejado: verificacao/Grupo-01/Entrega-01/cronograma-planejado.md
         - Cronograma executado: verificacao/Grupo-01/Entrega-01/cronograma-executado.md
         - Ferramentas: verificacao/Grupo-01/Entrega-01/ferramentas.md
-        - Processo de Design: verificacao/Grupo-01/Entrega-01/processo-de-design.md
-        - Heatmap: verificacao/Grupo-01/Entrega-01/heatmap-de-disponibilidade.md
         - Processo de Design: verificacao/Grupo-01/Entrega-01/processo-de-desing.md
+        - Heatmap: verificacao/Grupo-01/Entrega-01/heatmap-de-disponibilidade.md
         - Sites avaliados: verificacao/Grupo-01/Entrega-01/sites-avaliados.md
         - Site escolhido: verificacao/Grupo-01/Entrega-01/site-escolhidos.md
       - Entrega 2:
@@ -184,7 +183,8 @@ nav:
           - Planejamento do Relato dos Resultados: verificacao/Grupo-01/Entrega-04/planejamento-relato-tarefas.md
       - Entrega 5:
         - Planejamento da verificação: verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1.md
-        - Planejamento da Avaliação: verificacao/Grupo-01/Entrega-05/planej_aval_protitpo_papel.md
+        - Planejamento da Avaliação do Protótipo de Papel: verificacao/Grupo-01/Entrega-05/planej-aval-prototipo_papel.md
+        - Planejamento do Relato dos Resultados do Protótipo de Papel: verificacao/Grupo-01/Entrega-05/planj-relato-resultado-prot-papel.md
         - Relato dos Resultados:
           - Storyboard:
             - Consultar extrato: verificacao/Grupo-01/Entrega-05/Relato-Storyboard-Consultar-extrato.md
@@ -202,8 +202,6 @@ nav:
             - Registrar reclamação: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Registrar-reclamacao.md
             - Visualizar recibo: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Visualizar-recibo.md
             - Consultar reclamação: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Consultar-reclamacao.md
-      - Entrega 6:
-        - Planejamento da verificação: verificacao/Grupo-01/Entrega-06/planejamento-verificacao-e6-grupo1.md
       - Entrega 7:
         - Planejamento da verificação: verificacao/Grupo-01/Entrega-07/planejamento-verificacao-e7-grupo1.md
         - Relato dos Resultados do Protótipo de Alta Fidelidade:

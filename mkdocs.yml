@@ -240,7 +240,18 @@ nav:
       - Visualizar recibo: design-avaliacao-desenvolvimento IV/relato-prototipo-de-alta-fidelidade/visualizar_recibo.md
       - Consultar reclamação: design-avaliacao-desenvolvimento IV/relato-prototipo-de-alta-fidelidade/consultar-reclamacao.md
   - Entrega final:
+    - Site Selecionado: entrega-final/site-selecionado.md
+    - Ciclo de Vida: entrega-final/ciclo-de-vida.md
+    - Planejamento dos Recursos e das Entregas: entrega-final/planejamento-recursos-e-entregas.md
+    - Execução do Projeto: entrega-final/execucao-projeto.md
+    - Resultados Alcançados: entrega-final/resultados-alcançados.md
+    - Técnicas Utilizadas: entrega-final/tecnicas_utilizadas.md
+    - Artefatos Criados: entrega-final/artefatos-criados.md
+    - Avaliações dos Protótipos: entrega-final/sintese-avaliacao-prototipos.md
+    - Métodos de Verificação: entrega-final/verificacoes.md
+    - Ferramentas Utilizadas: entrega-final/sintese-de-ferramentas-utilizadas.md
     - Apresentações: entrega-final/tabela-apresentacoes.md
+    - Facilidades e Dificuldades: entrega-final/facilidades-e-dificuldades.md
 theme:
   name: material
   features:

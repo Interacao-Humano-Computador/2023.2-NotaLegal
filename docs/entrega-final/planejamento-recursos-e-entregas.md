@@ -51,8 +51,8 @@ Na tabela 2, é possível ver o cronograma planejado de todo o projeto.
 |-----------|--------|-----|---------|-----------|-------|
 | 1 | Heatmap de disponibilidade | 06/set | 19/set | Gabriel Rosa |  Lucas Ribeiro|
 | 1 | Ferramentas do Projeto | 06/set | 19/set|Lucas De Oliveira  | Lucas Victor|
-| 1 | Aplicativos Avaliado | 06/set |19/set |Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira | Lucas Victor |
-| 1 | Aplicativo selecionado  | 06/set | 19/set| Lucas Victor | Lucas De Oliveira |
+| 1 | Site Avaliado | 06/set |19/set |Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira | Lucas Victor |
+| 1 | Site selecionado  | 06/set | 19/set| Lucas Victor | Lucas De Oliveira |
 | 1 | Cronograma Planejado | 06/set | 19/set| Gabriel Rosa, Zenilda Vieira |Gabriel Zaranza |
 | 1 | Cronograma Executado | 27/set| 27/set |Gabriel Rosa | Zenilda Vieira |
 | 2 | Aspectos Éticos | 21/set |   24/set | Izabella Alves| Zenilda Vieira |
@@ -95,9 +95,9 @@ Lucas Victor, Zenilda Vieira| Lucas De Oliveira |
     <p><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a></p>
 </div>
 
-## Cronograma Planejado
+## Cronograma Executado
 
-Na tabela 3, é possível ver o cronograma planejado de todo o projeto.
+Na tabela 3, é possível ver o cronograma executado de todo o projeto.
 
 <div align="center">
     <p><b>Tabela 3:</b> Cronograma executado do projeto.</p>
@@ -145,7 +145,7 @@ Na tabela 3, é possível ver o cronograma planejado de todo o projeto.
 | 7       | Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade | 14/11/2023	 | 16/11/2023	 | Izabella Alves, Gabriel Rosa | Lucas Ribeiro |
 | 8       | Relato dos Resultados do Protótipo de Alta Fidelidade |  |  | Zenilda Vieira| Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira  | Zenilda Vieira| Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira  |
 | 6.2     | Verificação  Grupo 01 | 24/11/2023 | 28/11/2023 | Zenilda Vieira| Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira  | Zenilda Vieira| Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira  |
-| Entrega final | Aplicativo Selecionado | - | - | - | - |
+| Entrega final | Site Selecionado | - | - | - | - |
 | Entrega final | Ciclo de Vida | - | - | - | - |
 | Entrega final | Planejamento dos Recursos e das Entregas | - | - | - | - |
 | Entrega final | Execução do projeto | - | - | - | - |

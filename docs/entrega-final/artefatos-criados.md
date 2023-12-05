@@ -21,6 +21,13 @@ Na tabela 1 estão os artefatos criados pelo Grupo 1.
   </thead>
   <tbody>
     <tr>
+      <td>Gitpage</td>
+        <td> <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/">Home</a></td>
+        <td>
+            <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        </td>
+    </tr>
+     <tr>
       <td rowspan="16">Atas das Reuniões</td>
         <td> <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/atas/Reuniao01-31.08.2023/">Reunião 1</a></td>
         <td>

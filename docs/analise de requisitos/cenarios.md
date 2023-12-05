@@ -6,8 +6,7 @@ Os cenários desempenham um papel fundamental na Interação Humano-Computador (
 
 ## Metodologia
 
-A metodologia utilizada neste artefato é a de Cenários de Interação, tomando como base a descrição e os exemplos presentes no capítulo 07 do livro Interação Humano Computador [1]. Cada membro da equipe ficará responsável por criar um cenário, o membro e o cenário atribuído a ele podem ser vistos na tabela 1, Além disso, os cenários serão definidos através de um texto descritivo que terá: contexto, ator(es), objetivos, ações e avaliação, e o ator principal do cenário será uma das [Personas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/ad5200e9034c6795c53d8fa9a2f2c6bd0ef86b58/docs/analise%20de%20requisitos/personas.md) definidas pelo grupo.
-
+A metodologia adotada para a criação deste artefato é a de Cenários de Interação, fundamentada no capítulo 07 do livro "Interação Humano-Computador" [1]. Cada membro da equipe tem a responsabilidade de desenvolver um cenário específico, conforme indicado na tabela 1. Os cenários serão elaborados por meio de textos descritivos, englobando os seguintes elementos: contexto, ator(es), objetivos, ações e avaliação. O ator principal em cada cenário será representado por uma das [Personas](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/ad5200e9034c6795c53d8fa9a2f2c6bd0ef86b58/docs/analise%20de%20requisitos/personas.md) definidas pelo grupo, visando facilitar a construção dos cenários ao utilizar personas como representação dos usuários-alvo.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Definição de membro da equipe que trabalhou em determinado cenário</p></font>
 

@@ -11,7 +11,7 @@ Para apresentar as dificuldades e facilidades de cada membro do grupo, o documen
 ## Facilidades
 
 #### Gabriel Rosa
-blablabla
+Durante o projeto, sem dúvida nenhuma, a maior facilidade foi ter uma equipe em que todo mundo é muito dedicado e as atividades eram bem dividas para cada um. Além disso, aprendi a importância de entender as necessidades e expectativas do usuário ao projetar interfaces e a disciplina também enfatiza a importância de testes de usabilidade, o que me ajudou a entender melhor como os usuários interagem com os sistemas.
 
 #### Gabriel Zaranza
 No projeto, a maior facilidade foi trabalhar com uma equipe bem organizada. Todos sabiam o que fazer, e cada um tinha sua responsabilidade. Isso ajudou muito no desenvolvimento do projeto porque a gente conseguia se entender e compartilhar ideias facilmente. A divisão clara de tarefas fez com que tudo funcionasse de maneira suave, e podíamos adaptar as coisas facilmente quando precisávamos.
@@ -37,7 +37,7 @@ blablabla
 ## Dificuldades
 
 #### Gabriel Rosa
-blablabla
+A maior dificuldade sem dúvidas foram a grande quantidade de artefatos que foram desenvolvido durante o projeto. E muita das vezes, os artefatos não eram simples e o cronograma bem apertado para poder realizar as atividades com uma qualidade maior como exigido durante todo o semestre na disciplina. E o que ajudou, é que esse semestre eu estava com pouca matéria, mas se eu tivesse com mais, com certeza eu não teria dado conta de IHC e Requisitos ou não daria conta das outras matérias, pois praticamente 90% do meu semestre foi dedicado a essas duas matérias. Além da mudança no desenvolvimento das atividades durante as entregas foi algo que quebrava muito o ritmo, pois definíamos prazos entre o grupo certinho e seguíamos o que era definido. E tudo isso multiplicado por dois, pois tinha a matéria de Requisitos que seguiu o mesmo padrão.   
 
 #### Gabriel Zaranza
 Durante o projeto, duas dificuldades marcantes foram a falta de tempo e o tamanho das últimas entregas. O cronograma apertado muitas vezes nos deixou com pouco tempo para realizar as tarefas de maneira completa, o que por vezes afetou a qualidade do trabalho. A pressão do prazo também impactou a capacidade de revisar e aprimorar as entregas. Além disso, lidar com entregas extensas trouxe desafios, pois demandavam mais esforço e recursos para serem concluídas no prazo. A complexidade adicional dessas entregas maiores exigiu uma gestão cuidadosa do tempo e dos recursos disponíveis.

@@ -14,7 +14,7 @@ Para apresentar as dificuldades e facilidades de cada membro do grupo, o documen
 blablabla
 
 #### Gabriel Zaranza
-blablabla
+No projeto, a maior facilidade foi trabalhar com uma equipe bem organizada. Todos sabiam o que fazer, e cada um tinha sua responsabilidade. Isso ajudou muito no desenvolvimento do projeto porque a gente conseguia se entender e compartilhar ideias facilmente. A divisão clara de tarefas fez com que tudo funcionasse de maneira suave, e podíamos adaptar as coisas facilmente quando precisávamos.
 
 #### Izabella Alves
 blablabla
@@ -40,7 +40,7 @@ blablabla
 blablabla
 
 #### Gabriel Zaranza
-blablabla
+Durante o projeto, duas dificuldades marcantes foram a falta de tempo e o tamanho das últimas entregas. O cronograma apertado muitas vezes nos deixou com pouco tempo para realizar as tarefas de maneira completa, o que por vezes afetou a qualidade do trabalho. A pressão do prazo também impactou a capacidade de revisar e aprimorar as entregas. Além disso, lidar com entregas extensas trouxe desafios, pois demandavam mais esforço e recursos para serem concluídas no prazo. A complexidade adicional dessas entregas maiores exigiu uma gestão cuidadosa do tempo e dos recursos disponíveis.
 
 #### Izabella Alves
 blablabla

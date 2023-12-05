@@ -30,7 +30,7 @@ nav:
     - Apresentação 6.1: apresentacoes/Apresentação 6.1 - 16.11.2023.md
     - Apresentação 6.2: apresentacoes/Apresentação 6.2 - 04.12.2023.md
     - Apresentação 7: apresentacoes/Apresentação 7 - 22.11.2023.md
-    - Apresentação 8: apresentacoes/Apresentação 8 - 05.12.2023.md
+    - Apresentação 8: apresentacoes/Apresentação 8 - 29.11.2023.md
   - Planejamento do Projeto:
     - Heatmap de disponibilidade: planejamento do projeto/heatmap-disponibilidade.md
     - Sites avaliados: planejamento do projeto/lista-sites-avaliados.md
@@ -198,7 +198,7 @@ nav:
           - Análise de Tarefas:
             - Consultar extrato: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Consultar-extrato.md
             - Consultar estabelecimento: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Consultar-estabelecimento.md
-            - Consultar sorteio: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Consultar-sorteio.md
+            - Consultar sorteio: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Consultar-Sorteio.md
             - Desbloquear saldo: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Desbloquear-saldo.md
             - Registrar reclamação: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Registrar-reclamacao.md
             - Visualizar recibo: verificacao/Grupo-01/Entrega-05/Relato-Analise-de-Tarefas-Visualizar-recibo.md
@@ -209,7 +209,7 @@ nav:
         - Planejamento do Relato dos Resultados: verificacao/Grupo-01/Entrega-07/planejamento-relato-prototipo-alta-fidelidade.md
         - Relato dos Resultados:
           - Consultar extrato: verificacao/Grupo-01/Entrega-07/relato-consultar-extrato.md
-          - Consultar estabelecimento: verificacao/Grupo-01/Entrega-07/relato-consultar-estabelecimento.md
+          - Consultar estabelecimento: verificacao/Grupo-01/Entrega-07/consultar-estabelecimento.md
           - Consultar sorteio: verificacao/Grupo-01/Entrega-07/relato-consultar-sorteio.md
           - Desbloquear saldo: verificacao/Grupo-01/Entrega-07/relato-desbloquear-saldo.md
           - Registrar reclamação: verificacao/Grupo-01/Entrega-07/relato-registrar-reclamacao.md

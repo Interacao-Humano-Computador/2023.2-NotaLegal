@@ -32,7 +32,7 @@ Este método pode ser dividido em 5 etapas:
 <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
 </thead>
 <tbody>
@@ -90,7 +90,7 @@ Este método pode ser dividido em 5 etapas:
 <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
 </thead>
 <tbody>
@@ -167,7 +167,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
   </thead>
   <tbody>
@@ -208,7 +208,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
   </thead>
   <tbody>
@@ -252,7 +252,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
   </thead>
   <tbody>
@@ -353,7 +353,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
   </thead>
   <tbody>
@@ -423,7 +423,7 @@ Este método pode ser dividido em 5 etapas:
 <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
 </thead>
 <tbody>
@@ -485,7 +485,7 @@ Este método pode ser dividido em 5 etapas:
 <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
 </thead>
 <tbody>
@@ -550,7 +550,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
   </thead>
   <tbody>
@@ -591,7 +591,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
   </thead>
   <tbody>
@@ -635,7 +635,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Responsável</th>
+        <th>Revisor</th>
     </tr>
   </thead>
   <tbody>

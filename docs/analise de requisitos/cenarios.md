@@ -177,3 +177,4 @@ Em uma determinada aula, Ana estava ensinando aos alunos como verificar no site 
 |`1.8`|11/10/2023|Revisão do cenário Visualizar Recibo Fiscal |[Lucas Víctor](https://github.com/Lucas13032003)|- (revisão não precisa de revisor)|
 |`1.9`|12/10/2023|Adição do cenário consultar resultado de sorteio |[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.10`|13/10/2023|Revisão do cenário de indicação de créditos |[Izabella Alves](https://github.com/izabellaalves)| - (revisão não precisa de revisor)|
+|`2.0`|05/12/2023|Correção|[Lucas Víctor](https://github.com/Lucas13032003)|[Izabella Alves](https://github.com/izabellaalves)|

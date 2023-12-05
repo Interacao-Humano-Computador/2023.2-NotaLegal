@@ -16,6 +16,18 @@ Os critérios que utilizamos para selecionar o site Nota Legal DF foram baseados
 
 ## Motivações de escolha
 
+Com base nos critérios de avaliação heurística de Nielsen e outras considerações pertinentes, a escolha do site “Nota Legal” para o nosso projeto foi motivada por diversas razões significativas. São elas:
+
+**Público Amplo e Acessível:** O site "Nota Legal" atrai um público diversificado, pois está relacionado a benefícios fiscais e informações financeiras. Isso significa que pessoas de diferentes origens e necessidades podem ser usuárias em potencial, tornando-o acessível a um público variado.
+
+**Oportunidade de Melhoria na Interface:** A identificação de problemas na interface do site "Nota Legal" é uma motivação significativa para escolhê-lo como foco do projeto. Ao abordar essas questões, o projeto pode aprimorar a usabilidade, tornando-o mais intuitivo e útil para os usuários.
+
+**Integração Interdisciplinar:** A utilização do site "Nota Legal" como parte da disciplina de Requisitos oferece uma oportunidade valiosa para a integração interdisciplinar entre as duas matérias. Isso permite uma abordagem abrangente na solução de problemas, aplicando conhecimentos de ambas as disciplinas de forma sinérgica.
+
+**Complexidade Adequada:** O site "Nota Legal" apresenta uma complexidade adequada, uma vez que lida com informações financeiras e possivelmente requer funções como cadastro e consulta de informações fiscais. Essa complexidade proporciona um desafio adequado para o grupo, permitindo a aplicação prática dos conceitos aprendidos.
+
+Portanto, a escolha do site "Nota Legal" como projeto é motivada pelo seu público amplo e acessível, pela oportunidade de melhorar a usabilidade da interface, pela integração interdisciplinar entre disciplinas e pela complexidade adequada do site, que oferece uma base sólida para um projeto significativo e desafiador. [Neste documento é possível conferir com mais detalhes as motivações para a escolha desse site](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/site-escolhido.md)
+
 ## Preâmbulo
 
 ###  [Link para a avaliação de IHC completa do site para mais detalhes.](../../planejamento/avaliacoes/avaliacao-bilheteria-digital.pdf)

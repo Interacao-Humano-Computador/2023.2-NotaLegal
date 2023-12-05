@@ -551,7 +551,152 @@ Relato dos resultados da avaliação do Storyboard "Consultar Sorteio" </a></td>
         </td>
     </tr>
     <tr>
-      <td rowspan="61">Etapa 6.1 - Verificação dos Artefatos I</td>
+      <td rowspan="36">Etapa 6.1 - Verificação dos Artefatos I - Grupo 2</td>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 1</a></td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/cronograma/">Verificação do artefato Cronograma </a></td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/ferramentas/">Verificação do artefato Ferramentas </a></td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/metodologiam/">Verificação do artefato de Metodologia </a></td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/pol%C3%ADticas/">Verificação do artefato de Políticas </a></td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/heatmap/">Verificação do artefato de Heatmap </a></td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/processo-de-Design-de-IHC/">Verificação do artefato de Processo de design </a></td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/site-Avaliados/">Verificação do artefato de Sites avaliados </a></td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/site_Escolhido/">Verificação do artefato de Site escolhido</a></td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/planejamento-verificacao-e2-grupo2/">Planejamento da verificação (checklists) Etapa 2</a></td>
+        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/aspectos_eticos/">Verificação do artefato de "Aspectos Éticos" </a></td>
+        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+        <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/perfil_de_usuario/">Verificação do artefato de "Perfil do Usuário" </a></td>
+        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+        <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/persona/">Verificação do artefato de "Personas" </a></td>
+        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+     <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/cenarios/">Verificação do artefato de "Cenários"</a></td>
+        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/Elicita%C3%A7%C3%A3o/braistorming/">Verificação do artefato de "Brainstorming" </td>
+        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+     <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/Elicita%C3%A7%C3%A3o/introspeccao/">Verificação do artefato de "Introspecção" </a></td>
+        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+     <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/Elicita%C3%A7%C3%A3o/entrevista/">Verificação do artefato de "Entrevista"</a></td>
+        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/Elicita%C3%A7%C3%A3o/grupo_de_foco/">Verificação do artefato de "Grupo de Foco" </a></td>
+        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/hta/">Verificação do artefato de "Análise Hierárquica de tarefas"</a></td>
+       <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/ctt/">Verificação do artefato de "ConcurTaskTree" </a></td>
+        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 3 </a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/principio-gerais-do-projeto/">Verificação do artefato Princípios Gerais</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/caracteristicas-gerais/">Verificação do artefato Características Gerais </a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/metas-de-usabilidade/">Verificação do artefato Metas de Usabilidade</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
+    </tr>
+       <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/guia-de-estilo/">Verificação do artefato Guia de Estilo</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 4 </a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-avaliacao-storyboard/">Verificação do artefato Planejamento da Avaliação do Storyboard </a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-relato-storyboard/">Verificação do artefato Planejamento do Relato dos Resultados da Avaliação do Storyboard</a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/storyboard/">Verificação do artefato Storyboards</a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-avaliacao-analise-tarefas/">Verificação do artefato Planejamento da Avaliação da Análise de Tarefas</a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-relato-analise-tarefas/">Verificação do artefato Planejamento do Relato dos Resultados da Análise de Tarefas</a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Planejamento da verificação (checklists) Etapa 5 </a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a><br><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Relato dos resultados do Storyboard </a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Relato dos resultados da Análise de tarefas </a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Planejamento da avaliação do Protótipo de papel </a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Planejamento do relato dos resultados da avaliação do Protótipo de papel </a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+      <td rowspan="60">Etapa 6.2 - Verificação dos Artefatos II - Grupo 1</td>
         <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1/">Planejamento da verificação (checklists) Etapa 1</a></td>
         <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
@@ -688,11 +833,6 @@ Relato dos resultados da avaliação do Storyboard "Consultar Sorteio" </a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td><a href="">Verificação do artefato Protótipo de papel </a></td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br>
-            <a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planej-aval-prototipo_papel/">Verificação do artefato Planejamento da avaliação do protótipo de papel</a></td>
       <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a><br>
             <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
@@ -798,151 +938,6 @@ Relato dos resultados da avaliação do Storyboard "Consultar Sorteio" </a></td>
       <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/relato-consultar-reclamacao/">Verificação do artefato Relato dos resultados da avaliação do protótipo de papel "Consultar reclamação"</a></td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td rowspan="36">Etapa 6.2 - Verificação dos Artefatos II</td>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 1</a></td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/cronograma/">Verificação do artefato Cronograma </a></td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/ferramentas/">Verificação do artefato Ferramentas </a></td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/metodologiam/">Verificação do artefato de Metodologia </a></td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/pol%C3%ADticas/">Verificação do artefato de Políticas </a></td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/heatmap/">Verificação do artefato de Heatmap </a></td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/processo-de-Design-de-IHC/">Verificação do artefato de Processo de design </a></td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/site-Avaliados/">Verificação do artefato de Sites avaliados </a></td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/site_Escolhido/">Verificação do artefato de Site escolhido</a></td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/planejamento-verificacao-e2-grupo2/">Planejamento da verificação (checklists) Etapa 2</a></td>
-        <td><a href="">Gabriel Rosa</a>e <a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/aspectos_eticos/">Verificação do artefato de "Aspectos Éticos" </a></td>
-        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-        <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/perfil_de_usuario/">Verificação do artefato de "Perfil do Usuário" </a></td>
-        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-        <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/persona/">Verificação do artefato de "Personas" </a></td>
-        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-     <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/cenarios/">Verificação do artefato de "Cenários"</a></td>
-        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/Elicita%C3%A7%C3%A3o/braistorming/">Verificação do artefato de "Brainstorming" </td>
-        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-    </tr>
-     <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/Elicita%C3%A7%C3%A3o/introspeccao/">Verificação do artefato de "Introspecção" </a></td>
-        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-    </tr>
-     <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/Elicita%C3%A7%C3%A3o/entrevista/">Verificação do artefato de "Entrevista"</a></td>
-        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/Elicita%C3%A7%C3%A3o/grupo_de_foco/">Verificação do artefato de "Grupo de Foco" </a></td>
-        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/hta/">Verificação do artefato de "Análise Hierárquica de tarefas"</a></td>
-       <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/ctt/">Verificação do artefato de "ConcurTaskTree" </a></td>
-        <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 3 </a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/principio-gerais-do-projeto/">Verificação do artefato Princípios Gerais</a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/caracteristicas-gerais/">Verificação do artefato Características Gerais </a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/metas-de-usabilidade/">Verificação do artefato Metas de Usabilidade</a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-    </tr>
-       <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/guia-de-estilo/">Verificação do artefato Guia de Estilo</a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 4 </a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-avaliacao-storyboard/">Verificação do artefato Planejamento da Avaliação do Storyboard </a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-relato-storyboard/">Verificação do artefato Planejamento do Relato dos Resultados da Avaliação do Storyboard</a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/storyboard/">Verificação do artefato Storyboards</a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-avaliacao-analise-tarefas/">Verificação do artefato Planejamento da Avaliação da Análise de Tarefas</a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-relato-analise-tarefas/">Verificação do artefato Planejamento do Relato dos Resultados da Análise de Tarefas</a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Planejamento da verificação (checklists) Etapa 5 </a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a><br><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Relato dos resultados do Storyboard </a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Relato dos resultados da Análise de tarefas </a></td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Planejamento da avaliação do Protótipo de papel </a></td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Planejamento do relato dos resultados da avaliação do Protótipo de papel </a></td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
       <td rowspan="9">Etapa 7 - Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>
@@ -1136,7 +1131,7 @@ Relato dos resultados da avaliação do Storyboard "Consultar Sorteio" </a></td>
 
 ## Bibliografia
 
->FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+> Nota Legal
 >
 
 ## Histórico de Versões

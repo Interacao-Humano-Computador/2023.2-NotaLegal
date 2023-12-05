@@ -29,7 +29,7 @@ A principal facilidade foi manter consistência na abordagem e implementação d
 blablabla
 
 #### Lucas Ribeiro
-blablabla
+A maior facilidade encontrada por mim durante o semestre, foi contar com um grupo dedicado e comprometido com o projeto. Todos os membros demonstraram motivação e disposição para trabalhar arduamente, refletindo-se em diferentes aspectos do projeto. Além disso, o grupo realizou reuniões regulares para discutir tarefas, planejar o trabalho e conduzir estudos prévios sobre o tema, onde todos contribuíram ativamente, dando o melhor de si. Essa dedicação coletiva resultou no desenvolvimento bem-sucedido e na apresentação da melhor forma, passando o conhecimento de cada artefato produzido para os colegas de turma, chegando no fim, com um repositório recheado de artefatos de ótimas qualidades.
 
 #### Zenilda Vieira
 blablabla
@@ -63,4 +63,5 @@ blablabla
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |05/12/2023| Criação do documento | [Izabella Alves](https://github.com/izabellaalves) |[Lucas Víctor](https://github.com/Lucas13032003) |
 | `1.1`  |05/12/2023| Adição da parte do Lucas Víctor |[Lucas Víctor](https://github.com/Lucas13032003) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.2`  |05/12/2023| Adição da parte do Lucas Ribeiro |[Lucas Ribeiro](https://github.com/Lucassousz) | [Izabella Alves](https://github.com/izabellaalves) |
 

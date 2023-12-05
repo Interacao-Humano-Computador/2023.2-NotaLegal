@@ -1,7 +1,7 @@
 # Site selecionado
 
 ## Introdução
-   O grupo iniciou a disciplina com a proposta de diferentes sites para desenvolvermos o trabalho e seus respectivos motivos para a escolha. Em seguida, fizemos uma análise em que cada site era avaliado por alguns critérios com o objetivo de alcançar um acordo. [Neste documento é possível conferir com mais detalhes as opções sugeridas pelos integrantes do grupo](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md), bem como as avaliações dos sites e motivos para a escolha.
+   O grupo iniciou a disciplina com a proposta de diferentes sites para desenvolvermos o trabalho e seus respectivos motivos para a escolha. Em seguida, fizemos uma análise em que cada site era avaliado por alguns critérios com o objetivo de alcançar um acordo. No documento de [Lista de Sites Avaliados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md), é possivél ver análise de cada site avaliado, bem como as avaliações dos sites e motivos para a escolha.
 ## Critérios para escolha
 
   Os critérios que utilizamos para selecionar o site Nota Legal DF foram baseados em uma série de fatores. Primeiramente, atendemos à exigência do professor André Barros de escolher um site que não tivesse sido analisado em semestres anteriores. Além disso, nossa escolha foi influenciada por uma avaliação heurística detalhada, seguindo os princípios estabelecidos por Jakob Nielsen. Identificamos que o site apresenta falhas em vários desses princípios heurísticos, o que justifica a necessidade de uma análise mais aprofundada. Entre os principais pontos de falha observados, destacam-se:

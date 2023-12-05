@@ -21,7 +21,7 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>1 - Planejamento do Projeto</td>
       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/bVGzhaekyWQ" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
@@ -32,7 +32,7 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>2 - Perfil do usuário</td>
       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/dbccyoTxdmU" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
@@ -43,7 +43,7 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>3 - Princípios Gerais de Projeto</td>
       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/YYIZo0he24s" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
@@ -54,7 +54,7 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>4 - Planejamento da Avaliação do Storyboard e Análise de tarefas</td>
       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/GsxXPRqyNJE" title="Apresentação 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
@@ -65,7 +65,7 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>5 - Relato dos resultados do Story Board e da Análise de tarefas</td>
       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/pyyOEfhtpKA?si=UNB1I92PFEInLGzS" title="Apresentação 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
@@ -76,7 +76,7 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>6.1</td>
+      <td>6.1 - Verificação dos Artefatos I</td>
       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/XSX8USEGFg0" title="Apresentação 6.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
@@ -87,7 +87,7 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>7 - Relato dos resultados do Protótipo de Papel</td>
       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/ADF9c1FIMKc" title="Apresentação 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
@@ -97,7 +97,7 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
           <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     <tr>
-      <td>8</td>
+      <td>8 -  Relato dos resultados da avaliação do protótipo de alta fidelidade</td>
       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/WlFqplO4kqM" title="Apresentação 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
@@ -109,7 +109,7 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td>6.2</td>
+      <td>6.2 - Verificação dos Artefatos II</td>
       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/7X5ug9GIApk" title="Apresentação 6.2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 

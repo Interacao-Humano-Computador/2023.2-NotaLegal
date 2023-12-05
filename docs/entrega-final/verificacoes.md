@@ -32,7 +32,7 @@ Este método pode ser dividido em 5 etapas:
 <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
 </thead>
 <tbody>
@@ -90,7 +90,7 @@ Este método pode ser dividido em 5 etapas:
 <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
 </thead>
 <tbody>
@@ -167,7 +167,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
   </thead>
   <tbody>
@@ -208,7 +208,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
   </thead>
   <tbody>
@@ -252,7 +252,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
   </thead>
   <tbody>
@@ -353,7 +353,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
   </thead>
   <tbody>
@@ -419,7 +419,7 @@ Este método pode ser dividido em 5 etapas:
 <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
 </thead>
 <tbody>
@@ -481,7 +481,7 @@ Este método pode ser dividido em 5 etapas:
 <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
 </thead>
 <tbody>
@@ -546,7 +546,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
   </thead>
   <tbody>
@@ -587,7 +587,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
   </thead>
   <tbody>
@@ -631,7 +631,7 @@ Este método pode ser dividido em 5 etapas:
   <thead>
     <tr>
         <th>Artefato</th>
-        <th>Revisor</th>
+        <th>Verificado por</th>
     </tr>
   </thead>
   <tbody>
@@ -676,6 +676,6 @@ Este método pode ser dividido em 5 etapas:
 
 ## Histórico de Versões
 
-| Versão | Data   | Descrição     | Autor     |  Revisor        |
+| Versão | Data   | Descrição     | Autor     |  Verificado por        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 03/12/2023 | Criação do documento | [Gabriel Zaranza](https://github.com/GZaranza)  |  [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |

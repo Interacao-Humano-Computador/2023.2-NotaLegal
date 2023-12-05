@@ -8,8 +8,6 @@
 
 A Tabela 1 desempenha um papel crucial ao sintetizar de maneira abrangente todo o processo em questão, proporcionando uma visão mais organizada e ricamente informativa. Por meio dessa tabela, foi organizado os pontos principais desse processo de um jeito fácil de entender, o que ajuda a enxergar tudo de forma mais clara e aprofundada.
 
-<!-- <a href=""></a> -->
-
 <div align="center">
 <p><b>Tabela 1:</b> Execução do Projeto.</p>
   
@@ -25,7 +23,7 @@ A Tabela 1 desempenha um papel crucial ao sintetizar de maneira abrangente todo 
   <tr>
     <th align="center">Instalação</th>
     <td colspan="3">Nesta fase, são estabelecidos de maneira abrangente os objetivos a serem alcançados pelo produto ou serviço. Paralelamente, são detalhados os requisitos de usabilidade, visando assegurar uma experiência intuitiva e eficiente para os usuários. Além disso, são coletadas e analisadas informações fundamentais sobre o perfil dos usuários, proporcionando insights valiosos para orientar o desenvolvimento e aprimoramento contínuo do produto ou serviço.</td>
-    <td align="center"><a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md">Sites avaliados</a>, <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/site-escolhido.md">Site Escolhido</a></td>
+    <td align="center"><a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md">Sites Avaliados</a>, <a href="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/site-escolhido.md">Site Escolhido</a></td>
   </tr>
   <tr>
     <th align="center">Análise de Requisitos</th>

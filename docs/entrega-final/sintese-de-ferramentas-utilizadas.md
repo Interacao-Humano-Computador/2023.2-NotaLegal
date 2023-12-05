@@ -15,7 +15,7 @@ A tabela 1 a seguir agrupa as ferramentas utilizadas, com a finalidade que uma d
   <tr>
     <th>Ferramenta</th>
     <th>Finalidade</th>
-    <th>C</th>
+    <th>EtapasC</th>
   </tr>
  <tbody>
     <tr>

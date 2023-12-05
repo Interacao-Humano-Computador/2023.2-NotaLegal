@@ -20,7 +20,10 @@ blablabla
 blablabla
 
 #### Lucas Victor
-blablabla
+
+Colaborar nos projetos do site Nota Legal e do app Economia - DF trouxe benefícios significativos para nossa equipe. Abordar o mesmo tema em duas disciplinas proporcionou uma união eficaz entre elas, resultando em vantagens notáveis.
+
+A principal facilidade foi manter consistência na abordagem e implementação de conceitos compartilhados nas duas plataformas. Isso possibilitou economia de esforços ao reutilizar artefatos e ideias, maximizando a eficiência no desenvolvimento. A expertise adquirida em uma disciplina contribuiu diretamente para uma execução mais eficaz na outra, otimizando o uso de recursos.
 
 #### Lucas de Oliveira
 blablabla
@@ -43,7 +46,7 @@ blablabla
 blablabla
 
 #### Lucas Victor
-blablabla
+A minha principal dificuldade no projeto surgiu da necessidade de conciliar a matéria de Interação Humano-Computador (IHC) e a disciplina de Requisitos com as demais do semestre. O prazo apertado, resultante do semestre mais curto, gerou essa complexidade. A integração entre IHC e Requisitos demandou uma cuidadosa alocação de recursos e tempo, pois ambas são matérias que damadam muito tempo para a elaboração dos artefatos e vídeos. Uma possível solução para contornar essas dificuldades seria reconsiderar a distribuição de tempo ao longo do semestre. Alocar menos tempo nas fases iniciais por serem etapas mais simples, enquanto estendendo o período das etapas finais que demandam muito mais tempo devido a complexidade, pode contribuir para uma execução mais equilibrada e eficaz do projeto, de forma ques estaria mitigando os desafios enfrentados pela equipe.
 
 #### Lucas de Oliveira
 blablabla
@@ -59,3 +62,5 @@ blablabla
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |05/12/2023| Criação do documento | [Izabella Alves](https://github.com/izabellaalves) |[Lucas Víctor](https://github.com/Lucas13032003) |
+| `1.1`  |05/12/2023| Adição da parte do Lucas Víctor |[Lucas Víctor](https://github.com/Lucas13032003) | [Izabella Alves](https://github.com/izabellaalves) |
+

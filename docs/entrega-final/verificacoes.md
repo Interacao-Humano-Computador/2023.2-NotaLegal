@@ -362,15 +362,11 @@ Este método pode ser dividido em 5 etapas:
       <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br> <a href="https://github.com/izabellaalves">Izabella Alves</a><br><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a><br></td>
     </tr>
     <tr>
-      <td><a href="">Verificação do artefato Protótipo de alta fidelidade FALTA COLOCAR O LINK </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/planejamento-avalia%C3%A7%C3%A3o-prototipo-alta-fidelidade/">Verificação do artefato Planejamento da avaliação do protótipo de alta fidelidade</a></td>
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
     <tr>
-      <td><a href="">Verificação do artefato Planejamento da avaliação do protótipo de alta fidelidade FALTA COLOCAR O LINK</a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-    </tr>
-    <tr>
-      <td><a href="">Verificação do artefato Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade FALTA COLOCAR O LINK</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/planejamento-relato-prototipo-alta-fidelidade/">Verificação do artefato Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</a></td>
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
     <tr>

@@ -204,4 +204,4 @@ No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relaç
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 02/11/2023 | Criação do documento  | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerrerira)| [Izabella Alves](https://github.com/izabellaalves) |
+| `1.0`  | 02/11/2023 | Criação do documento  | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerrerira) e [Lucas Ribeiro](https://github.com/lucassouzs)| [Izabella Alves](https://github.com/izabellaalves) |

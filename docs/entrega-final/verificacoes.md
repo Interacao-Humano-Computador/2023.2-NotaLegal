@@ -8,7 +8,7 @@ A metodologia que foi utilizada na verificação dos artefatos dos dois projeto 
 
 Este método pode ser dividido em 5 etapas:
 
-- **Preparação:** antes da reunião de inspeção, o autor do artefato (por exemplo, código-fonte) prepara um planejamento da verificação contendo o artefato a ser revisado e o checklist que será utilizado na inspeção.
+- **Preparação:** antes da reunião de inspeção, o autor do artefato (por exemplo, código-fonte) prepara um Planejamento da verificação (checklists) contendo o artefato a ser revisado e o checklist que será utilizado na inspeção.
 
 - **Inspeção Individual:** os participantes (inspetores) revisam o documento individualmente antes da reunião de inspeção. Cada inspetor concentra-se na identificação de erros, como bugs, inconsistências ou violações de padrões de codificação.
 
@@ -37,7 +37,7 @@ Este método pode ser dividido em 5 etapas:
 </thead>
 <tbody>
     <tr>
-        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1/">Planejamento da verificação Etapa 1</a></td>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1/">Planejamento da verificação (checklists) Etapa 1</a></td>
         <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@ Este método pode ser dividido em 5 etapas:
 </thead>
 <tbody>
     <tr>
-        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1/">Planejamento da verificação Etapa 2</a></td>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1/">Planejamento da verificação (checklists) Etapa 2</a></td>
         <td> <a href="">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
     <tr>
@@ -172,7 +172,7 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1/">Planejamento da verificação Etapa 3 </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1/">Planejamento da verificação (checklists) Etapa 3 </a></td>
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
     </tr>
     <tr>
@@ -213,7 +213,7 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1/">Planejamento da verificação Etapa 4 </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1/">Planejamento da verificação (checklists) Etapa 4 </a></td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
@@ -257,7 +257,7 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Planejamento da verificação Etapa 5 </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Planejamento da verificação (checklists) Etapa 5 </a></td>
       <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
@@ -358,7 +358,7 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/planejamento-verificacao-e7-grupo1/">Planejamento da verificação Etapa 7 </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-07/planejamento-verificacao-e7-grupo1/">Planejamento da verificação (checklists) Etapa 7 </a></td>
       <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br> <a href="https://github.com/izabellaalves">Izabella Alves</a><br><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a><br></td>
     </tr>
     <tr>
@@ -424,7 +424,7 @@ Este método pode ser dividido em 5 etapas:
 </thead>
 <tbody>
     <tr>
-        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/planejamento-verificacao/">Planejamento da verificação Etapa 1</a></td>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 1</a></td>
         <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
     </tr>
     <tr>
@@ -486,7 +486,7 @@ Este método pode ser dividido em 5 etapas:
 </thead>
 <tbody>
     <tr>
-        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/planejamento-verificacao-e2-grupo2/">Planejamento da verificação Etapa 2</a></td>
+        <td>  <a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%202/planejamento-verificacao-e2-grupo2/">Planejamento da verificação (checklists) Etapa 2</a></td>
         <td> <a href="">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
     <tr>
@@ -551,7 +551,7 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/planejamento-verificacao/">Planejamento da verificação Etapa 3 </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%203/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 3 </a></td>
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
     </tr>
       <tr>
@@ -592,7 +592,7 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-verificacao/">Planejamento da verificação Etapa 4 </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%204/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 4 </a></td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
@@ -636,7 +636,7 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Planejamento da verificação Etapa 5 </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Planejamento da verificação (checklists) Etapa 5 </a></td>
       <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a><br><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>

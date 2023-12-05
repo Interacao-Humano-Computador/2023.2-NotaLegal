@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Com a apresentação da disciplina, foi proposta uma ementa que descrevia o projeto, no qual tínhamos que selecionar um site para desenvolver o projeto de Interação Humano-Computador (IHC). Todos os membros do grupo contribuíram apresentando candidatos em potencial para avaliação, acompanhados de argumentos que respaldavam suas escolhas. Em seguida, realizamos uma reunião com o propósito de escolher um dos sites apresentados, conforme documentado [aqui](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md), com o objetivo de chegar a um consenso. Nesse contexto, é possível examinar de forma mais detalhada as alternativas propostas pelos membros do grupo, levando em consideração que o site escolhido no final foi o Nota Legal.
+Com a apresentação da disciplina, foi proposta uma ementa que descrevia o projeto, no qual tínhamos que selecionar um site para desenvolver o projeto de Interação Humano-Computador (IHC). Todos os membros do grupo contribuíram apresentando candidatos em potencial para avaliação, acompanhados de argumentos que respaldavam suas escolhas. Em seguida, realizamos uma reunião com o propósito de escolher um dos sites apresentados, conforme documentado [Lista de Sites Avaliados](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md), com o objetivo de chegar a um consenso. Nesse contexto, é possível examinar de forma mais detalhada as alternativas propostas pelos membros do grupo, levando em consideração que o site escolhido no final foi o Nota Legal.
 
 ## Nota Legal
 
@@ -16,35 +16,43 @@ Com a apresentação da disciplina, foi proposta uma ementa que descrevia o proj
 
 O "Nota Legal" é um programa no Distrito Federal que recompensa pessoas por exigirem a inclusão do CPF nas notas fiscais de compras, oferecendo descontos em impostos ou dinheiro em troca. Isso promove a transparência fiscal e incentiva a emissão de notas fiscais.
 
-## Critérios para escolha
+## Critérios para Escolha
 
-- A **usabilidade** do site apresenta uma navegação confusa, tornando-o inviável para os usuários.
+A seleção do site "Nota Legal" como foco para o projeto de Interação Humano-Computador (IHC) foi orientada por critérios específicos, considerando a análise detalhada das alternativas apresentadas pelo grupo. Abaixo estão os critérios fundamentais que influenciaram essa escolha:
 
-- O **desempenho** apresenta erros frequentes que podem ser frustrantes para os usuários e levar à insatisfação.
+### Problemas Encontrados no "Nota Legal"
 
-- O **design** é pouco interativo.
+1. **Usabilidade Confusa:** Identificamos que a navegação no site "Nota Legal" é complexa, apresentando desafios que prejudicam a experiência do usuário.
 
-- A **inacessibilidade** é um problema, pois o site não possui métodos intuitivos para torná-lo mais acessível para pessoas com deficiência.
+2. **Desempenho com Erros Frequentes:** Observamos a ocorrência recorrente de erros no desempenho do site, o que pode causar frustração e insatisfação nos usuários.
 
-- Há **problemas técnicos** relacionados a bugs e erros técnicos, como links quebrados ou funções que não funcionam corretamente.
+3. **Design Pouco Interativo:** Notamos que o design atual do site carece de interatividade, comprometendo a atratividade e a usabilidade.
 
-## Motivações de escolha
+4. **Inacessibilidade para Pessoas com Deficiência:** Reconhecemos a falta de métodos intuitivos para tornar o site mais acessível, especialmente para pessoas com deficiência.
 
-Com base nos critérios anteriores, a escolha do site "Nota Legal" para o projeto foi motivada por várias razões:
+5. **Problemas Técnicos:** Identificamos a presença de bugs e erros técnicos, como links quebrados e funções que não operam corretamente, prejudicando a funcionalidade geral.
 
-**Público Amplo e Acessível:** O site "Nota Legal" atrai um público diversificado, pois está relacionado a benefícios fiscais e informações financeiras. Isso significa que pessoas de diferentes origens e necessidades podem ser usuárias em potencial, tornando-o acessível a um público variado.
+### Motivações para a Escolha do "Nota Legal"
 
-**Oportunidade de Melhoria na Interface:** A identificação de problemas na interface do site "Nota Legal" é uma motivação significativa para escolhê-lo como foco do projeto. Ao abordar essas questões, o projeto pode aprimorar a usabilidade, tornando-o mais intuitivo e útil para os usuários.
+Com base nos critérios de problemas encontrados, as motivações para escolher o "Nota Legal" foram claramente definidas:
 
-**Integração Interdisciplinar:** A utilização do site "Nota Legal" como parte da disciplina de Requisitos oferece uma oportunidade valiosa para a integração interdisciplinar entre as duas matérias. Isso permite uma abordagem abrangente na solução de problemas, aplicando conhecimentos de ambas as disciplinas de forma sinérgica.
+1. **Público Amplo e Acessível:** O site atrai uma audiência diversificada, relacionada a benefícios fiscais e informações financeiras, tornando-o acessível a uma variedade de usuários.
 
-**Complexidade Adequada:** O site "Nota Legal" apresenta uma complexidade adequada, uma vez que lida com informações financeiras e possivelmente requer funções como cadastro e consulta de informações fiscais. Essa complexidade proporciona um desafio adequado para o grupo, permitindo a aplicação prática dos conceitos aprendidos.
+2. **Oportunidade de Melhoria na Interface:** A identificação de problemas na interface do "Nota Legal" oferece uma oportunidade significativa para aprimorar a usabilidade, tornando o site mais intuitivo e eficiente.
 
-Portanto, a escolha do site "Nota Legal" como projeto é motivada pelo seu público amplo e acessível, pela oportunidade de melhorar a usabilidade da interface, pela integração interdisciplinar entre disciplinas e pela complexidade adequada do site, que oferece uma base sólida para um projeto significativo e desafiador.
+3. **Integração Interdisciplinar:** A escolha do "Nota Legal" permite uma integração eficaz entre as disciplinas de IHC e Requisitos, proporcionando uma abordagem abrangente para solucionar os desafios identificados.
+
+4. **Complexidade Adequada para o Projeto:** A complexidade do "Nota Legal," envolvendo informações financeiras e funcionalidades como cadastro e consulta fiscal, oferece um desafio adequado para aplicar os conceitos aprendidos de maneira prática.
+
 
 ## Termo de Uso
 
 - Site Governamental.
+
+
+### Conclusão
+
+A decisão de escolher o "Nota Legal" como projeto foi cuidadosamente fundamentada nos problemas específicos de usabilidade, desempenho, design, acessibilidade e aspectos técnicos identificados no site. As motivações ressaltam a relevância do site para o projeto, destacando sua capacidade de oferecer uma base sólida para um trabalho desafiador e impactante no contexto de IHC e Requisitos.
 
 ## Bibliografia
 
@@ -60,3 +68,4 @@ Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 | `1.0` | 13/09/2023 | Criação do documento e Introdução | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | `1.1` | 13/09/2023 | Critérios e Motivação | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | `1.2` | 20/09/2023 | Logo e Bibliografia  | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| `1.3` | 05/12/2023 | Correção | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |

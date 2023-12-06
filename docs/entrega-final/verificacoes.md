@@ -636,24 +636,24 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Planejamento da verificação (checklists) Etapa 5 </a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a><br><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%205/planejamento-verificacao/">Planejamento da verificação (checklists) Etapa 5 </a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a><br><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Relato dos resultados do Storyboard </a></td>
-      <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%205/relato-do-resultado-storyboard/">Verificação do artefato Relato dos resultados do Storyboard </a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
       <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Relato dos resultados da Análise de tarefas </a></td>
-      <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega%205/relato-resultado-an%C3%A1lise-de-tarefas.md">Verificação do artefato Relato dos resultados da Análise de tarefas </a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Planejamento da avaliação do Protótipo de papel </a></td>
-      <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%205/planejamento-avaliacao-prototipo-de-papel/">Verificação do artefato Planejamento da avaliação do Protótipo de papel </a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Verificação do artefato Planejamento do relato dos resultados da avaliação do Protótipo de papel </a></td>
-      <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%205/planejamento-relato-resultados-prototipo-de-papel/">Verificação do artefato Planejamento do relato dos resultados da avaliação do Protótipo de papel </a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     
   </tbody>

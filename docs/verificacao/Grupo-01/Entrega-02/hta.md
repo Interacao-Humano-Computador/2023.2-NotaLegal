@@ -153,7 +153,7 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "A
   
 <p style="text-align: center"><a href="https://youtu.be/L1hu5nCrAXs" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Análise Hierarquica de Tarefas".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L1hu5nCrAXs?si=PxMbgVJrGiNeogjK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1hu5nCrAXs?si=PxMbgVJrGiNeogjK" title="Avaliação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b>  <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 
@@ -167,7 +167,7 @@ No vídeo 2 é possível assistir a consolidação da inspeção do artefato com
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=gfrOEo6Lf9E" target="blanket"><b>Vídeo 2:</b> Consolidação da Inspeção e da Correção</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aSuStdtXbTs?si=RuJKKo-UweE-vMKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aSuStdtXbTs?si=RuJKKo-UweE-vMKr" title="Consolidação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>

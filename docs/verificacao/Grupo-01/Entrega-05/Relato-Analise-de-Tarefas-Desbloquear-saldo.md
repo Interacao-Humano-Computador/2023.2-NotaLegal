@@ -208,7 +208,7 @@ No vídeo 2 é possível assistir a consolidação da inspeção do artefato com
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=Z_R4X9df09c" target="blanket"><b>Vídeo 2:</b> Consolidação da Verificação do Artefato</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_R4X9df09c?si=RuJKKo-UweE-vMKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_R4X9df09c?si=RuJKKo-UweE-vMKr" title="Consolidação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>

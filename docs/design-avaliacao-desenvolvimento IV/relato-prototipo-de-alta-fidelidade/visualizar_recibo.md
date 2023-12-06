@@ -181,7 +181,7 @@ No teste de usabilidade do protótipo de papel, o participante foi apresentado a
 
 ## Apresentação dos Dados
 
-Após a conclusão da etapa de validação com os usuários, observou-se que o Protótipo de Alta Fidelidade foi bem recebido. De maneira geral, os entrevistados se sentiram confortáveis ao navegar pelo nosso protótipo. Os usuários expressaram satisfação com o design e a disposição dos elementos na tela. Eles relataram uma melhora significativa na facilidade de encontrar informações em nosso protótipo em comparação com o site Nota Legal. Em resumo, podemos concluir que nosso protótipo, e mais especificamente a tarefa de visualizar o recibo de indicações, está alinhado com a satisfação dos usuários. Além disso, de acordo com a nossa amostra de usuários, essa tarefa é fácil de ser realizada. As nossas entrevistadas nessaa etapa foram as Participantes: Francinete Dias, Francilene Oliveira e Francineide Dias Pontes. Abaixo segue o link dos vídeos do teste de usabilidade de cada uma das participantes.
+Após a conclusão da etapa de validação com os usuários, observou-se que o Protótipo de Alta Fidelidade foi bem recebido. De maneira geral, os entrevistados se sentiram confortáveis ao navegar pelo nosso protótipo. Os usuários expressaram satisfação com o design e a disposição dos elementos na tela. Eles relataram uma melhora significativa na facilidade de encontrar informações em nosso protótipo em comparação com o site Nota Legal. Em resumo, podemos concluir que nosso protótipo, e mais especificamente a tarefa de visualizar o recibo de indicações, está alinhado com a satisfação dos usuários. Além disso, de acordo com a nossa amostra de usuários, essa tarefa é fácil de ser realizada. As nossas entrevistadas nessaa etapa foram as Participantes: Francinete Dias, Francilene Oliveira e Francineide Dias Pontes. Abaixo segue o link dos vídeos (vídeos de 1 a 3) do teste de usabilidade de cada uma das participantes.
 
 
 ### Vídeo validação  do Protótipo de Alta Fidelidade "Visualizar Recibo" Entrevistada 01
@@ -190,7 +190,7 @@ Após a conclusão da etapa de validação com os usuários, observou-se que o P
   
 <p style="text-align: center"><a href="https://youtu.be/LM6LWyc1A8s" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LM6LWyc1A8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LM6LWyc1A8s" title="Protótipo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
@@ -201,7 +201,7 @@ Após a conclusão da etapa de validação com os usuários, observou-se que o P
   
 <p style="text-align: center"><a href="https://youtu.be/p6aUKu16Ukw" target="blanket"><b>Vídeo 2:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p6aUKu16Ukw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p6aUKu16Ukw" title="Protótipo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
@@ -212,7 +212,7 @@ Após a conclusão da etapa de validação com os usuários, observou-se que o P
   
 <p style="text-align: center"><a href="https://youtu.be/DEG3bAdm6iA" target="blanket"><b>Vídeo 3:</b> Protótipo de Alta Fidelidade "Visualizar Recibo de Indicação".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEG3bAdm6iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEG3bAdm6iA" title="Protótipo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>

@@ -1,4 +1,4 @@
-# Síntese das apresentações das entregas das etapas do projeto
+# Síntese das Apresentações
 
 ## Introdução
 

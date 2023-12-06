@@ -158,7 +158,7 @@ Nenhum problema encontrado no checklist geral.
 
 Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Característícas da Plataforma](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos%20II/caracteristicas_da_plataforma.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação. Também a gravação da verificação desse artefato, bem como a gravação de consolidação que também se faz necessária.
 
-## Video de Consolidação artefato Características da Plataforma
+## Vídeo de Consolidação artefato Características da Plataforma
 
 Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist utilizado. Para cada item do checklist, será apresentado o resultado obtido e, caso o resultado seja negativo, será apresentado também o problema encontrado. Além disso, a gravação desta verificação está disponível no vídeo 1.
 
@@ -166,7 +166,7 @@ Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist
 
 <p style="text-align: center"><a href="https://youtu.be/xF8VmhaLWHk" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Verificação</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/xF8VmhaLWHk" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/xF8VmhaLWHk" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>

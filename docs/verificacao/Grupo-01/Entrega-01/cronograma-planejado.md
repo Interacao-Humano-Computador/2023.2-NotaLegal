@@ -162,7 +162,7 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "C
   
 <p style="text-align: center"><a href="https://youtu.be/xxynZJXPGwM" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Cronograma Planejado".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxynZJXPGwM?si=_TbPc_0SFH2vKI9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxynZJXPGwM?si=_TbPc_0SFH2vKI9Y" title="Avaliação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 

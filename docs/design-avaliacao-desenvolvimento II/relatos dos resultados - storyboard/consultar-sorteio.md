@@ -70,6 +70,8 @@ No início da entrevista, o [termo de consentimento](https://github.com/Interaca
 
 #### Vídeo da entrevista
 
+No vídeo 1 é possível asssitir a entrevista.
+
 <div align="center">
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=8FqxtIjrtKc" target="blanket"><b>Vídeo 1:</b> Entrevista - Avaliação do Storyboard "Consultar resultado de sorteio"</a></p>

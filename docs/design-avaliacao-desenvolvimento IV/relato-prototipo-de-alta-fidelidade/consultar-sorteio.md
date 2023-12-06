@@ -80,9 +80,11 @@ Foi pedido ao usuário que navegasse e explorasse as diferentes telas do protót
 
 #### Vídeo da simulação de uso
 
+No vídeo 1 encontra-se a gravação do teste de usabilidade.
+
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=1WzPeCBkL7o" target="blanket"><b>Vídeo 1:</b> teste de usabilidade - Avaliação do Protótipo de Alta Fidelidade "Consultar resultado de sorteio"</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=1WzPeCBkL7o" target="blanket"><b>Vídeo 1:</b> Teste de Usabilidade - Avaliação do Protótipo de Alta Fidelidade "Consultar resultado de sorteio"</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1WzPeCBkL7o" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

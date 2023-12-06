@@ -121,7 +121,7 @@ Com base nos dados e feedback coletados, podemos concluir que a proposta de melh
   
 <p style="text-align: center"><a href="https://youtu.be/HniMb38CUa4" target="blanket"><b>Vídeo 1:</b> Protótipo de Alta Fidelidade "Consultar Extrato".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HniMb38CUa4?si=_67iWMZ1F8NThans" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HniMb38CUa4?si=_67iWMZ1F8NThans" title="Protótipo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>

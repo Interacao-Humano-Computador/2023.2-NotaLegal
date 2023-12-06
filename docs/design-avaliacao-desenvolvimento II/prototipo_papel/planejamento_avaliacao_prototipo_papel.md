@@ -377,5 +377,5 @@ O teste piloto desta avaliação foi realizado no dia 04/11/2023, às 17h, e dur
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0` | 02/11/2023 | Criação do documento | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
 | `1.1` | 04/11/2023 |  Adição do I-D-E e do Teste Piloto | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
-| `1.2` | 04/11/2023 |  Adição do video do Teste Piloto | [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
-| `1.3` | 07/11/2023 |  Correção e adição do video do Teste Piloto | [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
+| `1.2` | 04/11/2023 |  Adição do vídeo do Teste Piloto | [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |
+| `1.3` | 07/11/2023 |  Correção e adição do vídeo do Teste Piloto | [Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/) |

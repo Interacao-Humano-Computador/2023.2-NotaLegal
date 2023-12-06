@@ -152,11 +152,11 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "C
 
 ## Gravação do Documento de Consolidação "Cenários"
 
-No vídeo 1, é possível ver a gravação da avaliação da verificação do "Cenários" do site do Nota Legal.
+No vídeo 2, é possível ver a gravação da avaliação da verificação do "Cenários" do site do Nota Legal.
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=8yW8hnCxRio" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Cenários".</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=8yW8hnCxRio" target="blanket"><b>Vídeo 2:</b> Avaliação da verificação do "Cenários".</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8yW8hnCxRio" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

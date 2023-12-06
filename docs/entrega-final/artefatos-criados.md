@@ -4,7 +4,7 @@
 
 Esse documento apresenta uma tabela com os links de todos os artefatos criados em cada etapa do projeto com os nomes dos integrantes do grupo que participaram da elaboração.
 
-No total foram 200 documentos e 78 vídeos gravados durante o projeto.
+No total foram 200 documentos e 76 vídeos gravados durante o projeto.
 
 ## Tabela de artefatos
 

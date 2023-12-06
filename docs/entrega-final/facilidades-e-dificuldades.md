@@ -69,7 +69,11 @@ Com certeza a maior dificuldade foi administrar o tempo, o aprendizado da discip
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |05/12/2023| Criação do documento | [Izabella Alves](https://github.com/izabellaalves) |[Lucas Víctor](https://github.com/Lucas13032003) |
+| `1.0`  |05/12/2023| Criação do documento e adição da parte da Izabella Alves | [Izabella Alves](https://github.com/izabellaalves) |[Lucas Víctor](https://github.com/Lucas13032003) |
 | `1.1`  |05/12/2023| Adição da parte do Lucas Víctor |[Lucas Víctor](https://github.com/Lucas13032003) | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.2`  |05/12/2023| Adição da parte do Lucas Ribeiro |[Lucas Ribeiro](https://github.com/Lucassousz) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.3`  |05/12/2023| Adição da parte do Gabriel Rosa |[Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.4`  |05/12/2023| Adição da parte do Gabriel Zaranza |[Gabriel Zaranza](https://github.com/GZaranza) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.5`  |05/12/2023| Adição da parte do Lucas Oliveira |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.6`  |05/12/2023| Adição da parte da Zenilda Vieira |[Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |
 

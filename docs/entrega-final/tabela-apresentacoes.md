@@ -121,7 +121,8 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
     </tr>
     <tr>
       <td>Final</td>
-      <td></td>
+      <td><iframe width="560" height="315" src="https://www.youtube.com/embed/llSIcMyuBnk" title="Apresentação Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
           <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
@@ -143,3 +144,4 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 24/11/2023 | Criação do documento | [Zenilda Vieira](https://github.com/zenildavieira)  |  [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
+| `1.1`  | 06/12/2023 | Inclusão dos últimos links  | [Zenilda Vieira](https://github.com/zenildavieira) |[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |

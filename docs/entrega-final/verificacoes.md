@@ -261,9 +261,13 @@ Este método pode ser dividido em 5 etapas:
       <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-      <td><a href="">Verificação do artefato Protótipo de papel </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/prototipo-de-papel/">Verificação do artefato Protótipo de papel </a></td>
       <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
             <a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/prototipo-de-papel/">Verificação do artefato Protótipo de Papel</a></td>
+      <td><a href="https://github.com/lucas13032003">Lucas Víctor</a></td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planej-aval-prototipo_papel/">Verificação do artefato Planejamento da avaliação do protótipo de papel</a></td>
@@ -644,7 +648,7 @@ Este método pode ser dividido em 5 etapas:
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
       <tr>
-      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega%205/relato-resultado-an%C3%A1lise-de-tarefas.md">Verificação do artefato Relato dos resultados da Análise de tarefas </a></td>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%205/relato-resultado-analise-de-tarefas/">Verificação do artefato Relato dos resultados da Análise de tarefas </a></td>
       <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>

@@ -4,7 +4,7 @@
 
 Esse documento apresenta uma tabela com os links de todos os artefatos criados em cada etapa do projeto com os nomes dos integrantes do grupo que participaram da elaboração.
 
-No total foram 200 documentos e 76 vídeos gravados durante o projeto.
+No total foram 201 documentos e 76 vídeos gravados durante o projeto.
 
 ## Tabela de artefatos
 
@@ -704,7 +704,7 @@ Relato dos resultados da avaliação do Storyboard "Consultar Sorteio" </a></td>
       <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-      <td rowspan="60">Etapa 6.2 - Verificação dos Artefatos II - Grupo 1</td>
+      <td rowspan="61">Etapa 6.2 - Verificação dos Artefatos II - Grupo 1</td>
         <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1/">Planejamento da verificação (checklists) Etapa 1</a></td>
         <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
@@ -839,6 +839,11 @@ Relato dos resultados da avaliação do Storyboard "Consultar Sorteio" </a></td>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planejamento-verificacao-e5-grupo1/">Planejamento da verificação (checklists) Etapa 5 </a></td>
       <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/prototipo-de-papel/">Verificação do artefato Protótipo de papel </a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+            <a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
     <tr>
       <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-05/planej-aval-prototipo_papel/">Verificação do artefato Planejamento da avaliação do protótipo de papel</a></td>
@@ -1141,5 +1146,5 @@ Relato dos resultados da avaliação do Storyboard "Consultar Sorteio" </a></td>
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 03/12/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |
-
+| `1.0`  | 24/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.1`  | 05/12/2023 | Inclusão dos últimos links  | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |

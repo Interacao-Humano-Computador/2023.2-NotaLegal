@@ -3,6 +3,7 @@
 ## Local
 
 Sala de aula S6, durante a aula de desenvolvimento do projeto.
+Mesma reunião para IHC e RQS.
 
 ## Participantes
 

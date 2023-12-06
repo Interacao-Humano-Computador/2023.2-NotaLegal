@@ -164,7 +164,14 @@ Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidi
 
 ## Link da Gravação
 
-[IHC - Reunião 04](https://youtu.be/uVTqzZWQHGg)
+No vídeo 1 encontra-se a gravação da reunião.
+
+<p style="text-align: center"><a href="https://youtu.be/uVTqzZWQHGg" target="blanket"><b>Vídeo 1:</b> IHC - Reunião 04</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVTqzZWQHGg" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div >
 
 ## Histórico de Versão
 

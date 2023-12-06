@@ -70,7 +70,15 @@ A partir dessa reunião definimos as últimas issues e ajustes necessários para
 
 ## Link da Gravação
 
-[IHC - Reunião 09](https://youtu.be/qlFxGbVE5II)
+
+No vídeo 1 encontra-se a gravação da reunião.
+
+<p style="text-align: center"><a href="https://youtu.be/qlFxGbVE5II" target="blanket"><b>Vídeo 1:</b> IHC - Reunião 09</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qlFxGbVE5II" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div >
 
 ## Histórico de Versão
 

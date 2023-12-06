@@ -119,7 +119,14 @@ Nesta reunião foi definido que o site selecionado para o projeto será o NotaLe
 
 ## Link da Gravação
 
-[IHC - Reunião 02](https://youtu.be/82IBXCtW7Bg)
+No vídeo 1 encontra-se a gravação da reunião.
+
+<p style="text-align: center"><a href="https://youtu.be/82IBXCtW7Bg" target="blanket"><b>Vídeo 1:</b> IHC - Reunião 02</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/82IBXCtW7Bg" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div >
 
 ## Histórico de Versão
 

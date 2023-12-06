@@ -730,7 +730,7 @@ Relato dos resultados da avaliação do Storyboard "Consultar Sorteio" </a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1/">Planejamento da verificação (checklists) Etapa 2</a></td>
-        <td><a href="">Gabriel Rosa</a>e <a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+        <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/Entrega-02/termo_de_consentimento_perfilUsuario/">Verificação do artefato de Termo de Consentimento Livre e Esclarecido (TCLE)"</a></td>

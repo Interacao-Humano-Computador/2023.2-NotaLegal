@@ -76,7 +76,14 @@ Na Figura 1 encontram-se as tarefas definidas e seus respectivos responsáveis.
 
 ## Link da Gravação
 
-[IHC - Reunião 05](https://youtu.be/4LBz7hHEZL8)
+No vídeo 1 encontra-se a gravação da reunião.
+
+<p style="text-align: center"><a href="https://youtu.be/4LBz7hHEZL8" target="blanket"><b>Vídeo 1:</b> IHC - Reunião 05</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4LBz7hHEZL8" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div >
 
 ## Histórico de Versão
 

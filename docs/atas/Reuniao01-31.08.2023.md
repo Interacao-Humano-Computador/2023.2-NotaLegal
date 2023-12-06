@@ -3,6 +3,7 @@
 ## Local
 
 Reunião realizada no Microsoft Teams.
+Mesma reunião para IHC e RQS.
 
 ## Participantes
 
@@ -92,7 +93,16 @@ Foi acordado que as reuniões serão em formato de sprints, com abertura nas qui
 
 ## Link da Gravação
 
-[IHC - Reunião 01](https://youtu.be/UXNNalX0UEM)
+No vídeo 1 encontra-se a gravação da reunião.
+
+<p style="text-align: center"><a href="https://youtu.be/UXNNalX0UEM" target="blanket"><b>Vídeo 1:</b> IHC - Reunião 01</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UXNNalX0UEM" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div >
+
+
 
 ## Histórico de Versão
 

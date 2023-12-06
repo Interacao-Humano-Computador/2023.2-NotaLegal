@@ -60,7 +60,8 @@ A minha principal dificuldade no projeto surgiu da necessidade de conciliar a ma
 
 
 #### Lucas Ribeiro
-blablabla
+
+Enfrentar um semestre mais curto e repleto de disciplinas, foi um dos desafios mais significativos que experimentei no decorrer da discipina. Além disso, o curto de tempo para estudar e se dedicar às matérias tornou-se um obstáculo considerável para assimilar conceitos complexos e participar de atividades extracurriculares. Em particular, cursar as duas disciplinas (Interação Humano-Computador e Requisitos de Software) ampliou esses desafios, evidenciando a falta de tempo. Nesse contexto, a necessidade de uma organização tornou-se crucial para acompanhar ambas as disciplinas, sem deixar nenhuma delas de lado. Essa demanda adicional frequentemente exigiu um esforço suplementar, envolvendo horas de estudo adicionais diárias.
 
 #### Zenilda Vieira
 blablabla

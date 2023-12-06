@@ -145,17 +145,17 @@ Na tabela 3, é possível ver o cronograma executado de todo o projeto.
 | 7       | [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20III/prototipo-alta-fidelidade/planejamento-relato-prototipo-alta-fidelidade/) | 14/11/2023	 | 16/11/2023	 | Izabella Alves, Gabriel Rosa | Lucas Ribeiro |
 | 8       | [Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20IV/relato-prototipo-de-alta-fidelidade/consultar-extrato/) |  |  | Zenilda Vieira| Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira  | Zenilda Vieira| Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira  |
 | 6.2     | [Verificação  Grupo 01](https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo-01/verificacao-panorama-geral/) | 24/11/2023 | 28/11/2023 | Zenilda Vieira| Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira  | Zenilda Vieira| Gabriel Rosa, Gabriel Zaranza, Izabella Alves, Lucas De Oliveira, Lucas Ribeiro, Lucas Victor, Zenilda Vieira  |
-| Entrega final | [Site Selecionado](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/site-selecionado/) | - | - | - | - |
-| Entrega final |[ Ciclo de Vida](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/ciclo-de-vida/) | - | - | - | - |
-| Entrega final | [Planejamento dos Recursos e das Entregas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/planejamento-recursos-e-entregas/) | - | - | - | - |
-| Entrega final |[ Execução do projeto](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/execucao-projeto/) | - | - | - | - |
-| Entrega final |[Resultados Alcançados](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/resultados-alcan%C3%A7ados/) | - | - | - | - |
-| Entrega final | [Técnicas Utilizadas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/tecnicas_utilizadas/) | - | - | - | - |
-| Entrega final | [Artefatos Criados](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/artefatos-criados/) | - | - | - | - |
-| Entrega final | [Avaliação dos Protótipos ](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/sintese-avaliacao-prototipos/)| - | - | - | - |
-| Entrega final | [Método de Verificação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/verificacoes/) | - | - | - | - |
-| Entrega final | [Ferramentas Utilizadas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/sintese-de-ferramentas-utilizadas/) | - | - | - | - |
-| Entrega final | [Apresentações](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/tabela-apresentacoes/) | - | - | - | - |
+| Entrega final | [Site Selecionado](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/site-selecionado/) | 02/12/2023 | 02/12/2023 | Lucas De Oliveira | Zenilda Vieira |
+| Entrega final |[ Ciclo de Vida](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/ciclo-de-vida/) | 05/12/2023 | 05/12/2023 | Izabella Alves | Zenilda Vieira |
+| Entrega final | [Planejamento dos Recursos e das Entregas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/planejamento-recursos-e-entregas/) | 02/12/2023 | 05/12/2023 | Izabella Alves | Lucas Victor |
+| Entrega final |[ Execução do projeto](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/execucao-projeto/) | 01/12/2023 | 01/12/2023 | Lucas Ribeiro | Lucas de Oliveira |
+| Entrega final |[Resultados Alcançados](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/resultados-alcan%C3%A7ados/) | 02/12/2023 | 02/12/2023 | Lucas de Oliveira | Lucas Victor |
+| Entrega final | [Técnicas Utilizadas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/tecnicas_utilizadas/) | 02/12/2023 | 02/12/2023 | Gabriel Rosa | Lucas de Oliveira |
+| Entrega final | [Artefatos Criados](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/artefatos-criados/) | 25/11/2023 | 05/12/2023 | Zenilda Vieira | Izabella Alves |
+| Entrega final | [Avaliação dos Protótipos ](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/sintese-avaliacao-prototipos/)| 30/11/2023 | 01/12/2023 | Lucas Ribeiro | Lucas de Oliveira |
+| Entrega final | [Método de Verificação](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/verificacoes/) | 03/12/2023 | 03/12/2023 | Gabriel Zaranza | Lucas de Oliveira |
+| Entrega final | [Ferramentas Utilizadas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/sintese-de-ferramentas-utilizadas/) | 05/12/2023 | 05/12/2023 | Lucas Victor | Zenilda Vieira |
+| Entrega final | [Apresentações](https://interacao-humano-computador.github.io/2023.2-NotaLegal/entrega-final/tabela-apresentacoes/) | 24/11/2023 | 24/11/2023| Zenilda Vieira | Lucas de Oliveira |
 
 
 <div align="center">

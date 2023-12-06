@@ -17,16 +17,7 @@ A definição do método utilizado e o planejamento da verificação em questão
 
 ## Apresentação dos dados
 
-Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist utilizado. Para cada item do checklist, será apresentado o resultado obtido e, caso o resultado seja negativo, será apresentado também o problema encontrado. Além disso, a gravação desta verificação está disponível no vídeo 1.
-
-<div align="center">
-
-<p style="text-align: center"><a href="https://youtu.be/OWKH1ah0F5U" target="blanket"><b>Vídeo 1:</b> Interacao Humano-Computador - Apresentação 5</a></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OWKH1ah0F5U" title="Apresentação 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
-</div>
+Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist utilizado. Para cada item do checklist, será apresentado o resultado obtido e, caso o resultado seja negativo, será apresentado também o problema encontrado.
 
 ### Checklist Geral
 

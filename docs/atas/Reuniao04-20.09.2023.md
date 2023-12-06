@@ -166,6 +166,7 @@ Nesta reunião foram distribuidas as atividades da Entrega 2 do projeto e decidi
 
 No vídeo 1 encontra-se a gravação da reunião.
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/uVTqzZWQHGg" target="blanket"><b>Vídeo 1:</b> IHC - Reunião 04</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVTqzZWQHGg" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -80,6 +80,7 @@ Foram distribuidas as atividades para cada integrante do grupo.
 
 No vídeo 1 encontra-se a gravação da reunião.
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/ZHVdu0CWNGk" target="blanket"><b>Vídeo 1:</b> IHC - Reunião 14</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZHVdu0CWNGk" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

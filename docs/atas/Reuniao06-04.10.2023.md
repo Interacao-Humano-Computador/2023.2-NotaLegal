@@ -83,6 +83,7 @@ Foram distribuídas as atividades da entrega 2 de IHC e as atividades da entrega
 
 No vídeo 1 encontra-se a gravação da reunião.
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/8ORX3IlTzzY" target="blanket"><b>Vídeo 1:</b> IHC - Reunião 06</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ORX3IlTzzY" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

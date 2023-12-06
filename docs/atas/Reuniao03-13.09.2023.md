@@ -105,6 +105,7 @@ Todos os artefatos estão sendo construídos e foram validados pelo grupo na reu
 
 No vídeo 1 encontra-se a gravação da reunião.
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/Apt_5SeyBb8" target="blanket"><b>Vídeo 1:</b> IHC - Reunião 03</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Apt_5SeyBb8" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

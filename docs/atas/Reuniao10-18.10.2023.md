@@ -98,6 +98,7 @@ Foram distribuidas as atividades para cada integrante do grupo.
 
 No vídeo 1 encontra-se a gravação da reunião.
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/sGUjagrCR9w" target="blanket"><b>Vídeo 1:</b> Requisitos - Reunião 10</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sGUjagrCR9w" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

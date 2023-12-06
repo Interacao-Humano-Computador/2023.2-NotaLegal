@@ -189,6 +189,10 @@ Na tabela 1 é possíver as técnicas utilizadas de acordo com a entrega e o art
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
+## Conclusão
+
+Durante as diferentes etapas, desde o planejamento até a verificação, uma ampla gama de técnicas foi aplicada, incluindo métodos de elicitação, análise de requisitos, design, avaliação e verificação. A variedade de ferramentas, como o Ciclo de Vida de Mayhew, Brainstorming, Grupo de Foco, Análise Hierárquica de Tarefas (HTA) e outras, ilustra a dedicação em compreender as necessidades dos usuários em cada fase do processo de desenvolvimento. Ao fundamentar-se em fontes bibliográficas reconhecidas, este documento também ressalta a importância da teoria como base para a prática, destacando a relevância do conhecimento acadêmico na criação de sistemas mais eficazes e centrados no usuário.
+
 ## Referências Bibliográficas
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

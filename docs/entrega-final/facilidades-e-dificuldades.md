@@ -26,7 +26,9 @@ Colaborar nos projetos do site Nota Legal e do app Economia - DF trouxe benefíc
 A principal facilidade foi manter consistência na abordagem e implementação de conceitos compartilhados nas duas plataformas. Isso possibilitou economia de esforços ao reutilizar artefatos e ideias, maximizando a eficiência no desenvolvimento. A expertise adquirida em uma disciplina contribuiu diretamente para uma execução mais eficaz na outra, otimizando o uso de recursos.
 
 #### Lucas de Oliveira
-blablabla
+
+ A principal vantagem durante o desenvolvimento do projeto foi a excelente organização da equipe. Cada membro estava ciente de suas tarefas e responsabilidades, o que facilitou a comunicação e o compartilhamento de ideias. A distribuição eficiente das tarefas permitiu que o trabalho fluísse sem problemas, proporcionando flexibilidade para fazer ajustes conforme necessário. 
+ Outra vantagem foi usar o mesmo grupo tanto para a matéria de IHC quanto para a de Requisitos, isso ajudou muito a nossa organização enquanto grupo e sem duvidas facilitou muito nosso trabalho nas duas disciplinas. 
 
 #### Lucas Ribeiro
 A maior facilidade encontrada por mim durante o semestre, foi contar com um grupo dedicado e comprometido com o projeto. Todos os membros demonstraram motivação e disposição para trabalhar arduamente, refletindo-se em diferentes aspectos do projeto. Além disso, o grupo realizou reuniões regulares para discutir tarefas, planejar o trabalho e conduzir estudos prévios sobre o tema, onde todos contribuíram ativamente, dando o melhor de si. Essa dedicação coletiva resultou no desenvolvimento bem-sucedido e na apresentação da melhor forma, passando o conhecimento de cada artefato produzido para os colegas de turma, chegando no fim, com um repositório recheado de artefatos de ótimas qualidades.
@@ -49,7 +51,9 @@ blablabla
 A minha principal dificuldade no projeto surgiu da necessidade de conciliar a matéria de Interação Humano-Computador (IHC) e a disciplina de Requisitos com as demais do semestre. O prazo apertado, resultante do semestre mais curto, gerou essa complexidade. A integração entre IHC e Requisitos demandou uma cuidadosa alocação de recursos e tempo, pois ambas são matérias que damadam muito tempo para a elaboração dos artefatos e vídeos. Uma possível solução para contornar essas dificuldades seria reconsiderar a distribuição de tempo ao longo do semestre. Alocar menos tempo nas fases iniciais por serem etapas mais simples, enquanto estendendo o período das etapas finais que demandam muito mais tempo devido a complexidade, pode contribuir para uma execução mais equilibrada e eficaz do projeto, de forma ques estaria mitigando os desafios enfrentados pela equipe.
 
 #### Lucas de Oliveira
-blablabla
+
+ Um dos maiores desafios enfrentados durante o projeto foi a gestão do tempo, especialmente ao lidar com entregas de grande escala. A compressão dos prazos muitas vezes tornou difícil manter uma rotina de trabalho equilibrada e saudável. Essa pressão temporal, por vezes, impactou negativamente a qualidade do trabalho entregue. Acredita-se que essa situação seja uma consequência inevitável do encurtamento do semestre, que exige um esforço adicional para conciliar as demandas de todas as disciplinas. A busca por um equilíbrio entre as várias responsabilidades acadêmicas e a dedicação necessária ao projeto se mostrou um desafio complexo, exigindo uma organização e planejamento ainda mais rigorosos para atender às expectativas de qualidade dentro dos prazos estipulados.
+
 
 #### Lucas Ribeiro
 blablabla

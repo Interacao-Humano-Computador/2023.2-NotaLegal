@@ -12,7 +12,7 @@ A meta principal desta verificação é identificar e abordar possíveis problem
 
 Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos dois checklists: um geral, aplicável a todos os artefatos, e um específico, direcionado ao artefato em análise. Todo o planejamento e definição de métodos foram detalhadamente estabelecidos no documento de [Planejamento da Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1.md).[1]
 
-
+https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1.md
 
 ## Apresentação dos Dados
 
@@ -189,7 +189,7 @@ A verificação não identificou problemas no Artefato [Heatmap](https://github.
 
 ## Bibliografia
 >
-> VICTOR, Lucas. [Planejamento da Verificação]([Planejamento da Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1.md).), GAMA, FGA, 2023. Acesso em: 13 de novembro de 2023.
+> VICTOR, Lucas. [Planejamento da Verificação](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1.md), GAMA, FGA, 2023. Acesso em: 13 de novembro de 2023.
 >
 > VENTOY. [Heatmap](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/heatmap-disponibilidade.md), FGA, GAMA, 2023. Acesso em: 14 de novembro de 2023.
 

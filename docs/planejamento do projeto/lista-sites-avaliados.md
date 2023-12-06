@@ -134,7 +134,7 @@ Esse site foi escolhido para ser avaliado pelas seguintes razões, tomando por b
 
 - **Ajuda e documentação**: não há um link de ajuda ou de documentação para orientar usuário.
 
-O site também foi avaliado utilizando o _framework_ DECIDE: [Planejamento](/framework-DECIDE/Planejamento-Avaliacao-MPDFT-ZenildaVieira.pdf) e [Execução](/framework-DECIDE/Execucao-Avaliacao-MPDFT-ZenildaVieira.pdf).
+O site também foi avaliado utilizando o _framework_ DECIDE: [Planejamento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/framework-DECIDE/Execucao-Avaliacao-MPDFT-ZenildaVieira.pdf) e [Execução](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/framework-DECIDE/Execucao-Avaliacao-MPDFT-ZenildaVieira.pdf).
 
 ## Referências Bibliográficas
 

@@ -34,7 +34,7 @@ A principal facilidade foi manter consistência na abordagem e implementação d
 A maior facilidade encontrada por mim durante o semestre, foi contar com um grupo dedicado e comprometido com o projeto. Todos os membros demonstraram motivação e disposição para trabalhar arduamente, refletindo-se em diferentes aspectos do projeto. Além disso, o grupo realizou reuniões regulares para discutir tarefas, planejar o trabalho e conduzir estudos prévios sobre o tema, onde todos contribuíram ativamente, dando o melhor de si. Essa dedicação coletiva resultou no desenvolvimento bem-sucedido e na apresentação da melhor forma, passando o conhecimento de cada artefato produzido para os colegas de turma, chegando no fim, com um repositório recheado de artefatos de ótimas qualidades.
 
 #### Zenilda Vieira
-blablabla
+Esse semestre foi muito proveitoso. Tive a sorte de participar de um grupo muito comprometido. Todos trabalharam muito, se esforçaram ao máximo para fazer o melhor possível durante todo o semestre. Aprendemos bastante. As aulas foram bem dinâmicas e o nosso projeto conseguiu evoluir bastante até o final.   
 
 ## Dificuldades
 
@@ -54,12 +54,11 @@ A minha principal dificuldade no projeto surgiu da necessidade de conciliar a ma
 
  Um dos maiores desafios enfrentados durante o projeto foi a gestão do tempo, especialmente ao lidar com entregas de grande escala. A compressão dos prazos muitas vezes tornou difícil manter uma rotina de trabalho equilibrada e saudável. Essa pressão temporal, por vezes, impactou negativamente a qualidade do trabalho entregue. Acredita-se que essa situação seja uma consequência inevitável do encurtamento do semestre, que exige um esforço adicional para conciliar as demandas de todas as disciplinas. A busca por um equilíbrio entre as várias responsabilidades acadêmicas e a dedicação necessária ao projeto se mostrou um desafio complexo, exigindo uma organização e planejamento ainda mais rigorosos para atender às expectativas de qualidade dentro dos prazos estipulados.
 
-
 #### Lucas Ribeiro
 blablabla
 
 #### Zenilda Vieira
-blablabla
+Esse semestre foi muito proveitoso. Tive a sorte de participar de um grupo muito comprometido. Todos trabalharam muito, se esforçaram ao máximo para fazer o melhor possível durante todo o semestre. Aprendemos bastante. As aulas foram bem dinâmicas e o nosso projeto conseguiu evoluir bastante até o final
 
 ## Histórico de Versões
 
